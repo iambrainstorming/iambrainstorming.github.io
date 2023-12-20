@@ -1,6 +1,6 @@
+# Open-list proportional representation vs. Mixed-member proportional representation
+# date: "2023-09-21"
 ---
-title: "Open-list proportional representation vs. Mixed-member proportional representation"
-date: "2023-09-21"
 categories: 
   - "democracy"
   - "electoral-reform"
@@ -11,8 +11,7 @@ tags:
 ---
 
 This blog is a continuation of the discussion about proportional representation. You can find the main blog here in the link.
-
-https://iambrainstorming.wordpress.com/2023/03/30/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties/
+[Do we need a supreme leader? How can we share power between parties?](./do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.md)
 
 ## **Open list PR is about voter choice in selecting individual candidates:**
 
@@ -54,15 +53,15 @@ Mixed Member Proportional (MMP) representation is an electoral system used in so
 
 Here's how it works:
 
-1\. \*\*Two Types of Representatives:\*\* In MMP, voters cast two votes: one for a candidate in their local constituency (similar to first-past-the-post) and one for a political party.
+1. **Two Types of Representatives**: In MMP, voters cast two votes: one for a candidate in their local constituency (similar to first-past-the-post) and one for a political party.
 
-2\. \*\*Constituency Seats:\*\* The local constituency vote determines a portion of the seats in the legislature. Candidates who win the most votes in their respective constituencies become Members of Parliament (MPs).
+2. **Constituency Seats**: The local constituency vote determines a portion of the seats in the legislature. Candidates who win the most votes in their respective constituencies become Members of Parliament (MPs).
 
-3\. \*\*Proportional Representation:\*\* The party vote determines the overall proportional makeup of the legislature. Parties receive seats in proportion to the percentage of the party vote they receive nationwide. This helps ensure that the overall composition of the legislature reflects the popular vote.
+3. **Proportional Representation**: The party vote determines the overall proportional makeup of the legislature. Parties receive seats in proportion to the percentage of the party vote they receive nationwide. This helps ensure that the overall composition of the legislature reflects the popular vote.
 
-4\. \*\*Compensation Seats:\*\* To balance the results, additional seats are allocated to parties based on their share of the party vote. These are known as "compensation seats" and are filled from party lists. The goal is to make the total number of seats each party holds closely match its proportion of the vote.
+4. **Compensation Seat**: To balance the results, additional seats are allocated to parties based on their share of the party vote. These are known as "compensation seats" and are filled from party lists. The goal is to make the total number of seats each party holds closely match its proportion of the vote.
 
-5\. \*\*Overall Composition:\*\* The final composition of the legislature is a combination of local constituency winners and proportional seats from party lists. This ensures that both individual representation and overall proportionality are considered.
+5. **Overall Composition**: The final composition of the legislature is a combination of local constituency winners and proportional seats from party lists. This ensures that both individual representation and overall proportionality are considered.
 
 MMP aims to strike a balance between geographic representation (via local MPs) and proportional representation (to reflect the popular vote more accurately). It encourages multi-party systems, as smaller parties have a better chance of winning proportional seats, leading to a more diverse and representative legislature.
 

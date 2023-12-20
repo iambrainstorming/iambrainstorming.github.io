@@ -30,7 +30,7 @@ After FPTP(First-past-the-post voting) or choose one voting there are so many op
 
 Why would the Modi government have complete control over minister selection when 50% of the nation is made up of regional parties?
 
-**[Parliamentary or Presidential form of government? What’s in the name?](https://iambrainstorming.wordpress.com/2023/09/28/parliamentary-or-presidential-form-of-government-whats-in-the-name/)**
+**[Parliamentary or Presidential form of government? What’s in the name?](./parliamentary-or-presidential-form-of-government-whats-in-the-name.md)**
 
 In contrast, in India, the Prime Minister has the authority to appoint ministers at their discretion, which can lead to a potential conflict of interest. For example, ministers may serve as mere marketing agents for the Prime Minister, aiming to enhance the Prime Minister’s image. It’s worth noting that, even though laws are meant to be the same for everyone, there can be discrimination in their execution by ministers based on their interests. One example of this can be selective enforcement of corruption laws, with a bias towards opposition parties, while members of their own party may go unpunished for similar violations.
 
@@ -47,7 +47,7 @@ And difference between open list proportional representation and mixed member pr
 
 Open list PR is about voter choice in selecting individual candidates, Mixed Member Proportional (MMP) is a system that retains the constituency element.
 
-## [Open-list proportional representation vs. Mixed-member proportional representation](https://iambrainstorming.wordpress.com/2023/09/21/open-list-proportional-representation-vs-mixed-member-proportional-representation/)
+## [Open-list proportional representation vs. Mixed-member proportional representation](./open-list-proportional-representation-vs-mixed-member-proportional-representation.md)
 
 > India is becoming increasingly divided and polarized, and hate speech is so pervasive. With approval voting, politicians are not incentivised for hate speech.
 
@@ -233,7 +233,7 @@ Proportional representation promotes collaboration and energy is used on develop
 
 ### PR causes you to lose the constituency
 
-There are different versions of PR that can be adapted to various forms. PR, in its fundamental principle, means that the percentage of seats should be equal to the percentage of votes the party receives. In other words, power aligns with the number of votes a candidate or party receives. To maintain a constituency element, one can consider options such as [Mixed Member Proportional (MMP)](https://iambrainstorming.wordpress.com/2023/09/21/open-list-proportional-representation-vs-mixed-member-proportional-representation/) representation or power weighting equal to the amount of votes the candidate receives, as explained in the algorithm above.
+There are different versions of PR that can be adapted to various forms. PR, in its fundamental principle, means that the percentage of seats should be equal to the percentage of votes the party receives. In other words, power aligns with the number of votes a candidate or party receives. To maintain a constituency element, one can consider options such as [Mixed Member Proportional (MMP)](./open-list-proportional-representation-vs-mixed-member-proportional-representation.md) representation or power weighting equal to the amount of votes the candidate receives, as explained in the algorithm above.
 
 ## **How can we transition from FPTP to Proportional Representation?**
 
