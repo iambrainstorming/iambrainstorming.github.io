@@ -1,6 +1,6 @@
+# How to tackle disinformation?
+## date: "2023-12-07"
 ---
-title: "How to tackle disinformation?"
-date: "2023-12-07"
 categories: 
   - "politics"
   - "psychology"
@@ -21,7 +21,7 @@ As a result, their opinions became less extreme.
 
 ## **2) Truth Sandwich**
 
-[https://en.wikipedia.org/wiki/Truth\_sandwich](https://en.wikipedia.org/wiki/Truth_sandwich)
+[https://en.wikipedia.org/wiki/Truth_sandwich](https://en.wikipedia.org/wiki/Truth_sandwich)
 
 A truth sandwich is **a technique in journalism to cover stories involving misinformation without unintentionally furthering the spread of false or misleading clams**.
 

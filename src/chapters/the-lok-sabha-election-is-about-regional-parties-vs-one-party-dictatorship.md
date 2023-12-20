@@ -1,6 +1,6 @@
+# The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship.
+# date: "2023-12-05"
 ---
-title: "The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship."
-date: "2023-12-05"
 categories: 
   - "politics"
 ---
@@ -17,7 +17,7 @@ What strategies has the BJP employed?
 
 More than 10,000 WhatsApp groups are actively involved in disinformation campaigns, leveraging national media for Hindu-Muslim narratives.
 
-## [How to tackle disinformation?](https://iambrainstorming.wordpress.com/2023/12/07/how-to-tackle-disinformation/)
+## [How to tackle disinformation?](./how-to-tackle-disinformation.md)
 
 > People need to understand the intensity of the problem. We are just in a small margin to [dictatorship](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafkreicijhn66wqak3zp7pcmqcpmrgveqhkrk6tddes7vuakunflu5lqb4). Opposition and people need to make no mistake. We need to break the brute force majority of one party. Lok Sabha and Rajya Sabha are safeguards of the constitution. Now, Lok Sabha is completely useless. Rajya Sabha is in a small margin. We need not give more than 20% of seats to BJP again.
 
@@ -72,7 +72,7 @@ Similarly, in [Punjab, 89 out of 117](https://github.com/amiyatulu/election_resu
 
 ## List of Spoilers with decreasing order of votes:
 
-[https://github.com/amiyatulu/election\_result/tree/main/2023\_legislative\_assembly\_election/data\_analysis/analysis\_data/independent\_list](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/independent_list)
+[https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/independent_list](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/independent_list)
 
 In the First Past the Post (FPTP) system, a two-party system predominates, and third parties and independents are viewed as spoilers. People are hesitant to vote for them, fearing that it might result in a wasted vote and inadvertently contribute to the victory of the least favored candidate—someone whom the voter actively wishes not to see win.
 
@@ -86,7 +86,7 @@ In Madhya Pradesh, the BJP would have lost 63 seats, and the Congress would have
 
 > Can you blame voters if you don't even provide the option and instead force them to vote tactically, thus preventing them from voting for their sincere preference?
 
-[https://github.com/amiyatulu/election\_result/tree/main/2023\_legislative\_assembly\_election/data\_analysis/analysis\_data](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data)
+[https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data)
 
 ## Pressure for Approval Voting
 
@@ -161,7 +161,7 @@ So basically, it means using an Electronic Voting Machine (EVM) as a printer to 
 
 One way to solve vote stuffing is to allow only a single paper in the printer (VVPAT) during voting. Just like a secret ballot is provided by tearing off the serial number and voter signature, now the single secret ballot can go through the printer to print out the vote.
 
-![](https://iambrainstorming.files.wordpress.com/2023/12/ballot_paper.webp?w=638)
+![Paper Ballot](./images/ballot_paper.webp)
 
 Also, voters, especially the uneducated ones, need to be trained to recheck their vote printed on the VVPAT. It's double work for them; first, they have to vote on the EVM appropriately, and then check if the vote is the same or not on the VVPAT. Furthermore, if you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities?
 
