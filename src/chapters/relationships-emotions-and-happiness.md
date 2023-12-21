@@ -1,12 +1,17 @@
+
+# Learning about Relationships, Emotions and Happiness
+
+## date: "2019-09-08"
+
 ---
-title: "Learning about Relationships, Emotions and Happiness"
-date: "2019-09-08"
-categories: 
-  - "compilation"
-  - "discipline"
-  - "emotions"
-  - "happiness"
-  - "relationships"
+categories:
+
+- "compilation"
+- "discipline"
+- "emotions"
+- "happiness"
+- "relationships"
+
 ---
 
 What makes a good life? Lessons from the longest study on happiness
@@ -97,8 +102,6 @@ I hear you saying that I'm not making a real effort to listen to you. I know tha
 
 **Breaking it down to the method:**
 
-  
-
 1) **Empathy**:  
 **Though Empathy:**  
 I hear you saying that I'm not making a real effort to listen to you.  
@@ -109,7 +112,7 @@ That's when you find something good to say about the other person (it must be ge
 e.g.I know how committed you are to making the relationship better, and that's why you're sharing this right now.  
 3) **Disarm**:  
 And you're right, sometimes I find it hard to really hear where you're coming from.  
-4)**I feel..**  
+4) **I feel..**  
 I feel a little embarrassed about this because I know how committed you are to making the relationship better, and that's  
 why you're sharing this right now. I also feel a little defensive because I'm only a young bot and my ability to understand is  
 so limited, and that's frustrating too  

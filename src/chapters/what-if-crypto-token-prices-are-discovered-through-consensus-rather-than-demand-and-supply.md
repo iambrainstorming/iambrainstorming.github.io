@@ -1,10 +1,14 @@
+# What if crypto token prices are discovered through consensus of utility rather than demand and supply?
+
+## date: "2022-12-19"
+
 ---
-title: "What if crypto token prices are discovered through consensus of utility rather than demand and supply?"
-date: "2022-12-19"
-categories: 
-  - "blockchain"
-  - "cryptocurrency"
-  - "dex"
+categories:
+
+- "blockchain"
+- "cryptocurrency"
+- "dex"
+
 ---
 
 > “The stock market is filled with individuals who know the price of everything, but the value of nothing.” — Phillip Fisher
@@ -17,7 +21,7 @@ The issue is caused by the price being determined by the supply and demand of to
 
 Crypto scams, also negatively impact useful coins, and all currency prices move in sync, both good coins, and bad coins get dumped in a beer market.
 
-## Bad money drives out good, so we need to eliminate the bad money.
+## Bad money drives out good, so we need to eliminate the bad money
 
 The price of tokens derived through demand and supply is suboptimal. It doesn't include a consensus from [everyone or stakeholders](https://amiyatulu.github.io/blog/shivarthu/tyranny_of_the_majority.html), but just the interacting party. So, they are free to produce as much as negative externality they like without any consequences.
 
@@ -44,7 +48,7 @@ A decentralized cryptoexchange with [a good governance](https://amiyatulu.github
 
 An example nudge: "The price of the coin derived by decentralized experts is this. Do you want to buy the token at this price?"
 
-We also need to have good institutes to stop disinformation by scammers. [Social media](https://iambrainstorming.wordpress.com/2023/09/01/what-do-we-need-to-decentralize-in-the-coming-years/) are usually a good target for online fraud.
+We also need to have good institutes to stop disinformation by scammers. [Social media](./what-do-we-need-to-decentralize-in-the-coming-years.md) are usually a good target for online fraud.
 
 We can slowly increase the complexity of exchange with passing year that includes providing liquidity at predicted prices.
 
@@ -62,6 +66,7 @@ Exchange:
 2 Near = 1 Ethereum
 
 To calculate the price you need to take into account:  
+
 1) Utility of the token (Most priority)  
 2) Total Supply of token  
 3) Inflation or deflation of token  
@@ -126,28 +131,28 @@ Vertical farming offers several benefits compared to traditional agricultural me
 
 1. Increased crop yield: Vertical farming maximizes the use of space by stacking plants vertically, allowing for multiple layers of cultivation. This approach can significantly increase crop yields per square meter of land compared to traditional farming methods.
 
-3. Efficient land use: Vertical farms can be built in urban areas, unused buildings, or even indoors, making them independent of arable land availability. This enables farming in densely populated areas, reducing the need for long-distance transportation of produce.
+2. Efficient land use: Vertical farms can be built in urban areas, unused buildings, or even indoors, making them independent of arable land availability. This enables farming in densely populated areas, reducing the need for long-distance transportation of produce.
 
-5. Year-round cultivation: Vertical farming utilizes controlled environments, such as indoor facilities or greenhouses, which enable year-round cultivation regardless of external weather conditions. This leads to consistent crop production and reduces the risks associated with seasonal variations.
+3. Year-round cultivation: Vertical farming utilizes controlled environments, such as indoor facilities or greenhouses, which enable year-round cultivation regardless of external weather conditions. This leads to consistent crop production and reduces the risks associated with seasonal variations.
 
-7. Water conservation: Vertical farming employs hydroponic or aeroponic systems that recycle and conserve water. These methods use significantly less water than conventional farming, as water is efficiently delivered directly to the roots of plants, minimizing wastage through evaporation or runoff.
+4. Water conservation: Vertical farming employs hydroponic or aeroponic systems that recycle and conserve water. These methods use significantly less water than conventional farming, as water is efficiently delivered directly to the roots of plants, minimizing wastage through evaporation or runoff.
 
-9. Reduction in pesticide use: The controlled environment of vertical farms reduces the risk of pest infestations, decreasing the need for chemical pesticides. Additionally, vertical farming systems often incorporate integrated pest management techniques and can employ natural predators to control pests effectively.
+5. Reduction in pesticide use: The controlled environment of vertical farms reduces the risk of pest infestations, decreasing the need for chemical pesticides. Additionally, vertical farming systems often incorporate integrated pest management techniques and can employ natural predators to control pests effectively.
 
-11. Energy efficiency: Although vertical farms require energy for lighting, heating, and cooling, advancements in LED technology and energy management systems have made them more energy-efficient over time. Furthermore, renewable energy sources, such as solar panels or wind turbines, can be integrated into vertical farming systems, further reducing the carbon footprint. The photosynthesis process has an upper limit of around 11% in terms of its maximum theoretical efficiency. Consequently, LED lights utilized in vertical farming exhibit inefficiency. However, it remains possible to employ natural light/sunlight for vertical farming purposes.
+6. Energy efficiency: Although vertical farms require energy for lighting, heating, and cooling, advancements in LED technology and energy management systems have made them more energy-efficient over time. Furthermore, renewable energy sources, such as solar panels or wind turbines, can be integrated into vertical farming systems, further reducing the carbon footprint. The photosynthesis process has an upper limit of around 11% in terms of its maximum theoretical efficiency. Consequently, LED lights utilized in vertical farming exhibit inefficiency. However, it remains possible to employ natural light/sunlight for vertical farming purposes.
 
-13. Reduced transportation and logistics: By establishing vertical farms close to urban centers or directly within them, the distance between the farm and consumer is significantly reduced. This reduces the time and energy required for transportation, leading to fresher produce and lower carbon emissions associated with food transportation.
+7. Reduced transportation and logistics: By establishing vertical farms close to urban centers or directly within them, the distance between the farm and consumer is significantly reduced. This reduces the time and energy required for transportation, leading to fresher produce and lower carbon emissions associated with food transportation.
 
-15. Enhanced food security: Vertical farming can contribute to local food production, reducing dependence on long-distance imports and enhancing food security. It provides the opportunity to cultivate a wide variety of crops, including specialty or exotic produce, that may not be locally available through conventional farming.
+8. Enhanced food security: Vertical farming can contribute to local food production, reducing dependence on long-distance imports and enhancing food security. It provides the opportunity to cultivate a wide variety of crops, including specialty or exotic produce, that may not be locally available through conventional farming.
 
-17. GMOs in Controlled Environments: The possibility of using GMOs exists in precision agriculture, such as precision vertical farming or hydroponics, where cultivation occurs in controlled environments without [leakage into the surrounding environment](https://cban.ca/gmos/issues/environmental-impacts/). GMOs with high yields and nutritional benefits can be considered, but their use requires appropriate regulations and rigorous testing (e.g. [Nontarget Effects of Genetic Manipulation](http://natureinstitute.org/nontarget/)) to ensure their safety for human health. Additionally, the crops are not patented, which prevents the creation of monopolies and protects farmers. One example of GMOs involves producing genetically modified sugarcane or corn using aeroponics or hydroponics, and then utilizing them to [produce vegetable oil with yeast](https://grist.org/food/cooking-oil-deforestation-startup-sugarcane-solution/). This approach can help address the deforestation problem and reduce environmental impact, making it conducive to positive outcomes in life cycle assessments (LCAs).
+9. GMOs in Controlled Environments: The possibility of using GMOs exists in precision agriculture, such as precision vertical farming or hydroponics, where cultivation occurs in controlled environments without [leakage into the surrounding environment](https://cban.ca/gmos/issues/environmental-impacts/). GMOs with high yields and nutritional benefits can be considered, but their use requires appropriate regulations and rigorous testing (e.g. [Nontarget Effects of Genetic Manipulation](http://natureinstitute.org/nontarget/)) to ensure their safety for human health. Additionally, the crops are not patented, which prevents the creation of monopolies and protects farmers. One example of GMOs involves producing genetically modified sugarcane or corn using aeroponics or hydroponics, and then utilizing them to [produce vegetable oil with yeast](https://grist.org/food/cooking-oil-deforestation-startup-sugarcane-solution/). This approach can help address the deforestation problem and reduce environmental impact, making it conducive to positive outcomes in life cycle assessments (LCAs).
 
-19. Mitigation of environmental impact: By minimizing land use, conserving water, reducing pesticide usage, and optimizing energy consumption, vertical farming has the potential to mitigate some of the negative environmental impacts associated with conventional agriculture, such as deforestation, water pollution, and greenhouse gas emissions.
+10. Mitigation of environmental impact: By minimizing land use, conserving water, reducing pesticide usage, and optimizing energy consumption, vertical farming has the potential to mitigate some of the negative environmental impacts associated with conventional agriculture, such as deforestation, water pollution, and greenhouse gas emissions.
 
-21. Educational and research opportunities: Vertical farming serves as a platform for education, research, and innovation in agriculture and sustainable food production. It allows for experimentation with new techniques, crop varieties, and cultivation methods, fostering advancements in agricultural practices and knowledge.
+11. Educational and research opportunities: Vertical farming serves as a platform for education, research, and innovation in agriculture and sustainable food production. It allows for experimentation with new techniques, crop varieties, and cultivation methods, fostering advancements in agricultural practices and knowledge.
 
 While vertical farming has numerous benefits, it also faces challenges related to initial investment costs, energy consumption, and scalability. However, ongoing technological advancements and increasing interest in sustainable food production are expected to address these challenges over time.
 
-> The high upfront costs of precision vertical farming, which amount to crores, pose a significant barrier for individuals to establish such operations. However, through the power of collective funding and governance, vertical farming can become both accessible and practical. One possible approach is to consider community investment, with each person contributing around $25 (which [can be paid back in form of UBI or agricultural outputs](https://iambrainstorming.wordpress.com/2023/11/11/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control/)), to establish community-run vertical farming ventures.
+> The high upfront costs of precision vertical farming, which amount to crores, pose a significant barrier for individuals to establish such operations. However, through the power of collective funding and governance, vertical farming can become both accessible and practical. One possible approach is to consider community investment, with each person contributing around $25 (which [can be paid back in form of UBI or agricultural outputs](./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)), to establish community-run vertical farming ventures.
 
 Privacy and large-scale computation are an important requirements for building decentralized supply chains. [New blockchains](https://wiki.phala.network/en-us/build/general/features/) are do made to solve these issues.

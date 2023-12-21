@@ -1,27 +1,36 @@
+# Road Planning for Cities
+
+## date: "2023-05-27"
+
 ---
-title: "Road Planning for Cities"
-date: "2023-05-27"
-categories: 
-  - "city-planning"
+categories:
+
+- "city-planning"
+  
 ---
 
-![](https://iambrainstorming.files.wordpress.com/2023/05/road-planning.png?w=749)
+<video width="100%" controls>
+  <source src="https://bafybeigg3pec6krwxsmevdq3ucaih5wspxn3342gqkvdw26veoqceozqpu.ipfs.w3s.link/Road%20Planning.mp4" type="video/mp4">
+</video>
+
+
+
+![Road planning](./images/road-planning.png)
 
 Road planning image
 
 > A cycle lane located in the median effectively addresses the issue of encroachment, such as unauthorized parking of cars and pedestrians using the cycle lane for walking.
 > 
 > However, the presence of a cycle lane in the median poses a challenge when cyclists need to exit the lane to reach destinations such as markets or homes. To mitigate this issue, it is essential to construct suitable traffic signals and bridges that facilitate safe transitions for cyclists.
-> 
-> ![](https://iambrainstorming.files.wordpress.com/2023/05/cycle-lane-on-side-1.png?w=1001)
-> 
+
+![Cycle lane on side](./images/cycle-lane-on-side-1.png)
+
 > An alternative approach to consider is the implementation of cycle lanes on the sides of national highways, which may not be suitable for within cities. It's important to note that unauthorized parking is primarily a concern within cities, rather than on highways.
-> 
-> \* indicates trucks only when bus is not present, Trucks can operate during nighttime when there is reduced traffic from buses and cars.
+> indicates trucks only when bus is not present, Trucks can operate during nighttime when there is reduced traffic from buses and cars.
 
 In India we do need a motorcycle/ebikes lane as motorcycle are also efficient modes of transport like cycling and one in three households in India own motorcycle. Also, due to hot weather of India, cycling can be exhausting. Without a motorcycle lane problem will be like this:
 
-![](https://iambrainstorming.files.wordpress.com/2023/06/motor-cycle.jpeg?w=680)
+![Motor Cycle](./images/motor-cycle.jpeg)
 
 In India, bicycles face challenges when it comes to widespread adoption due to the hot weather. You can start perspiring within just 5-10 minutes of riding. India's climate differs significantly from that of the Netherlands, where cycling is more popular. Additionally, winters in India now last less than two months a year due to climate change. However, you can still consider using electric cycles (e-cycles) and electric bikes (e-bikes) as eco-friendly alternatives to cars.
 
@@ -29,9 +38,9 @@ You can conduct a small experiment. I walked for 2.5 kilometers at 10 AM when th
 
 Should we consider banning cars? It's not about adopting an all-or-nothing approach, but rather the imperative need to significantly reduce car usage with specific exceptions. For instance, we could limit private car use, allowing only public cars for booking, especially during emergencies. Exceptions can also be made for disabled individuals who rely on cars for mobility.
 
-![](https://iambrainstorming.files.wordpress.com/2023/06/mobility-pyramid.jpg?w=949)
+![Mobility Pyramid](./images/mobility-pyramid.jpg)
 
-https://youtu.be/06IjfbqdnNM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06IjfbqdnNM?si=O2wC4JqZqTjUrVld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Next time someone criticizes an "empty bike lane," remind them it because they’re efficient.
 
@@ -40,14 +49,17 @@ https://youtu.be/06IjfbqdnNM
 [https://www.fastcompany.com/3063344/these-animated-videos-show-just-how-much-space-cars-waste-in-our-cities](https://www.fastcompany.com/3063344/these-animated-videos-show-just-how-much-space-cars-waste-in-our-cities)
 
 > One thing we know for SURE — building and widening highways ALWAYS succeeds in helping sell more cars, gas and suburban sprawl; burning more public budgets; and increasing GHG emissions. So if THOSE are your goals, it’s the perfect thing to do.
-> 
 > Just don’t expect it to reduce traffic.
-> 
-> \-Brent Toderian
-> 
-> ![](https://iambrainstorming.files.wordpress.com/2023/05/widened-roads-for-cars.jpeg?w=941)
+> -Brent Toderian
+
+
+![Widened roads for cars](./images/widened-roads-for-cars.jpeg)
 
 ## 🚌 150 people overtaking 50 people. Separating the lane is not hard.
+
+<video width="100%" controls>
+  <source src="https://bafybeiddh2kuqvg5kg2trcm6iquynmlx2tobtagqeczcvdu4zej3hdlhwq.ipfs.w3s.link/Bus%20vs%20Cars.mp4" type="video/mp4">
+</video>
 
 ## Car free cities are good for local businesses
 
@@ -59,7 +71,7 @@ https://citychangers.org/the-case-for-car-free/
 
 Traditional concrete roads are impermeable, meaning water cannot pass through them, causing rainwater to accumulate on the surface and potentially lead to flooding in cities. Some approach like constructing local roads with tiles over a sand base is more permeable. Water can seep through the gaps between the tiles and be absorbed into the underlying sand, thus helping to manage and reduce the risk of flooding by allowing water to infiltrate into the ground.
 
-![](https://iambrainstorming.files.wordpress.com/2023/09/tiled_roads.jpg?w=768)
+![Tiled roads](./images/tiled_roads.jpg)
 
 Tiles over sand. A simpler solution to the water logging problem, without the use of any advanced technology
 
@@ -69,23 +81,28 @@ This 'thirsty' concrete absorbs 880 gallons of water a minute — here's how it 
 
 [https://www.businessinsider.com/how-magical-concrete-absorbs-water-2015-9?IR=T](https://www.businessinsider.com/how-magical-concrete-absorbs-water-2015-9?IR=T)
 
-![](https://iambrainstorming.files.wordpress.com/2023/07/cars_not_life.jpg?w=768)
+![Cars not life](./images/cars_not_life.jpg)
 
-![](https://iambrainstorming.files.wordpress.com/2023/05/car-count.png?w=598)
+![Car count](./images/car-count.png)
 
-![](https://iambrainstorming.files.wordpress.com/2023/05/more-cars.jpg?w=460)
+![More cars](./images/more-cars.jpg)
 
 Traffic in Gurgaon
 
-![](https://iambrainstorming.files.wordpress.com/2023/05/traffic-in-gorgaon.jpeg?w=1024)
+![Traffic in Gurgaon](./images/traffic-in-gorgaon.jpeg)
 
 Get your self a car, looser. What do you think you are?
+
+<video width="100%" controls>
+  <source src="https://bafybeif2zk6albeippcaugynwclhsiakl7t3eqcrcoi2vbbqunffphlfvq.ipfs.w3s.link/get%20a%20car%20looser.mp4" type="video/mp4">
+</video>
+
 
 Here is a booklet for Street design manual:
 
 [https://www.oslo.kommune.no/getfile.php/13441080-1646147194/Tjenester%20og%20tilbud/Plan%2C%20bygg%20og%20eiendom/Byggesaksveiledere%2C%20normer%20og%20skjemaer/Gatenormal%20og%20normark/Gate-%20og%20veinormaler/Street-design-manual\_ENG.pdf](https://www.oslo.kommune.no/getfile.php/13441080-1646147194/Tjenester%20og%20tilbud/Plan%2C%20bygg%20og%20eiendom/Byggesaksveiledere%2C%20normer%20og%20skjemaer/Gatenormal%20og%20normark/Gate-%20og%20veinormaler/Street-design-manual_ENG.pdf)
 
-# [5 steps to making better cities](https://www.fastcompany.com/90278237/5-steps-to-making-better-cities)
+## [5 steps to making better cities](https://www.fastcompany.com/90278237/5-steps-to-making-better-cities)
 
 Any city can push itself to be better, but they usually go through this learning curve first.
 
@@ -93,7 +110,8 @@ I’d rather have cities doing the right thing badly (at first), than continuing
 
 **How Cars are Destroying India?**
 
-https://www.youtube.com/watch?v=XgCPOrRKiOM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XgCPOrRKiOM?si=hhj-zri9ZfzDM7_K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 Dhruv Rathee effectively outlined the detrimental impact of cars, yet he took a softer stance on the idea of banning them. While he asserted that an immediate ban would harm the economy, he fell short of providing a thorough explanation.
 

@@ -44,7 +44,7 @@ These states pose less of a threat. West Bengal has leaders like Mamata Banerjee
 
 ## 2023 Legislative Assembly Election
 
-I have already [discussed the impact of vote splitting and about vote wastage in FPTP voting](https://iambrainstorming.wordpress.com/2023/03/30/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties/) and how it prevents third parties and independents from winning.
+I have already [discussed the impact of vote splitting and about vote wastage in FPTP voting](./do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.md) and how it prevents third parties and independents from winning.
 
 Here is real data on vote wastage in elections. In [Madhya Pradesh](https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/vote_wastage_data_madhay_pradesh.json) 109 out of 230 constituencies, the election outcome would be reversed if we consider the count of vote wastage. This indicates that the majority have voted against the winning candidate.
 
@@ -90,7 +90,7 @@ In Madhya Pradesh, the BJP would have lost 63 seats, and the Congress would have
 
 ## Pressure for Approval Voting
 
-You can also advocate for a change in the voting method to single-winner Approval Voting in your constituency. However, independents and third parties need to collaborate and demand this change. You can [follow the link](https://iambrainstorming.wordpress.com/2023/03/30/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties/) to learn about the benefits of Approval Voting and how it aids third parties or independents.
+You can also advocate for a change in the voting method to single-winner Approval Voting in your constituency. However, independents and third parties need to collaborate and demand this change. You can [follow the link](./do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.md) to learn about the benefits of Approval Voting and how it aids third parties or independents.
 
 ## How does the India bloc need to select constituency candidates?
 

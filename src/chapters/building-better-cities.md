@@ -1,6 +1,6 @@
+# Building better cities
+## date: "2019-04-17"
 ---
-title: "Building better cities"
-date: "2019-04-17"
 categories: 
   - "cities"
 tags: 
@@ -25,13 +25,12 @@ https://youtu.be/W1ZbbQdWfN8
 
 The network can include all service providers, such as classroom, content provider such as MOOCs, open laboratories,  dance classes, gym, parks, playground, child care for working parents, teachers based on specialization, science park with essential experiments and equipments like telescope to validate what has been learned in classroom, even part-time job providers at the same place or just anything that is required in education.
 
-[https://iambrainstorming.wordpress.com/2017/06/04/public-private-partnership-schools-colleges-and-its-implementation/](https://iambrainstorming.wordpress.com/2017/06/04/public-private-partnership-schools-colleges-and-its-implementation/)
 
 **Service providers need not have to build sprawl for providing housing for services but skyscrapers**
 
 > Urban sprawl or suburban sprawl mainly refers to the unrestricted growth in many urban areas of housing, commercial development, and roads over large expanses of land, with little concern for urban planning
 
-![](images/sprawl.jpg)
+![Uraban Sprawl](images/sprawl.jpg)
 
 _Urban sprawl_
 
@@ -49,13 +48,13 @@ Although this course is based on agriculture, it's not only about farming. It is
 
 In all scenarios, we will have about 10 billion humans on the planet by 2050.
 
-![](images/population.jpg)
+![Population](images/population.jpg)
 
 https://www.youtube.com/watch?v=uKt5htrDvlk&feature=youtu.be
 
 How to build dense and self sustainable forest near your cities?
 
-![](https://iambrainstorming.files.wordpress.com/2021/05/trees.png?w=1024)
+![Trees](./images/trees.png)
 
 [https://www.afforestt.com/methodology](https://www.afforestt.com/methodology)
 

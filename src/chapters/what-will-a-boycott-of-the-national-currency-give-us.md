@@ -1,11 +1,15 @@
+# What will a boycott of the national currency give us?
+
+## date: "2022-10-16"
+
 ---
-title: "What will a boycott of the national currency give us?"
-date: "2022-10-16"
-categories: 
-  - "blockchain"
-  - "cryptocurrency"
-  - "democracy"
-  - "economics"
+categories:
+
+- "blockchain"
+- "cryptocurrency"
+- "democracy"
+- "economics"
+
 ---
 
 When India was under British rule, Gandhi started a movement to quit British goods and use Swadeshi products to help the country's people become self-sufficient. The movement aided in breaking free from British control and achieving independence.
@@ -22,7 +26,6 @@ Also, take a look at the various governance issues here:
 Banks transfer wealth from people to capitalists by issuing debt or printing money. e.g. In India, Adani group has a debt of ₹2.2 trillion, which is near to the GDP of many big states in India. Many times, debt is issued for economic reasons that are detrimental to society. For example, the Adani group's primary source of income is fossil fuel, which contributes to climate change and pollution.
 
 > UN: 3.3 Billion People – almost half of humanity – Live in Countries Spending More on Debt Service Than Education, Health. The report revealed that Public debt has also spiked more than five-fold since 2000.
-> 
 > [https://www.msn.com/en-us/money/personalfinance/33-billion-people-live-in-countries-that-spend-more-on-debt-interest-than-education-un-says/ar-AA1dMwLG](https://www.msn.com/en-us/money/personalfinance/33-billion-people-live-in-countries-that-spend-more-on-debt-interest-than-education-un-says/ar-AA1dMwLG)
 > 
 > [https://unctad.org/publication/world-of-debt](https://unctad.org/publication/world-of-debt)
@@ -38,7 +41,7 @@ Here is a simulation where UBI will decrease the wealth inequality.
 [https://github.com/amiyatulu/randomised\_tax\_collect\_ubi/blob/main/tax\_collection\_ubi.py](https://github.com/amiyatulu/randomised_tax_collect_ubi/blob/main/tax_collection_ubi.py)  
 Calculation of the required market capitalization for a $125 (₹10,000) UBI per month.
 
-```
+```python
 population = 45_429_399
 print(f"{population:_}") # Odisha population 45_429_399
 # If each person get ₹10_000 per month as UBI, which means approx. $125
@@ -74,21 +77,21 @@ According to Graeber, bullshit jobs are often characterized by the following tra
 
 1. Lack of meaningful impact: These jobs do not contribute significantly to the well-being or betterment of society. They are often seen as pointless or even counterproductive.
 
-3. Busywork and bureaucracy: Employees in bullshit jobs often find themselves engaged in excessive paperwork, pointless meetings, or other tasks that do not require their skills or expertise.
+2. Busywork and bureaucracy: Employees in bullshit jobs often find themselves engaged in excessive paperwork, pointless meetings, or other tasks that do not require their skills or expertise.
 
-5. Low autonomy: Workers in such jobs have little control over their tasks or decision-making processes. They are often subject to micromanagement and strict rules and regulations.
+3. Low autonomy: Workers in such jobs have little control over their tasks or decision-making processes. They are often subject to micromanagement and strict rules and regulations.
 
-7. Lack of productivity measurement: Bullshit jobs are often difficult to measure in terms of productivity or output. It becomes challenging to evaluate the actual contribution of these jobs to the organization or society.
+4. Lack of productivity measurement: Bullshit jobs are often difficult to measure in terms of productivity or output. It becomes challenging to evaluate the actual contribution of these jobs to the organization or society.
 
-9. Sense of guilt or shame: People with bullshit jobs often feel guilty or ashamed because they recognize the pointlessness of their work but are compelled to continue doing it due to societal expectations or economic necessity.
+5. Sense of guilt or shame: People with bullshit jobs often feel guilty or ashamed because they recognize the pointlessness of their work but are compelled to continue doing it due to societal expectations or economic necessity.
 
 Graeber argued that the prevalence of bullshit jobs in modern economies is not only detrimental to the individuals performing these jobs but also to society as a whole. He highlighted the potential for increased dissatisfaction, mental health issues, and a loss of human potential when people are stuck in unfulfilling and meaningless work.
 
-> With [decentralized price discovery](https://iambrainstorming.wordpress.com/2022/12/19/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply/), and [decentralized self-managed organizations](https://en.wikipedia.org/wiki/Reinventing_Organizations) like shivarthu, workers will have autonomy over their decision-making process, and jobs that have meaningful impact on society are incentivized and bullshit jobs are eliminated.
+> With [decentralized price discovery](./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md), and [decentralized self-managed organizations](https://en.wikipedia.org/wiki/Reinventing_Organizations) like shivarthu, workers will have autonomy over their decision-making process, and jobs that have meaningful impact on society are incentivized and bullshit jobs are eliminated.
 
 ## **UBI and positive externality**
 
-![](https://iambrainstorming.files.wordpress.com/2022/11/externality.png?w=1024)
+![Externality](./images/externality.png)
 
 Shivarthu will incentivize positive externality, validated by score Schelling game and elected representatives. Your UBI (Universal Basic Income) can increase by 2 to 5 times if you produce a positive externality, but it can also drop if you produce a negative externality.
 
@@ -142,9 +145,9 @@ While it may seem appealing, it has its downsides. Increased economic activity o
 
 Here is an example how it works, why cycling is bad for the economy.
 
-![](https://iambrainstorming.files.wordpress.com/2023/09/cycling-is-bad-for-the-economy.jpg?w=774)
+![Why cycling is bad for economy?](./images/cycling-is-bad-for-the-economy.jpg)
 
-However, these challenges can be addressed through controlled money circulation, using [different currencies for different supply chains.](https://iambrainstorming.wordpress.com/2022/12/19/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply/) This approach allows for fine-grained control over supply chains, including taxing or disincentivizing negative externalities and subsidizing or incentivizing positive externalities in different supply chains.
+However, these challenges can be addressed through controlled money circulation, using [different currencies for different supply chains.](./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md) This approach allows for fine-grained control over supply chains, including taxing or disincentivizing negative externalities and subsidizing or incentivizing positive externalities in different supply chains.
 
 While shitcoins cryptocurrencies needs to be eliminated, we envision a multi-cryptocurrency system. Furthermore, unemployment can be addressed through the provision of Universal Basic Income (UBI), which can also be implemented at the supply chain level. For instance, individuals could receive a monthly allocation of 50 apples for free.
 
@@ -158,19 +161,19 @@ Here are the few [gold backed cryptocurrency:](https://www.softwaretestinghelp.c
 
 1. Tether Gold (XAUT)
 
-3. DigixGlobal (DGX)
+2. DigixGlobal (DGX)
 
-5. PAX Gold (PAXG)
+3. PAX Gold (PAXG)
 
-7. Gold Coin (GLC)
+4. Gold Coin (GLC)
 
-9. Perth Mint Gold Token (PMGT)
+5. Perth Mint Gold Token (PMGT)
 
-11. Meld
+6. Meld
 
 But these currencies are not fully decentralized, and depends on centralized regulators. If you're considering investing in gold crypto, diversify your portfolio by exploring various gold stable coins to avoid the risk of losing all your money if one stable coin fails.
 
-There can be a way for secure and safe decentralized stable coin. [But its a part of active research.](https://iambrainstorming.wordpress.com/2022/06/01/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end/)
+There can be a way for secure and safe decentralized stable coin. [But its a part of active research.](./love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
 
 e.g Govt causing hyperinflation, devaluing all your money:
 
@@ -204,13 +207,13 @@ More points to cover, treat it like a manifesto:
 
 - Implications of deflationary currency and minimalism
 
-- [Emotion and empathy rather than materialism](https://iambrainstorming.wordpress.com/2019/09/08/relationships-emotions-and-happiness/)
+- [Emotion and empathy rather than materialism](./relationships-emotions-and-happiness.md)
 
-- [No Entrance culture, and rate race, rote learning education system](https://iambrainstorming.wordpress.com/2022/01/26/how-avrit-learning-solves-our-education-puzzle/)
+- [No Entrance culture, and rate race, rote learning education system](./how-avrit-learning-solves-our-education-puzzle.md)
 
 - Elimination of bullshit jobs
 
-- [Remote jobs or work from home with less working hours](https://iambrainstorming.wordpress.com/2020/02/16/how-to-beat-the-worst-job-culture-of-india/)
+- [Remote jobs or work from home with less working hours](./how-to-beat-the-worst-job-culture-of-india.md)
 
 - [Gender parity in workplace](https://hbr.org/2021/09/the-problem-with-greedy-work)
 
@@ -222,33 +225,33 @@ More points to cover, treat it like a manifesto:
 
 - Nutritious food and health
 
-- [Clean energy like roof top solar and wind energy](https://iambrainstorming.wordpress.com/2021/10/23/demand-for-50-subsidy-for-solar/)
+- [Clean energy like roof top solar and wind energy](./demand-for-50-subsidy-for-solar.md)
 
-- [Banning single use plastic](https://iambrainstorming.wordpress.com/2023/03/09/ban-plastic-bottles-of-coca-cola-and-water-bottles/)
+- [Banning single use plastic](./ban-plastic-bottles-of-coca-cola-and-water-bottles.md)
 
-- [No hate or polarizatio](https://iambrainstorming.wordpress.com/2023/03/30/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties/)[n](https://iambrainstorming.wordpress.com/2023/04/19/how-can-we-use-proportional-representation-with-approval-voting-without-any-complicated-algorithm/)
+- [No hate or polarization](./do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.md)
 
 - Better judiciary and police governance
 
-- Funding to the public good and open source. Share on the capital and automation and [Decentralized supply chain](https://iambrainstorming.wordpress.com/2022/12/19/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply/)
+- Funding to the public good and open source. Share on the capital and automation and [Decentralized supply chain](./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
 
 - [No intellectual property rights](https://www.youtube.com/watch?v=TWYHmkmctb8)
 
 - Ads free entertainment, demerits of ads and consumerism, only informative, decentralized, expert audited ads.
 
-- [Accountable social media and news](https://iambrainstorming.wordpress.com/2023/09/01/what-do-we-need-to-decentralize-in-the-coming-years/)
+- [Accountable social media and news](./what-do-we-need-to-decentralize-in-the-coming-years.md)
 
-- [Interoperability of hardware and software](https://iambrainstorming.wordpress.com/2023/09/01/what-do-we-need-to-decentralize-in-the-coming-years/)
+- [Interoperability of hardware and software](./what-do-we-need-to-decentralize-in-the-coming-years.md)
 
-- [Decentralized house building](https://iambrainstorming.wordpress.com/2023/11/16/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses/) and [sustainable housing design](https://iambrainstorming.wordpress.com/2019/04/17/building-better-cities/).
+- [Decentralized house building](./how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md) and [sustainable housing design](./building-better-cities.md).
 
-- [Car-free](https://iambrainstorming.wordpress.com/2023/05/27/road-planning-of-cities/) community and [15 mins cities](https://www.huckmag.com/article/what-its-actually-like-living-in-a-15-minute-city)
+- [Car-free](./road-planning-of-cities.md) community and [15 mins cities](https://www.huckmag.com/article/what-its-actually-like-living-in-a-15-minute-city)
 
 - 60%-70% forest cover
 
-- [Sustainable Agriculture](https://iambrainstorming.wordpress.com/2022/12/19/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply/)
+- [Sustainable Agriculture](./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
 
-- [Decentralizing Supermarkets Through Public Ownership and Control](https://iambrainstorming.wordpress.com/2023/11/11/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control/)
+- [Decentralizing Supermarkets Through Public Ownership and Control](./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)
 
 - Better Health care system
 

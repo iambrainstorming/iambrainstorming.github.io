@@ -124,9 +124,6 @@ Corruption Perceptions Index
 
 [https://www.transparency.org/en/cpi/2022](https://www.transparency.org/en/cpi/2022)
 
-## How can we use proportional representation with Approval voting without any complicated algorithm?
-
-https://iambrainstorming.wordpress.com/2023/04/19/how-can-we-use-proportional-representation-with-approval-voting-without-any-complicated-algorithm/
 
 ## How can we use proportional representation with Approval voting without any complicated algorithm?
 
