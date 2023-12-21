@@ -159,15 +159,22 @@ Here is a suggestion given by the INDIA bloc: "Instead of the VVPAT slip falling
 
 So basically, it means using an Electronic Voting Machine (EVM) as a printer to print out votes instead of using an ink stamp to vote on a paper ballot. However, it still has flaws. Like a printer, an EVM can be programmed to print as many votes for a party that manipulated the EVM. Therefore, the possibility of ballot stuffing can still exist, and it's may be hard to identify, as the voter may hide it while putting the vote in the ballot box. Remember, a few instances of ballot stuffing in FPTP can overturn the election result and cause the winning candidate to lose.
 
-One way to solve vote stuffing is to allow only a single paper in the printer (VVPAT) during voting. Just like a secret ballot is provided by tearing off the serial number and voter signature, now the single secret ballot can go through the printer to print out the vote.
-
-![Paper Ballot](./images/ballot_paper.webp)
+One way to solve vote stuffing is to allow only a single paper in the printer (VVPAT) during voting. Just like a secret ballot is provided by [tearing off the serial number and voter signature](./images/ballot_paper.webp), now the single secret ballot can go through the printer to print out the vote.
 
 Also, voters, especially the uneducated ones, need to be trained to recheck their vote printed on the VVPAT. It's double work for them; first, they have to vote on the EVM appropriately, and then check if the vote is the same or not on the VVPAT. Furthermore, if you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities?
 
 One advantage of using a digital printer EVM would be a decrease in spoiled or invalid votes. Although I couldn't find data on the number of spoiled votes in India, here is some information from [Kenyan elections](https://www.kenyans.co.ke/news/78118-spoilt-vote-how-your-vote-could-be-declared-invalid). In 2017, the total votes cast were 15,593,050, out of which 411,510 were considered spoiled. In the preceding election in 2013, the total was 12,221,053, with 108,975 considered spoiled.
 
 The number of spoiled votes in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design.
+
+## What about indepenece of election commission?
+
+The Center is making desperate attempts to undermine the independence of the Election Commission. They have also passed a bill aiming to remove the Chief Justice of India (CJI) and the leader of the opposition from the Election Commission panel. Without an independent Election Commission, how can we ensure that fair elections are conducted?
+
+There are numerous ways in which the ruling party at the Center can benefit, including engaging in corrupt campaigning practices such as bribing voters. In such cases, the Election Commission might turn a blind eye. Additionally, if Electronic Voting Machine (EVM) results are declared, there is a risk that the Election Commission might ignore the Voter Verified Paper Audit Trail (VVPAT). This raises concerns about the finality of results, especially in the presence of discrepancies.
+
+In the past, the Election Commission has already overlooked VVPAT discrepancies. How can one ensure that VVPATs are counted correctly, particularly concerning their security? What if the Election Commission disagrees with the proposal put forth by the INDIA bloc? Are there contingency plans, such as mass protests?
+
 
 ## **EVM Hack Hypothesis**
 
