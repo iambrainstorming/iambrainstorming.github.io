@@ -167,7 +167,7 @@ One advantage of using a digital printer EVM would be a decrease in spoiled or i
 
 The number of spoiled votes in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design.
 
-## What about indepenece of election commission?
+## What about independence of election commission?
 
 The Center is making desperate attempts to undermine the independence of the Election Commission. They have also passed a bill aiming to remove the Chief Justice of India (CJI) and the leader of the opposition from the Election Commission panel. Without an independent Election Commission, how can we ensure that fair elections are conducted?
 
