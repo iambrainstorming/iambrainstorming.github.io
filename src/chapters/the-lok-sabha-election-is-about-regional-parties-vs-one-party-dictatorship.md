@@ -9,15 +9,15 @@ What strategies has the BJP employed?
 
 1. Casting Hindus as victims and promoting nationalism.
 
-3. Positioning Congress as the opposition and trolling Rahul Gandhi. Portraying Modi as a supreme leader ( but a [cult leader](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafkreifezrdzrlijxtzcoohi4k35ypa3aikfnrdkiqqw75clnd7xrsqism) in disguise) and discrediting Rahul Gandhi as unfit for the PM role. It's crucial to note that the opposition is not the Congress, which currently holds only 50 seats in the Lok Sabha and may at most reach 150. Moreover, Rahul Gandhi is not PM candidate; the INDIA bloc is a coalition of regional parties, requiring a nuanced narrative.
+2. Positioning Congress as the opposition and trolling Rahul Gandhi. Portraying Modi as a supreme leader ( but a [cult leader](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafkreifezrdzrlijxtzcoohi4k35ypa3aikfnrdkiqqw75clnd7xrsqism) in disguise) and discrediting Rahul Gandhi as unfit for the PM role. It's crucial to note that the opposition is not the Congress, which currently holds only 50 seats in the Lok Sabha and may at most reach 150. Moreover, Rahul Gandhi is not PM candidate; the INDIA bloc is a coalition of regional parties, requiring a nuanced narrative.
 
-5. Propagating unrealistic dreams, such as inflating the GDP with excessive zeroes and aiming for a 5 trillion-dollar economy in five years.
+3. Propagating unrealistic dreams, such as inflating the GDP with excessive zeroes and aiming for a 5 trillion-dollar economy in five years.
 
-7. Distributing freebies and money during campaigning.
+4. Distributing freebies and money during campaigning/election.
 
 More than 10,000 WhatsApp groups are actively involved in disinformation campaigns, leveraging national media for Hindu-Muslim narratives.
 
-## [How to tackle disinformation?](./how-to-tackle-disinformation.md)
+**[How to tackle disinformation?: Link](./how-to-tackle-disinformation.md)**
 
 > People need to understand the intensity of the problem. We are just in a small margin to [dictatorship](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafkreicijhn66wqak3zp7pcmqcpmrgveqhkrk6tddes7vuakunflu5lqb4). Opposition and people need to make no mistake. We need to break the brute force majority of one party. Lok Sabha and Rajya Sabha are safeguards of the constitution. Now, Lok Sabha is completely useless. Rajya Sabha is in a small margin. We need not give more than 20% of seats to BJP again.
 
@@ -139,7 +139,7 @@ EVM is even more dangerous with FPTP voting method, because a single EVM manipul
 
 [Paper ballots are safest for our elections – on one condition.](https://edition.cnn.com/2018/11/05/opinions/to-keep-our-votes-safe-check-and-check-again-richardson-burke/index.html/)
 
-## Even [VVPAT](https://en.wikipedia.org/wiki/Voter-verified_paper_audit_trail) are not the solution:
+## Even [VVPAT](https://en.wikipedia.org/wiki/Voter-verified_paper_audit_trail) are not the solution
 
 ### Security concerns
 
