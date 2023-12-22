@@ -6,11 +6,17 @@
 
 **Reputation Matters More Than Financial Incentives:** Research suggests that reputational rewards are more effective than financial incentives in encouraging prosocial behavior. Publicizing individuals' cooperative actions consistently boosts participation, while financial rewards can sometimes muddle the perception of motivations.
 
+> Financial incentives such as contribution-matching or cash, or rewards for participating, such as offering T-shirts for blood donors, sometimes worked and sometimes didn’t, they found. In contrast, reputational rewards — making individuals’ cooperative behavior public — [consistently boosted participation](https://www.sciencedirect.com/science/article/abs/pii/S2352154615000406). The result has held up in the years since. “If anything, the results are stronger,” says Yoeli.
+
+> Financial rewards will work if you pay people enough, Yoeli notes — but the cost of such incentives could be prohibitive. One study of 782 German residents, for example, surveyed whether paying people to receive a Covid vaccine would increase vaccine uptake. It did, but researchers found that [boosting vaccination rates significantly would have required a payment of at least 3,250 euros](https://knowablemagazine.org/content/article/society/2023/secrets-of-cooperation) — a dauntingly steep price.
+
 **The Role of Gossip in Norm Enforcement:** Gossip, the sharing of information about norm violations, is a powerful tool in enforcing social norms. It serves multiple functions, including strengthening social bonds, providing information for social interaction, and influencing behavior by making individuals less likely to trust and cooperate with those who violate norms.
+
+> Gossip recipients reported that this negative information made them less likely to help the [untrustworthy and more likely to avoid them](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0301).
 
 **Communication Strategies for Cooperation:** Informing people about what others actually do is more effective than telling them what they should do. Messages emphasizing social expectations and the increasing trend of a behavior can positively influence cooperation.
 
-“If you just say that 15 percent do that, you normalize the fact that 85 percent don’t,” says Bicchieri. But there’s a work-around: It turns out that even a minority can nudge people toward a desired behavior if the number is increasing, thus providing a trendy bandwagon to hop on. In one experiment, for example, researchers measured the amount of water volunteers used while brushing their teeth. People who had been told that a small but increasing proportion of people were conserving water used less water than those who heard only that a small proportion conserved.
+>“If you just say that 15 percent do that, you normalize the fact that 85 percent don’t,” says Bicchieri. But there’s a work-around: It turns out that even a minority can nudge people toward a desired behavior if the number is increasing, thus providing a trendy bandwagon to hop on. In one experiment, for example, researchers measured the amount of water volunteers used while brushing their teeth. People who had been told that a small but increasing [proportion of people were conserving water](https://journals.sagepub.com/doi/10.1177/1948550617734615) used less water than those who heard only that a small proportion conserved.
 
 **Remaining Unknowns:** While researchers have made progress in understanding cooperation, many questions remain. Little is known about why cultures hold specific norms or how norms change over time. Natural selection is expected to play a role in determining which cultural norms enhance survival and persist over generations.
 

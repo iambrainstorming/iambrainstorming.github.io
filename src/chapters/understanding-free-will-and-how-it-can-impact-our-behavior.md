@@ -1,8 +1,13 @@
+# Understanding free will and how it can impact our behavior
+
+## date: "2023-11-28"
+
 ---
-title: "Understanding free will and how it can impact our behavior"
-date: "2023-11-28"
-tags: 
-  - "philosophy"
+
+tags:
+
+- "philosophy"
+
 ---
 
 Do you control your destiny? Is it you who makes choices throughout the day, including what you will eat for dinner and which movie you will watch? Our everyday existence rests upon a seemingly unshakable foundation: that we possess free will, the ability to consciously dictate our actions and decisions.  
@@ -16,7 +21,6 @@ Classical physics asserts that all future states can be determined from previous
 
 Other atomic-scale entities, such as electrons, are found to exhibit the same behavior when fired towards a double slit. Additionally, the detection of individual discrete impacts is observed to be inherently probabilistic, which is inexplicable using classical mechanics.
 
-  
 Being probabilistic doesn't imply randomness or unpredictability. Instead, it means we can make predictions with a certain probability or accuracy. Cause and effect still exist, but there is always a chance that the same cause may not consistently produce the same effect.  
 To add complexity, there can be multiple variables or causes. However, even if you account for all variables, you still cannot predict the effect with absolute accuracy; there will always be some margin of error.  
 As a jest, we can predict the sunrise with 99.9999% accuracy, yet there remains a 0.0001% chance that unforeseen events, such as a black hole devouring the sun or a celestial dislocation, could prevent it. While 0.0001% may still seem big, it can also be infinitesimally small.

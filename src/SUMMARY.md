@@ -1,7 +1,9 @@
 # Summary
 
+# Democracy and supply chain
+
 - [Manifesto: What will a boycott of the national currency give us?](./chapters/what-will-a-boycott-of-the-national-currency-give-us.md)
-  - [Decentralized supply chain](./chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
+  - [Price discovery of decentralized supply chain](./chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
   - [Emotion and empathy rather than materialism](./chapters/relationships-emotions-and-happiness.md)
   - [No Entrance culture, and rate race, rote learning education system](./chapters/how-avrit-learning-solves-our-education-puzzle.md)
   - [Remote jobs or work from home with less working hours](./chapters/how-to-beat-the-worst-job-culture-of-india.md)
@@ -14,11 +16,23 @@
   - [What do we need to decentralize in the coming years?](./chapters/what-do-we-need-to-decentralize-in-the-coming-years.md)
   - [Love for USD pegged stable coin by the crypto community must end](./chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
 
+# Democracy 
+
 - [Do we need a supreme leader? How can we share power between parties?](./chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.md)
   - [Open-list proportional representation vs. Mixed-member proportional representation](./chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.md)
   - [Parliamentary or Presidential form of government? What's in the name?](./chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.md)
   - [The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship](./chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md)
+
+# Cooperation
   
 - [Cooperation for common good]()
   - [How to tackle disinformation?](./chapters/how-to-tackle-disinformation.md)
   - [Secrets of Cooperation](./chapters/cooperation/cooperation-secrets.md)
+
+# AI/ Machine Learning
+
+- [Do we have to fear machine learning or AI?](./chapters/do-we-have-to-fear-machine-learning-or-ai.md)
+
+# Philosophy
+
+- [Understanding free will and how it can impact our behavior](./chapters/understanding-free-will-and-how-it-can-impact-our-behavior.md)

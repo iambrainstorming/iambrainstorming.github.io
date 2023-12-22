@@ -1,21 +1,24 @@
+# What do we need to decentralize in the coming years?
+
+## date: "2023-09-01"
+
 ---
-title: "What do we need to decentralize in the coming years?"
-date: "2023-09-01"
-categories: 
-  - "blockchain"
+
+categories:
+
+- "blockchain"
+
 ---
 
 Research on new blockchain decentralized algorithms, scalability, composability, and ability of build complicated systems on blockchains has brought us new possibilities.
 
 Blockspace & Blockspace Ecosystems: How Polkadot is Unlocking the Full Potential of Web3
 
-[https://www.polkadot.network/blog/blockspace-blockspace-ecosystems-how-polkadot-is-unlocking-the-full-potential-of-web3/](https://www.polkadot.network/blog/blockspace-blockspace-ecosystems-how-polkadot-is-unlocking-the-full-potential-of-web3/)
+[Blockspace & Blockspace Ecosystems: How Polkadot is Unlocking the Full Potential of Web3](https://www.polkadot.network/blog/blockspace-blockspace-ecosystems-how-polkadot-is-unlocking-the-full-potential-of-web3/)
 
 ## **De-googling our internet.**
 
-  
 I have already switched from the Google search engine to Brave Search, thanks to its fully independent search indexing of Brave. There are no more misleading ads in search results or low-quality marketing information optimized by Google SEO.
-
   
 With Brave Goggles, search results remain in the hands of users rather than being controlled by the algorithms of the host search engine, like Google.
 
@@ -28,7 +31,7 @@ Developers need not stop here; we need to decentralize the computing servers and
 
 Here are the brave goggle and it links that I created:
 
-[https://github.com/reaudito-org/collection\_goggle](https://github.com/reaudito-org/collection_goggle)
+[https://github.com/reaudito-org/collection_goggle](https://github.com/reaudito-org/collection_goggle)
 
 Digital colonialism is threatening the Global South
 
@@ -44,7 +47,7 @@ Off-chaining Models and Approaches to Off-chain Computations
 
 https://cloudflare-ipfs.com/ipfs/bafybeicykr5y3ags5vdjnf5i66ijvng4wqq22hcwn2jsvywxwndpgoo24e/Off-chaining%20Models%20and%20Approaches%20to%20Off-chain%20Computations.pdf
 
-![](https://iambrainstorming.files.wordpress.com/2023/09/screenshot-from-2023-09-02-10-50-00.png?w=1024)
+![Offchain computation](./images/screenshot-from-2023-09-02-10-50-00.png)
 
 Adventures of an Enclave (SGX / TEEs)
 
@@ -74,7 +77,7 @@ Blockchain data centers can utilize renewable energy, and we can design systems 
 
 > Interoperability extends beyond just software compatibility; it also encompasses hardware compatibility. For instance, smartphones, regardless of whether they run on the Android or Apple operating systems, often hinder interoperability and pose challenges for supporting alternative operating systems like privacy-focused GrapheneOS or other Linux distributions. This situation poses a significant threat to user privacy, as it leaves devices vulnerable to state-sponsored or large tech companies' surveillance efforts.
 > 
-> Additionally, smartphones typically come with preinstalled bloatware that can be difficult to remove. These preinstalled applications are not only intrusive and annoying but also pose security threats and grant undue advantages to a select few companies. In 2021, Google made $146 billion in search advertising and gave a [$26 billion cut](https://www.cnbc.com/2023/10/27/google-paid-26-billion-in-2021-to-become-a-default-search-engine.html) to phone manufacturers and carriers in exchange for default status. That’s nearly 18 percent. It is crucial that we exert pressure on manufacturers to promote interoperability.
+> Additionally, smartphones typically come with preinstalled bloatware that can be difficult to remove. These preinstalled applications are not only intrusive and annoying but also pose security threats and grant undue advantages to a select few companies. In 2021, Google made $146 billion in search advertising and gave a [$26 billion cut](<https://www.cnbc.com/2023/10/27/google-paid-26-billion-in-2021-to-become-a-default-search-engine.html>) to phone manufacturers and carriers in exchange for default status. That’s nearly 18 percent. It is crucial that we exert pressure on manufacturers to promote interoperability.
 > 
 > Phone manufacturers should consider supporting the Android Open Source Project (AOSP), which would entail adhering to standardized hardware specifications. This standardization would enable users to switch to any operating system of their choice with greater ease. Furthermore, if manufacturers opt for custom hardware, they should make their device drivers open source and contribute to the AOSP.
 
@@ -147,19 +150,19 @@ Here's how Mastodon works:
 
 2. **User Accounts**: Users create accounts on specific Mastodon instances. These accounts have handles (similar to Twitter usernames) and profiles where they can provide information about themselves, upload avatars, and post content.
 
-4. **Toots**: Instead of tweets, Mastodon uses "toots" as the term for posts. Users can write and share toots with text, images, links, and videos. These toots can be public, meaning they are visible to anyone on the federated network, or they can be restricted to specific groups of users (followers, followers of followers, etc.), depending on the user's preferences.
+3. **Toots**: Instead of tweets, Mastodon uses "toots" as the term for posts. Users can write and share toots with text, images, links, and videos. These toots can be public, meaning they are visible to anyone on the federated network, or they can be restricted to specific groups of users (followers, followers of followers, etc.), depending on the user's preferences.
 
-6. **Following**: Users can follow other users from their own instance or from other instances. This creates a connection between the users, allowing them to see each other's toots in their timelines. The federated nature of Mastodon means you can follow and interact with users on different instances as if they were all part of the same network.
+4. **Following**: Users can follow other users from their own instance or from other instances. This creates a connection between the users, allowing them to see each other's toots in their timelines. The federated nature of Mastodon means you can follow and interact with users on different instances as if they were all part of the same network.
 
-8. **Timeline**: Mastodon users have a timeline that displays toots from users they follow. This timeline can be customized to show different types of content, such as the local timeline (toots from users on the same instance) or the federated timeline (toots from across the entire Mastodon network). Users can also create custom timelines to filter content based on hashtags and keywords.
+5. **Timeline**: Mastodon users have a timeline that displays toots from users they follow. This timeline can be customized to show different types of content, such as the local timeline (toots from users on the same instance) or the federated timeline (toots from across the entire Mastodon network). Users can also create custom timelines to filter content based on hashtags and keywords.
 
-10. **Privacy Controls**: Mastodon places a strong emphasis on user privacy and control. Users can choose who can follow them, who can see their toots, and who can interact with their content. This allows for a more tailored and secure social media experience.
+6. **Privacy Controls**: Mastodon places a strong emphasis on user privacy and control. Users can choose who can follow them, who can see their toots, and who can interact with their content. This allows for a more tailored and secure social media experience.
 
-12. **Moderation**: Instance administrators have the authority to set and enforce rules within their own instances. They can moderate content, suspend or ban users, and establish community guidelines to ensure a safe and respectful environment.
+7. **Moderation**: Instance administrators have the authority to set and enforce rules within their own instances. They can moderate content, suspend or ban users, and establish community guidelines to ensure a safe and respectful environment.
 
-14. **Open Source**: Mastodon is open-source software, which means the code is available for anyone to view, modify, and run their own Mastodon instance. This open nature encourages innovation and diversity within the Mastodon ecosystem.
+8. **Open Source**: Mastodon is open-source software, which means the code is available for anyone to view, modify, and run their own Mastodon instance. This open nature encourages innovation and diversity within the Mastodon ecosystem.
 
-16. **Interoperability**: Mastodon is part of the ActivityPub protocol, which enables interoperability with other federated social media platforms. This means that Mastodon users can interact with users on other platforms like Pleroma, PeerTube, and Pixelfed.
+9. **Interoperability**: Mastodon is part of the ActivityPub protocol, which enables interoperability with other federated social media platforms. This means that Mastodon users can interact with users on other platforms like Pleroma, PeerTube, and Pixelfed.
 
 > Interoperability makes it a different kind of beast, which means it's adaptable and future-proof. You can adapt it to use different decentralized protocols with many new features (e.g., using blockchain consensus to incentivize journalism) without destroying the existing network.
 
@@ -175,11 +178,11 @@ No need to overthink what instance to choose; you can change the instance anytim
 
 Use the 'Install' shortcut so that the website functions like an Android app, and you won't have to remember the URL.
 
-![](https://iambrainstorming.files.wordpress.com/2023/09/install-app.jpg?w=472)
+![Install App](./images/install-app.jpg)
 
 > For personalized feeds, you can use 'foryoufeed.' With 'foryoufeed,' you have control over personalization, not big tech companies that dictate what you see.
 
-![](https://iambrainstorming.files.wordpress.com/2023/09/feed-algorithm.png?w=985)
+![Feed Algorithm](./images/feed-algorithm.png)
 
 [https://github.com/pkreissel/foryoufeed](https://github.com/pkreissel/foryoufeed)
 
@@ -191,7 +194,7 @@ It's not just with Mastodon that you can get PubActivity; you can also access a 
 
 #OpenSource
 
-![](https://iambrainstorming.files.wordpress.com/2023/09/open-source.png?w=640)
+![Open Source Developer](./images/open-source.png)
 
 To do:
 
