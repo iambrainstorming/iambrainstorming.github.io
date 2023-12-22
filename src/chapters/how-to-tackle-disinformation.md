@@ -49,13 +49,13 @@ How Big Does a Minority Have to Be to Reshape Society?
 
 [https://www.scientificamerican.com/article/the-25-revolution-how-big-does-a-minority-have-to-be-to-reshape-society/](https://www.scientificamerican.com/article/the-25-revolution-how-big-does-a-minority-have-to-be-to-reshape-society/)
 
-**Understanding Diffusion**
+### Understanding Diffusion
 
 The things that we would like to spread often fail to diffuse. At the same time, the things that we want to prevent from spreading often succeed despite our best attempts to stop them. 
 
 This basic problem of diffusion—that is, the failure to spread behavior—occurs whenever behavior change encounters resistance. At tempts to spread everything from vaccinations to innovative technologies to environmentally friendly business practices have faced similar difficulties. The less familiar an innovation is, and the more inconvenient, uncomfortable, or expensive it is, the greater the resistance will typically be, and the less likely it will be to diffuse. 
 
-**Weak Ties**
+### Weak Ties
 
 The basic idea of the strength of weak ties is that while our strong ties that is, our friends and close family—all tend to know each other, our weak ties—that is, our casual acquaintances – connect us to remote parts of the social network. As the sociologist Mark Granovetter famously put it, **Whatever is to be diffused can reach a larger number of people, and traverse a greater social distance, when passed through weak ties rather than strong.**
 
