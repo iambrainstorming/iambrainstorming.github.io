@@ -41,7 +41,7 @@ Lakoff has said that he thinks media organizations are unintentionally spreading
 
 Use pairing graphics with words, linking abstract concepts with concrete representations, posing probing questions, and retrieval practice (asking people to explain) etc to explain things. 
 
-https://iambrainstorming.wordpress.com/2017/01/14/all-books-that-dont-meet-the-learning-criteria-must-be-taken-off/
+[Learning strategies link](https://iambrainstorming.wordpress.com/2017/01/14/all-books-that-dont-meet-the-learning-criteria-must-be-taken-off/)
 
 ## **4) The 25% Revolution**
 
