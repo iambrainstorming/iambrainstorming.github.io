@@ -73,7 +73,7 @@ Blockchain data centers can utilize renewable energy, and we can design systems 
 
 > We can - we must - dismantle the tech platforms. In _The Internet Con_, Cory Doctorow explains how to seize the means of computation, by forcing Silicon Valley to do the thing it fears most: interoperate. Interoperability will tear down the walls between technologies, allowing users leave platforms, remix their media, and reconfigure their devices without corporate permission.
 > 
-> [https://www.versobooks.com/en-gb/products/3035-the-internet-con](https://www.versobooks.com/en-gb/products/3035-the-internet-con)
+> [Book: The Internet Con:How to Seize the Means of Computation](https://www.versobooks.com/en-gb/products/3035-the-internet-con)
 
 > Interoperability extends beyond just software compatibility; it also encompasses hardware compatibility. For instance, smartphones, regardless of whether they run on the Android or Apple operating systems, often hinder interoperability and pose challenges for supporting alternative operating systems like privacy-focused GrapheneOS or other Linux distributions. This situation poses a significant threat to user privacy, as it leaves devices vulnerable to state-sponsored or large tech companies' surveillance efforts.
 > 
@@ -91,7 +91,13 @@ File access needs to be limited to only a particular folder that the user can se
 
 More personalization of permissions is needed, such as allowing users to set a time to automatically remove all app permissions after a given period. This could include disabling permissions after 5 minutes, after closing the app, after a day, or after a week.
 
-These security measures can also be implemented in Linux package managers like [AppImage](https://github.com/AppImage/AppImageKit/issues/1291).
+The security measures in the Linux system are implemented through the use of [firejail](https://firejail.wordpress.com/). Additionally, there is a user interface (UI) called [firetools](https://github.com/netblue30/firetools).
+
+e.g.
+To stop internet access one can use:
+```bash
+firejail --net=none vlc 
+```
 
 ## **De-Facebook the Internet**
 
@@ -192,7 +198,7 @@ It's not just with Mastodon that you can get PubActivity; you can also access a 
 
 [https://join-lemmy.org/](https://join-lemmy.org/)
 
-#OpenSource
+## OpenSource
 
 ![Open Source Developer](./images/open-source.png)
 
