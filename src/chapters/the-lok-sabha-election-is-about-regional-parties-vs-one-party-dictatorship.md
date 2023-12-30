@@ -123,6 +123,36 @@ However, classifying political parties as strictly right-wing or left-wing can b
 
 In light of these dynamics, it can be argued that FPTP disproportionately disadvantages left-wing leaders. The system, structured to reward the candidate with the most votes in each constituency, may not align with the diverse and expressive nature of left-wing voters. As a result, FPTP tends to favor the cohesiveness of right-wing voters, potentially impacting the representation of left-wing leaders in the political landscape.
 
+## How will you explain FPTP to 5 year old?
+
+Imagine you and your friends live in a hostel, and every day you all have to eat the same thing for lunch. The owner always serves upma, but most of the kids in the hostel don't like it every day. So, they decide to vote to change the menu and have different foods.
+
+Now, the way they vote is a bit confusing. It's called FPTP, which means "First Past the Post." Each person gets to choose their favorite food, and the one with the most votes wins.
+
+Here's how it went:
+
+    50 friends voted for Upma.
+    30 friends voted for Dahi Bada.
+    10 friends voted for Puri Sabji.
+    30 friends voted for Idli.
+    40 friends voted for Paneer Curry.
+    45 friends voted for Chicken Biryani.
+    35 friends voted for Chilly Chicken.
+    28 friends voted for Mutton Curry.
+
+Even though most friends wanted a change and voted for different foods, Upma got the most votes. So, even though more friends wanted something else, Upma stays on the menu.
+
+Unfortunately, nothing changed due to the use of the most terrible voting method called FPTP, even though most students desired a different menu.
+
+## How will you explain tactical voting to a 5 year old in FPTP?
+
+Imagine you and your friends are choosing a new game to play, but you have to pick just one game to play together. Each friend can only vote for their favorite game, and the game with the most votes wins.
+
+Now, let's say your absolute favorite game is a bit unusual, and not many friends like it. If you vote for that game, it might not get enough votes to win. So, what do you do? You might decide to vote for a game that's not your favorite but is more popular among your friends, just to make sure it wins.
+
+Tactical voting is like when you pick a game you don't love but think is more likely to win, just so you're not stuck with a game you really don't like. In elections, it's when people vote for a candidate who might not be their top choice but has a better chance of winning, to prevent a candidate they really don't want from winning.
+
+
 ## No EVM in Election
 
 EVM is one of the most insecure system of voting.
