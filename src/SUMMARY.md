@@ -22,6 +22,10 @@
   - [Open-list proportional representation vs. Mixed-member proportional representation](./chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.md)
   - [Parliamentary or Presidential form of government? What's in the name?](./chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.md)
   - [The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship](./chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md)
+  
+# India Employment
+
+- [India Employment Data](./data/india_employment_data.md)
 
 # Cooperation
   
@@ -36,3 +40,5 @@
 # Philosophy
 
 - [Understanding free will and how it can impact our behavior](./chapters/understanding-free-will-and-how-it-can-impact-our-behavior.md)
+
+
