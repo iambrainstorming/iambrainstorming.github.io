@@ -4,6 +4,7 @@
 
 - [Manifesto: What will a boycott of the national currency give us?](./chapters/what-will-a-boycott-of-the-national-currency-give-us.md)
   - [Price discovery of decentralized supply chain](./chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
+  - [What do we need to decentralize in the coming years?](./chapters/what-do-we-need-to-decentralize-in-the-coming-years.md)
   - [Emotion and empathy rather than materialism](./chapters/relationships-emotions-and-happiness.md)
   - [No Entrance culture, and rate race, rote learning education system](./chapters/how-avrit-learning-solves-our-education-puzzle.md)
   - [Remote jobs or work from home with less working hours](./chapters/how-to-beat-the-worst-job-culture-of-india.md)
@@ -12,8 +13,7 @@
   - [Sustainable housing design](./chapters/building-better-cities.md)
   - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)  
   - [Car-free cities](./chapters/road-planning-of-cities.md) 
-  - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)
-  - [What do we need to decentralize in the coming years?](./chapters/what-do-we-need-to-decentralize-in-the-coming-years.md)
+  - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md) 
   - [Love for USD pegged stable coin by the crypto community must end](./chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
 
 # Democracy 

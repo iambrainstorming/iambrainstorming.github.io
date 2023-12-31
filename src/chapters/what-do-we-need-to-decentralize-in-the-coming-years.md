@@ -67,7 +67,7 @@ While cryptocurrencies like Bitcoin, which use proof of work, consume excessive 
 
 As for storage, the decentralized IPFS protocol is efficient because it localizes storage. If your neighbor has already downloaded a file, you can obtain it from them instead of fetching it from the other side of the internet (which also saves on power usage, considering routers). Content addressing allows you to avoid downloading a lot of duplicate data, which can be particularly beneficial in data centers and clusters that need to distribute mostly identical Docker/machine images.
 
-Blockchain data centers can utilize renewable energy, and we can design systems to be more localized, make most apps work offline (e.g., with the ability to download music or movies, so that you don't have to redownload them from the internet all the time and save energy), performing [machine learning on local computers](https://huggingface.co/) or local servers using open-source models only for what's necessary. The capitalist system disallows offline download and local sharing, as they can't make profits without copyright. Further sustainable housing designs that rely on renewable energy for computing are also viable. Additionally, we can penalize unsustainable blockchains using [decentralized price discovery](https://iambrainstorming.wordpress.com/2022/12/19/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply/).
+Blockchain data centers can utilize renewable energy, and we can design systems to be more localized, make most apps work offline (e.g., with the ability to download music or movies, so that you don't have to redownload them from the internet all the time and save energy), performing [machine learning on local computers](https://huggingface.co/) or local servers using open-source models only for what's necessary. The capitalist system disallows offline download and local sharing, as they can't make profits without copyright. Further sustainable housing designs that rely on renewable energy for computing are also viable. Additionally, we can penalize unsustainable blockchains using [decentralized price discovery](./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md).
 
 ## **Interoperability**: Dismantle the tech platforms.
 
@@ -98,6 +98,10 @@ To stop internet access one can use:
 ```bash
 firejail --net=none vlc 
 ```
+
+### Enhancing Privacy and Security in Offline App Design with WebAssembly
+
+[Link to: Enhancing Privacy and Security in Offline App Design with WebAssembly](https://amiyatulu.github.io/blog/linux/Offline_centric_apps.html)
 
 ## **De-Facebook the Internet**
 

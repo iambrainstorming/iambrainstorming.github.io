@@ -1,5 +1,6 @@
+# How can we decentralize the construction of brick-and-mortar houses?
+
 ---
-title: "How can we decentralize the construction of brick-and-mortar houses?"
 date: "2023-11-16"
 categories: 
   - "blockchain"
@@ -12,7 +13,7 @@ categories:
 
 ## Diversity of Housing Design
 
-No two buildings or skyscrapers are identical. Engineers can craft various sustainable designs and gain approval from the decentralized governance. These designs may incorporate [diverse features](https://iambrainstorming.wordpress.com/2022/10/16/what-will-a-boycott-of-the-national-currency-give-us/) such as [supermarkets](https://iambrainstorming.wordpress.com/2023/11/11/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control/), playgrounds, office spaces adaptable for [remote work](https://iambrainstorming.wordpress.com/2020/02/16/how-to-beat-the-worst-job-culture-of-india/), natural parks, and forests. Additionally, inclusive community amenities like schools and hospitals contribute to a well-rounded environment.
+No two buildings or skyscrapers are identical. Engineers can craft various sustainable designs and gain approval from the decentralized governance. These designs may incorporate [diverse features](./what-will-a-boycott-of-the-national-currency-give-us.md) such as [supermarkets](./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md), playgrounds, office spaces adaptable for [remote work](./how-to-beat-the-worst-job-culture-of-india.md), natural parks, and forests. Additionally, inclusive community amenities like schools and hospitals contribute to a well-rounded environment.
 
 ## Free Market: Demand and Supply Transactions and Investments
 
@@ -30,7 +31,7 @@ The governance structure [involves various stakeholders](https://amiyatulu.githu
 
 ## Reducing Bureaucracy through Governance Approval
 
-Ensuring the safety, longevity, and earthquake resistance of housing is imperative. One also needs to put a halt to the unoptimized use of land, including issues like [urban sprawl](https://iambrainstorming.wordpress.com/2019/04/17/building-better-cities/) and ask for sustainable energy sufficient (e.g using solar panels) housing design. The governance body monitors the entire process, from building design approval to construction. If an engineer or worker deviates from the expected standards, the governance system has the authority to vote them out.
+Ensuring the safety, longevity, and earthquake resistance of housing is imperative. One also needs to put a halt to the unoptimized use of land, including issues like [urban sprawl](./building-better-cities.md) and ask for sustainable energy sufficient (e.g using solar panels) housing design. The governance body monitors the entire process, from building design approval to construction. If an engineer or worker deviates from the expected standards, the governance system has the authority to vote them out.
 
 ## Transparent Pricing and Accounting of Materials
 
