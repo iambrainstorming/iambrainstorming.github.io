@@ -158,7 +158,7 @@ It is easier to change the voting method at the constituency or municipality lev
 
 According to the theory of diffusion, the less familiar an innovation is, and the more inconvenient, uncomfortable, or expensive it is, the greater the resistance will typically be, and the less likely it will be to diffuse. Approval Voting is the simplest and least expensive to implement, with fewer roadblocks.
 
-Furthermore, Proportional Representation and Approval Voting are not mutually exclusive. Proportional Representation works better, becomes more expressive, and keeps bad actors out when used in conjunction with Approval Voting
+Furthermore, Proportional Representation and Approval Voting are not mutually exclusive. Proportional Representation works better, becomes more [expressive](https://electionscience.org/voting-methods/spoiler-effect-top-5-ways-plurality-voting-fails/), and keeps bad actors out when used in conjunction with Approval Voting
 
 
 ## No EVM in Election
