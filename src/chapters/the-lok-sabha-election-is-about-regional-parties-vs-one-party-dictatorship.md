@@ -152,6 +152,14 @@ Now, let's say your absolute favorite game is a bit unusual, and not many friend
 
 Tactical voting is like when you pick a game you don't love but think is more likely to win, just so you're not stuck with a game you really don't like. In elections, it's when people vote for a candidate who might not be their top choice but has a better chance of winning, to prevent a candidate they really don't want from winning.
 
+## What should be implemented first: Approval Voting or Proportional Representation?
+
+It is easier to change the voting method at the constituency or municipality level than at the multi-constituency, state, or country level. Proportional Representation requires a nationwide change, while for single-winner Approval Voting, one constituency will suffice, paving the way for Proportional Representation. The tactical voting problem is also addressed through Approval Voting. Directly advocating for Proportional Representation can potentially delay the process.
+
+According to the theory of diffusion, the less familiar an innovation is, and the more inconvenient, uncomfortable, or expensive it is, the greater the resistance will typically be, and the less likely it will be to diffuse. Approval Voting is the simplest and least expensive to implement, with fewer roadblocks.
+
+Furthermore, Proportional Representation and Approval Voting are not mutually exclusive. Proportional Representation works better, becomes more expressive, and keeps bad actors out when used in conjunction with Approval Voting
+
 
 ## No EVM in Election
 
@@ -221,3 +229,17 @@ Instead, they may make the candidate win with a small margin. They could increas
 As given in data, there are many instances where the majority of people in a constituency have voted against a candidate, yet they have won. While it is very likely to happen with FPTP, EVM hacking can make it even worse.
 
 It's better for us to stop using the EVM and reform our voting system by doing away FPTP.
+
+## Security analysis of a real Indian EVM
+
+You can watch a demo video by going through the link:
+
+<https://indiaevm.org>
+
+Here the the research paper with about security analysis of a real Indian EVM.
+
+[Pdf Link](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeihpuk27kya3cxhwr5vc64a5ei55fr7bnqikjpdwxlf3agitajfbvm)
+
+### Abstract of the paper
+
+Elections in India are conducted almost exclusively using electronic voting machines developed over the past two decades by a pair of government-owned companies. These devices, known in India as EVMs, have been praised for their simple design, ease of use, and reliability, but recently they have also been criticized following widespread reports of election irregularities. Despite this criticism, many details of the machines’ design have never been publicly disclosed, and they have not been subjected to a rigorous, independent security evaluation. In this paper, we present a security analysis of a real Indian EVM obtained from an anonymous source. We describe the machine’s design and operation in detail, and we evaluate its security in light of relevant election procedures. We conclude that in spite of the machines’ simplicity and minimal software trusted computing base, they are vulnerable to serious attacks that can alter election results and violate the secrecy of the ballot. We demonstrate two attacks, implemented using custom hardware, which could be carried out by dishonest election insiders or other criminals with only brief physical access to the machines. This case study carries important lessons for Indian elections and for electronic voting security more generally.

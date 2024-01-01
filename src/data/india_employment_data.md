@@ -1,17 +1,7 @@
 # Employment Data
 
 
-## Dbt Schemes
-
-[Reference data](./files/DBT_Schemes.pdf)
-
-```json
-
-{{#include ./files/json/dbt_schemes.json}}
-
-```
-
-# Population data
+## Population data
 
 ```json
 
@@ -19,15 +9,6 @@
 
 ```
 
-## Percentage of people getting EPF through Direct Benefit Transfers schemes
-
-Percentage of people getting EPF through dbt schemes (age: 15-64): 6.7
-
-```python
-percentage = (61712775/(472653000+447337000))*100
-print(percentage) 
-# 6.707983238948249
-```
 
 ## Percentage by payroll
 
@@ -52,3 +33,5 @@ print(percentage)
 - District wise calculation
 - By male
 - By female
+- By other gender
+- By Salary range
