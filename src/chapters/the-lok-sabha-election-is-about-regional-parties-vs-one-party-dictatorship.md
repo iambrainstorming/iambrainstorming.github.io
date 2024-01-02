@@ -1,5 +1,7 @@
 # The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship.
-# date: "2023-12-05"
+
+## date: "2023-12-05"
+
 ---
 categories: 
   - "politics"

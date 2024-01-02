@@ -7,6 +7,8 @@
 categories:
 
 - "blockchain"
+- "social media"
+- "search engine"
 
 ---
 
@@ -45,7 +47,7 @@ There other alternative like [Integritee](https://github.com/integritee-network)
 
 Off-chaining Models and Approaches to Off-chain Computations
 
-https://cloudflare-ipfs.com/ipfs/bafybeicykr5y3ags5vdjnf5i66ijvng4wqq22hcwn2jsvywxwndpgoo24e/Off-chaining%20Models%20and%20Approaches%20to%20Off-chain%20Computations.pdf
+[Article Link](https://cloudflare-ipfs.com/ipfs/bafybeicykr5y3ags5vdjnf5i66ijvng4wqq22hcwn2jsvywxwndpgoo24e/Off-chaining%20Models%20and%20Approaches%20to%20Off-chain%20Computations.pdf)
 
 ![Offchain computation](./images/screenshot-from-2023-09-02-10-50-00.png)
 
@@ -132,6 +134,8 @@ Twitter slammed by LGBTQ rights groups after quietly removing line in hate speec
 
 We can build a decentralized social media platform using decentralized moderation and governance to combat fake news. Various decentralized algorithms, such as [sequential Phragmén](https://wiki.polkadot.network/docs/learn-phragmen), Schelling point games, or a simple system like re-ranking users, similar to the Brave Goggle protocol, can be effective in addressing disinformation. We can go further to incentivize or pay the unbiased journalism.
 
+## Desirable Social Media Features
+
 **Some of the features social media needs to have:** 
 
 1) **FOSS (Free and open-source software):** Anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design (e.g security or bugs, UX, new features) of the software. 
@@ -156,13 +160,15 @@ Here's how Mastodon works:
 
 1. **Instance**: Instead of a single, centralized server or website like Twitter, Mastodon consists of many independent servers called "instances." Each instance is operated by its own administrators and has its own set of rules and community guidelines. Users on an instance can communicate with users on other instances, making it a federated network.
 
-> As there are multiple instances spread throughout the world, it's exceedingly challenging for fascist governments in different regions to censor content. Most instances operate through consensus, so if an instance misbehaves by promoting hate speech or disinformation, it's likely to be added to the blocked list by other instances.
+> As there are multiple instances spread throughout the world, it's challenging for fascist governments in different regions to censor content. Most instances operate through consensus, so if an instance misbehaves by promoting hate speech or disinformation, it's likely to be added to the blocked list by other instances.
 
 2. **User Accounts**: Users create accounts on specific Mastodon instances. These accounts have handles (similar to Twitter usernames) and profiles where they can provide information about themselves, upload avatars, and post content.
 
 3. **Toots**: Instead of tweets, Mastodon uses "toots" as the term for posts. Users can write and share toots with text, images, links, and videos. These toots can be public, meaning they are visible to anyone on the federated network, or they can be restricted to specific groups of users (followers, followers of followers, etc.), depending on the user's preferences.
 
 4. **Following**: Users can follow other users from their own instance or from other instances. This creates a connection between the users, allowing them to see each other's toots in their timelines. The federated nature of Mastodon means you can follow and interact with users on different instances as if they were all part of the same network.
+
+> It's a bit hard to find your followers on Mastodon, especially if they are on a different instance because name search is unlikely to yield results on a different instance. Also, it will not provide personalized AI suggestions like on Twitter for followers. Although such tools could be built into Mastodon, Mastodon is not a big tech platform; it relies on donations and volunteer developers, and building such features can be costly in terms of server cost. You need to do some extra work, such as finding followers using hashtags, retweeting from other users, federated timeline, or communication through other platforms to get handle etc.
 
 5. **Timeline**: Mastodon users have a timeline that displays toots from users they follow. This timeline can be customized to show different types of content, such as the local timeline (toots from users on the same instance) or the federated timeline (toots from across the entire Mastodon network). Users can also create custom timelines to filter content based on hashtags and keywords.
 
@@ -172,7 +178,7 @@ Here's how Mastodon works:
 
 8. **Open Source**: Mastodon is open-source software, which means the code is available for anyone to view, modify, and run their own Mastodon instance. This open nature encourages innovation and diversity within the Mastodon ecosystem.
 
-9. **Interoperability**: Mastodon is part of the ActivityPub protocol, which enables interoperability with other federated social media platforms. This means that Mastodon users can interact with users on other platforms like Pleroma, PeerTube, and Pixelfed.
+9.  **Interoperability**: Mastodon is part of the ActivityPub protocol, which enables interoperability with other federated social media platforms. This means that Mastodon users can interact with users on other platforms like Pleroma, PeerTube, and Pixelfed.
 
 > Interoperability makes it a different kind of beast, which means it's adaptable and future-proof. You can adapt it to use different decentralized protocols with many new features (e.g., using blockchain consensus to incentivize journalism) without destroying the existing network.
 
@@ -182,7 +188,7 @@ In summary, Mastodon works by decentralizing social media, allowing users to cre
 
 - Choose your instance from [https://joinmastodon.org/](https://joinmastodon.org/) and register your account.
 
-No need to overthink what instance to choose; you can change the instance anytime if you don't like it. Sometimes, some instances don't allow new registrations because their capacity is full. Register on an instance that allows registration.
+Don't overthink which instance to choose; you can change your instance anytime if you're not satisfied. Occasionally, certain instances may not permit new registrations due to reaching full capacity. Additionally, some instances might be unreliable in terms of speed and bandwidth performance. Register on an instance that allows new registrations, or if you don't have time to research servers, consider joining mastodon.social and change it at your preferred time if you wish.
 
 - To use on mobile, you can use Android apps or just the website. I prefer the website because it provides a better user experience with quicker updates, and there are more websites available with different features.
 
@@ -190,11 +196,15 @@ Use the 'Install' shortcut so that the website functions like an Android app, an
 
 ![Install App](./images/install-app.jpg)
 
-> For personalized feeds, you can use 'foryoufeed.' With 'foryoufeed,' you have control over personalization, not big tech companies that dictate what you see.
+### Personalized Feeds
+
+> For personalized feeds, you can use `foryoufeed`. With `foryoufeed`, you have control over personalization, not big tech companies that dictate what you see.
 
 ![Feed Algorithm](./images/feed-algorithm.png)
 
 [https://github.com/pkreissel/foryoufeed](https://github.com/pkreissel/foryoufeed)
+
+> You can also create lists in mastodon, to create personalization. 
 
 It's not just with Mastodon that you can get PubActivity; you can also access a decentralized Reddit-like experience with Lemmy
 
@@ -206,6 +216,3 @@ It's not just with Mastodon that you can get PubActivity; you can also access a 
 
 ![Open Source Developer](./images/open-source.png)
 
-To do:
-
-Decentralizing supermarket, housing, health care/hospital.

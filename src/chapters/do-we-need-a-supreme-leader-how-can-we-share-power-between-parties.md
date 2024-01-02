@@ -1,5 +1,7 @@
 # Do we need a supreme leader? How can we share power between parties?
+
 ## date: "2023-03-30"  
+
 ---
 categories:   
   - "democracy"
