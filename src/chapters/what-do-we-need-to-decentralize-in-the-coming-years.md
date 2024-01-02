@@ -202,7 +202,9 @@ Use the 'Install' shortcut so that the website functions like an Android app, an
 
 ![Feed Algorithm](./images/feed-algorithm.png)
 
-[https://github.com/pkreissel/foryoufeed](https://github.com/pkreissel/foryoufeed)
+[Website Foryoufeed](https://foryoufeed.vercel.app/)
+
+[Github link](https://github.com/pkreissel/foryoufeed)
 
 > You can also create lists in mastodon, to create personalization. 
 
