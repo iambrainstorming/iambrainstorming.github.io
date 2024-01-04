@@ -40,11 +40,11 @@ Should we consider banning cars? It's not about adopting an all-or-nothing appro
 
 ![Mobility Pyramid](./images/mobility-pyramid.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/06IjfbqdnNM?si=O2wC4JqZqTjUrVld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 > Next time someone criticizes an "empty bike lane," remind them it because they’re efficient.
 
 ## These Animated Videos Show Just How Much Space Cars Waste In Our Cities
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06IjfbqdnNM?si=O2wC4JqZqTjUrVld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [https://www.fastcompany.com/3063344/these-animated-videos-show-just-how-much-space-cars-waste-in-our-cities](https://www.fastcompany.com/3063344/these-animated-videos-show-just-how-much-space-cars-waste-in-our-cities)
 
