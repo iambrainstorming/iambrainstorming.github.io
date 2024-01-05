@@ -15,6 +15,8 @@
   - [Car-free cities](./chapters/road-planning-of-cities.md) 
   - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md) 
   - [Love for USD pegged stable coin by the crypto community must end](./chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
+  - [Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma](./chapters/democracy/tyranny_of_the_majority.md)
+  - [Simple Majority vs Super Majority](./chapters/democracy/simple_majority_and_super_majority.md)
   - [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is Possible](./chapters/economics/dismissing_return.md)
 
 # Democracy 
