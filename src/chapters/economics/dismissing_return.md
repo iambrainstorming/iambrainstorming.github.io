@@ -55,6 +55,10 @@ Unchecked growth also puts immense pressure on infrastructure, leading to negati
 
 Negative externalities can also manifest in the form of social and health costs. For instance, industries emitting pollutants may adversely affect public health, leading to increased healthcare expenditures. Addressing these health-related negative externalities requires additional investments in healthcare infrastructure and services.
 
+### Shifting Investments Away from Essential Needs:
+
+In the long run, there is an imperative need to invest in repairing the negative externalities created; otherwise, it can have catastrophic effects, ultimately leading to a shortage of funds and causing poverty. The principle of "prevention is better than cure" underscores the importance of addressing environmental challenges proactively. Failing to invest in mitigating negative externalities not only risks environmental degradation but also places an unsustainable financial burden on societies. As environmental issues escalate, the need for resources to rectify the damage intensifies, diverting crucial funds away from essential sectors. This diversion, coupled with the economic repercussions of environmental deterioration, can perpetuate a cycle of resource scarcity and poverty, emphasizing the urgency of preventative measures to ensure a sustainable and equitable future.
+
 ### The Call for Responsible Growth:
 
 Understanding the interplay between negative externalities and the challenges of capital depreciation is essential for nations aspiring to achieve sustainable growth. The steady state concept, while highlighting the need for a balance between consumption and saving, underscores the importance of responsible growth. Responsible growth involves considering the long-term consequences of economic activities, internalizing the costs of negative externalities, and making informed decisions that prioritize the well-being of both current and future generations.
