@@ -39,7 +39,6 @@ The surge in gas cylinder prices has become a focal point of intense political d
 
 Instead, a more viable approach involves making substantial investments in renewable energy sources such as solar and wind, coupled with advancements in energy storage technologies like batteries. This strategic shift towards renewables can not only address the immediate concerns about the affordability of energy but also pave the way for a more sustainable and decentralized power infrastructure.
 
-[https://scroll.in/latest/1008402/taxes-on-fuel-fund-covid-19-vaccines-free-meals-says-union-minister-hardeep-singh-puri](https://scroll.in/latest/1008402/taxes-on-fuel-fund-covid-19-vaccines-free-meals-says-union-minister-hardeep-singh-puri)
 
 ## **Please stop providing coal subsidy**
 
