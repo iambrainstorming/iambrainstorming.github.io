@@ -10,12 +10,16 @@ Usha Mehta's use of a transmitter during the Indian independence movement is an 
 
 #### Creating Underground Networks
 
-   Usha Mehta and her colleagues set up an underground radio station to transmit messages from the All India Congress Committee. In a similar vein, individuals today can create decentralized networks using P2P technologies. This can involve establishing alternative communication channels that are resistant to censorship and control.
+Usha Mehta and her colleagues set up an underground radio station to transmit messages from the All India Congress Committee. In a similar vein, individuals today can create decentralized networks using P2P technologies. This can involve establishing alternative communication channels that are resistant to censorship and control.
 
 #### Using P2P Technologies
 
 - **Torrent Networks:** Torrents use a decentralized P2P protocol, making it difficult for authorities to control or shut down. Individuals can share information through torrent files, ensuring that the data is distributed across multiple users.
-- **Signal and other end to encrypted apps:** Signal is an encrypted messaging app that prioritizes user privacy. Activists and individuals seeking to share information securely can use Signal for text, voice, and video communication without fear of surveillance.
+- **Signal and other open source end to end encrypted apps:** Signal is an encrypted messaging app that prioritizes user privacy. Activists and individuals seeking to share information securely can use Signal for text, voice, and video communication without fear of surveillance. 
+
+> You can find other apps in [F-Droid](https://f-droid.org/en/). F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+
+
 - **Tor Network:** The Tor network allows users to browse the internet anonymously by routing their traffic through a series of volunteer-operated servers. This can help individuals access and share information while bypassing government-imposed restrictions.
 
 #### Maintaining Anonymity
