@@ -1,12 +1,13 @@
+# Capitalism vs Socialism: Which one is working?
+
 ---
-title: "Capitalism vs Socialism: Which one is working?"
 date: "2020-02-12"
 categories: 
   - "democracy"
   - "economics"
 ---
 
-This is the dictionary definition of capitalism:
+## This is the dictionary definition of capitalism:
 
 > an economic and political system in which a country's trade and industry are controlled by private owners for profit.
 
@@ -58,9 +59,9 @@ Another example can be decentralized computation using blockchain, its free mark
 
 [https://runonflux.io/](https://runonflux.io/)
 
-https://www.youtube.com/watch?v=AkFZgZ5IjTU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AkFZgZ5IjTU?si=nyAewzTyniBjMfyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=Fdfru9NHGvE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fdfru9NHGvE?si=lXXEwR1jLZF8wQSy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > But what about capitalism. We have one-sided economy where only very few control the market. 
 
@@ -70,6 +71,6 @@ https://www.youtube.com/watch?v=Fdfru9NHGvE
 
 ## Capitalism is not working
 
-![](https://iambrainstorming.files.wordpress.com/2020/02/capitalism.jpeg?w=1024)
+![Capitalism](./images/capitalism.webp)
 
 [https://www.weforum.org/agenda/2020/02/countries-losing-faith-capitalism-economics-global-political-systems](https://www.weforum.org/agenda/2020/02/countries-losing-faith-capitalism-economics-global-political-systems)

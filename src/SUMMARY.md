@@ -17,7 +17,9 @@
   - [Love for USD pegged stable coin by the crypto community must end](./chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
   - [Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma](./chapters/democracy/tyranny_of_the_majority.md)
   - [Simple Majority vs Super Majority](./chapters/democracy/simple_majority_and_super_majority.md)
+  - [Socialism vs Capitalism](./chapters/capitalism-vs-socialism-which-one-is-working.md)
   - [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is Possible](./chapters/economics/dismissing_return.md)
+  
 
 # Democracy 
 
@@ -25,6 +27,7 @@
   - [The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship](./chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md)
   - [Open-list proportional representation vs. Mixed-member proportional representation](./chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.md)
   - [Parliamentary or Presidential form of government? What's in the name?](./chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.md)
+  - [What to share information under fascism?](./chapters/democracy/govt_controlling_information.md)
   
 # India Employment
 
