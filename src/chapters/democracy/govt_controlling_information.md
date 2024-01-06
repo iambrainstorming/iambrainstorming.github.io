@@ -15,7 +15,7 @@ Usha Mehta's use of a transmitter during the Indian independence movement is an 
 #### Using P2P Technologies
 
 - **Torrent Networks:** Torrents use a decentralized P2P protocol, making it difficult for authorities to control or shut down. Individuals can share information through torrent files, ensuring that the data is distributed across multiple users.
-- **Signal and other end to endcrypted apps:** Signal is an encrypted messaging app that prioritizes user privacy. Activists and individuals seeking to share information securely can use Signal for text, voice, and video communication without fear of surveillance.
+- **Signal and other end to encrypted apps:** Signal is an encrypted messaging app that prioritizes user privacy. Activists and individuals seeking to share information securely can use Signal for text, voice, and video communication without fear of surveillance.
 - **Tor Network:** The Tor network allows users to browse the internet anonymously by routing their traffic through a series of volunteer-operated servers. This can help individuals access and share information while bypassing government-imposed restrictions.
 
 #### Maintaining Anonymity
