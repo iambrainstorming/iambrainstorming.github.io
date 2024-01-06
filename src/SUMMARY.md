@@ -8,7 +8,7 @@
   - [Emotion and empathy rather than materialism](./chapters/relationships-emotions-and-happiness.md)
   - [No Entrance culture, and rate race, rote learning education system](./chapters/how-avrit-learning-solves-our-education-puzzle.md)
   - [Remote jobs or work from home with less working hours](./chapters/how-to-beat-the-worst-job-culture-of-india.md)
-  - [Clean energy like roof top solar and wind energy](./chapters/demand-for-50-subsidy-for-solar.md)
+  - [Clean energy like roof top solar and wind energy](./chapters/invest_on_renewables.md)
   - [Banning single use plastic](./chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.md)
   - [Sustainable housing design](./chapters/building-better-cities.md)
   - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)  
