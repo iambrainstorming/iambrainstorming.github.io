@@ -6,4 +6,6 @@ src = "src"
 title = "I am brainstorming"
 
 
-# [output.linkcheck]
+[output.html]
+mathjax-support = true
+git-repository-url = "https://github.com/iambrainstorming/iambrainstorming.github.io"
