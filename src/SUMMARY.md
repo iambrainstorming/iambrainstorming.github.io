@@ -27,7 +27,7 @@
   - [The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship](./chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md)
   - [Open-list proportional representation vs. Mixed-member proportional representation](./chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.md)
   - [Parliamentary or Presidential form of government? What's in the name?](./chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.md)
-  - [What to share information under fascism?](./chapters/democracy/govt_controlling_information.md)
+  - [How to share information under fascism or dictatorship?](./chapters/democracy/govt_controlling_information.md)
   
 # India Employment
 
