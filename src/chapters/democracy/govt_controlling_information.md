@@ -2,7 +2,7 @@
 
 ## Explain how Usha Mehta used a transmitter to reach the voices of Congress and Gandhi
 
-### Describe what to do when mainstream media is captured by a fascist government, and big tech social media either censors content or reduces views that go against the government
+### Describe what to do when mainstream media is captured by a fascist government, and big tech social media either [censors content or reduces views that go against the government](../what-do-we-need-to-decentralize-in-the-coming-years.md#de-facebook-the-internet)
 
 ### How to use P2P technology (such as torrent, Signal, Tor network, VPN and many others) to access information?
 
