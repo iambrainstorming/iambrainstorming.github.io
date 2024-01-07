@@ -20,7 +20,8 @@ It's based on the premise that AI will become super intelligent and take control
 
 **But can we define superintelligence? Does any such thing exist?**
 
-We attain intelligence through [experimentation and data](https://www.ibiology.org/educators-resources/online-course/lets-experiment/). To predict something accurately, we need lots of variables, so increase in computation. There is no evidence that the rules of physics or the rules of the universe can be broken. So, AI running on the hardware of the universe can't break the laws of physics. For example, even AI will take thousands of years to crack a secure cryptography with current computing power. Maybe with future quantum computers, it can be done easily, but quantum-safe cryptography still exists.  
+We attain intelligence through [experimentation and data](https://www.ibiology.org/educators-resources/online-course/lets-experiment/). To predict something accurately, we need lots of variables, so increase in computation. There is no evidence that the rules of physics or the rules of the universe can be broken. So, AI running on the hardware of the universe can't break the laws of physics. For example, even AI will take thousands of years to crack a secure cryptography with current computing power. Maybe, with future quantum computers, [if it is possible](https://www.quantamagazine.org/the-era-of-quantum-computing-is-here-outlook-cloudy-20180124) at all, some things can be [done easily](https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/). However, quantum-safe cryptography still exists.  
+
 Weather forecast still require huge amount of computation and data, AI can't predict weather by scratch.
 
 In the world of internet we can't know what is real and unreal, with emergence of deep fakes.
@@ -62,6 +63,8 @@ Moreover, it's essential to recognize that AI doesn't possess the ability to thi
 > Consequently, its outputs are based on the information contained in human-written data of human experiences. It cannot [independently seek or comprehend fundamental](./understanding-free-will-and-how-it-can-impact-our-behavior.md) human experiences.
 
 > AI can't fight for your privacy, women's rights, LGBTQ rights, disabled people, workers rights or climate change because they are not built with the same structure as humans and can't feel like humans. They don't have any evolutionary goals.
+
+> We make hundreds of decisions throughout the day based on how our human body feels. AI can't decide for us on its own because it can't feel like humans. It can't even make simple decisions, such as whether to take a bath, take a nap, or wash our hands, as AI doesn't need sleep and can't sense the coldness of water during a bath.
 
 ## If we were to simulate either our brain or our entire body, would it behave exactly like us?
 
