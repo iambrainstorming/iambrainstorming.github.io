@@ -56,7 +56,7 @@ Some of the dangers associated with AI include the creation of atom bombs, [biow
 
 It is essential to note that the decrease in these barriers is not solely due to AI but is rather a result of advancements in other technologies. For example, a graduate biology student can build a virus with access to technologies such as DNA printers, chemical reagents for DNA mutation, NGS, etc.
 
-AI can't create [perpetual machines](https://en.wikipedia.org/wiki/Perpetual_motion) through its intelligence; it will [consume energy](https://iambrainstorming.wordpress.com/2023/09/01/what-do-we-need-to-decentralize-in-the-coming-years/) and natural resources to function. Therefore, it needs to be used efficiently, only when necessary. Additionally, it cannot fully replace human labor.
+AI can't create [perpetual machines](https://en.wikipedia.org/wiki/Perpetual_motion) through its intelligence; it will [consume energy](./what-do-we-need-to-decentralize-in-the-coming-years.md#energy-consumption-by-servers-of-capitalism) and natural resources to function. Therefore, it needs to be used efficiently, only when necessary. Additionally, it cannot fully replace human labor.
 
 AI, or artificial intelligence, operates as a statistical model, meaning that it relies on patterns and probabilities rather than providing deterministic results. Due to its statistical nature, errors are inherent in its functioning, and complete precision cannot be guaranteed. It is a tool that excels in tasks governed by well-defined protocols.
 
@@ -92,7 +92,7 @@ Reputed AI models like ChatGPT and a open source model like HuggingFace's Chat h
 
 So there is a chunk of Flat-Earth believers who brand themselves as the only true skeptics alive. (“No, I will not believe anything that I cannot test myself.”) There are many things that are very difficult to test. It sometimes takes a certain amount of skill, or knowledge of mathematics, to be able to conclusively prove some things. Even people who dedicated their lives entirely to science have only so much time. Most of what we take as empirically falsifiable scientific truth we cannot falsify ourselves.
 
-> Let's set aside the realm of deep fakes, which involve the manipulation of celebrities' photos and are shared by some anonymous user. Instead, consider how one can trust an infographic or news article crafted by a journalist or scientist. Ultimately, it boils down to placing trust in institutions. Institutions with strong governance, ethical individuals, and well-designed incentives foster trust. Conversely, poorly governed institutions erode that trust.
+> Let's set aside the realm of deep fakes, which involve the manipulation of celebrities' photos and are shared by some anonymous user. Instead, consider how one can trust an infographic or news article crafted by a journalist or scientist. Ultimately, it boils down to placing trust in institutions. Institutions with strong governance, ethical individuals, and well-designed incentives foster trust. Conversely, [poorly governed institutions erode that trust](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders).
 
 > Through the decentralization of computing resources (blockchain), AI remains under the control of users rather than corporations or govt, and game theory can be employed to disincentivize its misuse.
 > 
