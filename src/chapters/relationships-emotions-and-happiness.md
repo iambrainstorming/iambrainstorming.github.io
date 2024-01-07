@@ -14,9 +14,11 @@ categories:
 
 ---
 
-What makes a good life? Lessons from the longest study on happiness
+## What makes a good life? 
 
-https://www.youtube.com/watch?v=8KkKuTCFvzI
+Lessons from the longest study on happiness
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8KkKuTCFvzI?si=Y9-H9FcTmI7R5ABP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > So what have we learned? What are the lessons that come from the tens of thousands of pages of information that we've generated on these lives? Well, the lessons aren't about wealth or fame or working harder and harder. The clearest message that we get from this 75-year study is this: **Good relationships keep us happier and healthier**. Period.
 > 
@@ -24,7 +26,7 @@ https://www.youtube.com/watch?v=8KkKuTCFvzI
 
 ### **Emotional Safety:**
 
-https://www.youtube.com/watch?v=1-RZYSTJAAo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1-RZYSTJAAo?si=c76qooTt4LnLpDli" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > When we talk about discipline, a lot of time we are punitive because it's faster, restorative takes more time. 
 
@@ -40,37 +42,38 @@ Police deter crime by increasing the perception that criminals will be caught an
 
 Restorative justice is not an alternative to deterrence through fear of punishment for criminal offences. For example, in the case of domestic violence, it's better to call the police to stop the violence immediately, than going for some restorative measures.
 
-![](https://iambrainstorming.files.wordpress.com/2019/09/emotions.png?w=295)
+![Emotions](./images/emotions.png)
 
-\-Wikipedia
+-Wikipedia
 
-![](https://iambrainstorming.files.wordpress.com/2020/01/character-strength.png?w=758)
+![Character Strength](./images/character-strength.png)
 
 Character Strengths
 
-![](https://iambrainstorming.files.wordpress.com/2019/09/chapter-list.png?w=388)
+![Phobia Workbook](./images/chapter-list.png)
 
 The Anxiety and Phobia Workbook by Edmund J. Bourne
 
-![](https://iambrainstorming.files.wordpress.com/2019/10/walkingpath.png?w=1024)
+![Walking path](./images/walkingpath.png)
 
 Walking the Path  
 Resilient by Rick Hanson
 
-![](https://iambrainstorming.files.wordpress.com/2019/10/emotional_keyboard.png?w=1024)
+![Emotional Keyboard](./images/emotional_keyboard.png)
 
 Emotional Keyboard  
 Teaching with Poverty in Mind by Eric Jensen
 
-### **Communication:**
+### Communication
 
-![](https://iambrainstorming.files.wordpress.com/2019/09/behaviour-is-communication.jpg?w=1024)
+![Behaviour is communication](./images/behaviour-is-communication.jpg)
 
 Behaviour is Communication
 
 > Effective Communication is the best way to maintain healthy relationships and develop positive emotions in others.
 
-**The 5 Secrets of Effective Communication (by David Burns)**
+
+## The 5 Secrets of Effective Communication (by David Burns)
 
 **Listening skills:**
 
@@ -102,27 +105,36 @@ I hear you saying that I'm not making a real effort to listen to you. I know tha
 
 **Breaking it down to the method:**
 
-1) **Empathy**:  
+## Empathy:  
+
 **Though Empathy:**  
 I hear you saying that I'm not making a real effort to listen to you.  
 **Feeling Empathy:**  
 I know that you're feeling angry and frustrated and I don't blame you, I wonder if you're also feeling a little sad too?  
-2) **Stroking**:  
+
+## Stroking
+
 That's when you find something good to say about the other person (it must be genuine and authentic)  
 e.g.I know how committed you are to making the relationship better, and that's why you're sharing this right now.  
-3) **Disarm**:  
+
+## Disarm
+
 And you're right, sometimes I find it hard to really hear where you're coming from.  
-4) **I feel..**  
+
+## I feel..
+
 I feel a little embarrassed about this because I know how committed you are to making the relationship better, and that's  
 why you're sharing this right now. I also feel a little defensive because I'm only a young bot and my ability to understand is  
 so limited, and that's frustrating too  
-5) **Inquiry:**  
+
+## Inquiry:
+
 Can you tell me a little more about how that has affected you?
 
 Reference:  
 [https://woebot.io/](https://woebot.io/)
 
-![](https://iambrainstorming.files.wordpress.com/2019/10/empathy-n-sympathy-.jpg?w=743)
+![Empathy and Sympathy](./images/empathy-n-sympathy.jpg)
 
 Empathy vs Sympathy
 
@@ -132,7 +144,7 @@ Empathy vs Sympathy
 
 **How to disagree well?**
 
-![](https://iambrainstorming.files.wordpress.com/2019/09/grahams_hierarchy_of_disagreement-en.png?w=707)
+![Graphams Hierachy](./images/grahams_hierarchy_of_disagreement.png)
 
 How to disagree well  
 The hierarchy of disagreement, by Paul Graham.
