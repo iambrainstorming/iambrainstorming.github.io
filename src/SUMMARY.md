@@ -29,9 +29,6 @@
   - [Parliamentary or Presidential form of government? What's in the name?](./chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.md)
   - [How to share information under fascism or dictatorship?](./chapters/democracy/govt_controlling_information.md)
   
-# India Employment
-
-- [India Employment Data](./data/india_employment_data.md)
 
 # Cooperation
   
@@ -47,4 +44,8 @@
 
 - [Understanding free will and how it can impact our behavior](./chapters/understanding-free-will-and-how-it-can-impact-our-behavior.md)
 
+
+# India Employment
+
+- [India Employment Data](./data/india_employment_data.md)
 
