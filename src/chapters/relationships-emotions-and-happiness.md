@@ -92,7 +92,7 @@ References:
 [https://tinyurl.com/disarmcom](https://tinyurl.com/disarmcom)
 
 Podcast:  
-[https://feelinggood.com/tag/disarming-technique/](http:// https://feelinggood.com/tag/disarming-technique/)
+[https://feelinggood.com/tag/disarming-technique/](https://feelinggood.com/tag/disarming-technique/)
 
 > **Good communication = empathy + stroking + disarm + I feel.. + inquiry**
 
