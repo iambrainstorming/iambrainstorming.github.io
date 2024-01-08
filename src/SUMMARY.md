@@ -49,3 +49,7 @@
 
 - [India Employment Data](./data/india_employment_data.md)
 
+# Programming
+
+- [A Glimpse into a Coder's Experience](./chapters/programming/debugging_time.md)
+
