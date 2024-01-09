@@ -31,3 +31,18 @@ The coding landscape is dynamic, with new languages, frameworks, and tools emerg
 ## Conclusion:
 
 In the realm of coding, each line of code is a stroke on the canvas of innovation. A coder's experience is a tapestry woven with the threads of creativity, problem-solving, collaboration, and a perpetual quest for efficiency. Embracing the challenges and celebrating the victories, coders navigate the coding odyssey with a passion for turning ideas into reality through the language of machines.
+
+
+
+## 90-90 Rule
+
+> The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+>
+> *— Tom Cargill, Bell Labs*
+
+The rule states that the first 90 percent of code consumes 90 percent of the development time, while the remaining 10 percent of code accounts for another 90 percent of the time. This seemingly contradictory math, totaling 180%, sardonically reflects the common tendency of software projects to exceed their initially estimated schedules.
+
+The rule sheds light on the dual nature of programming tasks, distinguishing between the relatively straightforward aspects and the more intricate, time-consuming components that often arise unexpectedly. The initial phase of development tends to encompass the visible and seemingly manageable aspects of a project, while the final 10 percent often involves unforeseen complexities and challenges. This insight serves as a cautionary tale for project managers and developers, emphasizing the need for realistic expectations and comprehensive planning.
+
+In agile software development, the 90-90 rule can manifest when a task is considered "relatively done." This scenario highlights a common challenge where planned work is completed, but finalizing the project is delayed due to a single remaining activity. This activity may introduce additional complexities or may be subject to unforeseen delays, leading to an extended timeline for project completion. The 90-90 rule, therefore, serves as a humorous yet insightful commentary on the intricacies and uncertainties inherent in software development efforts.
+
