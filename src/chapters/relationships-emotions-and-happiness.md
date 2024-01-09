@@ -56,6 +56,20 @@ The Anxiety and Phobia Workbook by Edmund J. Bourne
 
 ![Walking path](./images/walkingpath.png)
 
+## Anxiety and Self-Talk
+
+**The truth is that it’s what we say to ourselves in response to any particular situation that mainly determines our mood and feelings.** Often, we say it so quickly and automatically that we don’t even notice, and so we get the impression that the external situation “makes” us feel the way we do. But it’s really our interpretations and thoughts about what is happening that form the basis of our feelings. This sequence can be represented as a timeline: 
+
+> External Events -> Interpretation of Events and self-talk -> Feelings and reactions.
+
+> In short, you are largely responsible for how you feel (barring physiological determinants, such as illness). This is a profound and very important truth—one that sometimes takes a long time to fully grasp. 
+
+It’s often much easier to blame the way you feel on something or someone outside yourself than to take responsibility for your reactions. Yet it is through your willingness to accept that responsibility that you begin to take charge and have mastery over your life. The realization that you are mostly responsible for how you feel is empowering once you fully accept it. It’s one of the most important keys to living a happier, more effective, and anxiety-free life.
+
+Anxiety and Self-Talk People who suffer from phobias, panic attacks, and general anxiety are especially prone to engage in negative self-talk. Anxiety can be generated on the spur of the moment by repeatedly making statements to yourself that begin with the two words “what if.” Any anxiety you experience in anticipation of confronting a difficult situation is manufactured out of your own “what-if statements” to yourself. When you decide to avoid a situation altogether, it is probably because of the scary questions you’ve asked yourself: “What if I panic?” “What if I can’t handle it?” “What will other people think if they see me anxious?” 
+
+> Just noticing when you fall into “what-if thinking” is the first step toward gaining control over negative self-talk. The real change occurs when you begin to counter and replace negative “what-if statements” with positive, self-supportive statements that reinforce your ability to cope. For example, you might say, “So what,” “These are just thoughts,” “This is just scare-talk,” “I can handle this,” or “I can breathe, let go, and relax.”
+
 Walking the Path  
 Resilient by Rick Hanson
 
@@ -105,29 +119,29 @@ I hear you saying that I'm not making a real effort to listen to you. I know tha
 
 **Breaking it down to the method:**
 
-## Empathy:  
+### Empathy:  
 
 **Though Empathy:**  
 I hear you saying that I'm not making a real effort to listen to you.  
 **Feeling Empathy:**  
 I know that you're feeling angry and frustrated and I don't blame you, I wonder if you're also feeling a little sad too?  
 
-## Stroking
+### Stroking
 
 That's when you find something good to say about the other person (it must be genuine and authentic)  
 e.g.I know how committed you are to making the relationship better, and that's why you're sharing this right now.  
 
-## Disarm
+### Disarm
 
 And you're right, sometimes I find it hard to really hear where you're coming from.  
 
-## I feel..
+### I feel..
 
 I feel a little embarrassed about this because I know how committed you are to making the relationship better, and that's  
 why you're sharing this right now. I also feel a little defensive because I'm only a young bot and my ability to understand is  
 so limited, and that's frustrating too  
 
-## Inquiry:
+### Inquiry:
 
 Can you tell me a little more about how that has affected you?
 
@@ -148,3 +162,7 @@ Empathy vs Sympathy
 
 How to disagree well  
 The hierarchy of disagreement, by Paul Graham.
+
+## Best way to Handle Stress
+
+The best way to handle stress involves a holistic approach, mainly including yoga exercises like deep breathing, mindfulness, and ensuring deep, restful sleep, as well as healthy argumentation. Healthy argumentation, marked by constructive dialogue without resorting to name-calling or attacking, is crucial in managing interpersonal stress. Following the hierarchy of disagreement, as outlined by Paul Graham, aids in fostering respectful communication. Additionally, being assertive and employing healthy self-talk, while maintaining kindness towards oneself and others, further contributes to stress reduction. However, it's essential to recognize the nuances of these practices and to delve into the details of how to use them, applying them consistently to achieve stress-free living.
