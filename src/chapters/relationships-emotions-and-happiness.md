@@ -70,6 +70,28 @@ Anxiety and Self-Talk People who suffer from phobias, panic attacks, and general
 
 > Just noticing when you fall into “what-if thinking” is the first step toward gaining control over negative self-talk. The real change occurs when you begin to counter and replace negative “what-if statements” with positive, self-supportive statements that reinforce your ability to cope. For example, you might say, “So what,” “These are just thoughts,” “This is just scare-talk,” “I can handle this,” or “I can breathe, let go, and relax.”
 
+> *- The Anxiety and Phobia Workbook by Edmund J. Bourne*
+
+## Rumination
+
+> Rumination refers to the tendency of repeatedly thinking about the same thoughts, typically negative or distressing ones, without making progress or finding a resolution. It involves dwelling on problems, their causes, and their consequences, often in a repetitive and unproductive manner. This cognitive process is a common feature of various psychological disorders, such as depression and anxiety.
+
+When individuals engage in rumination, they may focus excessively on their problems, replaying distressing events or negative emotions in their minds. This repetitive thinking pattern can contribute to stress in several ways:
+
+1. **Amplification of Negative Emotions:** Rumination tends to magnify and intensify negative emotions. The more one dwells on distressing thoughts, the more likely it is for those emotions to become overwhelming and lead to increased stress levels.
+
+2. **Impaired Problem-Solving:** Rather than actively seeking solutions, rumination tends to keep individuals stuck in a cycle of repetitive thoughts. This can hinder effective problem-solving and decision-making, exacerbating stress as issues remain unresolved.
+
+3. **Physiological Effects:** Prolonged stress resulting from rumination can trigger physiological responses in the body, such as increased heart rate, elevated cortisol levels, and other stress-related changes. These physical responses can contribute to a cycle of stress and exacerbate the negative impact on mental well-being.
+
+4. **Interference with Cognitive Functioning:** Rumination can consume mental resources and attention, making it difficult for individuals to concentrate on tasks or engage in positive activities. This interference with cognitive functioning can contribute to a sense of helplessness and further elevate stress levels.
+
+5. **Social Isolation:** Individuals who ruminate excessively may find it challenging to engage in social interactions. Social support is a crucial factor in stress management, and the avoidance of social connections due to rumination can exacerbate feelings of loneliness and stress.
+
+Breaking the cycle of rumination is essential for reducing stress. Cognitive-behavioral therapy (CBT) and mindfulness-based interventions are often used to help individuals recognize and change their thought patterns, promoting healthier coping mechanisms and stress management. Learning to redirect thoughts, engage in problem-solving, and cultivate a more positive mindset can be effective strategies in breaking the cycle of rumination and reducing stress.
+
+
+
 Walking the Path  
 Resilient by Rick Hanson
 
