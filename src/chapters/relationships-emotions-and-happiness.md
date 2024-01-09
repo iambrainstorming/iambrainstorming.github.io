@@ -90,6 +90,26 @@ When individuals engage in rumination, they may focus excessively on their probl
 
 Breaking the cycle of rumination is essential for reducing stress. Cognitive-behavioral therapy (CBT) and mindfulness-based interventions are often used to help individuals recognize and change their thought patterns, promoting healthier coping mechanisms and stress management. Learning to redirect thoughts, engage in problem-solving, and cultivate a more positive mindset can be effective strategies in breaking the cycle of rumination and reducing stress.
 
+## Negative Sleep Thoughts (NSTs)
+
+Just as the placebo effect and PNI demonstrate that our thoughts can affect our emotions and our bodies, negative sleep thoughts (NSTs) can have a profound adverse effect on sleep. Below are some examples of NSTs, which will likely sound very familiar:
+
+ 
+
+- “I didn’t sleep a wink last night.”  
+- “I must get eight hours of sleep.”  
+- “My insomnia is going to cause health problems.”   
+- “I’m dreading bedtime.”  
+- “Why does sleep come so easily for everyone but me?”  
+- “I feel miserable because I didn’t sleep well.”  
+- “How will I function today after such a horrible night of sleep?”
+- “I can’t sleep without a sleeping pill.”
+ 
+
+> How do you think these negative sleep thoughts affect your sleep? The answer is simple. When they occur at bedtime or while you are awake in the middle of the night, NSTs have a forceful effect on making you feel anxious and frustrated. In turn, these negative emotions mobilize the stress response, which increases your heart rate, blood pressure, muscle tension, and breathing rate and speeds up your brain waves. (I will discuss the stress response in detail in chapter 8.) The stress response then activates your brain’s wakefulness system and weakens the sleep system. You can guess the result—another night of insomnia.
+> 
+> *- Say Good Night to Insomnia, by Gregg D. Jacobs, Ph.D.*
+
 
 
 Walking the Path  
@@ -187,4 +207,4 @@ The hierarchy of disagreement, by Paul Graham.
 
 ## Best way to Handle Stress
 
-The best way to handle stress involves a holistic approach, mainly including exercises and yoga like deep breathing, mindfulness, and ensuring deep, restful sleep, as well as healthy argumentation. Healthy argumentation, marked by constructive dialogue without resorting to name-calling or attacking, is crucial in managing interpersonal stress. Following the hierarchy of disagreement, as outlined by Paul Graham, aids in fostering respectful communication. Additionally, being assertive and employing healthy self-talk, while maintaining kindness towards oneself and others, further contributes to stress reduction. However, it's essential to recognize the nuances of these practices and to delve into the details of how to use them, applying them consistently to achieve stress-free living.
+The best way to handle stress involves a holistic approach, mainly including exercises and yoga like deep breathing, mindfulness, and ensuring deep, restful sleep, as well as healthy argumentation. Healthy argumentation, marked by constructive dialogue without resorting to name-calling or attacking, is crucial in managing interpersonal stress. Following the hierarchy of disagreement, as outlined by Paul Graham, aids in fostering respectful communication. Additionally, being assertive and employing healthy self-talk, while maintaining kindness towards oneself and others, further contributes to stress reduction. However, it's essential to recognize the nuances of these practices (e.g. [When mindfulness meets capitalism, it loses its way](https://psyche.co/ideas/when-mindfulness-meets-capitalism-it-loses-its-way)) and to delve into the details of how to use them, applying them consistently to achieve stress-free living.
