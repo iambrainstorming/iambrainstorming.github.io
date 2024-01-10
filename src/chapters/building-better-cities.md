@@ -1,46 +1,31 @@
 # Building better cities
 
-## date: "2019-04-17"
-
----
-categories: 
-  - "cities"
-tags: 
-  - "education"
-  - "farming"
-  - "skycrapers"
-  - "sprawl"
-  - "urban-planning"
----
+## 7 principles for building better cities
 
 More than half of the world's population already lives in cities, and another 2.5 billion people are projected to move to urban areas by 2050. The way we build new cities will be at the heart of so much that matters, from climate change to economic vitality to our very well-being and sense of connectedness. Peter Calthorpe is already at work planning the cities of the future and advocating for community design that's focused on human interaction. He shares seven universal principles for solving sprawl and building smarter, more sustainable cities.
 
-https://www.youtube.com/watch?v=IFjD3NMv6Kw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IFjD3NMv6Kw?si=XJPee-NI1bNSmzUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-7 principles for building better cities | Peter Calthorpe
+*- 7 principles for building better cities | Peter Calthorpe*
 
-https://youtu.be/W1ZbbQdWfN8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W1ZbbQdWfN8?si=OYsMmpHmI0ClTmYz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [HappiCitites](http://www.happicities.com/)
 
-**Education and Job Just near you through Competition Collaboration Algorithm**
 
-The network can include all service providers, such as classroom, content provider such as MOOCs, open laboratories,  dance classes, gym, parks, playground, child care for working parents, teachers based on specialization, science park with essential experiments and equipments like telescope to validate what has been learned in classroom, even part-time job providers at the same place or just anything that is required in education.
-
+## Urban Sprawl, slums vs skycrapers
 
 **Service providers need not have to build sprawl for providing housing for services but skyscrapers**
 
 > Urban sprawl or suburban sprawl mainly refers to the unrestricted growth in many urban areas of housing, commercial development, and roads over large expanses of land, with little concern for urban planning
 
-![Uraban Sprawl](images/sprawl.jpg)
+![Urban Sprawl](images/sprawl.jpg)
 
-_Urban sprawl_
 
-https://youtu.be/lWg2bgJPakM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lWg2bgJPakM?si=aCK7KqM-t0JNIJcm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Skyscrapers and Slums
 
-**The Course of Farming:**
+## The Course of Farming
 
 **Discover Best Practice Farming for a Sustainable 2050 A multi-disciplinary approach to solve wide range of issues confronting the agricultural industry.**
 
@@ -52,9 +37,11 @@ In all scenarios, we will have about 10 billion humans on the planet by 2050.
 
 ![Population](images/population.jpg)
 
-https://www.youtube.com/watch?v=uKt5htrDvlk&feature=youtu.be
 
-How to build dense and self sustainable forest near your cities?
+
+## How to build dense and self sustainable forest near your cities?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uKt5htrDvlk?si=2LbEyoktIhU3O3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![Trees](./images/trees.png)
 
