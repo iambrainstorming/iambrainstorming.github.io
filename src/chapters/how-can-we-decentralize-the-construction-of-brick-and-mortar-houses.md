@@ -1,7 +1,7 @@
 # How can we decentralize the construction of brick-and-mortar houses?
 
+
 ---
-date: "2023-11-16"
 categories: 
   - "blockchain"
   - "governance"
@@ -23,11 +23,11 @@ Smaller skyscraper with smaller budgets can also be done, and also good for expe
 
 To deter speculative practices and ghost housing, local rent seekers stake an amount upfront to secure rental reservations. The stake is only released upon the completion of the last ownership installment, akin to a prepaid plan.
 
-If one use a native token instead of a stable coin, it's challenging to pay installments with a fixed native token due to [price fluctuations](https://amiyatulu.github.io/blog/shivarthu/consensus_price_discovery.html). The price of the native token can be determined through the price oracle, allowing you to pay the installment value in native tokens based on the stable coin's value, without need of stable coin. The native token proves useful for designing incentive systems for governance and investments.
+If one use a native token instead of a stable coin, it's challenging to pay installments with a fixed native token due to [price fluctuations](./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md). The price of the native token can be determined through the price oracle, allowing you to pay the installment value in native tokens based on the stable coin's value, without need of stable coin. The native token proves useful for designing incentive systems for governance and investments.
 
 ## Governance Involvement
 
-The governance structure [involves various stakeholders](https://amiyatulu.github.io/blog/shivarthu/tyranny_of_the_majority.html#tyranny-of-shareholders), including those who have invested money, rent seekers, engineers, local communities, and environmentalists. Each stakeholder may have different voting power based on their expertise and integrity. Effective voting methods are implemented to make decisions collectively.
+The governance structure [involves various stakeholders](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders), including those who have invested money, rent seekers, engineers, local communities, and environmentalists. Each stakeholder may have different voting power based on their expertise and integrity. Effective voting methods are implemented to make decisions collectively.
 
 ## Reducing Bureaucracy through Governance Approval
 

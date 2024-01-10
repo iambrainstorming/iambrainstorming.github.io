@@ -18,7 +18,7 @@
   - [Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma](./chapters/democracy/tyranny_of_the_majority.md)
   - [Simple Majority vs Super Majority](./chapters/democracy/simple_majority_and_super_majority.md)
   - [Socialism vs Capitalism](./chapters/capitalism-vs-socialism-which-one-is-working.md)
-  - [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is Possible](./chapters/economics/dismissing_return.md)
+  - [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible](./chapters/economics/dismissing_return.md)
   
 
 # Democracy 

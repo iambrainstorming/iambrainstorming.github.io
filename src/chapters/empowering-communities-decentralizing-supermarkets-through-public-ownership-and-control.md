@@ -1,6 +1,9 @@
+# Empowering Communities: Decentralizing Supermarkets Through Public Ownership and Control
+
+## date: "2023-11-11"
+
+
 ---
-title: "Empowering Communities: Decentralizing Supermarkets Through Public Ownership and Control"
-date: "2023-11-11"
 categories: 
   - "blockchain"
   - "cryptocurrency"
@@ -21,13 +24,13 @@ How does a supermarket simplify things? By consolidating a diverse range of reta
 
 5. **Regulatory Ease:** The concentration of products within a supermarket makes regulatory compliance more manageable. Regulations related to labeling, quality control, and other standards can be consistently applied in a centralized manner.
 
-**Example of [Community Governance](https://amiyatulu.github.io/blog/shivarthu/tyranny_of_the_majority.html) that corporate governance unlikely to do it**:
+**Example of [Community Governance](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders) that corporate governance unlikely to do it**:
 
 To illustrate, consider the role of community governance in shaping the practices of a supermarket:
 
 - **Reducing Plastic Usage:** Community governance can swiftly enforce decisions to eliminate plastic bags and encourage the use of sustainable packaging. This proactive approach aligns with environmental goals, reducing the ecological footprint of the supermarket.
 
-- **Promoting Reusability:** Empowered by community-driven initiatives, supermarkets can facilitate the use of reusable containers. Shoppers are encouraged to bring their containers for items like [beverages](https://iambrainstorming.wordpress.com/2023/03/09/ban-plastic-bottles-of-coca-cola-and-water-bottles/) and cooking oil, contributing to a reduction in single-use plastic.
+- **Promoting Reusability:** Empowered by community-driven initiatives, supermarkets can facilitate the use of reusable containers. Shoppers are encouraged to bring their containers for items like [beverages](./ban-plastic-bottles-of-coca-cola-and-water-bottles.md) and cooking oil, contributing to a reduction in single-use plastic.
 
 - **Supporting Local Production:** Community governance can actively endorse and support local producers, ensuring their products are featured in the supermarket at fair prices. This strategy fosters a more equitable marketplace, circumventing the potential monopoly that corporate supermarkets might impose.
 
@@ -37,9 +40,9 @@ To illustrate, consider the role of community governance in shaping the practice
 
 - **Repair Services:** Promoting the repair of [electronic products, such as smartphones](https://www.bbc.com/future/article/20231121-what-does-a-sustainable-smartphone-look-like), aligns with the 'right to repair' movement and contributes significantly to sustainability. Encouraging the repairability of electronic devices empowers consumers to extend the lifespan of their gadgets, reducing electronic waste and the environmental impact associated with manufacturing new products.
 
-- **Sustainable Housing:** A community-run supermarket fosters a sustainable housing community, accommodating 5000 or more people in pockets without inducing [urban sprawl.](https://iambrainstorming.wordpress.com/2019/04/17/building-better-cities/) This approach conserves space, preserving spaces for forests.
+- **Sustainable Housing:** A community-run supermarket fosters a sustainable housing community, accommodating 5000 or more people in pockets without inducing [urban sprawl.](./building-better-cities.md) This approach conserves space, preserving spaces for forests.
 
-- **Profit sharing:** Supermarkets and various supply chains can each have their decentralized governance token, enabling different stakeholders to participate and receive incentives based on their contributions. Consumers, for instance, can receive a monthly [Universal Basic Income (UBI)](https://iambrainstorming.wordpress.com/2022/10/16/what-will-a-boycott-of-the-national-currency-give-us/), empowering them to make purchases and contribute to poverty reduction or elimination. The token's value can be [collectively determined](https://iambrainstorming.wordpress.com/2022/12/19/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply/) by the community or stakeholders through consensus, where a token design with fair incentive system results in greater profitability.
+- **Profit sharing:** Supermarkets and various supply chains can each have their decentralized governance token, enabling different stakeholders to participate and receive incentives based on their contributions. Consumers, for instance, can receive a monthly [Universal Basic Income (UBI)](./what-will-a-boycott-of-the-national-currency-give-us.md), empowering them to make purchases and contribute to poverty reduction or elimination. The token's value can be [collectively determined](./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md) by the community or stakeholders through consensus, where a token design with fair incentive system results in greater profitability.
 
 In essence, the community run supermarket becomes a reflection of community values, responding to environmental concerns, supporting local businesses, and promoting sustainable practices by decreasing negative externalities. This community-driven model stands in contrast to corporate supermarkets, which may prioritize profit over such community-centric considerations.
 
@@ -55,18 +58,18 @@ The Community Kitchen initiative aims to bring culinary experiences by fostering
 
 1. **Cook Appointment and Compensation:** The heart of the kitchen lies in the cook, and their appointment and fair compensation are crucial for maintaining culinary standards.
 
-3. **Food Quality Oversight by Experts:** Incorporating food science experts ensures a stringent quality check, elevating the overall nutritional and taste profile of the meals.
+2. **Food Quality Oversight by Experts:** Incorporating food science experts ensures a stringent quality check, elevating the overall nutritional and taste profile of the meals.
 
-5. **Provision of Essential Groceries:** A seamless supply chain for necessary groceries guarantees a well-stocked kitchen, essential for preparing diverse and wholesome meals.
+3. **Provision of Essential Groceries:** A seamless supply chain for necessary groceries guarantees a well-stocked kitchen, essential for preparing diverse and wholesome meals.
 
-7. **Rent Payment through Governance:** Rent payments facilitated through a transparent governance or community ownership model for kitchen spaces ensure a stable and conducive environment for culinary pursuits.
+4. **Rent Payment through Governance:** Rent payments facilitated through a transparent governance or community ownership model for kitchen spaces ensure a stable and conducive environment for culinary pursuits.
 
-9. **Automation and Cooking Tools:** Investing in kitchen automation and providing appropriate cooking tools not only enhances efficiency but also encourages innovative and diverse culinary creations.
+5. **Automation and Cooking Tools:** Investing in kitchen automation and providing appropriate cooking tools not only enhances efficiency but also encourages innovative and diverse culinary creations.
 
-11. **Security Measures:** Implementing robust security measures protects both the kitchen rooms and tools, preventing misuse or theft and ensuring the sustainability of the community kitchen.
+6.  **Security Measures:** Implementing robust security measures protects both the kitchen rooms and tools, preventing misuse or theft and ensuring the sustainability of the community kitchen.
 
-13. **Consumer Participation in Governance:** Empowering consumers to contribute to the decision-making process by aiding in the appointment of food science experts and cooks promotes expertise and active engagement. The more involvement in governance, the greater the voting power, fostering a system where competence and commitment are rewarded.
+7.  **Consumer Participation in Governance:** Empowering consumers to contribute to the decision-making process by aiding in the appointment of food science experts and cooks promotes expertise and active engagement. The more involvement in governance, the greater the voting power, fostering a system where competence and commitment are rewarded.
 
 By addressing these key elements in the incentive system, the Community Kitchen strives to create an environment where the preparation of food becomes a collaborative and rewarding venture, promoting both health and culinary diversity.
 
-The Community Kitchen serves as a particularly valuable resource for [women seeking remote employment](https://iambrainstorming.wordpress.com/2020/02/16/how-to-beat-the-worst-job-culture-of-india/), offering a solution that helps them save time on cooking and dish washing. This communal space not only addresses the practical challenges of balancing work and household responsibilities but also creates a supportive environment for those engaged in remote jobs.
+The Community Kitchen serves as a particularly valuable resource for [women seeking remote employment](./how-to-beat-the-worst-job-culture-of-india.md), offering a solution that helps them save time on cooking and dish washing. This communal space not only addresses the practical challenges of balancing work and household responsibilities but also creates a supportive environment for those engaged in remote jobs.

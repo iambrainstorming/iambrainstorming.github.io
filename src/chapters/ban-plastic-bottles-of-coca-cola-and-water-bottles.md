@@ -1,6 +1,8 @@
+# Ban plastic bottles of coca cola and water bottles
+
+## date: "2023-03-09"
+
 ---
-title: "Ban plastic bottles of coca cola and water bottles"
-date: "2023-03-09"
 categories: 
   - "climate-change"
   - "policies"
@@ -30,12 +32,12 @@ Big Oil’s solution for plastic waste littered with failure**
 
 The report details Coca-Cola’s role in the rise and fall of the refillable glass bottle – exposing how the company knew that single-use plastic bottles were worse for the environment but doubled down on them all the same.
 
-- ![](https://iambrainstorming.files.wordpress.com/2023/10/coca-cola.png?w=265)
+![Coca cola bottle](./images/coca-cola.png)
     
 
 https://www.storyofstuff.org/blog/report-bring-back-refill/
 
-https://youtu.be/4XP-BBGMCNs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4XP-BBGMCNs?si=JdDMnK7LRlRgTAHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **How Coke killed refillable bottle?**
 
@@ -73,6 +75,5 @@ The environmental benefits:
 
 Through cultivation of bamboos, farmers will be benefited rather than Ambanis, also you are protecting the environment by planting more carbon neutral trees.
 
-[What will a boycott of the national currency give us?](https://iambrainstorming.wordpress.com/2022/10/16/what-will-a-boycott-of-the-national-currency-give-us/)
+[What will a boycott of the national currency give us?](./what-will-a-boycott-of-the-national-currency-give-us.md)
 
-https://iambrainstorming.wordpress.com/2022/10/16/what-will-a-boycott-of-the-national-currency-give-us/
