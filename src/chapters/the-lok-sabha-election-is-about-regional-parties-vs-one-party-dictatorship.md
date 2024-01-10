@@ -227,6 +227,8 @@ An advantage of this method is that vote spoiling is negligible, as the paper is
 
 >However, it has one significant drawback that can be a primary argument against using the system. There is a chance for voters to be tracked and their information retained, possibly even transmitted over the internet, thereby compromising the anonymity of votes.
 
+## The Best Option: Paper ballot without any technology
+
 > **A paper ballot, without relying on any technology or complications, appears to be the best option. To prevent vote spoiling, the paper can be made thicker to avoid ink spillage, and higher-quality ink can be used for the stamp. Furthermore, open-source machine learning models and algorithms can be employed for the accurate counting of votes, thereby reducing the cost of counting and faster result declaration.**
 >
 > Here is a demo and source code for recognizing numbers using machine learning. Similar classification training can be applied to vote counting.
