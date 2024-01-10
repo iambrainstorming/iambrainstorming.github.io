@@ -26,7 +26,6 @@ Also, take a look at the various governance issues here:
 Banks transfer wealth from people to capitalists by issuing debt or printing money. e.g. In India, Adani group has a debt of ₹2.2 trillion, which is near to the GDP of many big states in India. Many times, debt is issued for economic reasons that are detrimental to society. For example, the Adani group's primary source of income is fossil fuel, which contributes to climate change and pollution.
 
 > UN: 3.3 Billion People – almost half of humanity – Live in Countries Spending More on Debt Service Than Education, Health. The report revealed that Public debt has also spiked more than five-fold since 2000.
-> [https://www.msn.com/en-us/money/personalfinance/33-billion-people-live-in-countries-that-spend-more-on-debt-interest-than-education-un-says/ar-AA1dMwLG](https://www.msn.com/en-us/money/personalfinance/33-billion-people-live-in-countries-that-spend-more-on-debt-interest-than-education-un-says/ar-AA1dMwLG)
 > 
 > [https://unctad.org/publication/world-of-debt](https://unctad.org/publication/world-of-debt)
 
