@@ -203,9 +203,9 @@ One way to solve vote stuffing is to allow only a single paper in the printer (V
 
 Also, voters, especially the uneducated ones, need to be trained to recheck their vote printed on the VVPAT. It's double work for them; first, they have to vote on the EVM appropriately, and then check if the vote is the same or not on the VVPAT. Furthermore, if you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities?
 
-One advantage of using a digital printer EVM would be a decrease in spoiled or invalid votes. Although I couldn't find data on the number of spoiled votes in India, here is some information from [Kenyan elections](https://www.kenyans.co.ke/news/78118-spoilt-vote-how-your-vote-could-be-declared-invalid). In 2017, the total votes cast were 15,593,050, out of which 411,510 were considered spoiled. In the preceding election in 2013, the total was 12,221,053, with 108,975 considered spoiled.
+One advantage of using a digital printer EVM would be a decrease in spoilt or invalid votes. Although I couldn't find data on the number of spoilt votes in India.
 
-The number of spoiled votes in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design.
+The number of [spoilt votes](https://en.wikipedia.org/wiki/Spoilt_vote) in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design. I don't think vote spoilage is a big issue until proper measures are taken. Some may intentionally spoil their votes as a form of protest. 
 
 
 
@@ -227,7 +227,7 @@ An advantage of this method is that vote spoilage is negligible, as the paper is
 
 >However, it has one significant drawback that can be a primary argument against using the system. There is a chance for voters to be tracked and their information retained, possibly even transmitted over the internet, thereby compromising the anonymity of votes.
 
-> **A paper ballot, without relying on any technology or complications, appears to be the best option. To prevent vote spoilage, the paper can be made thicker to avoid ink spillage, and higher-quality ink can be used for the stamp. Furthermore, open-source machine learning models and algorithms can be employed for the accurate counting of votes.**
+> **A paper ballot, without relying on any technology or complications, appears to be the best option. To prevent vote spoilage, the paper can be made thicker to avoid ink spillage, and higher-quality ink can be used for the stamp. Furthermore, open-source machine learning models and algorithms can be employed for the accurate counting of votes, thereby reducing the cost of counting and faster result declaration.**
 >
 > Here is a demo and source code for recognizing numbers using machine learning. Similar classification training can be applied to vote counting.
 > 
