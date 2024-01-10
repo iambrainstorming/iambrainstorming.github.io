@@ -207,6 +207,8 @@ One advantage of using a digital printer EVM would be a decrease in spoiled or i
 
 The number of spoiled votes in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design.
 
+
+
 ## What about independence of election commission?
 
 The Center is making desperate attempts to undermine the independence of the Election Commission. They have also passed a bill aiming to remove the Chief Justice of India (CJI) and the leader of the opposition from the Election Commission panel. Without an independent Election Commission, how can we ensure that fair elections are conducted?
@@ -225,7 +227,13 @@ An advantage of this method is that vote spoilage is negligible, as the paper is
 
 >However, it has one significant drawback that can be a primary argument against using the system. There is a chance for voters to be tracked and their information retained, possibly even transmitted over the internet, thereby compromising the anonymity of votes.
 
-
+> **A paper ballot, without relying on any technology or complications, appears to be the best option. To prevent vote spoilage, the paper can be made thicker to avoid ink spillage, and higher-quality ink can be used for the stamp. Furthermore, open-source machine learning models and algorithms can be employed for the accurate counting of votes.**
+>
+> Here is a demo and source code for recognizing numbers using machine learning. Similar classification training can be applied to vote counting.
+> 
+> [MNIST Web Demo](https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html)
+> 
+> [MNIST Web Demo Source code](https://github.com/tracel-ai/burn/tree/main/examples/mnist-inference-web)
 
 
 ## **EVM Hack Hypothesis**
