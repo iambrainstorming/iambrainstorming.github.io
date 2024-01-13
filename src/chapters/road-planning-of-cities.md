@@ -62,6 +62,7 @@ It's not about adopting an all-or-nothing approach, but rather the imperative ne
 > Just don’t expect it to reduce traffic.
 > -Brent Toderian
 
+## Can't wait for the road to be widened
 
 ![Widened roads for cars](./images/widened-roads-for-cars.jpeg)
 
@@ -95,9 +96,11 @@ This 'thirsty' concrete absorbs 880 gallons of water a minute — here's how it 
 
 ![Car count](./images/car-count.png)
 
+## City Traffic Sucks! They Should Widen the roads
+
 ![More cars](./images/more-cars.jpg)
 
-Traffic in Gurgaon
+## Traffic in Gurgaon
 
 ![Traffic in Gurgaon](./images/traffic-in-gorgaon.jpeg)
 
