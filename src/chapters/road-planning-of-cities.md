@@ -12,7 +12,7 @@ categories:
 ## Cycle Lane in Median 
 
 
-<video width="100%" controls preload="none">
+<video width="100%" controls preload="none" poster="./images/car_lane_median.png">
   <source src="https://bafybeigg3pec6krwxsmevdq3ucaih5wspxn3342gqkvdw26veoqceozqpu.ipfs.w3s.link/Road%20Planning.mp4" type="video/mp4">
 </video>
 
@@ -67,7 +67,7 @@ It's not about adopting an all-or-nothing approach, but rather the imperative ne
 
 ## 🚌 150 people overtaking 50 people. Separating the lane is not hard.
 
-<video width="100%" controls preload="none">
+<video width="100%" controls preload="none" poster="./images/bus_lane.png">
   <source src="https://bafybeiddh2kuqvg5kg2trcm6iquynmlx2tobtagqeczcvdu4zej3hdlhwq.ipfs.w3s.link/Bus%20vs%20Cars.mp4" type="video/mp4">
 </video>
 
@@ -101,9 +101,9 @@ Traffic in Gurgaon
 
 ![Traffic in Gurgaon](./images/traffic-in-gorgaon.jpeg)
 
-Get your self a car, looser. What do you think you are?
+## Get your self a car, looser. What do you think you are?
 
-<video width="100%" controls preload="none">
+<video width="100%" controls preload="none" poster="./images/bike_rails.png">
   <source src="https://bafybeif2zk6albeippcaugynwclhsiakl7t3eqcrcoi2vbbqunffphlfvq.ipfs.w3s.link/get%20a%20car%20looser.mp4" type="video/mp4">
 </video>
 
