@@ -42,7 +42,13 @@ In India, bicycles face challenges when it comes to widespread adoption due to t
 
 You can conduct a small experiment. I walked for 2.5 kilometers at 10 AM when the sun was shining. I was almost completely exhausted due to the humidity and hot weather. However, I can walk in the early morning before 7 AM or in the evening after 6 PM. 
 
+So,you can still take walks in the early morning and evening, even during the hot summer. This habit can greatly benefit your mental and physical health.
+
 Additionally, constructing [15-minute cities](https://www.huckmag.com/article/what-its-actually-like-living-in-a-15-minute-city) can address the issue of exhaustion, as it minimizes the need for extensive travel by keeping destinations within a short distance.
+
+One can also construct cycling and pedestrian lanes with integrated solar panels on top, providing shade to the lanes. This not only protects you from the sun but also generates renewable and non-polluting energy.
+
+![Cycle track solar pannel](./images/cycle_track_solar_panel.jpg)
 
 ## Should we consider banning cars? 
 
