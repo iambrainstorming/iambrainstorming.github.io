@@ -52,13 +52,20 @@ One can also construct cycling and pedestrian lanes with integrated solar panels
 
 ![Cycle track solar pannel](./images/cycle_track_solar_panel.jpg)
 
+## Why are bike/cycle lanes empty?
+
+> Next time someone criticizes an "empty bike lane," remind them it because they’re efficient.
+
+This efficiency contrasts with the congestion and space consumption often associated with cars. The critique should be reframed not as a flaw in the bike lane but as an opportunity to highlight the drawbacks of traditional car-centric infrastructure.
+
+
 ## Should we consider banning cars? 
 
 It's not about adopting an all-or-nothing approach, but rather the imperative need to significantly reduce car usage with specific exceptions. For instance, we could limit private car use, allowing only public cars for booking, especially during emergencies. Exceptions can also be made for disabled individuals who rely on cars for mobility.
 
 ![Mobility Pyramid](./images/mobility-pyramid.jpg)
 
-> Next time someone criticizes an "empty bike lane," remind them it because they’re efficient.
+
 
 ## These Animated Videos Show Just How Much Space Cars Waste In Our Cities
 
