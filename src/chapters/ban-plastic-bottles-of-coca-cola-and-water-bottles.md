@@ -9,7 +9,7 @@ categories:
   - "politics"
 ---
 
-## Million Plasitc bottles every minute
+## Million Plastic bottles every minute
 
 A million plastic bottles are bought around the world every minute and the number will jump another 20% by 2021
 
