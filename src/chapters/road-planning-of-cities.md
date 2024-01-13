@@ -52,6 +52,16 @@ One can also construct cycling and pedestrian lanes with integrated solar panels
 
 ![Cycle track solar pannel](./images/cycle_track_solar_panel.jpg)
 
+## Green Canopy: The Impact of Urban Trees on City Environments
+
+We can also have a tree canopy on the roadside to decrease the temperature. Due to the continuous widening of roads, we cut down trees instead of planting them. We also hardly provide them enough time to grow, widening the roads again and cutting them down.
+
+> Compared to continuous urban fabric, land surface temperatures (LSTs) observed for urban trees are on average 0-4 K (or 0-4°C) lower in Southern European regions and 8-12 K (8-12°C) lower in Central Europe. Treeless urban green spaces are overall less effective in reducing LSTs, and their cooling effect is approximately 2-4 times lower than the cooling induced by urban trees.
+>
+> *- [The role of urban trees in reducing land surface temperatures in European cities](https://www.nature.com/articles/s41467-021-26768-w)*
+
+![Trees Temprature](./images/trees_temprature.jpg)
+
 ## Why are bike/cycle lanes empty?
 
 > Next time someone criticizes an "empty bike lane," remind them it because they’re efficient.
