@@ -9,6 +9,8 @@ categories:
   - "politics"
 ---
 
+## Million Plasitc bottles every minute
+
 A million plastic bottles are bought around the world every minute and the number will jump another 20% by 2021
 
 Some key facts:
@@ -23,25 +25,29 @@ Some key facts:
 
 [https://www.nationalgeographic.com/environment/article/plastic-pollution](https://www.nationalgeographic.com/environment/article/plastic-pollution)
 
-**Plastic bottles are not recyclable**
+## Plastic bottles are not recyclable
 
 **The Recycling Myth  
 Big Oil’s solution for plastic waste littered with failure**
 
 [https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/?utm\_source=pocket\_reader](https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/?utm_source=pocket_reader)
 
+## Bring Back Refill
+
 The report details Coca-Cola’s role in the rise and fall of the refillable glass bottle – exposing how the company knew that single-use plastic bottles were worse for the environment but doubled down on them all the same.
 
 ![Coca cola bottle](./images/coca-cola.png)
     
 
-https://www.storyofstuff.org/blog/report-bring-back-refill/
+[Report: Bring Back Refill, Calling on Coca-Cola, the Beverage Industry and Policymakers to Bring Reusable Beverage Bottles Back](https://www.storyofstuff.org/blog/report-bring-back-refill/)
+
+## How Coke killed refillable bottle?
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XP-BBGMCNs?si=JdDMnK7LRlRgTAHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**How Coke killed refillable bottle?**
 
-**Why we should move to tetrapack?**
+## Why we should move to tetrapack?
 
 **Many layers**
 
@@ -49,13 +55,13 @@ Cartons are made mostly (about 75 per cent) from wood. Aseptic cartons (those th
 
 'We always knew we were green and we thought it’d be obvious to everyone else since cartons come from trees,' he says.
 
-**Scientific evidence**
+### Scientific Evidence: LCA analysis
 
 With consumers increasingly preferring scientific evidence to heart-felt assumptions, a number of LCAs have been produced over the last few years. A peer-reviewed study commissioned by Tetra Pak, which compared the Tetra Recart (the name of the tomato container) and steel cans, provided stark results: steel cans use twice as much energy during their life cycle as cartons, they produce 2.5 times more waste and more than three times the amount of CO2 emissions.
 
 [https://theecologist.org/2010/jan/19/how-green-are-tetrapak-food-cartons](https://theecologist.org/2010/jan/19/how-green-are-tetrapak-food-cartons)
 
-**Will tetrapack lead to more cutting of trees?**
+## Will tetrapack lead to more cutting of trees?
 
 One need to grow more bamboos.
 
@@ -69,7 +75,9 @@ The environmental benefits:
 
 [https://www.goodstartpackaging.com/guide-to-bamboo-packaging/](https://www.goodstartpackaging.com/guide-to-bamboo-packaging/)
 
-**To bring the change, its needs political movement, there is enough corporate lobby, fossil fuel industries like Ambani are the supplier of plastic, coca cola says it will lose customer if they move away from plastic bottles.** 
+## Coca cola says they will lose customer if they move away from plastic bottles
+
+**To bring the change, its needs political movement, there is enough corporate lobby, fossil fuel industries like Ambani are the supplier of plastic, coca cola says they will lose customer if they move away from plastic bottles.** 
 
 > **RIL (Reliance Industries Limited), one of world’s largest producers of single-use plastics.**
 
