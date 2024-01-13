@@ -9,7 +9,10 @@ categories:
   
 ---
 
-<video width="100%" controls>
+## Cycle Lane in Median 
+
+
+<video width="100%" controls preload="none">
   <source src="https://bafybeigg3pec6krwxsmevdq3ucaih5wspxn3342gqkvdw26veoqceozqpu.ipfs.w3s.link/Road%20Planning.mp4" type="video/mp4">
 </video>
 
@@ -17,11 +20,12 @@ categories:
 
 ![Road planning](./images/road-planning.png)
 
-Road planning image
 
 > A cycle lane located in the median effectively addresses the issue of encroachment, such as unauthorized parking of cars and pedestrians using the cycle lane for walking.
 > 
 > However, the presence of a cycle lane in the median poses a challenge when cyclists need to exit the lane to reach destinations such as markets or homes. To mitigate this issue, it is essential to construct suitable traffic signals and bridges that facilitate safe transitions for cyclists.
+
+## Cycle lanes on the sides and unauthorized parking
 
 ![Cycle lane on side](./images/cycle-lane-on-side-1.png)
 
@@ -32,11 +36,17 @@ In India we do need a motorcycle/ebikes lane as motorcycle are also efficient mo
 
 ![Motor Cycle](./images/motor-cycle.jpeg)
 
+## Bicycles, Hot Weather and 15 mins cities
+
 In India, bicycles face challenges when it comes to widespread adoption due to the hot weather. You can start perspiring within just 5-10 minutes of riding. India's climate differs significantly from that of the Netherlands, where cycling is more popular. Additionally, winters in India now last less than two months a year due to climate change. However, you can still consider using electric cycles (e-cycles) and electric bikes (e-bikes) as eco-friendly alternatives to cars.
 
-You can conduct a small experiment. I walked for 2.5 kilometers at 10 AM when the sun was shining. I was almost completely exhausted due to the humidity and hot weather. However, I can walk in the early morning before 7 AM or after 6 PM.
+You can conduct a small experiment. I walked for 2.5 kilometers at 10 AM when the sun was shining. I was almost completely exhausted due to the humidity and hot weather. However, I can walk in the early morning before 7 AM or in the evening after 6 PM. 
 
-Should we consider banning cars? It's not about adopting an all-or-nothing approach, but rather the imperative need to significantly reduce car usage with specific exceptions. For instance, we could limit private car use, allowing only public cars for booking, especially during emergencies. Exceptions can also be made for disabled individuals who rely on cars for mobility.
+Additionally, constructing [15-minute cities](https://www.huckmag.com/article/what-its-actually-like-living-in-a-15-minute-city) can address the issue of exhaustion, as it minimizes the need for extensive travel by keeping destinations within a short distance.
+
+## Should we consider banning cars? 
+
+It's not about adopting an all-or-nothing approach, but rather the imperative need to significantly reduce car usage with specific exceptions. For instance, we could limit private car use, allowing only public cars for booking, especially during emergencies. Exceptions can also be made for disabled individuals who rely on cars for mobility.
 
 ![Mobility Pyramid](./images/mobility-pyramid.jpg)
 
@@ -57,7 +67,7 @@ Should we consider banning cars? It's not about adopting an all-or-nothing appro
 
 ## 🚌 150 people overtaking 50 people. Separating the lane is not hard.
 
-<video width="100%" controls>
+<video width="100%" controls preload="none">
   <source src="https://bafybeiddh2kuqvg5kg2trcm6iquynmlx2tobtagqeczcvdu4zej3hdlhwq.ipfs.w3s.link/Bus%20vs%20Cars.mp4" type="video/mp4">
 </video>
 
@@ -65,7 +75,7 @@ Should we consider banning cars? It's not about adopting an all-or-nothing appro
 
 For local businesses, car-free areas are very beneficial, as people using alternative transportation are more likely to shop locally and are more loyal to retailers. Even though they tend to not spend as much as car drivers, they visit the shop more frequently. A 2016 study of over 100 cities showed that pedestrian-only streets increased retail sales by around 49%. As many city centres are dying, car-free measures should be considered much more frequently.
 
-https://citychangers.org/the-case-for-car-free/
+[Citychangers article](https://citychangers.org/the-case-for-car-free/)
 
 ## Concrete roads for cars create flooding
 
@@ -93,7 +103,7 @@ Traffic in Gurgaon
 
 Get your self a car, looser. What do you think you are?
 
-<video width="100%" controls>
+<video width="100%" controls preload="none">
   <source src="https://bafybeif2zk6albeippcaugynwclhsiakl7t3eqcrcoi2vbbqunffphlfvq.ipfs.w3s.link/get%20a%20car%20looser.mp4" type="video/mp4">
 </video>
 
