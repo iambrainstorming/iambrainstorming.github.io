@@ -58,6 +58,8 @@ We can also have a tree canopy on the roadside to decrease the temperature. Due 
 
 > Compared to continuous urban fabric, land surface temperatures (LSTs) observed for urban trees are on average 0-4 K (or 0-4°C) lower in Southern European regions and 8-12 K (8-12°C) lower in Central Europe. Treeless urban green spaces are overall less effective in reducing LSTs, and their cooling effect is approximately 2-4 times lower than the cooling induced by urban trees.
 >
+>Trees influence urban climate primarily via shading and transpiration and also via albedo. Shading can strongly reduce daytime LSTs and air temperature.
+>
 > *- [The role of urban trees in reducing land surface temperatures in European cities](https://www.nature.com/articles/s41467-021-26768-w)*
 
 ![Trees Temprature](./images/trees_temprature.jpg)
