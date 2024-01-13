@@ -97,6 +97,13 @@ Get your self a car, looser. What do you think you are?
   <source src="https://bafybeif2zk6albeippcaugynwclhsiakl7t3eqcrcoi2vbbqunffphlfvq.ipfs.w3s.link/get%20a%20car%20looser.mp4" type="video/mp4">
 </video>
 
+## Effect of Media
+
+> Picture a scenario where electric vehicles (EVs) in various countries incur a mere 5% tax, while cycles face a higher tax rate of 12%. Notably, electric cars benefit from subsidies, whereas cycles, including e-cycles, do not enjoy any financial support. Thoughtful economic policies, influenced by the Bandwagon effect – a narrative perpetuated by capitalists, advertisers and media asserting that EVs and driverless cars are the ultimate solutions – inadvertently result in undesirable consequences.
+
+![Media electic cars](./images/media_electric_cars.png)
+
+
 
 Here is a booklet for Street design manual:
 

@@ -205,7 +205,7 @@ Also, voters, especially the uneducated ones, need to be trained to recheck thei
 
 One advantage of using a digital printer EVM would be a decrease in spoilt or invalid votes. Although I couldn't find data on the number of spoilt votes in India.
 
-The number of [spoilt votes](https://en.wikipedia.org/wiki/Spoilt_vote) in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design. I don't think vote spoilage is a big issue until proper measures are taken. Some may intentionally spoil their votes as a form of protest. 
+The number of [spoilt votes](https://en.wikipedia.org/wiki/Spoilt_vote) in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design. I don't think vote spoiling is a big issue until proper measures are taken. Some may intentionally spoil their votes as a form of protest. 
 
 
 
