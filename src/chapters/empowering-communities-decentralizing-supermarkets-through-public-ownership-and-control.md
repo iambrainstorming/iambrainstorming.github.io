@@ -73,3 +73,30 @@ The Community Kitchen initiative aims to bring culinary experiences by fostering
 By addressing these key elements in the incentive system, the Community Kitchen strives to create an environment where the preparation of food becomes a collaborative and rewarding venture, promoting both health and culinary diversity.
 
 The Community Kitchen serves as a particularly valuable resource for [women seeking remote employment](./how-to-beat-the-worst-job-culture-of-india.md), offering a solution that helps them save time on cooking and dish washing. This communal space not only addresses the practical challenges of balancing work and household responsibilities but also creates a supportive environment for those engaged in remote jobs.
+
+
+## How much time does it take to create 15-minute cities?
+
+It doesn't take very long. However, with the existing model, it's hard for small shopkeepers to set up shopping malls because it requires huge investments, and common people don't have that much capital. Therefore, they can only set up small shops.
+
+
+## Advantages of Supermarkets Over Small Shops
+
+Let's first analyze why people go to markets. The reason is not solely for shopping; they also seek entertainment, recreation, food, and social connections. Therefore, if you set up a supermarket within a 5-15 minute walk or cycling distance, people are likely to visit.
+
+As everything is available there, they will prefer the location, even if it's not roadside. Food stalls in supermarkets are crucial, as many patrons opt for a quick meal. Additional entertainment options, such as movies, can be provided on a semi-big screen, with the potential for success if prices are kept low to stimulate demand. Furthermore, the establishment of indoor gardens is essential, as greenery contributes significantly to the recreational atmosphere.
+
+## Now, let's discuss funding. 
+
+How can we support shopkeepers? Even a semi-decentralized smart contract on the blockchain can work, and it has become easier to implement. Some trusted entities, especially [stakeholders](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders), can remain in governance, selected through effective voting methods.
+
+One can use stablecoins, such as [gold-backed cryptocurrencies or USDT](./love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md), in the smart contract. Alternatively, other cryptocurrencies can be considered, especially if stability is not a primary concern and they are viewed as an investment.
+
+All funds collected from sales are held in escrow within the smart contract, minimizing the chances of fraud.
+
+## Equitable money distribution and inclusivity
+
+Then, money is distributed based on input and maintenance costs. Salaries for employees are determined through a [good voting method](./the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md#who-is-evil-whether-its-the-people-or-the-voting-method), where all employees participate. More efficient and utilitarian employees can receive higher salaries, while less efficient individuals may receive slightly lower compensation. Salary distribution aims for equity, avoiding extreme discrepancies seen in the current capitalist system where CEOs or owners may receive salaries 100 times higher than other employees.
+
+Since it's community-run, there is the potential for a more equitable distribution of wealth. Furthermore, diversity among employees can be actively encouraged, including the inclusion of women, individuals with disabilities, those from different religious backgrounds, and members of the LGBTQ+ community.
+
