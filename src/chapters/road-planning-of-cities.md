@@ -119,7 +119,7 @@ This 'thirsty' concrete absorbs 880 gallons of water a minute — here's how it 
 
 ![Car count](./images/car-count.png)
 
-
+![Cars vs Bus, Bike](./images/car_bus.jpg)
 
 ## Traffic in Gurgaon
 
