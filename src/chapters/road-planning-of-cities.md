@@ -58,13 +58,21 @@ It's not about adopting an all-or-nothing approach, but rather the imperative ne
 
 [https://www.fastcompany.com/3063344/these-animated-videos-show-just-how-much-space-cars-waste-in-our-cities](https://www.fastcompany.com/3063344/these-animated-videos-show-just-how-much-space-cars-waste-in-our-cities)
 
-> One thing we know for SURE — building and widening highways ALWAYS succeeds in helping sell more cars, gas and suburban sprawl; burning more public budgets; and increasing GHG emissions. So if THOSE are your goals, it’s the perfect thing to do.
-> Just don’t expect it to reduce traffic.
-> -Brent Toderian
 
 ## Can't wait for the road to be widened
 
+> One thing we know for SURE — building and widening highways ALWAYS succeeds in helping sell more cars, gas and suburban sprawl; burning more public budgets; and increasing GHG emissions. So if THOSE are your goals, it’s the perfect thing to do.
+> 
+> Just don’t expect it to reduce traffic.
+> 
+> -Brent Toderian
+
+
 ![Widened roads for cars](./images/widened-roads-for-cars.jpeg)
+
+## City Traffic Sucks! They Should Widen the roads
+
+![More cars](./images/more-cars.jpg)
 
 ## 🚌 150 people overtaking 50 people. Separating the lane is not hard.
 
@@ -96,9 +104,7 @@ This 'thirsty' concrete absorbs 880 gallons of water a minute — here's how it 
 
 ![Car count](./images/car-count.png)
 
-## City Traffic Sucks! They Should Widen the roads
 
-![More cars](./images/more-cars.jpg)
 
 ## Traffic in Gurgaon
 
