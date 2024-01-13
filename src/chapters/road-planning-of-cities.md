@@ -149,6 +149,10 @@ Any city can push itself to be better, but they usually go through this learning
 
 I’d rather have cities doing the right thing badly (at first), than continuing to do the wrong thing better.
 
+## Accidents due to traffic: Addressing Road Safety
+
+Approximately 1.5 lakh people die due to road accidents every year in India. While one may attribute road accidents to traffic, narrow roads, and bad driving, the main underlying reason is the presence of heavy vehicles, particularly cars, which occupy a significant amount of space, leaving little room for pedestrians and bikes. Car-centric roads also require [more maintenance](./economics/dismissing_return.md), increasing the likelihood that roads will not be repaired, so more accidents. By promoting the use of public transport, such as buses, accident rates can be drastically reduced.
+
 ## How Cars are Destroying India?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XgCPOrRKiOM?si=hhj-zri9ZfzDM7_K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
