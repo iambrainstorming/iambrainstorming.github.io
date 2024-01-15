@@ -1,4 +1,6 @@
-# Story of Usha Mehta
+# How to share information under fascism or dictatorship?
+
+## Story of Usha Mehta
 
 ## Explain how Usha Mehta used a transmitter to reach the voices of Congress and Gandhi
 
