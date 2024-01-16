@@ -29,6 +29,7 @@
   - [Open-list proportional representation vs. Mixed-member proportional representation](./chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.md)
   - [Parliamentary or Presidential form of government? What's in the name?](./chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.md)
   - [How to share information under fascism or dictatorship?](./chapters/democracy/govt_controlling_information.md)
+  - [What a fascist government does?](./chapters/democracy/fascism.md)
   
 
 # Cooperation

@@ -21,7 +21,7 @@ More than 10,000 WhatsApp groups are actively involved in disinformation campaig
 
 **[How to tackle disinformation?: Link](./how-to-tackle-disinformation.md)**
 
-> People need to understand the intensity of the problem. We are just in a small margin to [dictatorship](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafkreicijhn66wqak3zp7pcmqcpmrgveqhkrk6tddes7vuakunflu5lqb4). Opposition and people need to make no mistake. We need to break the brute force majority of one party. Lok Sabha and Rajya Sabha are safeguards of the constitution. Now, Lok Sabha is completely useless. Rajya Sabha is in a small margin. We need not give more than 20% of seats to BJP again.
+> People need to understand the intensity of the problem. We are just in a small margin to [dictatorship](./democracy/fascism.md). Opposition and people need to make no mistake. We need to break the brute force majority of one party. Lok Sabha and Rajya Sabha are safeguards of the constitution. Now, Lok Sabha is completely useless. Rajya Sabha is in a small margin. We need not give more than 20% of seats to BJP again.
 
 [Necessary sources of political power](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafkreihap3ce7qqv6sw4glilqjnivyhutf3s2n2pn5i27db4dza6tdbgia)
 
