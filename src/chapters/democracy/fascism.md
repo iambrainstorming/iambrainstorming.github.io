@@ -39,6 +39,10 @@ e.g Arresting and harassing [strong opponents](https://www.thehindu.com/news/nat
 
 [Faced with 90% drop in business, crypto exchanges are moving out of India, but with hopes of return](https://theprint.in/economy/faced-with-90-drop-in-business-crypto-exchanges-are-moving-out-of-india-but-with-hopes-of-return/1923496/)
 
+**Fascist govt don't like crypto, and blocks bank account**
+
+[Government of PM Modi blocks the bank accounts of 8,975 NGOs, in a move critics say is aimed at stifling dissent.](https://www.aljazeera.com/news/2015/5/27/india-cracks-down-on-greenpeace-and-foreign-ngos)
+
 - Militant Youth Movements: Fascist regimes often create youth organizations that promote loyalty to the state, indoctrinate young minds, and prepare them for future service to the regime.
 
 [Hinduism, Weaponised: A Secular India Under Threat | In Bad Faith - Part 1 | CNA Documentary](https://www.youtube.com/watch?v=l1qvVp8XZg8)
