@@ -236,6 +236,7 @@ An advantage of this method is that vote spoiling is negligible, as the paper is
 > [MNIST Web Demo](https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html)
 > 
 > [MNIST Web Demo Source code](https://github.com/tracel-ai/burn/tree/main/examples/mnist-inference-web)
+>
 
 
 ## **EVM Hack Hypothesis**
@@ -300,3 +301,11 @@ It's not that opensource software is necessarily better engineered...it is that 
 ### Why Electronic Voting Is Still A Bad Idea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LkH2r-sNjQs?si=65prPw8RWLM_J6Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### The cost associated with replacing EVM with a paper ballot
+
+There are almost no countries that utilize electronic voting machines (EVMs). One argument in favor of EVMs is cost efficiency. India, being a vast country with a sizable population, will it incur high expenses with paper ballots? Let's compare the costs associated with EVMs and paper ballots.
+
+The initial setup, including the appointment of volunteers to manage booths, remains the same for both methods. The primary difference lies in the vote counting process. Given India's large population, there is a need for a substantial number of counting centers. But there are also large mumber of volunters in a large populated country. A significant portion of the adult population in India is unemployed, resulting in lower labor costs. Additionally, there are maintenance and manufacturing costs associated with EVMs, which are absent in the case of paper ballots. **Consequently, paper ballots prove to be a more cost-effective option.**
+
+Counting with paper ballots can be conducted in a decentralized manner, constituency-wise, involving a large number of people. Moreover, the counting process can be automated using open-source machine learning, as demonstrated earlier. Anyone can develop the machine learning algorithm, and the validation and accuracy checks can be performed by the community. 
