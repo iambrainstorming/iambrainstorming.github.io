@@ -110,6 +110,7 @@ With the current govt hatred towards Muslim minorities increasing, govt has also
 [https://www.hrw.org/news/2021/02/19/india-government-policies-actions-target-minorities](https://www.hrw.org/news/2021/02/19/india-government-policies-actions-target-minorities)
 
 ## Modi’s Power to Sideline Challengers Is Only Growing  
+
 [https://www.nytimes.com/2023/03/29/world/asia/modi-india-gandhi-judiciary.html](https://www.nytimes.com/2023/03/29/world/asia/modi-india-gandhi-judiciary.html)
 
 ## **PR to reduce corruption**
