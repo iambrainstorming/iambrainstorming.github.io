@@ -11,12 +11,15 @@ For example, anyone who criticizes the government will be labeled as anti-nation
 
 e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_conspiracy_theory) and promoting it [through movie](https://www.aljazeera.com/news/2023/5/4/kerala-story-film-on-alleged-indian-isil-recruits-gets-pushback) and [Godi Media](https://en.wikipedia.org/wiki/Godi_media), why Hindu festivals are only targeted. There is a call for [banning loudspeakers in mosques](https://www.newindianexpress.com/nation/2021/Mar/24/pil-seeking-ban-on-loudspeakers-in-mosques-filed-in-jharkhand-high-court-2280984.html), despite the fact that Hindu temples contribute more than 70-80% of the noise.
 
+[How the Indian Government Uses Raids to Silence Critics](https://time.com/6255425/india-raid-bbc-modi-documentary/)
+
 As they rely on propaganda, they also attack the researchers.
+
 [Researcher Arrested in India After Disclosing Problems With Voting Machines](http://web.archive.org/web/20230203033338/https://www.wired.com/2010/08/researcher-arrested-in-india/)
+
+
 [Ashoka University is accused of stifling academic freedom after it distances itself from a professor’s research paper, ‘forcing’ his resignation.](https://www.aljazeera.com/news/2023/8/28/row-at-indias-premier-private-university-sparks-debate-on-academic-freedom)
 
-
-[How the Indian Government Uses Raids to Silence Critics](https://time.com/6255425/india-raid-bbc-modi-documentary/)
 
 - Cult of Personality: Fascist leaders cultivate a cult of personality, often portraying themselves as charismatic and infallible figures. They use mass rallies, public spectacles, and staged events to create an aura of strength and invincibility around themselves.
 
