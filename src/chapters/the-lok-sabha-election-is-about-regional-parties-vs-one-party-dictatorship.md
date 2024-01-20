@@ -193,6 +193,14 @@ Alternatively the printer could invalidate the printed record after the voter le
 
 Also problematic is that voters are not _required_ to actually check the paper audit before casting a ballot, which is critical to "verifying" the vote. While the option to look at the paper may provide comfort to an individual voter, the VVPAT does not serve as an effective check on malfunction or fraud unless a statistically relevant number of voters participate.
 
+
+### Demo hack in VVPAT with dark glass
+
+
+<video width="100%" controls preload="none" poster="./images/vvpat_hack_demo.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeibup4fyk7femmxbvvmxflukrqexk6amitrleec4lozpofby2zmery" type="video/mp4">
+</video>
+
 ## Suggestion given by INDIA bloc
 
 Here is a suggestion given by the INDIA bloc: "Instead of the VVPAT slip falling into the box, it should be handed over to the voter, who shall then place it in a separate ballot box after having verified their choice. 100% counting of VVPAT slips should then be done."
