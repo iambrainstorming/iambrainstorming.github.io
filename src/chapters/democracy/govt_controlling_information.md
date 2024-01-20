@@ -21,6 +21,12 @@ Usha Mehta and her colleagues set up an underground radio station to transmit me
 
 > You can find other apps in [F-Droid](https://f-droid.org/en/). F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
+Some of the other apps are Status, Briar.
+
+> Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy, and robust way to communicate. Unlike traditional messaging tools such as email, Twitter, or Telegram, Briar doesn't rely on a central server - messages are synchronized directly between the users's devices.
+>
+> If the Internet's down, briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the Internet's up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.
+
 
 - **Tor Network:** The Tor network allows users to browse the internet anonymously by routing their traffic through a series of volunteer-operated servers. This can help individuals access and share information while bypassing government-imposed restrictions.
 
