@@ -203,9 +203,15 @@ One way to solve vote stuffing is to allow only a single paper in the printer (V
 
 Also, voters, especially the uneducated ones, need to be trained to recheck their vote printed on the VVPAT. It's double work for them; first, they have to vote on the EVM appropriately, and then check if the vote is the same or not on the VVPAT. Furthermore, if you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities?
 
-One advantage of using a digital printer EVM would be a decrease in spoilt or invalid votes. Although I couldn't find data on the number of spoilt votes in India.
 
-The number of [spoilt votes](https://en.wikipedia.org/wiki/Spoilt_vote) in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design. I don't think vote spoiling is a big issue until proper measures are taken. Some may intentionally spoil their votes as a form of protest. 
+
+EVM may decrease spoilt or invalid votes. Although I couldn't find data on the number of spoilt votes in India.
+
+The number of [spoilt votes](https://en.wikipedia.org/wiki/Spoilt_vote) in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design. The same problem also arises in EVMs, as they add unnecessary complexity. Voters may press the wrong button, may not check the VVPAT, and many other issues may arise. The more complicated the system is, the more ways it can be attacked. e.g. Have you thought before that ballot stuffing is possible with VVPAT? I don't think vote spoiling is a big issue until proper measures are taken. Some may intentionally spoil their votes as a form of protest. 
+
+>If you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities, why not just paper ballot?
+The more complicated the system is, the more ways it can be attacked.
+
 
 
 
