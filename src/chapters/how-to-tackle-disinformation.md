@@ -89,9 +89,8 @@ Use pairing graphics with words, linking abstract concepts with concrete represe
 
 ## **4) The 25% Revolution**
 
-How Big Does a Minority Have to Be to Reshape Society?
 
-[https://www.scientificamerican.com/article/the-25-revolution-how-big-does-a-minority-have-to-be-to-reshape-society/](https://www.scientificamerican.com/article/the-25-revolution-how-big-does-a-minority-have-to-be-to-reshape-society/)
+[The 25% Revolution—How Big Does a Minority Have to Be to Reshape Society?](https://www.scientificamerican.com/article/the-25-revolution-how-big-does-a-minority-have-to-be-to-reshape-society/)
 
 ### Understanding Diffusion
 
