@@ -77,6 +77,10 @@ Breaking the echo chamber requires truth tellers to go beyond simply debunking f
 
 An integral part of the truth teller's task is the identification and exposure of [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) within disinformation. This involves a meticulous process of unraveling the logical errors, misleading tactics, and manipulative techniques employed in false narratives. By shining a light on these fallacies, truth tellers not only educate their audience but also undermine the credibility of the disinformation itself.
 
+### Repeat the truth to tackle disinformation
+
+Repeating the truth is a fundamental strategy in combating disinformation. By consistently and clearly reaffirming accurate information, individuals and communities can establish a foundation of reliable knowledge. Repetition not only reinforces the veracity of the facts but also helps to counteract the effects of misleading narratives and false claims. It builds a collective understanding based on evidence and promotes critical thinking skills, enabling people to discern between credible information and misinformation. In the face of the persistent spread of disinformation, the repetition of truth becomes a powerful tool in fortifying the public against deceptive influences and fostering a more informed and resilient society.
+
 ### Staying True: A Holistic Approach for Truth Tellers
 
 In summary, the holistic approach for truth tellers encompasses staying true to the facts, avoiding distractions, and breaking echo chambers through the presentation of well-supported counter-narratives. The incorporation of the "truth sandwich" method becomes a crucial aspect of this endeavor, ensuring that efforts to counter disinformation are effective without inadvertently amplifying false statements.
