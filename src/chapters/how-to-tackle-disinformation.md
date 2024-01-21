@@ -37,7 +37,7 @@ Lakoff has said that he thinks media organizations are unintentionally spreading
 
 “Avoid retelling the lies. Avoid putting them in headlines, leads or tweets,” Sullivan wrote of Lakoff’s advice. “Because it is that very amplification that gives them power.”
 
-## Don't engage with disinformation and propagand
+## Don't engage with disinformation and propaganda
 
 Engaging in disinformation and propaganda can lead to its amplification through various mechanisms, taking advantage of psychological, social, and technological factors. Here are some key reasons:
 
