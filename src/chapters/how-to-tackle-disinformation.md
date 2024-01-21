@@ -63,7 +63,7 @@ People tend to seek information that confirms their existing beliefs and avoid c
 
 ### Navigating the Landscape: The Role of a Truth Teller
 
-The primary task of a truth teller is to navigate the intricate landscape of disinformation without succumbing to distractions. This involves a strategic approach to counter false narratives and resist the temptation to engage in posting photos as criticisms, especially when dealing with leaders obsessed with attention.
+The primary task of a truth teller is to navigate the intricate landscape of disinformation without succumbing to distractions. This involves a strategic approach to counter false narratives and resist the temptation to engage in posting leaders photos as criticisms, especially when dealing with leaders obsessed with attention.
 
 ### Crafting a Counter-Narrative: The Power of Truth Sandwich
 
