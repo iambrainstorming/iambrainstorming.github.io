@@ -64,6 +64,23 @@ In [Telangana](https://github.com/amiyatulu/election_result/blob/main/2023_legis
 
 [Mizoram](https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/nota_votes_mizoram.json) has zero NOTA with more than 1000 votes. But it has worst impact on vote splitting.
 
+## Votes by Party in 2023 Legislative Assembly Election
+
+Here is the list of total votes in all constituency by party. 
+
+[Data by Votes](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/total_votes_by_party_data)
+
+[Data by Percentage](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/total_percentage_by_party_data)
+
+In Madhya Pradesh BJP got 48% votes, and INC got 40% of votes, where as BJP got 163 seats, INC 66 seats, which means BJP got 70.87% where as INC with 28.70% seats
+
+In Rajasthan BJP got 41% votes, and INC got 39% of votes, where as BJP got 115 seats, INC 69 seats, which means BJP got 58.08% seats where as IN got 34.85% seats. 
+
+In Chattisgarh BJP got 46% votes and INC got 42% of votes, where as BJP got 54 seats, INC 35 seats, which means BJP got 60% of seats, where as INC got 38% of seats
+
+In Telangan INC got 39% votes, BRS got 37% of votes and BJP got 13% of votes, where as INC 64 seats, BHRS 39 seats, BJP 8 seats, which means INC got 53.78% of seats, BHRS got 32.77% of seats and BJP got 6.72% of seats.
+
+
 ## Other Legislative Assembly Election
 
 Delhi is an outlier among all the parties, where they have own the true majority in 2020. [Only 17 constituencies where vote wastage own, out of 70](https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/analysis_data/vote_wastage_won_data/vote_wastage_data_delhi_legislative_election_2020.json).
@@ -71,6 +88,7 @@ Delhi is an outlier among all the parties, where they have own the true majority
 In Uttar Pradesh 2022 election, [in 301 constituencies out of 403](https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/analysis_data/vote_wastage_won_data/vote_wastage_data_uttar_pradesh_general_election_2022.json), majority have not voted to the winning candidate.
 
 Similarly, in [Punjab, 89 out of 117](https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/analysis_data/vote_wastage_won_data/vote_wastage_data_punjab_legislative_election_2022.json), the majority have not voted for the winning candidate. Punjab is a different case, as it has recently been taken over by AAP. One can imagine how difficult it is for a new party with a voting method like FPTP.
+
 
 ## List of Spoilers with decreasing order of votes:
 
@@ -267,7 +285,11 @@ Instead, they may make the candidate win with a small margin. They could increas
 
 As given in data, there are many instances where the majority of people in a constituency have voted against a candidate, yet they have won. While it is very likely to happen with FPTP, EVM hacking can make it even worse.
 
+You can also look the data where FPTP got worse, Madhya Pradesh BJP got 48% votes, and INC got 40% of votes, where as BJP got 70.87% where as INC with 28.70% seats
+
 It's better for us to stop using the EVM and reform our voting system by doing away FPTP.
+
+
 
 ## Security analysis of a real Indian EVM
 
