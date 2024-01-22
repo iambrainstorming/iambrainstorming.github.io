@@ -66,6 +66,8 @@ In [Telangana](https://github.com/amiyatulu/election_result/blob/main/2023_legis
 
 - [*Rajastan, No data available for [S203 Karanpur - 3](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/data/rajasthan)*]
 
+Update the repository with Karnapur data of Rajasthan, it became 120 out of 200. 
+
 
 ## Votes by Party in 2023 Legislative Assembly Election
 
@@ -77,7 +79,7 @@ Here is the list of total votes in all constituency by party.
 
 In Madhya Pradesh BJP got 48% votes, and INC got 40% of votes, where as BJP got 163 seats, INC 66 seats, which means BJP got 70.87% where as INC with 28.70% seats
 
-In Rajasthan BJP got 41% votes, and INC got 39% of votes, where as BJP got 115 seats, INC 69 seats, which means BJP got 58.08% seats where as IN got 34.85% seats. 
+In Rajasthan BJP got 41% votes, and INC got 39% of votes, where as BJP got 115 seats, INC 69 seats (70 seats with karanpur), which means BJP got 57.50% seats where as INC got 35.00% seats. 
 
 In Chattisgarh BJP got 46% votes and INC got 42% of votes, where as BJP got 54 seats, INC 35 seats, which means BJP got 60% of seats, where as INC got 38% of seats
 
