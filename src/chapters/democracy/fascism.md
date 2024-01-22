@@ -63,6 +63,14 @@ Fascist regimes may manipulate legal systems to legitimize their actions. They p
 
 [India court upholds Karnataka state’s ban on hijab in class](https://www.aljazeera.com/news/2022/3/15/india-court-upholds-karnataka-states-ban-on-hijab-in-class)
 
+## Weaken or Abolish as many Democratic Institutions 
+
+Fascism thrives on a mission to weaken or abolish democratic institutions, systematically dismantling the foundations of a participatory society. Through authoritarian rule, it seeks to concentrate power in the hands of a single leader, suppressing dissent and curtailing individual freedoms. The erosion of democratic checks and balances becomes a hallmark, paving the way for unchecked authority. In this pursuit, fascist regimes undermine the pillars of democracy, such as independent judiciary, free press, and representative governance, leaving citizens vulnerable to manipulation and repression. The fight against fascism necessitates safeguarding these institutions to preserve the essence of democratic values.
+
+[Big money is choking India’s free press — and its democracy](https://www.aljazeera.com/opinions/2023/1/6/big-money-is-choking-indias-free-press)
+
+[Indian government accused of rewriting history after edits to schoolbooks](https://www.theguardian.com/world/2023/apr/06/indian-government-accused-of-rewriting-history-after-edits-to-schoolbooks)
+
 ## Economic Policies
 
 Fascist governments may implement corporatist economic policies that involve a close relationship between the state and big business. This serves to consolidate economic power and often benefits the ruling elite, while the general population may suffer from economic hardship.
