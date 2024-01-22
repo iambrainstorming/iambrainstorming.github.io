@@ -64,6 +64,9 @@ In [Telangana](https://github.com/amiyatulu/election_result/blob/main/2023_legis
 
 [Mizoram](https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/nota_votes_mizoram.json) has zero NOTA with more than 1000 votes. But it has worst impact on vote splitting.
 
+- [*Rajastan, No data available for [S203 Karanpur - 3](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/data/rajasthan)*]
+
+
 ## Votes by Party in 2023 Legislative Assembly Election
 
 Here is the list of total votes in all constituency by party. 
