@@ -1,5 +1,12 @@
 # What a fascist government does?
 
+<video width="100%" controls controls preload="none" poster="../images/fascism.png" >
+  <source src="https://com-ft-next-media-renditions.s3.eu-west-1.amazonaws.com/17050842428480/1280x720.mp4" type="video/mp4">
+</video>
+
+*[Democracy by Margaret Atwood | Democracy 2024](https://www.ft.com/video/bd19b92f-f0e5-4668-a9a8-33b3ed68ddde)*
+
+
 
 Fascism is a far-right political ideology and system of government that emerged in the early 20th century, most notably in Italy under Benito Mussolini and in Germany under Adolf Hitler. It is characterized by authoritarianism, nationalism, and a belief in the superiority of one's own race or nation. While it's essential to understand that fascism is a deeply controversial and harmful ideology that has caused immense suffering and death, it's also important to recognize the tactics and strategies used by fascist leaders to gain and maintain power. Some of the key tricks and techniques of fascism include:
 
