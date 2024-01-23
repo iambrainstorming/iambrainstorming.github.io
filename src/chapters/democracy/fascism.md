@@ -75,6 +75,7 @@ Fascism thrives on a mission to weaken or abolish democratic institutions, syste
 
 [Bill introduced to remove CJI from panel to select Election Commissioners](https://www.thehindu.com/news/national/bill-moved-to-remove-cji-from-panel-to-select-election-commissioners/article67180873.ece)
 
+[A Partisan Referee: The Speaker: This control is enabled by the fact that – much like Opposition rights – the Constitution also fails to guarantee the independence of the parliamentary “referee”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601145)
 
 
 ## Economic Policies
