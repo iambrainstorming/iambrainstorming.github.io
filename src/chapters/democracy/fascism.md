@@ -71,6 +71,12 @@ Fascism thrives on a mission to weaken or abolish democratic institutions, syste
 
 [Indian government accused of rewriting history after edits to schoolbooks](https://www.theguardian.com/world/2023/apr/06/indian-government-accused-of-rewriting-history-after-edits-to-schoolbooks)
 
+[Since 2014, 4-fold jump in ED cases against politicians; 95% are from Opposition](https://indianexpress.com/article/express-exclusive/since-2014-4-fold-jump-in-ed-cases-against-politicians-95-per-cent-are-from-opposition-8163060/)
+
+[Bill introduced to remove CJI from panel to select Election Commissioners](https://www.thehindu.com/news/national/bill-moved-to-remove-cji-from-panel-to-select-election-commissioners/article67180873.ece)
+
+
+
 ## Economic Policies
 
 Fascist governments may implement corporatist economic policies that involve a close relationship between the state and big business. This serves to consolidate economic power and often benefits the ruling elite, while the general population may suffer from economic hardship.
