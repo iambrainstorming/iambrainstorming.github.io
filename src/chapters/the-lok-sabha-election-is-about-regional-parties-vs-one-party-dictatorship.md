@@ -103,11 +103,11 @@ Difference in seats between BJP and INC = 22%
 
 ### Telangana
 
-In Telangana INC got 39% votes, BRS got 37% of votes and BJP got 13% of votes, where as INC 64 seats, BHRS 39 seats, BJP 8 seats, which means INC got 53.78% of seats, BHRS got 32.77% of seats and BJP got 6.72% of seats.
+In Telangana INC got 39% votes, BHRS got 37% of votes and BJP got 13% of votes, where as INC 64 seats, BHRS 39 seats, BJP 8 seats, which means INC got 53.78% of seats, BHRS got 32.77% of seats and BJP got 6.72% of seats.
 
-Difference in votes between INC and BRS = 2%
+Difference in votes between INC and BHRS = 2%
 
-Difference in seats between INC and BRS = 21% 
+Difference in seats between INC and BHRS = 21% 
 
 
 ## Other Legislative Assembly Election
