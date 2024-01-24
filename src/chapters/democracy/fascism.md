@@ -24,6 +24,8 @@ e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_c
 
 [How the Indian Government Uses Raids to Silence Critics](https://time.com/6255425/india-raid-bbc-modi-documentary/)
 
+[Twitter accused of censorship in India as it blocks Modi critics](https://www.theguardian.com/world/2023/apr/05/twitter-accused-of-censorship-in-india-as-it-blocks-modi-critics-elon-musk)
+
 **As they rely on propaganda, they also attack the researchers**.
 
 [Researcher Arrested in India After Disclosing Problems With Voting Machines](http://web.archive.org/web/20230203033338/https://www.wired.com/2010/08/researcher-arrested-in-india/)
