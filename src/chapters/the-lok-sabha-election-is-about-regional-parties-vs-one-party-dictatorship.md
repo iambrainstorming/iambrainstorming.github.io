@@ -406,6 +406,7 @@ If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
 https://youtu.be/sHmpEv4dWDA?si=Zm1ISm6WOzhFPyB2
 
 #EVM_Hatao_Desh_Bachao 
+#BanEVM_Save_India
 #EVM_हटाओ_लोकतंतर_बचाओ 
 #EVM_Hatao_Loktantra_Bacho 
 
@@ -421,6 +422,7 @@ If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
 https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeifofj2zgq5wnb2juvyj3nyf23wdizpqtsfmbmidoqsxau3js7biyq
 
 #EVM_Hatao_Desh_Bachao 
+#BanEVM_Save_India
 #EVM_हटाओ_लोकतंतर_बचाओ 
 #EVM_Hatao_Loktantra_Bacho 
 ```
