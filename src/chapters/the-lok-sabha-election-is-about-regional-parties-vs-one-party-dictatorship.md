@@ -396,7 +396,10 @@ If you want to support Ban EVM Movement... Just give Miss Call- 9667722062- Adv.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sHmpEv4dWDA?si=Y2z8PgCtPJKz-YbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 ### Share on social media for missed call to 9667722062 to Ban EVM
+
+### Message 1
 
 ```
 If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
@@ -412,7 +415,7 @@ https://youtu.be/sHmpEv4dWDA?si=Zm1ISm6WOzhFPyB2
 
 ```
 
-### Another message
+### Message 2
 
 ```
 If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
@@ -425,4 +428,22 @@ https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeifofj2zg
 #BanEVM_Save_India
 #EVM_हटाओ_लोकतंतर_बचाओ 
 #EVM_Hatao_Loktantra_Bacho 
+```
+
+
+
+### Message 3
+
+```
+Ban EVM Movement... Give Miss Call- 9667722062
+
+2024 election will be without EVM.
+Farmers, the army, and everyone needs to come together to ban it.
+
+https://ipfs.io/ipfs/QmVsQuGbGnNQfycEs4EkjX7cz3FpY2BYuYKDbrsvoFXdFQ?filename=evm_ban.mp4
+
+#EVM_Hatao_Desh_Bachao
+#BanEVM_Save_India
+#EVM_हटाओ_लोकतंतर_बचाओ
+#EVM_Hatao_Loktantra_Bacho
 ```
