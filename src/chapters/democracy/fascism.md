@@ -16,6 +16,8 @@ Fascist leaders often exploit and promote extreme nationalism, emphasizing the i
 
 For example, anyone who criticizes the government will be labeled as anti-national. For instance, a teacher was [suspended for requesting an educated candidates in election](https://www.hindustantimes.com/india-news/unacademy-educator-sacked-for-asking-students-to-vote-for-educated-candidates-aap-congress-react-101692316014535.html).
 
+[Anyone who does not support discrimination based on religion is considered anti-Hindu by fascist govt](../democracy/hinduism.md)
+
 ## Propaganda
 
 Fascist regimes make extensive use of propaganda to shape public opinion. This can include controlling the media, spreading false information, and using emotionally charged rhetoric to manipulate the masses. The goal is to create a climate where dissent and criticism are suppressed, and the regime's agenda is unquestioningly accepted.
