@@ -405,4 +405,8 @@ If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
 
 https://youtu.be/sHmpEv4dWDA?si=Zm1ISm6WOzhFPyB2
 
+#EVM_Hatao_Desh_Bachao 
+#EVM_हटाओ_लोकतंतर_बचाओ 
+#EVM_Hatao_Loktantra_Bacho 
+
 ```
