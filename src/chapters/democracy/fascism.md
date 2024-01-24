@@ -30,8 +30,9 @@ e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_c
 
 [Researcher Arrested in India After Disclosing Problems With Voting Machines](http://web.archive.org/web/20230203033338/https://www.wired.com/2010/08/researcher-arrested-in-india/)
 
-
 [Ashoka University is accused of stifling academic freedom after it distances itself from a professor’s research paper, ‘forcing’ his resignation.](https://www.aljazeera.com/news/2023/8/28/row-at-indias-premier-private-university-sparks-debate-on-academic-freedom)
+
+[Researcher's twitter account @ashoswai has been withheld in India in response to a legal demand](https://en.wikipedia.org/wiki/Ashok_Swain)
 
 ## Cult of Personality
 
