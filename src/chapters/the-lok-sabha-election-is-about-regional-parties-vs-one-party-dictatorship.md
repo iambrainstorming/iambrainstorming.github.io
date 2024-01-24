@@ -386,3 +386,23 @@ A whistleblower is an individual who exposes information about wrongdoing, illeg
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1-L9eiUQCRY?si=eZcejKWUgdZHr59u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Researcher Arrested in India After Disclosing Problems With Voting Machines](http://web.archive.org/web/20230203033338/https://www.wired.com/2010/08/researcher-arrested-in-india/)
+
+
+### Give missed call to 9667722062 to Ban EVM
+
+If you want to support Ban EVM Movement... Just give Miss Call- 9667722062- Adv. Rajendra Pal Gautam
+
+2 Lakh 30,000 have already given missed call in 48 hours
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sHmpEv4dWDA?si=Y2z8PgCtPJKz-YbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Share on social media for missed call to 9667722062 to Ban EVM
+
+```
+If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
+
+2 Lakh 30,000 have already given missed call in 48 hours
+
+https://youtu.be/sHmpEv4dWDA?si=Zm1ISm6WOzhFPyB2
+
+```
