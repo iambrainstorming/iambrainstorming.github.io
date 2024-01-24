@@ -440,7 +440,7 @@ Ban EVM Movement... Give Miss Call- 9667722062
 2024 election will be without EVM.
 Farmers, the army, and everyone needs to come together to ban it.
 
-https://ipfs.io/ipfs/QmVsQuGbGnNQfycEs4EkjX7cz3FpY2BYuYKDbrsvoFXdFQ?filename=evm_ban.mp4
+https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicjvqn3ksjfys7cmpqu7msap2vvnlqbbejilv4jtjuztrkpennule
 
 #EVM_Hatao_Desh_Bachao
 #BanEVM_Save_India
