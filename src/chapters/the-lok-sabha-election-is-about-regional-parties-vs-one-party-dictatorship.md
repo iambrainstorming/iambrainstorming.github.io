@@ -447,3 +447,24 @@ https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicjvqn3k
 #EVM_हटाओ_लोकतंतर_बचाओ
 #EVM_Hatao_Loktantra_Bacho
 ```
+
+
+### Message from the Army officer
+
+When an army officer dies for their nation on the border, it is often seen as a sacrifice made to protect the country from external threats and maintain its sovereignty. This act highlights the significance of safeguarding national borders and reinforces the idea that a nation must be prepared to defend itself against potential dangers.
+
+Similarly, having a secure voting system within a nation is equally important for preserving democracy and ensuring the stability and safety of the country. A secure voting system guarantees fair elections, which are essential for reflecting the will of the people and upholding the principles of representative government. When citizens cast their votes with confidence, knowing that their choices will be accurately recorded and counted, they contribute to the legitimacy and strength of the political process.
+
+A vulnerable or compromised voting system can lead to various issues such as voter fraud, manipulation, or suppression, all of which undermine the democratic foundation of a nation. Such situations not only erode public trust but also create social unrest, instability, and potentially even violence. Therefore, investing time, resources, and efforts into developing and maintaining a robust and reliable voting infrastructure should be considered a priority for any democratic nation.
+
+
+<video width="100%" controls preload="none" poster="./images/army_message.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeid2cqvrjnc3fzimjyqopiujq4ssbzakvjvikddkrztc3ofxe5yyti" type="video/mp4">
+</video>
+
+
+### Timer in EVM
+
+<video width="100%" controls preload="none" poster="./images/evm_timer.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiaydqvgnah3ncz2eeeuyzguomv5bdpdn2blwy6n6tfqbchzebdgpq" type="video/mp4">
+</video>
