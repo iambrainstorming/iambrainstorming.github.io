@@ -32,6 +32,7 @@
   - [How to share information under fascism or dictatorship?](./chapters/democracy/govt_controlling_information.md)
   - [What a fascist government does?](./chapters/democracy/fascism.md)
   - [Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism](./chapters/democracy/hinduism.md)
+  - [Necessary sources of political power by dictator](./chapters/democracy/fascism_power.md)
   
 
 # Cooperation
