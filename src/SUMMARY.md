@@ -20,6 +20,7 @@
   - [Socialism vs Capitalism](./chapters/capitalism-vs-socialism-which-one-is-working.md)
   - [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible](./chapters/economics/dismissing_return.md)
   - [Shivarthu: A governance Protocol](./chapters/shivarthu/Shivarthu.md)
+  - [Secure Blockchain Voting](./chapters/democracy/secure_blockchain_voting.md)
   
 
 # Democracy 
