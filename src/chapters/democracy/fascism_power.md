@@ -46,7 +46,10 @@ their tricks no longer work.”
 
 [From Dictatorship to Democracy: A Conceptual Framework for Liberation](https://www.nonviolent-conflict.org/resource/from-dictatorship-to-democracy-a-conceptual-framework-for-liberation/)
 
-## Let's look at the numbers in India
+
+## India: extreme inequality in numbers
+
+### Let's look at the numbers in India
 
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 	<tbody>
