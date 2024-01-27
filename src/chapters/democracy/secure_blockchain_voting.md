@@ -3,8 +3,9 @@
 
 ## Securing the device that you vote
 
-As mentioned earlier, [Android and iOS devices](../what-do-we-need-to-decentralize-in-the-coming-years.md#security-of-phone) may not be appropriate for casting votes using blockchain technology. 
+As mentioned earlier, [Android phones](../what-do-we-need-to-decentralize-in-the-coming-years.md#security-of-phone) may not be appropriate for casting votes using blockchain technology. 
 
+Furthermore, one cannot use proprietary operating systems like iOS on an iPhone or Microsoft Windows, as [one cannot access the source code](../the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md#the-illusion-of-secrecy-vs-open-protocol) to understand what the program is doing in the background.
 
 ### So, what is an most affordable method of voting?
 

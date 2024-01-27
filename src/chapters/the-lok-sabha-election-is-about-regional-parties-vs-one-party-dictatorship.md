@@ -468,3 +468,10 @@ A vulnerable or compromised voting system can lead to various issues such as vot
 <video width="100%" controls preload="none" poster="./images/evm_timer.png">
   <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiaydqvgnah3ncz2eeeuyzguomv5bdpdn2blwy6n6tfqbchzebdgpq" type="video/mp4">
 </video>
+
+
+### Impact of EVM on our country
+
+<video width="100%" controls preload="none" poster="./images/evm_impact_on_nation.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeifsxwvuejck4mulnriy24evfjoiuqbyisj24nsi4cixea4wcipk2u" type="video/mp4">
+</video>
