@@ -24,7 +24,8 @@ Poor families have more willingness to invest in boys education rather than girl
 
 ## Bullying 
 
-In India, the concern is not just about bullying by classmates or seniors, but sometimes teachers act like a bully. Sometimes teacher goes to extreme steps like hanging the student upside down from the building as a form of punishment. Children can suffer emotionally due to the power game of the management and teacher.
+In India, the concern is not just about bullying by classmates or seniors, but sometimes teachers act like a bully. This issue transcends verbal or emotional abuse, as instances have been reported where teachers resort to extreme measures for punishment.  e.In some alarming instances, teachers in India have resorted to extreme measures such as hanging students upside down from buildings, imposing a punishment of performing squats a hundred times, or even resorting to physical beatings with sticks.
+Children can suffer emotionally due to the power game of the management and teacher.
 
 ## Emotional Intelligence
 
