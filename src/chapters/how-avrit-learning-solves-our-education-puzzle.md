@@ -6,7 +6,7 @@
 
 According to UNICEF:
 
-## When we invest in girls’ secondary education
+### When we invest in girls’ secondary education
 
 - The lifetime earnings of girls dramatically increase
 
@@ -113,7 +113,7 @@ Avrit protocol has its own cryptocurrency token with robust token economics and 
 
 Self-managed organizations are not experimental. You can go through the book about teal organizations in the book ([Link](https://cloudflare-ipfs.com/ipfs/bafykbzacecfk7ruyr2cyk4px5o4op6tzdfnkwfzah3t5drrwxrftznfahhn3c?filename=Laloux%2C%20Frederic%20-%20Reinventing%20Organizations_%20A%20Guide%20to%20Creating%20Organizations%20Inspired%20by%20the%20Next%20Stage%20of%20Human%20Consciousness-Nelson%20Parker%20%282014%29.epub)) for more details. 
 
-"The Avrit protocol is based on already existing evidence. The platform can also help in running experiments and demonstrating its validation. It's still in active development, and there is always scope for improvement. Designing governance in blockchain has its own challenges. One needs to codify the governance design into a computer program so that it can be scaled
+"The Avrit protocol is based on already existing evidence. The platform can also help in running experiments and demonstrating its validation. It's still in active development, and there is always scope for improvement. Designing governance in blockchain has its own challenges. One needs to codify the governance design into a computer program so that it can be scaled.
 
 ## Does it mean deregulation of the education system?
 
@@ -127,7 +127,7 @@ Although the practices of schools are questionable and not optimal, it can be ch
 
 Parents and tuition teachers, although dedicated, are not necessarily experts in curriculum design. This gap in expertise underscores the need for a centralized board or governance structure to provide comprehensive recommendations and guidelines.  What we need is a redesign of the curriculum framework and governance to keep students in the feedback loop.
 
-## Homeschooling during COVID times was a dystopian chaos
+## Homeschooling during COVID-19 times was a dystopian chaos
 
 Homeschooling during the COVID-19 pandemic brought about a dystopian chaos for many families. The conventional school experience, characterized by lively classrooms and face-to-face interactions, underwent a stark transformation. With children confined to their homes, a significant portion of their daily lives revolved around staring at screens, primarily mobile devices, for extended periods. This shift not only altered the nature of education but also disrupted the fundamental aspects of childhood.
 
@@ -140,3 +140,6 @@ Moreover, the prolonged period of isolation and the constant reliance on digital
 In essence, the shift to homeschooling during the COVID-19 pandemic created a challenging and surreal environment, deviating significantly from the normative, well-rounded educational and social experiences that children typically undergo.
 
 
+## Who benefits from current homeschooling? 
+
+The privatization of schools has already resulted in high and unaffordable fees for middle-class and poor parents. Homeschooling may only lead to the emergence of another set of [private and capitalist entities](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders) offering closed-source, high-priced online tutorials that are often less effective than private schools. As mentioned earlier, parents cannot homeschool their children by themselves; they need support. Capitalistic advertising companies are likely to take advantage of this and sell services with predatory practices and pricing.
