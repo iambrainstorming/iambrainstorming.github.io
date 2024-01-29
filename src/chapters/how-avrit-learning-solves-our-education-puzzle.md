@@ -82,7 +82,7 @@ All are validated by Schelling game, so there is minimal chance of corruption.
 
 It's based on the competition collaboration algorithm:
 
-[https://technoperiod.blogspot.com/2018/10/the-competitive-collaboration-algorithm.html](https://technoperiod.blogspot.com/2018/10/the-competitive-collaboration-algorithm.html)
+[The Competitive Collaboration Algorithm](./democracy/competitive_collaboration.md)
 
 When you upload your evidence of learning based on meeting the guidelines of avrit learning by staking, and no one challenges it, you earn 1 AVRIT token. 
 
@@ -94,7 +94,7 @@ The apps like [proof of humanity](https://www.proofofhumanity.id/) have proved t
 > 
 > Quality education is no more a scarce resource and is scalable, so reservation is unnecessary, students are evaluated by evidence of learning, which also makes grades unnecessary. 
 > 
-> It's all [open-source,](https://github.com/amiyatulu/avrit_ui) and as it's on the blockchain, it's not owned by anybody, so no predatory practices by some private ed-tech company. 
+> It's all [open-source](https://github.com/amiyatulu/avrit_ui) and as it's on the blockchain, it's not owned by anybody, so no predatory practices by some private ed-tech company.  Currently, governance system is [build here](https://github.com/reaudito-org/shivarthu).
 > 
 > The only problem we need the execution, where govts, NGOs and edupreneurs can come together for building learning hubs.
 
@@ -104,7 +104,7 @@ Homeschooling is the education of school-aged children at home or a variety of p
 
 ## Can Avrit schooling be misused to provide religious teaching to children by parents?
 
-Avrit protocol can be run by [decentralized governance](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md), and evidence of learning is evaluated collectively, and protected by game theory. So, it's hardly possible to do such things.
+Avrit protocol can be run by [decentralized governance](./shivarthu/Shivarthu.md), and evidence of learning is evaluated collectively, and protected by game theory. So, it's hardly possible to do such things.
 
 ## Will it disadvantage the poor? Is it sustainable?
 
@@ -118,7 +118,7 @@ Self-managed organizations are not experimental. You can go through the book abo
 
 ## Does it mean deregulation of the education system?
 
-It will limit the power of centralized governments and bureaucracy. Being on crypto or blockchain doesn't mean there are no rules and regulations. It will function under the purview of [decentralized governance](https://iambrainstorming.wordpress.com/2022/10/16/what-will-a-boycott-of-the-national-currency-give-us/) and rules of the smart contract.
+It will limit the power of centralized governments and bureaucracy. Being on crypto or blockchain doesn't mean there are no rules and regulations. It will function under the purview of [decentralized governance](./what-will-a-boycott-of-the-national-currency-give-us.md) and rules of the smart contract.
 
 ## Is India a homeschooling country?
 
