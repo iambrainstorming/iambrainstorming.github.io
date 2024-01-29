@@ -30,4 +30,7 @@ You can use single-board computers, such as the Raspberry Pi Zero, for enhanced 
 
 ## Security of the blockchain itself
 
-! Todo
+### So what a blockchain do?
+
+Blockchains are a technology which is all about providing guarantees about process integrity. If a process is run on a blockchain, the process is guaranteed to run according to some pre-agreed code and provide the correct output. No one can prevent the execution, no one can tamper with the execution, and no one can censor and block any users' inputs from being processed.
+
