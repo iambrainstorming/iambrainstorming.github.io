@@ -123,9 +123,9 @@ It will limit the power of centralized governments and bureaucracy. Being on cry
 
 India, by its educational practices, can be considered a quasi-homeschooling country, as a significant majority of children spend more than 50% of their study time in home tuition classes. They are still in school because it provides the curriculum, systemization, and guidance on what to study and what not to study. Schools put children in a feedback loop of study, with homework assigned every day to be completed in tuition, and they also conduct exams. 
 
-Although the practices of schools are questionable and not optimal, it can be chaotic without them. It's not optimal because the rigid structure and focus on rote learning may hinder a more holistic development of students, raising concerns about the overall quality of education in school. It's chaotic without it because homeschooling is unlikely to provide a systematic, structured, and evidence-based education that truly works
+Although the practices of schools are questionable and not optimal, it can be chaotic without them. It's not optimal because the rigid structure and focus on rote learning may hinder a more holistic development of students, raising concerns about the overall quality of education in school. It's chaotic without it because homeschooling is unlikely to provide a systematic, structured, and evidence-based education that truly works.
 
-Homeschooling during COVID times was a dystopian chaos. Parents and tuition teachers, although dedicated, are not necessarily experts in curriculum design. This gap in expertise underscores the need for a centralized board or governance structure to provide comprehensive recommendations and guidelines.  What we need is a redesign of the curriculum framework and governance to keep students in the feedback loop.
+Parents and tuition teachers, although dedicated, are not necessarily experts in curriculum design. This gap in expertise underscores the need for a centralized board or governance structure to provide comprehensive recommendations and guidelines.  What we need is a redesign of the curriculum framework and governance to keep students in the feedback loop.
 
 ## Homeschooling during COVID times was a dystopian chaos
 
