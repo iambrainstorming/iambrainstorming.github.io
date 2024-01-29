@@ -51,3 +51,5 @@ Nodes are protected by game-theoretic incentive system, those who behave frivolo
 
 Code: <https://github.com/amiyatulu/competitive_collaboration?>
 
+Its also related to [interoperability of software](../what-do-we-need-to-decentralize-in-the-coming-years.md#interoperability-dismantle-the-tech-platforms). 
+
