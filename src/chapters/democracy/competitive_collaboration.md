@@ -49,7 +49,7 @@ Nodes are protected by game-theoretic incentive system, those who behave frivolo
 
 ## Resources:
 
-Code: <https://github.com/amiyatulu/competitive_collaboration?>
+Code: <https://github.com/amiyatulu/competitive_collaboration>
 
 Its also related to [interoperability of software and pubactivity](../what-do-we-need-to-decentralize-in-the-coming-years.md#desirable-social-media-features). 
 

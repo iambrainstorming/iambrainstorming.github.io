@@ -34,3 +34,50 @@ You can use single-board computers, such as the Raspberry Pi Zero, for enhanced 
 
 Blockchains are a technology which is all about providing guarantees about process integrity. If a process is run on a blockchain, the process is guaranteed to run according to some pre-agreed code and provide the correct output. No one can prevent the execution, no one can tamper with the execution, and no one can censor and block any users' inputs from being processed.
 
+### Explain to a 5-year-old the 51% attack of the proof-of-stake algorithm in blockchain
+
+Imagine you and your friends are playing with building blocks to make a tall tower. In the blockchain world, people use something called Proof of Stake (PoS) to decide who gets to add the next block to the tower.
+
+Now, a 51% attack in Proof of Stake is like a big, mischievous friend who tries to cheat the game. In our tower-building game, this friend is so tricky that they convince more than half of the players to help them instead of playing by the rules. Since they have more than half the players on their side, they can now control what blocks go into the tower.
+
+So, instead of building the tower the way everyone agreed, this tricky friend and their team can start adding blocks that might not be good for the tower. It's like they're trying to make the tower wobbly or even knock it down! This is not fair because the game was supposed to be about working together and following the rules.
+
+In the blockchain world, a 51% attack in Proof of Stake means that some people with more than half of the power can make decisions that are not good for the whole group. It's like having a few friends who can control the game and change things the way they want, which is not what the game is supposed to be about. So, everyone needs to be careful and make sure they play the game fairly!
+
+
+### Detail video explaining Blockchain
+
+####  Web3 Blockchain Fundamentals MOOC
+
+<https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J>
+
+#### Proof of Stake
+
+<https://www.youtube.com/watch?v=CDvonnvqrs4&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=15>
+
+### Can we have voting system without using blockchain through cryptography?
+
+One can go through the links to implement voting in cryptography, meeting the required properties of voting system.
+
+<https://crypto.stanford.edu/pbc/notes/crypto/voting.html>
+
+[An Implementation of a Mix-Net Based Network Voting Scheme and Its Use in a Private Organization](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeibuirxnrpjd6tagfavkwmicfjlpmubydxtijz3dhfl6ur5urwk37u)
+
+Desirable features for voters and for administrators who manage voting system:
+
+- it enjoys flexibility in representing a vote, unlike homomorphic encryption based scheme where the design of the system depends heavily on the number of choices in each vote.
+
+- the voters can simply vote-and-go and require only a small computational ability.
+
+- by having authorities prove the correctness of their procedures, it achieves public verifiability, that is, anyone can verify the correctness of the tally.
+
+
+### Blockchain beyond voting
+
+Blockchain extends beyond its application in voting; it encompasses smart contracts and incentive distributions as well. It can be referred to as a publicly operated peer-to-peer open source application, devoid of centralized ownership. The versatility of blockchain lies in its adaptability; you can seamlessly integrate any compatible module to address specific problem sets. This technology empowers decentralized and trustless systems, ensuring transparency and security in various domains beyond just voting.
+
+### Smart Contracts
+
+Smart contracts are self-executing contracts with the terms of the agreement directly written into code.
+
+[Blockchain voting is overrated among uninformed people but underrated among informed people](https://vitalik.eth.limo/general/2021/05/25/voting2.html)
