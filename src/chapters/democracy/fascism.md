@@ -38,9 +38,6 @@ e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_c
 
 [Professor Ashok Swain has 500,000 followers on Twitter](https://www.uu.se/en/news/archive/2023-03-31-professor-ashok-swain-has-500000-followers-on-twitter)
 
-When you protest against unemployment, and dictatorship (tanashahi nahi chalegi), you are given electric shocks:
-
-[Given Electric Shocks, Tortured To Implicate Political Leaders: Parliament Security Breach Accused Tell Delhi Court](https://www.livelaw.in/news-updates/delhi-court-parliament-security-breach-accused-tortured-to-name-political-leaders-248112)
 
 ## Cult of Personality
 
@@ -53,6 +50,11 @@ Fascist leaders cultivate a cult of personality, often portraying themselves as 
 Fascist regimes frequently employ violence, intimidation, and censorship to silence political opposition. They may imprison or execute political opponents, ban opposition parties, and suppress labor unions and civil society organizations.
 
 e.g Arresting and harassing [strong opponents](https://www.thehindu.com/news/national/manish-sisodia-arrest-9-opposition-leaders-write-to-pm-modi-about-misuse-of-central-agencies/article66583183.ece) who are difficult to tackle, for example, either by arresting them or [removing them from the assembly](https://www.bbc.com/news/world-asia-india-67294799).
+
+When you protest against unemployment, and dictatorship (tanashahi nahi chalegi), you are given electric shocks:
+
+[Given Electric Shocks, Tortured To Implicate Political Leaders: Parliament Security Breach Accused Tell Delhi Court](https://www.livelaw.in/news-updates/delhi-court-parliament-security-breach-accused-tortured-to-name-political-leaders-248112)
+
 
 ## Militarization
 
