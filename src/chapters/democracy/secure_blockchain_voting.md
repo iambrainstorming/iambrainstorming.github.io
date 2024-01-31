@@ -72,6 +72,9 @@ Desirable features for voters and for administrators who manage voting system:
 - by having authorities prove the correctness of their procedures, it achieves public verifiability, that is, anyone can verify the correctness of the tally.
 
 
+[Blockchain voting is overrated among uninformed people but underrated among informed people](https://vitalik.eth.limo/general/2021/05/25/voting2.html)
+
+
 ### Blockchain beyond voting
 
 Blockchain extends beyond its application in voting; it encompasses smart contracts and incentive distributions as well. It can be referred to as a publicly operated peer-to-peer open source application, devoid of centralized ownership. The versatility of blockchain lies in its adaptability; you can seamlessly integrate any compatible module to address specific problem sets. This technology empowers decentralized and trustless systems, ensuring transparency and security in various domains beyond just voting.
@@ -80,4 +83,13 @@ Blockchain extends beyond its application in voting; it encompasses smart contra
 
 Smart contracts are self-executing contracts with the terms of the agreement directly written into code.
 
-[Blockchain voting is overrated among uninformed people but underrated among informed people](https://vitalik.eth.limo/general/2021/05/25/voting2.html)
+
+### Navigating Bugs, Vulnerabilities, and Open Source Solutions
+
+While blockchain apps can be developed as fully open source, with all components, including the frontend and its dependencies, being open source or FOSS (Free and Open Source Software), there is still a chance of encountering bugs. These bugs can potentially lead to security vulnerabilities and even result in the theft of funds.  Additionally, poor algorithm design without thorough validation (e.g. through game theory etc.) can make the app susceptible to attacks.
+
+However, since the source code is publicly available, anyone is free to audit it, identify vulnerabilities, and contribute to fixing them. This transparency allows for a collaborative effort in enhancing the security of the application, as the community can collectively work towards identifying and addressing potential risks.
+
+### How can we make apps low-stake?
+
+It can be subtle, depending on the intertwining processes in the algorithm. Take, for example, the design of a voting system. First Past the Post (FPTP) is more dangerous than Single Winner Approval. Single Winner Approval is more dangerous than Multi-Winner Approval (in thousands). Similarly, elections every five years are more dangerous than elections every six months. With direct democracy, stakes will be low, and there will be less chance of coercion.
