@@ -38,6 +38,10 @@ e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_c
 
 [Professor Ashok Swain has 500,000 followers on Twitter](https://www.uu.se/en/news/archive/2023-03-31-professor-ashok-swain-has-500000-followers-on-twitter)
 
+When you protest against unemployment, and dictatorship (tanashahi), you are given electric shocks:
+
+[Given Electric Shocks, Tortured To Implicate Political Leaders: Parliament Security Breach Accused Tell Delhi Court](https://www.livelaw.in/news-updates/delhi-court-parliament-security-breach-accused-tortured-to-name-political-leaders-248112)
+
 ## Cult of Personality
 
 Fascist leaders cultivate a cult of personality, often portraying themselves as charismatic and infallible figures. They use mass rallies, public spectacles, and staged events to create an aura of strength and invincibility around themselves.
