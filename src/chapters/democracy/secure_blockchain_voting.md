@@ -92,4 +92,4 @@ However, since the source code is publicly available, anyone is free to audit it
 
 ### How can we make apps low-stake?
 
-It can be subtle, depending on the intertwining processes in the algorithm. Take, for example, the design of a voting system. First Past the Post (FPTP) is more dangerous than Single Winner Approval. Single Winner Approval is more dangerous than Multi-Winner Approval (in thousands). Similarly, elections every five years are more dangerous than elections every six months. With direct democracy, stakes will be low, and there will be less chance of coercion.
+It can be subtle, depending on the intertwining processes in the algorithm. Take, for example, the design of a voting system. First Past the Post (FPTP) is more [dangerous](../the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md#votes-by-party-in-2023-legislative-assembly-election) than Single Winner Approval. Single Winner Approval is more dangerous than Multi-Winner Approval (in thousands). Similarly, elections every five years are more dangerous than elections every six months. With direct democracy, stakes will be low, and there will be less chance of coercion.
