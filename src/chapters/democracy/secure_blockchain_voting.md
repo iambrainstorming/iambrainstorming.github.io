@@ -1,7 +1,7 @@
 # Secure Blockchain Voting
 
 
-## Securing the device that you vote
+## 1) Securing the device that you vote
 
 As mentioned earlier, [Android phones](../what-do-we-need-to-decentralize-in-the-coming-years.md#security-of-phone) may not be appropriate for casting votes using blockchain technology. 
 
@@ -23,12 +23,12 @@ So, anyone, even the poorest, can hold a pen drive or memory card. Therefore, th
 You can use single-board computers, such as the Raspberry Pi Zero, for enhanced security, and they can be priced as low as $12.
 
 
-## Securing the app that you vote
+## 2) Securing the app that you vote
 
 [Link to: Enhancing Privacy and Security in Offline App Design with WebAssembly](https://amiyatulu.github.io/blog/linux/Offline_centric_apps.html)
 
 
-## Security of the blockchain itself
+## 3) Security of the blockchain itself
 
 ### So what a blockchain do?
 
