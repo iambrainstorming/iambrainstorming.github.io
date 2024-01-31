@@ -42,7 +42,7 @@ Now, a 51% attack in Proof of Stake is like a big, mischievous friend who tries 
 
 So, instead of building the tower the way everyone agreed, this tricky friend and their team can start adding blocks that might not be good for the tower. It's like they're trying to make the tower wobbly or even knock it down! This is not fair because the game was supposed to be about working together and following the rules.
 
-In the blockchain world, a 51% attack in Proof of Stake means that some people with more than half of the power can make decisions that are not good for the whole group. It's like having a few friends who can control the game and change things the way they want, which is not what the game is supposed to be about. So, everyone needs to be careful and make sure they play the game fairly!
+In the blockchain world, a 51% attack in Proof of Stake means that some people with more than half of the power can make decisions that are not good for the whole group. 
 
 
 ### Detail video explaining Blockchain
