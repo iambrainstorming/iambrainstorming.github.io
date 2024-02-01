@@ -299,6 +299,9 @@ An advantage of this method is that vote spoiling is negligible, as the paper is
 > [MNIST Web Demo Source code](https://github.com/tracel-ai/burn/tree/main/examples/mnist-inference-web)
 >
 
+> ### The paper ballot is the simplest solution.
+> 
+> With paper ballots, every citizen, politician, or election nominee can understand what is actually happening. Everyone has the idea of how to secure the system without adding complexity that only technical experts can comprehend, making it difficult for the common citizen to identify the problems or technicalities of electronic voting machines
 
 ## **EVM Hack Hypothesis**
 
