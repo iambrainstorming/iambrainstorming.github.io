@@ -363,6 +363,13 @@ It's not that opensource software is necessarily better engineered...it is that 
 > In a voting process, the ballot needs to be kept secret not the protocol or process. 
 
 
+### Why should we trust proprietary software?
+
+No one can be sure what the proprietary software does in the background. It can provide accurate results during testing, but after the election, it may switch votes when you turn on the EVM. Based on the current inquiry, it seems to also have a timer. This makes it easy to switch votes with precise timing. One also cannot know what it prints to the VVPAT; it may print multiple votes in the absence of oversight.
+
+Even if the software is made open source, we still cannot be sure if the correct software is installed, especially if a corrupt official has manipulated it.
+
+
 ### Why Electronic Voting Is Still A Bad Idea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LkH2r-sNjQs?si=65prPw8RWLM_J6Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
