@@ -389,6 +389,11 @@ The initial setup, including the appointment of volunteers to manage booths, rem
 
 Counting with paper ballots can be conducted in a decentralized manner, constituency-wise, involving a large number of people. Moreover, the counting process can be automated using open-source machine learning, as demonstrated earlier. Anyone can develop the machine learning algorithm, and the validation and accuracy checks can be performed by the community. 
 
+### How much time does it take to print a ballot paper?
+
+Printing presses are available in every locality. Each ballot paper's size will not be more than 6-10 inches, and consequently, each ballot paper will not even cost 25 paise in Indian currency. It won't take a day to print the ballots. If government is not ready to pay for that; we can crowd fund 1-10 rupees. Most people will be ready to contribute in Rs. 100s and 1000s because it safeguards our constitution and democracy.
+
+
 ### Shooting the messenger
 
 A whistleblower is an individual who exposes information about wrongdoing, illegal activities, or unethical behavior within an organization. Unfortunately, whistleblowers may face backlash, retaliation, or legal consequences for bringing such information to light. 
