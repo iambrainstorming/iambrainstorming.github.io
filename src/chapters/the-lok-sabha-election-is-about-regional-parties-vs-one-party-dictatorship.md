@@ -368,9 +368,9 @@ It's not that opensource software is necessarily better engineered...it is that 
 
 ### Why should we trust proprietary software?
 
-No one can be sure what the proprietary software does in the background. It can provide accurate results during testing, but after the election, it may switch votes when you turn on the EVM. Based on the current inquiry, it seems to also have a clock. This makes it easy to switch votes with precise timing.
+No one can be sure what the proprietary software does in the background. It can provide accurate results during testing, but after the election, it may switch votes when you turn on the EVM. Based on the current inquiry, it seems to also have a clock. This makes it easy to switch votes with precise date and time.
 
-Please note that one can also use a timer based on process time using loops and conditionals, which is a measure of the total CPU time consumed by an executing process. Process times are a count of CPU instructions or [clock cycles](https://en.m.wikipedia.org/wiki/Clock_signal) and generally do not have a direct correlation to wall time. Although it doesn't have a direct correlation with wall time, one can still use it approximately to **schedule tasks like vote switching or swapping** at specific timings.
+Please note that one can also use a timer based on process time using loops and conditionals, process time is a measure of the total CPU time consumed by an executing process. Process times are a count of CPU instructions or [clock cycles](https://en.m.wikipedia.org/wiki/Clock_signal) and generally do not have a direct correlation to wall time. Although it doesn't have a direct correlation with wall time, one can still use it approximately to **schedule tasks like vote switching or swapping** at specific timings.
 
 Also, as said earlier, one also cannot know what it prints to the VVPAT; it may print multiple votes in the absence of oversight.
 
