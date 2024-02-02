@@ -301,7 +301,7 @@ An advantage of this method is that vote spoiling is negligible, as the paper is
 
 > ### The paper ballot is the simplest solution.
 > 
-> With paper ballots, every citizen, politician, or election nominee can understand what is actually happening. Everyone has the idea of how to secure the system without adding complexity that only technical experts can comprehend, making it difficult for the common citizen to identify the problems or technicalities of electronic voting machines
+> With paper ballots, every citizen, politician, or election nominee can understand what is actually happening. Everyone has the idea of how to secure the system without adding complexity that only technical experts can comprehend, making it difficult for the common citizen to identify the problems or technicalities of electronic voting machines.
 
 ## **EVM Hack Hypothesis**
 
@@ -317,7 +317,7 @@ Instead, they may make the candidate win with a small margin. They could increas
 
 As given in data, there are many instances where the majority of people in a constituency have voted against a candidate, yet they have won. While it is very likely to happen with FPTP, EVM hacking can make it even worse.
 
-You can also look the data where FPTP got worse, Madhya Pradesh BJP got 48% votes, and INC got 40% of votes, where as BJP got 70.87% where as INC with 28.70% seats
+You can also look the data where FPTP got worse, Madhya Pradesh BJP got 48% votes, and INC got 40% of votes, where as BJP got 70.87% where as INC with 28.70% seats.
 
 It's better for us to stop using the EVM and reform our voting system by doing away FPTP.
 
@@ -347,7 +347,7 @@ Dishonest insiders or other criminals would likely face less difficulty than we 
 
 ### The Illusion of Secrecy vs Open Protocol
 
-The common assumption is that a secret encryption algorithm adds an extra layer of security by making it more challenging for attackers to decipher sensitive information. However, this belief is built on the misconception that secrecy equates to strength
+The common assumption is that a secret encryption algorithm adds an extra layer of security by making it more challenging for attackers to decipher sensitive information. However, this belief is built on the misconception that secrecy equates to strength.
 
 Testing Strength Through Transparency:
 
@@ -361,7 +361,7 @@ The paradox lies in the fact that the only reliable way to determine the strengt
 
 ### Open source software are more secure
 
-It's not that opensource software is necessarily better engineered...it is that without the sourcecode it is impossible to see what a program does. So opensource software is seen as more secure as it is the only kind of software that can be checked for security at all without needing to blindly trust someone...everything not open-source can't be checked and by this has to be seen as insecure
+It's not that opensource software is necessarily better engineered...it is that without the sourcecode it is impossible to see what a program does. So opensource software is seen as more secure as it is the only kind of software that can be checked for security at all without needing to blindly trust someone...everything not open-source can't be checked and by this has to be seen as insecure.
 
 > In a voting process, the ballot needs to be kept secret not the protocol or process. 
 
