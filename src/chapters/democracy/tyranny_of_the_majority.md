@@ -24,6 +24,7 @@ Tyranny of the majority is a concept that highlights a potential flaw in democra
 In both scenarios, the key is to introduce checks and balances that prevent the majority from imposing its will in a way that harms minority rights or results in irrational or arbitrary decisions. These mechanisms aim to strike a balance between majority rule and the protection of minority interests and the principles of rationality and fairness.
 
 # Tyranny of the Minority
+
 The tyranny of the minority occurs when a supermajority consensus is required for a decision, and a minority, in pursuit of its own interests, oppresses or neglects the rights and interests of the majority groups. 
 
 **Example:** Creating an Ultra Low Emission Zone (ULEZ) area or controlling traffic where cars are not allowed, but a minority group of car owners opposes it. Though it is difficult to pass such a bill with a supermajority decision, the minority can create a blockage. Once the bill is passed, it becomes challenging to reverse.
@@ -88,6 +89,7 @@ A more balanced approach to corporate governance, considering the interests of a
 
 
 ## Democratic reform trilemma or trade-offs
+
 > Trade-off: a balancing of factors all of which are not attainable at the same time.
 
 Democratic theorists have identified a trilemma due to the presence of three desirable characteristics of an ideal system of direct democracy, which are challenging to deliver all at once. These three characteristics are participation – widespread participation in the decision making process by the people affected; deliberation – a rational discussion where all major points of view are weighted according to evidence; and equality – all members of the population on whose behalf decisions are taken have an equal chance of having their views taken into account. Empirical evidence from dozens of studies suggests deliberation leads to better decision making.
@@ -95,6 +97,7 @@ Democratic theorists have identified a trilemma due to the presence of three des
 
 
 ## How will Shivarthu's direct democracy solve the tyranny of the majority/minority?
+
 [Shivarthu](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md)
 
 Suggestion:
@@ -107,8 +110,8 @@ Some of the voting or feedback sytem.
 4. **Voting by Department Representatives with Specialized and Multidisciplinary Knowledge:** Department representatives with specialized and multidisciplinary knowledge participate in the voting process.
 5. **Providing More Voting Weight to Individuals Creating Positive Externalities:** This approach assigns greater voting weight to individuals who generate [positive externalities](https://github.com/amiyatulu/shivarthu/tree/main/pallets/positive-externality-validation).
 
-   These different methods can enhance rationality and reduce centralization excess. Double approval can be implemented using these voting methods. Additionally, a discussion forum can be created where different voters can articulate the reasons for their approval or disapproval of a decision.
+These different methods can enhance rationality and reduce centralization excess. Double approval can be implemented using these voting methods. Additionally, a discussion forum can be created where different voters can articulate the reasons for their approval or disapproval of a decision without [sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack) or spamming.
 
-   Further consideration is needed to determine when to employ a simple majority or a supermajority.
+Further consideration is needed to determine when to employ a simple majority or a supermajority.
 
 
