@@ -110,7 +110,7 @@ Some of the voting or feedback sytem.
 4. **Voting by Department Representatives with Specialized and Multidisciplinary Knowledge:** Department representatives with specialized and multidisciplinary knowledge participate in the voting process.
 5. **Providing More Voting Weight to Individuals Creating Positive Externalities:** This approach assigns greater voting weight to individuals who generate [positive externalities](https://github.com/amiyatulu/shivarthu/tree/main/pallets/positive-externality-validation).
 
-These different methods can enhance rationality and reduce centralization excess. Double approval can be implemented using these voting methods. Additionally, a discussion forum can be created where different voters can articulate the reasons for their approval or disapproval of a decision without [sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack) or spamming.
+These different methods can enhance rationality and reduce centralization excess. Double approval can be implemented using these voting methods. Additionally, a [discussion forum can be created](../what-do-we-need-to-decentralize-in-the-coming-years.md#desirable-social-media-features) where different voters can articulate the reasons for their approval or disapproval of a decision without [sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack) or spamming.
 
 Further consideration is needed to determine when to employ a simple majority or a supermajority.
 
