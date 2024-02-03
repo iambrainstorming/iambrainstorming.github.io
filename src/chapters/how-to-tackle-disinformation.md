@@ -7,6 +7,10 @@ categories:
   - "social-media"
 ---
 
+## India ranks 1st in Misinformation and disinformation
+
+![Disinformation](./images/disinformation.png)
+
 ## **1) Deep Canvassing**
 
 Dave Fleischer told me that people don’t get a chance to reflect like this very often. Daily concerns take up people’s cognitive resources: providing lunch money for their kids, evaluating their performance at work, planning who will take the car to get repaired. Without a chance to introspect, we remain overconfident in our understanding of the issues about which we are most passionate. That overconfidence translates to certainty, and we use that certainty to support extreme views.

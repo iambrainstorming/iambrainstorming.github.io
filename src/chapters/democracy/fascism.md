@@ -28,6 +28,9 @@ e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_c
 
 [Twitter accused of censorship in India as it blocks Modi critics](https://www.theguardian.com/world/2023/apr/05/twitter-accused-of-censorship-in-india-as-it-blocks-modi-critics-elon-musk)
 
+[India ranks 1st in disinformation and misinformation](https://thewire.in/media/survey-finds-false-information-risk-highest-in-india)
+
+
 **As they rely on propaganda, they also attack the researchers**.
 
 [Researcher Arrested in India After Disclosing Problems With Voting Machines](http://web.archive.org/web/20230203033338/https://www.wired.com/2010/08/researcher-arrested-in-india/)
@@ -104,6 +107,8 @@ Fascist governments may implement corporatist economic policies that involve a c
 **Fascist govt don't like crypto, so that they can block bank account**
 
 [Government of PM Modi blocks the bank accounts of 8,975 NGOs, in a move critics say is aimed at stifling dissent.](https://www.aljazeera.com/news/2015/5/27/india-cracks-down-on-greenpeace-and-foreign-ngos)
+
+[In the 2023 Global Hunger Index, India ranks 111th out of the 125 countries with sufficient data to calculate 2023 GHI scores](https://www.globalhungerindex.org/india.html)
 
 ## Militant Youth Movements 
 
