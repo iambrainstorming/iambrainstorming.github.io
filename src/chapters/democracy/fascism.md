@@ -83,8 +83,14 @@ Fascist regimes may manipulate legal systems to legitimize their actions. They p
 
 [India court upholds Karnataka state’s ban on hijab in class](https://www.aljazeera.com/news/2022/3/15/india-court-upholds-karnataka-states-ban-on-hijab-in-class)
 
+
+### The Indian Legal system
+
 [The Atlantic Article: “Today the court seems to be aiding, not arresting, India’s descent into authoritarianism](https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)      
 [Link on web.archive.org](https://web.archive.org/web/20240203142305/https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)
+
+But these days, Chandrachud’s political independence has come under scrutiny. In December, he was revealed to have abruptly shifted eight politically sensitive cases to a bench that included a judge who had served under Modi while he was chief minister of the western state of Gujarat. And in early January, the chief justice made an unorthodox display of faith by paying a public visit to a temple in Dwarka, one of Hinduism’s holiest sites, situated in Gujarat.
+
 
 
 
