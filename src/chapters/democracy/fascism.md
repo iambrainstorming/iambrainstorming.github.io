@@ -83,7 +83,8 @@ Fascist regimes may manipulate legal systems to legitimize their actions. They p
 
 [India court upholds Karnataka state’s ban on hijab in class](https://www.aljazeera.com/news/2022/3/15/india-court-upholds-karnataka-states-ban-on-hijab-in-class)
 
-[The Aatlantic Article: “Today the court seems to be aiding, not arresting, India’s descent into authoritarianism](https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/), [web.archive.org](https://web.archive.org/web/20240203142305/https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)
+[The Aatlantic Article: “Today the court seems to be aiding, not arresting, India’s descent into authoritarianism](https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)      
+[Link on web.archive.org](https://web.archive.org/web/20240203142305/https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)
 
 
 
