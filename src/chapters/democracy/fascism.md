@@ -22,7 +22,11 @@ For example, anyone who criticizes the government will be labeled as anti-nation
 
 Fascist regimes make extensive use of propaganda to shape public opinion. This can include controlling the media, spreading false information, and using emotionally charged rhetoric to manipulate the masses. The goal is to create a climate where dissent and criticism are suppressed, and the regime's agenda is unquestioningly accepted.
 
-e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_conspiracy_theory) and promoting it [through movie](https://www.aljazeera.com/news/2023/5/4/kerala-story-film-on-alleged-indian-isil-recruits-gets-pushback) and [Godi Media](https://en.wikipedia.org/wiki/Godi_media), why Hindu festivals are only targeted. There is a call for [banning loudspeakers in mosques](https://www.newindianexpress.com/nation/2021/Mar/24/pil-seeking-ban-on-loudspeakers-in-mosques-filed-in-jharkhand-high-court-2280984.html), despite the fact that Hindu temples contribute more than 70-80% of the noise.
+e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_conspiracy_theory) and promoting it [through movie](https://www.aljazeera.com/news/2023/5/4/kerala-story-film-on-alleged-indian-isil-recruits-gets-pushback) and [Godi Media](https://en.wikipedia.org/wiki/Godi_media), why Hindu festivals are only targeted. 
+
+There is a call to [ban loudspeakers in mosques](https://www.newindianexpress.com/nation/2021/Mar/24/pil-seeking-ban-on-loudspeakers-in-mosques-filed-in-jharkhand-high-court-2280984.html), despite the fact that Hindu temples contribute more than 70-80% of the noise. It's not about defending sound pollution; sound pollution is sound pollution. Religion is about [providing us with peace](./hinduism.md#importance-of-spirituality), not noise and using it as a political tool. Such discrimination needs to be deemed unacceptable.
+
+
 
 [How the Indian Government Uses Raids to Silence Critics](https://time.com/6255425/india-raid-bbc-modi-documentary/)
 
