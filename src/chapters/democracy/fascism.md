@@ -83,6 +83,10 @@ Fascist regimes may manipulate legal systems to legitimize their actions. They p
 
 [India court upholds Karnataka state’s ban on hijab in class](https://www.aljazeera.com/news/2022/3/15/india-court-upholds-karnataka-states-ban-on-hijab-in-class)
 
+[The Aatlantic Article: “Today the court seems to be aiding, not arresting, India’s descent into authoritarianism](https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/), [web.archive.org](https://web.archive.org/web/20240203142305/https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)
+
+
+
 ## Weaken or Abolish as many Democratic Institutions 
 
 Fascism thrives on a mission to weaken or abolish democratic institutions, systematically dismantling the foundations of a participatory society. Through authoritarian rule, it seeks to concentrate power in the hands of a single leader, suppressing dissent and curtailing individual freedoms. The erosion of democratic checks and balances becomes a hallmark, paving the way for unchecked authority. In this pursuit, fascist regimes undermine the pillars of democracy, such as independent judiciary, free press, and representative governance, leaving citizens vulnerable to manipulation and repression. The fight against fascism necessitates safeguarding these institutions to preserve the essence of democratic values.
