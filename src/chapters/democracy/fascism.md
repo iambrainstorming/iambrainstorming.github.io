@@ -89,6 +89,10 @@ Fascist regimes may manipulate legal systems to legitimize their actions. They p
 [The Atlantic Article: “Today the court seems to be aiding, not arresting, India’s descent into authoritarianism](https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)      
 [Link on web.archive.org](https://web.archive.org/web/20240203142305/https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)
 
+Unable to subdue the judiciary by legal means, the Modi government resorted to other measures. It began by delaying the appointment of judges: The convention had been for the government to accept the collegium’s recommendations as binding, but the Modi regime began to exercise an active veto. Once judges are appointed, the government uses the means at its disposal to cajole their loyalty. When supreme court justices retire, the government can offer those it prefers plum postings.
+
+In November 2019, the supreme court issued a bizarre but unanimous decision that termed the destruction of the mosque by a Hindu-nationalist mob numbering in the tens of thousands “an egregious violation of the rule of law”—then proceeded to award the entirety of the ruined structure’s site to the Hindus. Much as the Kashmir verdict later would, the ruling rested on contradictory reasoning and ultimately aligned with the Hindu-nationalist agenda.
+
 But these days, Chandrachud’s political independence has come under scrutiny. In December, he was revealed to have abruptly shifted eight politically sensitive cases to a bench that included a judge who had served under Modi while he was chief minister of the western state of Gujarat. And in early January, the chief justice made an unorthodox display of faith by paying a public visit to a temple in Dwarka, one of Hinduism’s holiest sites, situated in Gujarat.
 
 
