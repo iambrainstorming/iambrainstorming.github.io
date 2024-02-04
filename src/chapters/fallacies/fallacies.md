@@ -76,3 +76,20 @@ For example:
   Burden of proof: The person in the negative position doesn't necessarily have to prove that herbal tea cannot cure insomnia; instead, they can highlight the lack of evidence or flaws in the argument presented by the affirmative side.
 
 In legal contexts, the burden of proof may shift based on the nature of the claim or the type of case. However, in everyday discussions and debates, the general principle is that the person making a claim is expected to provide evidence to support it.
+
+
+## The GI Joe Fallacy: knowing is not half the battle
+
+The phrase "Knowing is half the battle" is a slogan associated with the animated television series "G.I. Joe: A Real American Hero," which aired in the 1980s. The idea behind the slogan is that being informed or aware of a situation is a significant step toward addressing or solving it. However, the concept of the "G.I. Joe Fallacy" suggests that simply knowing about a problem or having information is not enough to effectively address or resolve it.
+
+In other words, while knowledge is valuable, taking action is the other crucial part of the equation. The fallacy highlights the misconception that awareness alone is sufficient for overcoming challenges. It emphasizes the importance of not stopping at acquiring information but also actively applying that knowledge to achieve a desired outcome.
+
+For example, if someone is aware of the negative health effects of a sedentary lifestyle, simply knowing about it is not enough. The person needs to take action by incorporating regular physical activity into their routine to experience the benefits.
+
+In summary, the "G.I. Joe Fallacy" is a reminder that awareness or knowledge is only a part of the solution, and meaningful action is necessary to address and overcome challenges effectively.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sO9xwAyeWX0?si=HvXj6jRQnP4E5lW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
