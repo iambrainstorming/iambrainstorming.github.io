@@ -50,6 +50,7 @@
 # Philosophy
 
 - [Understanding free will and how it can impact our behavior](./chapters/understanding-free-will-and-how-it-can-impact-our-behavior.md)
+- [Important fallacies, paradox and biases](./chapters/fallacies/fallacies.md)
 
 
 # India Employment
