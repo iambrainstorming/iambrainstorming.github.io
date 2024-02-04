@@ -56,6 +56,8 @@ ratio = total_market_cap_needed / market_cap_of_bitcoin
 print(ratio) # 18.42 times 
 ```
 
+> Though the example is given for a single currency, in the real world, we would have thousands or even lakhs of coins with many different supply chains. With each supply chain, one can earn at least $1-10 as UBI, resulting in a total of $100, $500, or even more per month.
+
 ## **Implications of a deflationary currency**
 
 You will spend less and hold money since deflationary currency increases in value over time. Natural resource depletion and environmental pollution are two drawbacks of consumerism. The consumer society is not sustainable in its current state. More than 70% of Earth's natural resources are currently being overused.
