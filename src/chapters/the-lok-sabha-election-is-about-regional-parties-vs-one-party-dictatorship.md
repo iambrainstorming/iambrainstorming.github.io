@@ -366,6 +366,13 @@ It's not that opensource software is necessarily better engineered...it is that 
 > In a voting process, the ballot needs to be kept secret not the protocol or process. 
 
 
+## Securing Your Code
+
+[Schneier on Security](https://www.schneier.com/crypto-gram/archives/1999/0915.html)
+
+The exact same reasoning leads any smart security engineer to demand open source code for anything related to security. Let’s review: Security has nothing to do with functionality. Therefore, no amount of beta testing can ever uncover a security flaw. The only way to find security flaws in a piece of code—such as in a cryptographic algorithm or security protocol—is to evaluate it. This is true for all code, whether it is open source or proprietary. And you can’t just have anyone evaluate the code, you need experts in security software evaluating the code. You need them evaluating it multiple times and from different angles, over the course of years. It’s possible to hire this kind of expertise, but it is much cheaper and more effective to let the community at large do this. **And the best way to make that happen is to publish the source code.**
+
+
 ### Why should we trust proprietary or closed source software?
 
 No one can be sure what the proprietary or closed source software does in the background. It can provide accurate results during testing, but after the election, it may switch votes when you turn on the EVM. Based on the current inquiry, it seems to also have a clock. This makes it easy to switch votes with precise date and time.
