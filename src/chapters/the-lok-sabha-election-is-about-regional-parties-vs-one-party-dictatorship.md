@@ -508,4 +508,13 @@ A vulnerable or compromised voting system can lead to various issues such as vot
   <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiaw6uy5iq77gcinx4vhefjpwfm2ebox6usz5f7srqblfvlny7tpeu" type="video/mp4">
 </video>
 
+### Duplicate voter lists in lakhs
+
+In FPTP, a single vote matters, as a candidate can lose by a few votes.
+
+<video width="100%" controls preload="none" poster="./images/duplicate_votes.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeias3k43og5ohauchspj2iboz74uihomvvisamr5bfyik3eoolydw4" type="video/mp4">
+
+
+
 
