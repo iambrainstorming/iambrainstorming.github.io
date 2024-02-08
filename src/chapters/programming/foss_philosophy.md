@@ -37,10 +37,17 @@ Yielding to that temptation has become ever more frequent; nowadays it is standa
 
 ## Free is not free access to closed source app
 
-The term "free" in FOSS does not mean that users have free access to api of closed-source applications. In fact, FOSS is often presented as a safer and more transparent alternative to proprietary software. 
+The term "free" in FOSS does not mean that users have free access to api of closed-source applications. 
 
-Proprietary software or closed-source software, is the opposite of FOSS. It restricts users' freedom by keeping the source code hidden and preventing them from studying, modifying, or distributing it. This creates an imbalance of power, where the developer or owner holds control over the software and its users.
+You have access to use the program for free, but in closed source software you have no control over the app; neither can you distribute it freely. For example, an ed tech company can provide some material within the app for free, but make it patented and illegal to share or modify it by others.
 
+In this scenario, the term "free" refers to the lack of monetary cost associated with using the app, but it does not equate to freedom in terms of control and usage. Users have limited rights and are subject to the conditions set by the company, which may restrict their ability to modify, share, or distribute the app.
+
+Proprietary software, such as the example mentioned, often relies on patents and copyrights to protect its intellectual property and maintain control over its users. This creates an imbalance of power, where the developer or owner holds all the rights to the software and its users must abide by their terms and conditions.
+
+In contrast, Free and Open Source Software (FOSS) offers users the freedom to run, copy, distribute, study, change, and improve the software without any restrictions. The source code of FOSS is openly available for anyone to inspect, modify, and share. This ensures that users have control over their software and are not subject to the limitations imposed by proprietary software companies.
+
+By choosing FOSS, users can avoid the risks associated with proprietary software, such as restrictions on usage, distribution, and modification. FOSS fosters a collaborative and transparent environment, where users can contribute to the development and improvement of the software, ensuring that it remains safe, secure, and trustworthy.
 
 ## “Free” as in freedom, to show we do not mean the software is gratis
 
