@@ -35,6 +35,12 @@ Proprietary software, also called nonfree software, means software that doesn't 
 
 Yielding to that temptation has become ever more frequent; nowadays it is standard practice. Modern proprietary software is typically an opportunity to be tricked, harmed, bullied or swindled.
 
+## Free is not free access to closed source app
+
+The term "free" in FOSS does not mean that users have free access to api of closed-source applications. In fact, FOSS is often presented as a safer and more transparent alternative to proprietary software. 
+
+Proprietary software or closed-source software, is the opposite of FOSS. It restricts users' freedom by keeping the source code hidden and preventing them from studying, modifying, or distributing it. This creates an imbalance of power, where the developer or owner holds control over the software and its users.
+
 
 ## “Free” as in freedom, to show we do not mean the software is gratis
 
