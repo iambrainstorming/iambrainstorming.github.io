@@ -45,7 +45,7 @@ However, this does not imply that developers working on open source projects mus
 - Employment: Developers can be employed by companies or organizations that use, maintain, or contribute to open source projects. In this case, they are paid for their work on the project as part of their job responsibilities.
 - Grants and sponsorships: Some organizations and foundations provide grants or sponsorships to fund the development of open source projects. This can help cover the costs of development, including paying developers for their work.
 - Donations: Open source projects can receive donations from individuals or organizations who support their work. These donations can be used to fund development, including paying developers for their contributions.
-- **Decentralized Governance**: With the development of [decentralized fair governance using blockchain](../what-do-we-need-to-decentralize-in-the-coming-years.md#funding-open-source), open source developers can be paid more fairly for their contributions. Some governance systems, such as Polkadot's OpenGov, are already paying [open source developers](https://polkadot.polkassembly.io/).
+- **Decentralized Governance**: With the development of [decentralized fair governance using blockchain](../what-do-we-need-to-decentralize-in-the-coming-years.md#funding-open-source), open source developers can be paid more fairly for their contributions. Some governance systems, such as [Polkadot's OpenGov](https://polkadot.polkassembly.io/), are already paying open source developers.
 
 There are several ways in which developers can be compensated for their work on open source projects, ensuring that they can continue to contribute to the community without sacrificing their livelihood.
 
