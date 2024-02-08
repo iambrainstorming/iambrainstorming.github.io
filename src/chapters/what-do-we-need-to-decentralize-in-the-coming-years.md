@@ -148,6 +148,8 @@ We can build a decentralized social media platform using decentralized moderatio
 
 4) **Monetary Incentive System:** Applications should establish their governance and [cryptocurrency funding](https://polkadot.polkassembly.io/opengov) for continued development without depending on insufficient donations of users or money given to cater to the interests of advertisers, large corporations, or corrupt governments. Additionally, there can be an incentive system at the user level to encourage the invitation of more users, along with the fair distribution of tokens based on their contributions to the app. For instance, applications can reward skilled and ethical journalists for their contributions to public interest local or international news. Designing a monetary system can be a tricky task that requires careful consideration to [avoid any unintended adverse effects](./democracy/tyranny_of_the_majority.md).
 
+## Funding Open Source
+
 > As money is controlled by the commons through a blockchain built by the FOSS community, it can provide an enormous benefit for open-source software, hardware, and open-access work. Funding open source becomes more accessible, and developers no longer have to rely solely on altruistic donations or corporate philanthropy; they can directly compete more effectively with big tech and potentially replace them.
 
 **Can we build a precarious system just like big tech social media using blockchain/cryptocurrency?**
