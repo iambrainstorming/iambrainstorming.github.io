@@ -1,4 +1,4 @@
-# FOSS or Open Source or Free Software Philosophy
+# Open Source or Free Software or FOSS Philosophy
 
 [gnu.org Philosophy](https://www.gnu.org/philosophy/philosophy.en.html)
 
