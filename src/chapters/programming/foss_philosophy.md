@@ -67,4 +67,19 @@ However, this does not imply that developers working on open source projects mus
 
 There are several ways in which developers can be compensated for their work on open source projects, ensuring that they can continue to contribute to the community without sacrificing their livelihood.
 
+## Open source and security
+
+Open source software has gained immense popularity over the years, and for good reason. One of the primary benefits of open source software is the increased security it offers. The open source model encourages collaboration and transparency, which allows for a more thorough examination of the code, leading to the identification and correction of security vulnerabilities.
+
+Free and Open Source Software (FOSS) refers to software that is both free to use and modify, as well as open for anyone to examine the source code. This transparency allows for a wider pool of experts to review the code, leading to the identification and correction of security vulnerabilities. In contrast, proprietary software is often developed behind closed doors, with only a select few individuals having access to the source code. This limited review can result in security vulnerabilities going undetected for extended periods, leaving users vulnerable to attacks.
+
+The open source community is quick to address security issues as they arise. When a vulnerability is discovered, developers from around the world collaborate to develop and distribute patches to fix the issue. This rapid response helps to minimize the potential impact of security breaches and protect users from harm. Additionally, the open source community often has a culture of responsible disclosure, where security researchers inform developers of vulnerabilities before publicly disclosing them, giving developers time to develop and release patches before the vulnerability becomes widely known.
+
+Open source software is also less susceptible to targeted attacks, such as zero-day exploits, which are vulnerabilities that are unknown to the developers and for which no patch exists. Since the source code is available for inspection, security researchers can identify and report these vulnerabilities more quickly than they can with proprietary software. This increased scrutiny helps to reduce the likelihood of zero-day exploits being successfully used against open source software.
+
+In conclusion, open source software offers a higher level of security compared to proprietary software. The collaborative nature of the open source community and the transparency of the code allow for a more thorough examination of the software, leading to the identification and correction of security vulnerabilities. The rapid response to security issues and the reduced susceptibility to targeted attacks make open source software a more secure choice for users and organizations alike.
+
+[- Schneier on Security](https://www.schneier.com/crypto-gram/archives/1999/0915.html)
+
+
 
