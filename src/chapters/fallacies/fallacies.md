@@ -92,4 +92,39 @@ In summary, the "G.I. Joe Fallacy" is a reminder that awareness or knowledge is 
 
 
 
+## Tradeoff and Opportunity Cost
+
+The concepts of tradeoff and opportunity cost are fundamental in economics and can be observed in various aspects of our daily lives.
+
+**Tradeoff:**
+
+Tradeoffs are omnipresent because resources are limited. In the context of building codes, entrepreneurs face a tradeoff between ensuring consumer safety and the cost of implementing safety measures. For instance, installing sprinklers and safety glass may enhance safety but also increase the overall cost of products. This tradeoff means that entrepreneurs must decide how much safety they can afford without significantly raising prices or hindering their ability to open new businesses.
+
+**Example:** The coffee shop's decision to install sprinklers is a tradeoff. While it enhances safety during a fire, it incurs additional costs. The tradeoff is between making the building safer and potentially increasing the cost of coffee. The example expands to the decision of opening a second location, where a more stringent building code increases both direct monetary costs and the opportunity costs of time and effort. This demonstrates how tradeoffs are inherent in various aspects of life, from business to education.
+
+**Opportunity Cost:**
+
+Opportunity cost is the value of the next best alternative. In the scenario of building improvements, the opportunity cost is the potential alternative uses of the resources spent on safety measures. For instance, the money used for sprinklers and safety glass could have been invested in research and development, marketing, or other aspects of the business. The opportunity cost highlights what is foregone in terms of potential benefits when a particular choice is made.
+
+Understanding these concepts is crucial because they apply not only to monetary decisions but also to choices involving time and resources. Even non-monetary decisions, such as spending time with loved ones, involve opportunity costs that are not easily measured in dollars and cents. Economics provides a framework for comprehending these tradeoffs and opportunity costs, allowing individuals and businesses to make informed decisions in a world where resources are limited.
+
+**Example:** Jenny's decision to go on a third date with Adam has associated costs like the Uber ride and the chai tea latte. However, the opportunity cost, in this case, is the value of the next best alternative, such as having breakfast with her sister. It emphasizes that decisions involve tradeoffs, and considering alternatives is crucial to avoid wasting scarce resources like time and energy.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uorrlWJ23Mg?si=0s6f8aa_CrMp7Pi1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Marginal Thinking and the Sunk Cost Fallacy
+
+**Marginal Thinking:**
+- **Definition:** Marginal thinking involves evaluating the additional or incremental benefit and cost of a specific action when making decisions.
+- **Explanation:** When faced with a decision, instead of considering the total or overall cost and benefit, marginal thinking focuses on the extra or additional impact of the next unit of the activity. If the marginal benefit outweighs the marginal cost, it is considered a rational decision. This approach allows individuals to optimize their choices by assessing the impact of small changes on the overall outcome.
+- **Example:** When deciding how long to watch TV, marginal thinking involves considering whether the additional enjoyment gained from watching one more episode exceeds the cost of the time spent. Similarly, a clothing shop using marginal thinking in pricing would assess whether lowering the price slightly would attract more customers without significantly reducing overall profit.
+
+**Sunk Cost Fallacy:**
+- **Definition:** The sunk cost fallacy is a cognitive bias where individuals consider the resources (time, money, effort) already invested in a decision and let those sunk costs influence future choices.
+- **Explanation:** Instead of focusing on the marginal benefit and cost of the next action, people fall into the sunk cost fallacy by dwelling on what has already been invested. This fallacy can lead to irrational decision-making, as past investments should not impact the assessment of future opportunities. The key idea is to recognize that sunk costs are irreversible and should not be a primary factor in determining the value of future actions.
+- **Example:** If someone has paid for a ticket to a movie they find boring, applying marginal thinking would involve evaluating whether staying for the rest of the film provides more enjoyment than leaving. The sunk cost fallacy occurs if the decision is influenced by the fact that money has already been spent on the ticket, despite the lack of enjoyment.
+
+In summary, while marginal thinking involves comparing the additional benefits and costs of the next action to optimize decisions, the sunk cost fallacy warns against letting past investments unduly impact future choices. It's about focusing on what can be changed in the future rather than dwelling on irreversible past expenditures.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9MPklfyRHI?si=OcKQ7gkyhSckldzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
