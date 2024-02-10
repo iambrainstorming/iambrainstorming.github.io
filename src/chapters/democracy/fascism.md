@@ -67,6 +67,36 @@ When you protest against unemployment, and dictatorship (tanashahi nahi chalegi)
 
 Fascist governments tend to heavily emphasize militarism and the expansion of their armed forces. This not only serves to strengthen their control over the population but also can be used to justify aggressive foreign policies and territorial expansion.
 
+Fascist governments often use militarization to stop peaceful protests and maintain control over their populations. This is because fascist ideology prioritizes the state and its authority over individual rights and freedoms. By militarizing the response to protests, these governments can quickly and forcefully suppress dissent and opposition.
+
+Here are some ways in which a fascist government might use militarization to stop peaceful protests:
+
+- Deployment of armed forces: The government may send armed forces, such as the military, police, or paramilitary groups, to the protest site. The presence of armed personnel can intimidate protesters, discouraging them from participating in the demonstration.
+
+- Use of force: Fascist governments may use excessive force to disperse peaceful protests, including the use of tear gas, water cannons, rubber bullets, and even live ammunition. This can result in injuries and even fatalities among protesters, sending a clear message that dissent will not be tolerated.
+
+- Arrests and detentions: The government may arrest and detain protesters, even if they are participating in a peaceful demonstration. This can serve as a warning to others who might be considering joining the protest, as well as a means of silencing opposition voices.
+
+- Surveillance and monitoring: Fascist governments often engage in surveillance of protesters, using technology and intelligence gathering methods to monitor their activities. This can include the use of facial recognition software, phone tapping, and undercover agents.
+
+- Propaganda and misinformation: To justify their actions against protesters, fascist governments may use propaganda and misinformation to paint the protesters as violent or dangerous. This can help to garner public support for the government's actions and further discredit the opposition.
+
+In summary, fascist governments use militarization to suppress peaceful protests as a means of maintaining control and reinforcing their authority. By deploying armed forces, using excessive force, making arrests, engaging in surveillance, and spreading propaganda, these governments can effectively silence dissent and discourage opposition.
+
+
+#### Barricades to stop people and farmers from going to protest in Delhi.
+
+<video width="100%" controls preload="none" poster="../images/militarization_protest.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiarizz6umrasw3fuhhn77jl333s6j4xu2rh2yr75qers5iw5ccbja" type="video/mp4">
+</video>
+
+#### The Delhi Police are blocking any entry of AAP volunteers to stop a democratic protest.
+
+<video width="100%" controls preload="none" poster="../images/militarization_against_aap.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeigtk3ylcodu7vvkkvk65rlgvat4cnjaideiuahnpqzywqiae4wb4e" type="video/mp4">
+</video>
+
+
 ## Scapegoating and Discrimination
 
 Fascist leaders often scapegoat minority groups, blaming them for economic or societal problems. This can lead to the persecution and discrimination of minority populations, sometimes culminating in mass violence and genocide.
