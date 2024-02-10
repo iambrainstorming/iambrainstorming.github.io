@@ -48,6 +48,10 @@ Although India missed its target of achieving 100 GW of solar power by 2023, glo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lt4fa-Oo2h4?si=J9duva5n99NIkJhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## A detailed explanation of the rooftop solar policy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_Tc11AlkME?si=gv40RntgkyOsQbM_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 > One can also provide zero-interest loans along with the policy so that people can pay in installments or EMIs to afford the solar panel. This will further reduce the roadblock or hesitance of users to install solar panels.
 
 Poor states states like Odisha, Jharkhand, Chhattisgarh are very much dependent on coal revenue. It all about politics. This must change, political pressure must be build on these state.
