@@ -142,3 +142,16 @@ Oil dependency poses a multifaceted danger to nations. First and foremost, relyi
 Furthermore, the economic disparities resulting from oil dependence exacerbate tensions within oil-rich nations. The failure of many regimes to distribute oil revenues equitably contributes to social unrest and violence. Instances of oil-related violence in countries like Nigeria highlight the dangerous consequences of relying on a resource that can intensify internal conflicts. The unequal distribution of wealth from oil revenues not only destabilizes nations but also perpetuates global inequalities, contributing to a cycle of conflict and underdevelopment.
 
 To address these challenges, a shift towards renewable energy sources is crucial. By embracing renewable energy, countries can become more energy secure and independent. This transition not only mitigates the geopolitical and economic risks associated with oil dependency but also contributes to a more sustainable and equitable global energy landscape. Embracing renewable energy technologies is not only a practical necessity but also a step towards fostering international cooperation and addressing the shared challenges posed by reliance on fossil fuels.
+
+## Disparity in Carbon Emissions: Wealthiest 1 Percent Outpace Poorest Half, Straining Global Climate Goals
+
+[Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
+
+The report assesses the consumption emissions of different income groups between 1990 and 2015 – 25 years when humanity doubled the amount of carbon dioxide in the atmosphere. It found:   
+
+- The richest 10 percent accounted for over half (52 percent) of the emissions added to the atmosphere between 1990 and 2015. The richest one percent were responsible for 15 percent of emissions during this time – more than all the citizens of the EU and more than twice that of the poorest half of humanity (7 percent).     
+- During this time, the richest 10 percent blew one third of our remaining global 1.5C carbon budget, compared to just 4 percent for the poorest half of the population. The carbon budget is the amount of carbon dioxide that can be added to the atmosphere without causing global temperatures to rise above 1.5C – the goal set by governments in the Paris Agreement to avoid the very worst impacts of uncontrolled climate change.     
+- Annual emissions grew by 60 percent between 1990 and 2015. The richest 5 percent were responsible for over a third (37 percent) of this growth. The total increase in emissions of the richest one percent was three times more than that of the poorest 50 percent.
+
+
+![Carbon Footprints in 2030](./images/carbon_footprints.jpg)
