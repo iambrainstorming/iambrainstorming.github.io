@@ -90,11 +90,13 @@ In summary, fascist governments use militarization to suppress peaceful protests
   <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiarizz6umrasw3fuhhn77jl333s6j4xu2rh2yr75qers5iw5ccbja" type="video/mp4">
 </video>
 
-#### The Delhi Police are blocking any entry of AAP volunteers to stop a democratic protest.
+#### The Delhi Police are blocking any entry of AAP volunteers to stop a democratic protest over chandigarh mayor election issue.
 
 <video width="100%" controls preload="none" poster="../images/militarization_against_aap.png">
   <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeigtk3ylcodu7vvkkvk65rlgvat4cnjaideiuahnpqzywqiae4wb4e" type="video/mp4">
 </video>
+
+["He Should Be Prosecuted": Supreme Court Shown Video Of Chandigarh Poll Officer](https://www.ndtv.com/india-news/wont-allow-murder-of-democracy-supreme-court-on-key-chandigarh-polls-4998439)
 
 
 ## Scapegoating and Discrimination
