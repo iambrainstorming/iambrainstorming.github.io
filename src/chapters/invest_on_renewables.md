@@ -1,7 +1,5 @@
 # Phase out fossil fuel subsidies
 
-## date: "2021-10-23"
-
 ---
 categories: 
   - "climate-change"
@@ -43,6 +41,14 @@ Instead, a more viable approach involves making substantial investments in renew
 ## **Please stop providing coal subsidy**
 
 AAP under the leadership of Arvind Kejriwal, who claims to bring political revolution is providing 200 units of free electricity to people. They are subsidizing coal-produced electricity instead of using that money for producing sustainable renewable energy. 200 units per 5 year cost Rs 72000. At this cost everyone can easily install rooftop solar panels in their homes for free, and also sell the surplus and become energy self-sufficient instead of depending on govt. The solar panel life span is about 20 years, so people can generate electricity for 20 years. Instead of bringing sustainable policy, they want the future of our children and grandchildren on the brink of catastrophe due to climate change.
+
+## Update on Solar Panel policy by AAP govt
+
+Although India missed its target of achieving 100 GW of solar power by 2023, globally, the country stands 5th in solar PV deployment as per REN21’s Global Status Report 2023 & IRENA’s Renewable Capacity Statistics 2023. With zero bills for rooftop solar panels and incentives, residential consumers can still lead the change toward a greener future. States are now coming up with their policies for solar rooftop installation to get residential consumers involved. For instance, Delhi's Solar Policy 2024 offers residential consumers zero electricity bills by installing rooftop solar panels. Chief Minister Arvind Kejriwal's initiative includes incentives, like the Generation Based Incentive (GBI), making solar power accessible and profitable. With a 2kW rooftop solar plant, consumers see a return on investment in just 4 years, setting a green energy precedent for India.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lt4fa-Oo2h4?si=J9duva5n99NIkJhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> One can also provide zero-interest loans along with the policy so that people can pay in installments or EMIs to afford the solar panel. This will further reduce the roadblock or hesitance of users to install solar panels.
 
 Poor states states like Odisha, Jharkhand, Chhattisgarh are very much dependent on coal revenue. It all about politics. This must change, political pressure must be build on these state.
 
