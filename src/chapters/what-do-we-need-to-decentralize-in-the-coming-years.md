@@ -40,7 +40,7 @@ Here are the brave goggle and it links that I created:
 
 <https://presearch.com/>
 
-I was an early adopter of Presearch in 2018, but after a few months of trying, I decided to quit using it. However, as of 2024, Presearch has successfully launched a decentralized nodes with its own index, runned by community consensus. The results now surpass those of Google, providing uncensored information that authoritarian governments and capitalists attempt to conceal through censorship laws and intellectual property rights. The quality of the results is also notably superior.
+I was an early adopter of Presearch in 2019, but after a few months of trying, I decided to quit using it. However, as of 2024, Presearch has successfully launched a decentralized nodes with its own index, runned by community consensus. The results now surpass those of Google, providing uncensored information that authoritarian governments and capitalists attempt to conceal through censorship laws and intellectual property rights. The quality of the results is also notably superior.
 
 > Over time, an even more decentralized search engine, designed with a superior algorithm based on community preferences and owned by the community, is set to be launched.
 
