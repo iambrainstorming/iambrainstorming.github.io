@@ -52,6 +52,7 @@
 - [Understanding free will and how it can impact our behavior](./chapters/understanding-free-will-and-how-it-can-impact-our-behavior.md)
 - [Important fallacies, paradox and biases](./chapters/fallacies/fallacies.md)
 - [Open Source or Free Software or FOSS Philosophy](./chapters/programming/foss_philosophy.md)
+- [The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education](./chapters/programming/interdisciplinary.md)
 
 
 # India Employment
