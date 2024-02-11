@@ -414,6 +414,11 @@ A whistleblower is an individual who exposes information about wrongdoing, illeg
 [Researcher Arrested in India After Disclosing Problems With Voting Machines](http://web.archive.org/web/20230203033338/https://www.wired.com/2010/08/researcher-arrested-in-india/)
 
 
+### Microcontrollers are ported with firmware by BEL/ECIL with directors affliated with BJP
+
+[A former bureaucrat has raised concern with the Election Commission on the nomination of 'at least' four persons allegedly having 'affiliation with the BJP' as independent directors on the board of state-run BEL that manufactures EVMs, prompting opposition leaders to attack the government.](https://www.deccanherald.com/india/ex-bureaucrat-asks-ec-to-ensure-party-affiliated-persons-removed-from-board-of-bel-which-manufacture-evm-2871211)
+
+
 ### Give missed call to 9667722062 to Ban EVM
 
 If you want to support Ban EVM Movement... Just give Miss Call- 9667722062- Adv. Rajendra Pal Gautam
@@ -514,6 +519,8 @@ In FPTP, a single vote matters, as a candidate can lose by a few votes.
 
 <video width="100%" controls preload="none" poster="./images/duplicate_votes.png">
   <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeias3k43og5ohauchspj2iboz74uihomvvisamr5bfyik3eoolydw4" type="video/mp4">
+</video>
+
 
 
 
