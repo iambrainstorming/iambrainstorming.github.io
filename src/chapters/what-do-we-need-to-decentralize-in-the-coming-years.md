@@ -24,7 +24,8 @@ I have already switched from the Google search engine to Brave Search, thanks to
   
 With Brave Goggles, search results remain in the hands of users rather than being controlled by the algorithms of the host search engine, like Google.
 
-**GOGGLES: Democracy dies in darkness, and so does the Web**  
+### **GOGGLES: Democracy dies in darkness, and so does the Web**  
+
 [https://brave.com/static-assets/files/goggles.pdf](https://brave.com/static-assets/files/goggles.pdf)
 
 There are goggles to remove Pinterest posts, remove pages found on the top 1,000 most-viewed websites, rerank results to remove “copycat” content, news indexing from authentic sources, and deranking sites spreading disinformation.
@@ -35,9 +36,37 @@ Here are the brave goggle and it links that I created:
 
 [https://github.com/reaudito-org/collection_goggle](https://github.com/reaudito-org/collection_goggle)
 
-Digital colonialism is threatening the Global South
+## Decentralized Presearch
+
+I was an early adopter of Presearch in 2018, but after a few months of trying, I decided to quit using it. However, as of 2024, Presearch has successfully launched a decentralized nodes with its own index, runned by community consensus. The results now surpass those of Google, providing uncensored information that authoritarian governments and capitalists attempt to conceal through censorship laws and intellectual property rights. The quality of the results is also notably superior.
+
+> Over time, an even more decentralized search engine, designed with a superior algorithm based on community preferences and owned by the community, is set to be launched.
+
+## Digital colonialism is threatening the Global South
 
 [https://www.aljazeera.com/opinions/2019/3/13/digital-colonialism-is-threatening-the-global-south](https://www.aljazeera.com/opinions/2019/3/13/digital-colonialism-is-threatening-the-global-south)
+
+### What is digital colonialism?
+
+Under classic colonialism, Europeans dispossessed native peoples of their land, exploited their labour, exercised extraterritorial governance, and perpetuated dependency and plunder through strategic underdevelopment. Corporations like the East India Company played a pivotal role in this process. In their pursuit of profit and power, Europeans took ownership and control of critical infrastructure, including ports, waterways, and railroads.
+
+> It is for this reason that American software programmer Richard Stallman started advocating for Free and Open Source Software in the early 1980s. “A nonfree program is a yoke, an instrument of unjust power,” Stallman reasoned.
+
+### The concentration of data is concentration of power
+
+“Feedback effects” of Big Data make the situation worse: Those who have more and better data can create the best artificial intelligence services, which attracts more users, which gives them even more data to make the service better, and so on.
+
+Network effects, economies of scale, and vast resources for infrastructure, training, and product development further concentrate corporate power. Silicon Valley can hire the best computer engineers, purchase startups and competitors, and lobby governments for favours.
+
+### Some of the network that keeps computing and data decentralized
+
+Akash Network
+
+<https://akash.network/>
+
+Akash is an open network that lets users buy and sell computing resources securely and efficiently. Purpose-built for public utility. 
+Akash democratizes secure, censorship-resistant app deployment, open to all innovators. 
+Peer-to-peer communication guarantees data privacy, payment transparency, and immunity from central control, reinforcing dependability. 
 
 Phala Network is leading in building computation space for Computation as it’s meant to Be.
 
@@ -56,6 +85,13 @@ Adventures of an Enclave (SGX / TEEs)
 [https://hackernoon.com/adventures-of-an-enclave-sgx-tees-9e7f8a975b0b](https://hackernoon.com/adventures-of-an-enclave-sgx-tees-9e7f8a975b0b)
 
 Blockchains can also try [RISC-V](https://www.computer.org/publications/tech-news/trends/reasons-to-adopt-risc-v) CPUs and GPUs with Keystone to move towards a fully open-source system. [Keystone](https://keystone-enclave.org/) is an open-source TEE framework for RISC-V processors.
+
+Crust files 
+
+<https://crustfiles.io/>  
+Your personal Web3.0 storage
+
+
 
 ## **Energy consumption by servers of capitalism**
 
