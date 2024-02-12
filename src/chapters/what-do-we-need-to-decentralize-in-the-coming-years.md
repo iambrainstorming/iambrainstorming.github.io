@@ -203,6 +203,7 @@ Here's how Mastodon works:
 1. **Instance**: Instead of a single, centralized server or website like Twitter, Mastodon consists of many independent servers called "instances." Each instance is operated by its own administrators and has its own set of rules and community guidelines. Users on an instance can communicate with users on other instances, making it a federated network.
 
 > As there are multiple instances spread throughout the world, it's challenging for fascist governments in different regions to censor content. Most instances operate through consensus, so if an instance misbehaves by promoting hate speech or disinformation, it's likely to be added to the blocked list by other instances.
+And if you run an instance on decentralized servers like the [Akash network](https://akash.network/), it's almost impossible to shut down the server. System administrators can run the instance anonymously.
 
 2. **User Accounts**: Users create accounts on specific Mastodon instances. These accounts have handles (similar to Twitter usernames) and profiles where they can provide information about themselves, upload avatars, and post content.
 
@@ -236,9 +237,13 @@ Don't overthink which instance to choose; you can change your instance anytime i
 
 - To use on mobile, you can use Android apps or just the website. I prefer the website because it provides a better user experience with quicker updates, and there are more websites available with different features.
 
+![Install App](./images/install-app.jpg)
+
+- If you want Android apps, there are about tens of apps. Install [F-Droid](https://f-droid.org/en/), a repository for open-source apps, and you can get all the apps to run Mastodon.
+
 Use the 'Install' shortcut so that the website functions like an Android app, and you won't have to remember the URL.
 
-![Install App](./images/install-app.jpg)
+
 
 ### Personalized Feeds
 
@@ -257,6 +262,36 @@ It's not just with Mastodon that you can get PubActivity; you can also access a 
 [https://github.com/LemmyNet/lemmy](https://github.com/LemmyNet/lemmy)
 
 [https://join-lemmy.org/](https://join-lemmy.org/)
+
+
+# What should you do if your followers are on Twitter?
+
+There are two main reasons for not joining Mastodon. Firstly, people may not be aware of it and its benefits. Secondly, your followers are already on Twitter. Due to the authoritarian nature of Twitter, third-party access to apps has been restricted. This makes cross-posting challenging using a single app. However, Mastodon has an open API, allowing users to automate their posts. No one can take away or censor your access to the API. If a system admin censors you for any reason, you can quickly shift your account to a different server, taking your followers with you.
+
+If you're concerned about losing followers, you can create two accounts and cross-post. Automation is much more straightforward and easy on Mastodon than on Twitter. Additionally, due to the network effect, the number of Mastodon users is growing.
+
+> Thousands of accounts are now censored by authoritarian governments. It's the right choice to move away from Twitter.
+
+![Mastodon Stats](./images/mastodon_stats.png)
+
+<https://mastodon-analytics.com/>
+
+
+
+# Mastodon clients for automation
+
+- Rust client
+<https://github.com/h3poteto/megalodon-rs>
+- Python client
+<https://mastodonpy.readthedocs.io/>
+
+# Downfall of Elon Musk.
+
+> Trust, inclusivity, transparency, everything is compromised.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1STT9_XdUw?si=5KtFqYlxhScSNRyC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 ## OpenSource
 
