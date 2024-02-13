@@ -104,7 +104,7 @@ From the employers’ perspective, the acceptance of remote work is evident as w
 About 16% of companies are already fully remote, operating without a physical office [5]. These companies are pioneers in the remote work paradigm, highlighting the feasibility of such models and paving the way for others to follow.
 
 
-## It's Time to Retire the Phrase 'Hybrid Work'
+## It's Time to Retire the Phrase 'Hybrid Work' or 'Work from Home'
 
 <https://time.com/charter/6302454/its-time-to-retire-the-phrase-hybrid-work/>
 
