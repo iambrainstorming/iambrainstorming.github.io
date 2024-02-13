@@ -115,6 +115,7 @@ The word “remote” means too many things now. It gets used to describe the wo
 
 And even more, they want schedule flexibility. The ability to break away from assumptions that the nine-to-five window is always open for meetings or interruptions is more desired by employees—and has a much bigger impact on their engagement and outcomes—than location flexibility. For every executive worried about productivity and thinking about office policies, let’s take a step back and look at the bigger problem: You have too many hours wasted, and too little focus time for people to do good work.
 
+
 ## Distributed, not hybrid
 
 “Hybrid” is most often used to describe a setup requiring a minimum number of days in the office for the entire organization—a one-size-fits-all that we’d never apply to customers, but do to our most important asset, our people.
@@ -122,6 +123,10 @@ And even more, they want schedule flexibility. The ability to break away from as
 The first issue with such policies is that the needs and rhythms of teams are highly variable. Take one example my co-authors and I described in our book How the Future Works: At the biotech company Genentech, the R&D lab workers have different needs than the finance team or the operations team. Sales teams have different rhythms than engineering teams. In any organization, a schedule that serves one team will inevitably hinder another.
 
 The bigger problem, though, is that hybrid-work setups too often stop at a simple solution (for example, “three days a week in the office to be with your team”) when in reality almost any medium or large organization is distributed. The more you grow, the greater the likelihood that employees aren’t all showing up to work in the same city, let alone the same office. Leading a workforce that’s spread out across cities and time zones creates a need for more active coordination, higher dependence on digital tools, and proactive training of managers.
+
+The rise of remote workers is only one part of the broader growth of teams that are distributed across buildings, cities, and time zones.
+
+Leading distributed teams is a challenge that requires training, the right tools, and support. But one of the great discoveries of the pandemic was that every worker who didn’t work from “headquarters” could find themselves on a level playing field with those who did. So it shouldn’t surprise anyone, when companies announce that four days a week in the office is essential for team-building, that employees don’t buy it.
 
 
 ## Outcomes, not productivity
@@ -131,4 +136,9 @@ Productivity measures are blunt instruments that make little sense in a world wh
 One thing is certain: If all managers are trained to do is manage employees based on hours worked, you’re clearly not getting the best out of your teams. We need to shift to the hard work of building outcomes-driven organizations, a process that requires creating clear, prioritized objectives and ways to measure progress.
 
 Outcomes-driven management also creates the potential for more inclusive organizations. For too long, hustle culture—rewarding those who show early and stay late—has provided a favorable advantage to those without caregiving responsibilities, as well as those who can afford to live closer to the office. By prioritizing actual output over the visible trappings of work, organizations can improve business results and create a more level playing field.
+
+One need to also take account [tyranny of share holders](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders) in outcomes.
+
+The concept of the "tyranny of shareholders" refers to a situation in which corporations prioritize the interests of their shareholders above all other stakeholders, such as workers, suppliers, consumers, and communities. This approach to corporate governance is often associated with the doctrine of "shareholder primacy," which asserts that the primary purpose of a corporation is to generate profits and maximize shareholder value. While maximizing shareholder value is a critical aspect of corporate governance, the exclusive focus on it can lead to negative consequences for other stakeholders.
+
 
