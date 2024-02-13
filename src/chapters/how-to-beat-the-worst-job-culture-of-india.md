@@ -68,8 +68,36 @@ Fully remote and flexible work bring people together from different countries, p
 
 ## Without good judgment your creativity will lead to projects that make no sense.
 
-![](https://iambrainstorming.files.wordpress.com/2020/02/logic2.png?w=920)
+![Logic](./images/logic2.webp)
 
 [https://iambrainstorming.wordpress.com/2017/01/14/all-books-that-dont-meet-the-learning-criteria-must-be-taken-off/](https://iambrainstorming.wordpress.com/2017/01/14/all-books-that-dont-meet-the-learning-criteria-must-be-taken-off/)
 
-#
+
+# Key Remote Work Statistics
+
+<https://www.forbes.com/advisor/business/remote-work-statistics/>
+
+### As of 2023, 12.7% of full-time employees work from home, while 28.2% work a hybrid model
+
+Currently, 12.7% of full-time employees work from home, illustrating the rapid normalization of remote work environments. Simultaneously, a significant 28.2% of employees have adapted to a hybrid work model. This model combines both home and in-office working, offering flexibility and maintaining a level of physical presence at the workplace .
+
+Despite the steady rise in remote work, the majority of the workforce (59.1%) still work in-office. This percentage underscores the fact that while remote work is on an upswing, traditional in-office work is far from obsolete.
+
+## By 2025, 32.6 million Americans will work remote by 2025
+
+Looking ahead, the future of remote work seems promising. According to Upwork, by 2025, an estimated 32.6 million Americans will be working remotely, which equates to about 22% of the workforce. This projection suggests a continuous, yet gradual, shift towards remote work arrangements.
+
+
+### 98% of workers want to work remote at least some of the time
+
+Interestingly, workers’ preference for remote work aligns with this trend. A staggering 98% of workers expressed the desire to work remotely, at least part of the time [3]. This overwhelming figure reflects the workforce’s growing affinity towards the flexibility, autonomy and work-life balance that remote work offers.
+
+### 93% of employers plan to continue conducting job interviews remotely
+
+From the employers’ perspective, the acceptance of remote work is evident as well. A remarkable 93% of employers plan to continue conducting job interviews remotely [4]. This indicates a willingness to adapt to virtual methods and signals the recognition of remote work as a sustainable option.
+
+
+### 16% of companies operate fully remote
+
+About 16% of companies are already fully remote, operating without a physical office [5]. These companies are pioneers in the remote work paradigm, highlighting the feasibility of such models and paving the way for others to follow.
+
