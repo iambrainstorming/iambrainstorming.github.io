@@ -101,7 +101,7 @@ From the employers’ perspective, the acceptance of remote work is evident as w
 
 ### 16% of companies operate fully remote
 
-About 16% of companies are already fully remote, operating without a physical office [5]. These companies are pioneers in the remote work paradigm, highlighting the feasibility of such models and paving the way for others to follow.
+About 16% of companies are already fully remote, operating without a physical office. These companies are pioneers in the remote work paradigm, highlighting the feasibility of such models and paving the way for others to follow.
 
 
 ## It's Time to Retire the Phrase 'Hybrid Work' or 'Work from Home'
@@ -111,7 +111,11 @@ About 16% of companies are already fully remote, operating without a physical of
 
 ## Flexible, not remote
 
-The word “remote” means too many things now. It gets used to describe the working arrangements of people who live as digital nomads, those who work from home, and those who work from anywhere. Muddling things even further, it’s also used to describe a movement around flexibility and choice—and inaccurately so. Time and again, research has demonstrated that what most people want isn’t necessarily full-time work outside an office, but the freedom to work where, and when, they’re at their best. They want a blend of regular time together with their team, and autonomy at the team level to figure out what’s right for them.
+The word “remote” means too many things now. 
+
+> It gets used to describe the working arrangements of people who live as digital nomads, those who work from home, and those who work from anywhere. 
+
+Muddling things even further, it’s also used to describe a movement around flexibility and choice—and inaccurately so. Time and again, research has demonstrated that what most people want isn’t necessarily full-time work outside an office, but the freedom to work where, and when, they’re at their best. They want a blend of regular time together with their team, and autonomy at the team level to figure out what’s right for them.
 
 And even more, they want schedule flexibility. The ability to break away from assumptions that the nine-to-five window is always open for meetings or interruptions is more desired by employees—and has a much bigger impact on their engagement and outcomes—than location flexibility. For every executive worried about productivity and thinking about office policies, let’s take a step back and look at the bigger problem: You have too many hours wasted, and too little focus time for people to do good work.
 
@@ -128,6 +132,10 @@ The rise of remote workers is only one part of the broader growth of teams that 
 
 Leading distributed teams is a challenge that requires training, the right tools, and support. But one of the great discoveries of the pandemic was that every worker who didn’t work from “headquarters” could find themselves on a level playing field with those who did. So it shouldn’t surprise anyone, when companies announce that four days a week in the office is essential for team-building, that employees don’t buy it.
 
+> One intriguing example of a distributed workforce is blockchain governance, such as the [OpenGov of Polkadot](https://polkadot.polkassembly.io). In this system, your work is approved and paid through consensus, allowing you to work independently. Additionally, it features a tipping system with varying amounts of funds allocated for different types of work.
+
+
+
 
 ## Outcomes, not productivity
 
@@ -139,6 +147,6 @@ Outcomes-driven management also creates the potential for more inclusive organiz
 
 One need to also take account [tyranny of share holders](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders) in outcomes.
 
-The concept of the "tyranny of shareholders" refers to a situation in which corporations prioritize the interests of their shareholders above all other stakeholders, such as workers, suppliers, consumers, and communities. This approach to corporate governance is often associated with the doctrine of "shareholder primacy," which asserts that the primary purpose of a corporation is to generate profits and maximize shareholder value. While maximizing shareholder value is a critical aspect of corporate governance, the exclusive focus on it can lead to negative consequences for other stakeholders.
+> The concept of the "tyranny of shareholders" refers to a situation in which corporations prioritize the interests of their shareholders above all other stakeholders, such as workers, suppliers, consumers, and communities. This approach to corporate governance is often associated with the doctrine of "shareholder primacy," which asserts that the primary purpose of a corporation is to generate profits and maximize shareholder value. While maximizing shareholder value is a critical aspect of corporate governance, the exclusive focus on it can lead to negative consequences for other stakeholders.
 
 
