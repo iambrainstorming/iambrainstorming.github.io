@@ -42,6 +42,8 @@ Working from home has had [adverse consequences for women](https://www.brookings
 
 Based on a survey from the American Institute of Stress, “80% of workers feel stress on the job, nearly half say they need help in learning how to manage stress and 42% say their coworkers need such help.” In fact, job stress tends to rank as a higher stressor than the economy, family responsibilities, and even personal health concerns. Other studies report similar findings: Forbes reports that “overall employee stress levels have risen nearly 20% in three decades.” According to the Center for Workplace Mental Health, “Excessive workplace stress causes a staggering 120,000 deaths and results in nearly $190 billion in health care costs each year.”
 
+![Stress report](./images/stress_report.jpg)
+
 [Work Stress: Causes, Symptoms, and Solutions](https://online.csp.edu/resources/article/work-stress/)
 
 ## Companies With Flexible Remote Work Policies Outperform On Revenue Growth: 
@@ -90,14 +92,43 @@ Looking ahead, the future of remote work seems promising. According to Upwork, b
 
 ### 98% of workers want to work remote at least some of the time
 
-Interestingly, workers’ preference for remote work aligns with this trend. A staggering 98% of workers expressed the desire to work remotely, at least part of the time [3]. This overwhelming figure reflects the workforce’s growing affinity towards the flexibility, autonomy and work-life balance that remote work offers.
+Interestingly, workers’ preference for remote work aligns with this trend. A staggering 98% of workers expressed the desire to work remotely, at least part of the time. This overwhelming figure reflects the workforce’s growing affinity towards the flexibility, autonomy and work-life balance that remote work offers.
 
 ### 93% of employers plan to continue conducting job interviews remotely
 
-From the employers’ perspective, the acceptance of remote work is evident as well. A remarkable 93% of employers plan to continue conducting job interviews remotely [4]. This indicates a willingness to adapt to virtual methods and signals the recognition of remote work as a sustainable option.
+From the employers’ perspective, the acceptance of remote work is evident as well. A remarkable 93% of employers plan to continue conducting job interviews remotely. This indicates a willingness to adapt to virtual methods and signals the recognition of remote work as a sustainable option.
 
 
 ### 16% of companies operate fully remote
 
 About 16% of companies are already fully remote, operating without a physical office [5]. These companies are pioneers in the remote work paradigm, highlighting the feasibility of such models and paving the way for others to follow.
+
+
+## It's Time to Retire the Phrase 'Hybrid Work'
+
+<https://time.com/charter/6302454/its-time-to-retire-the-phrase-hybrid-work/>
+
+
+## Flexible, not remote
+
+The word “remote” means too many things now. It gets used to describe the working arrangements of people who live as digital nomads, those who work from home, and those who work from anywhere. Muddling things even further, it’s also used to describe a movement around flexibility and choice—and inaccurately so. Time and again, research has demonstrated that what most people want isn’t necessarily full-time work outside an office, but the freedom to work where, and when, they’re at their best. They want a blend of regular time together with their team, and autonomy at the team level to figure out what’s right for them.
+
+And even more, they want schedule flexibility. The ability to break away from assumptions that the nine-to-five window is always open for meetings or interruptions is more desired by employees—and has a much bigger impact on their engagement and outcomes—than location flexibility. For every executive worried about productivity and thinking about office policies, let’s take a step back and look at the bigger problem: You have too many hours wasted, and too little focus time for people to do good work.
+
+## Distributed, not hybrid
+
+“Hybrid” is most often used to describe a setup requiring a minimum number of days in the office for the entire organization—a one-size-fits-all that we’d never apply to customers, but do to our most important asset, our people.
+
+The first issue with such policies is that the needs and rhythms of teams are highly variable. Take one example my co-authors and I described in our book How the Future Works: At the biotech company Genentech, the R&D lab workers have different needs than the finance team or the operations team. Sales teams have different rhythms than engineering teams. In any organization, a schedule that serves one team will inevitably hinder another.
+
+The bigger problem, though, is that hybrid-work setups too often stop at a simple solution (for example, “three days a week in the office to be with your team”) when in reality almost any medium or large organization is distributed. The more you grow, the greater the likelihood that employees aren’t all showing up to work in the same city, let alone the same office. Leading a workforce that’s spread out across cities and time zones creates a need for more active coordination, higher dependence on digital tools, and proactive training of managers.
+
+
+## Outcomes, not productivity
+
+Productivity measures are blunt instruments that make little sense in a world where the most important aspects of work are complex, creative, and interdisciplinary. But we keep trying to use them, often in the worst ways. Recent Slack research found that 60% of executives rely on “visual activities” (hours logged in, emails sent) as the main way to measure productivity. Metrics like revenue per employee aren’t much better: If it’s declining, is that because employees are less productive, or is it the economy, your competition, their training, your overhiring, or any of a raft of other reasons?
+
+One thing is certain: If all managers are trained to do is manage employees based on hours worked, you’re clearly not getting the best out of your teams. We need to shift to the hard work of building outcomes-driven organizations, a process that requires creating clear, prioritized objectives and ways to measure progress.
+
+Outcomes-driven management also creates the potential for more inclusive organizations. For too long, hustle culture—rewarding those who show early and stay late—has provided a favorable advantage to those without caregiving responsibilities, as well as those who can afford to live closer to the office. By prioritizing actual output over the visible trappings of work, organizations can improve business results and create a more level playing field.
 
