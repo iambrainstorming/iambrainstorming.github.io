@@ -18,7 +18,7 @@ So, the next time you find yourself mindlessly scrolling through your phone or c
 
 The modern-day "bread and circus" phenomenon, Meta's decision to downrank or hide political content on its Threads platform can be seen as a continuation of the age-old strategy of distracting the masses from pressing societal issues. By choosing to suppress content related to politics, Meta effectively perpetuates a culture of disengagement and apathy, preventing users from staying informed about critical matters that affect marginalized communities and the world at large.
 
-The company's decision to label certain topics as "political" is particularly problematic, as it conflates legitimate news and discourse with partisan politics. Issues such as race, gender, disability, climate change, and public health are often politicized, not because they inherently belong to a specific political ideology, but because they involve power dynamics and systemic inequalities that challenge the status quo.
+The company's decision to label certain topics as "political" and downrank it is particularly problematic, as it conflates legitimate news and discourse with partisan politics. Issues such as race, gender, disability, climate change, and public health are often politicized, not because they inherently belong to a specific political ideology, but because they involve power dynamics and systemic inequalities that challenge the status quo.
 
 By framing these issues as "political," Meta not only discourages users from engaging with crucial information but also contributes to the silencing of marginalized voices. This censorship further perpetuates the marginalization of historically oppressed groups and hinders progress towards a more equitable and just society.
 
