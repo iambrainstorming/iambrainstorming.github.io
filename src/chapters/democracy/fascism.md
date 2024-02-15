@@ -172,3 +172,9 @@ Fascist regimes often create youth organizations that promote loyalty to the sta
 Some fascist regimes seek territorial expansion and may pursue aggressive foreign policies to achieve their goals. This can lead to conflicts and wars with other nations.
 
 It's essential to recognize the dangers of fascism and to be vigilant against its tactics, as it has resulted in some of the most destructive and devastating episodes in human history. Promoting democracy, human rights, and open, informed public discourse is a crucial defense against the rise of fascist ideologies and their destructive practices.
+
+## Saam, Dan, Danda, and Bhed
+
+Fascist governments often employ various tactics to maintain control and manipulate the population. Saam, Dan, Danda, and Bhed are four tools of persuasion used by these regimes. Saam refers to persuasion through conciliation, which involves using diplomacy and compromise to achieve desired outcomes. Dan represents persuasion through money, where the government provides financial incentives or rewards to encourage specific behaviors or compliance. Danda signifies persuasion through force, where the government uses coercion, threats, or violence to enforce its will. Lastly, Bhed, or persuasion through exploitation, involves manipulating the population by dividing them based on factors like race, religion, or class, and playing on their fears, insecurities, or prejudices to maintain power.
+
+[Desperate to join BJP to keep ED, I-T raids away](https://indianexpress.com/article/cities/pune/ashok-chavan-was-desperate-to-join-bjp-to-keep-ed-i-t-away-sanjay-raut-9158942/)
