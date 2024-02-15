@@ -128,3 +128,17 @@ In summary, while marginal thinking involves comparing the additional benefits a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B9MPklfyRHI?si=OcKQ7gkyhSckldzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+## Nudge Theory
+
+Nudge theory involves subtly influencing individuals' behavior without imposing mandates. In education, the expert or teacher acts as a "nudger," guiding students to recognize the relevance and benefits of a subject. By highlighting the practical applications and fostering curiosity, they encourage a positive attitude toward learning. This approach aims to gently steer individuals toward making informed choices and embracing the intrinsic value of education.
+
+In 2008, Richard Thaler and Cass Sunstein's book Nudge: Improving Decisions About Health, Wealth, and Happiness brought nudge theory to prominence. The authors refer to the influencing of behaviour without coercion as libertarian paternalism and the influencers as choice architects.
+
+Thaler and Sunstein defined their concept as the following:
+
+> A nudge, as we will use the term, is any aspect of the choice architecture that alters people's behavior in a predictable way without forbidding any options or significantly changing their economic incentives. To count as a mere nudge, the intervention must be easy and cheap to avoid. **Nudges are not mandates. Putting fruit at eye level counts as a nudge. Banning junk food does not.**
+
+Nudge theory offers a cost-effective approach to influencing behavior because it focuses on small, strategic interventions that are easy and cheap to implement, non-intrusive, and scalable. By encouraging intrinsic motivation and voluntary participation, nudge interventions can lead to long-term behavioral change without the need for significant financial investments or disruptive changes to existing systems.
+
+Non-intrusive refers to actions or interventions that do not interfere with or disrupt the normal functioning, routine, or autonomy of an individual or system.
