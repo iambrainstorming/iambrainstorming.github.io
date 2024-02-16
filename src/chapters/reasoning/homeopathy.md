@@ -5,7 +5,7 @@
 Pseudoscience refers to ideas, theories, or practices that are presented as scientific, but lack the rigorous methodology, empirical evidence, and critical evaluation that are hallmarks of genuine scientific inquiry. Pseudoscience often relies on anecdotal evidence, personal beliefs, and unproven claims to support its ideas, rather than adhering to the scientific method and peer-reviewed research.
 
 <details>
-<summary>ଓଡିଆରେ (odia) ବ୍ୟାଖ୍ୟା କର |</summary>
+<summary>🇮🇳 ଓଡିଆ</summary>
 ସିଉଡୋ ସାଇନ୍ସ (Pseudoscience) ଧାରଣା ବା ଥିଓରୀ କୁ ବୁଝାଏ ଯାହା ବଜ୍ଞାନିକ ବୋଲି କୁହାଯାଏ, କିନ୍ତୁ କଠୋର ପଦ୍ଧତି, ପରୀକ୍ଷାମୂଳକ ପ୍ରମାଣ ଏବଂ ସମାଲୋଚନାମୂଳକ ମୂଲ୍ୟାଙ୍କନର ଯାହା ପ୍ରକୃତ ବଜ୍ଞାନିକ ଅନୁସନ୍ଧାନର ଚିହ୍ନ ଅଟେ ତାହା Pseudoscience ରେ ଘୋର ଅଭାବ ଥାଏ| ବଜ୍ଞାନିକ ପଦ୍ଧତି ଏବଂ ସମୀକ୍ଷା-ଅନୁସନ୍ଧାନକୁ ଅନୁସରଣ କରିବା ପରିବର୍ତ୍ତେ ଛଦ୍ମ ବିଜ୍ଞାନ କିମ୍ବା Pseudoscience ପ୍ରାୟତ ଅପ୍ରମାଣିତ ଦାବି, ଲୋକ ମାନଙ୍କ କାହାଣୀ, ବ୍ୟକ୍ତିଗତ ବିଶ୍ୱାସ ଉପରେ ନିର୍ଭର କରେ |</details>
 
 Some common characteristics of pseudoscience include:
