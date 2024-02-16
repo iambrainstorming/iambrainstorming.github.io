@@ -4,11 +4,15 @@
 
 Pseudoscience refers to ideas, theories, or practices that are presented as scientific, but lack the rigorous methodology, empirical evidence, and critical evaluation that are hallmarks of genuine scientific inquiry. Pseudoscience often relies on anecdotal evidence, personal beliefs, and unproven claims to support its ideas, rather than adhering to the scientific method and peer-reviewed research.
 
+<details>
+<summary>ଓଡିଆରେ (odia) ବ୍ୟାଖ୍ୟା କର |</summary>
+ସିଉଡୋ ସାଇନ୍ସ (Pseudoscience) ଧାରଣା ବା ଥିଓରୀ କୁ ବୁଝାଏ ଯାହା ବଜ୍ଞାନିକ ବୋଲି କୁହାଯାଏ, କିନ୍ତୁ କଠୋର ପଦ୍ଧତି, ପରୀକ୍ଷାମୂଳକ ପ୍ରମାଣ ଏବଂ ସମାଲୋଚନାମୂଳକ ମୂଲ୍ୟାଙ୍କନର ଯାହା ପ୍ରକୃତ ବଜ୍ଞାନିକ ଅନୁସନ୍ଧାନର ଚିହ୍ନ ଅଟେ ତାହା Pseudoscience ରେ ଘୋର ଅଭାବ ଥାଏ| ବଜ୍ଞାନିକ ପଦ୍ଧତି ଏବଂ ସମୀକ୍ଷା-ଅନୁସନ୍ଧାନକୁ ଅନୁସରଣ କରିବା ପରିବର୍ତ୍ତେ ଛଦ୍ମ ବିଜ୍ଞାନ କିମ୍ବା Pseudoscience ପ୍ରାୟତ ଅପ୍ରମାଣିତ ଦାବି, ଲୋକ ମାନଙ୍କ କାହାଣୀ, ବ୍ୟକ୍ତିଗତ ବିଶ୍ୱାସ ଉପରେ ନିର୍ଭର କରେ |</details>
+
 Some common characteristics of pseudoscience include:
 
 - **Lack of falsifiability:** Pseudoscientific claims are often difficult or impossible to disprove because they are vague, flexible, or based on subjective experiences.
 
-e.g. Claims of precognition, or the ability to predict future events, are also difficult to falsify. A person might claim to have predicted a natural disaster or stock market crash, but without a way to definitively determine whether the prediction was based on genuine precognition or simply a lucky guess, the claim remains unfalsifiable.
+e.g. Claims of precognition, or the ability to predict future events, are difficult to falsify. A person might claim to have predicted a natural disaster or stock market crash, but without a way to definitively determine whether the prediction was based on genuine precognition or simply a lucky guess, the claim remains unfalsifiable.
 
 - **Cherry-picking evidence:** Pseudoscientists tend to selectively choose data that supports their claims while ignoring or dismissing contradictory evidence.
 
