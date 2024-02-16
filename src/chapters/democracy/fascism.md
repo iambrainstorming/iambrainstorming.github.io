@@ -99,6 +99,18 @@ In summary, fascist governments use militarization to suppress peaceful protests
 ["He Should Be Prosecuted": Supreme Court Shown Video Of Chandigarh Poll Officer](https://www.ndtv.com/india-news/wont-allow-murder-of-democracy-supreme-court-on-key-chandigarh-polls-4998439)
 
 
+## Farmers Protest
+
+Security forces fired tear gas shells to disperse protesting farmers at the Punjab-Haryana Shambhu Border.
+
+This is how our farmers, who supply us with food and fight for our nation and justice, are treated. They are attacked with tear gas, resulting in stampedes that are intended to kill them.
+
+<video width="100%" controls preload="none" poster="../images/farmer_attack_tear_gas.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeigrj7kdrm3jn7duvhmygyvfb6yo3oijvjxdoljk5kedokdagzafzu
+  " type="video/mp4">
+</video>
+
+
 ## Scapegoating and Discrimination
 
 Fascist leaders often scapegoat minority groups, blaming them for economic or societal problems. This can lead to the persecution and discrimination of minority populations, sometimes culminating in mass violence and genocide.

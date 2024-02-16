@@ -1,4 +1,6 @@
-# Academician
+# What are Scholarly Activities?
+
+## Academician
 
 An academic is a person who is engaged in scholarly activities, often but not necessarily within higher education institutions. Academics are typically involved in teaching, research, and other intellectual pursuits related to their field of expertise.
 
