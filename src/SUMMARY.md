@@ -50,7 +50,7 @@
 # Philosophy
 
 - [Understanding free will and how it can impact our behavior](./chapters/understanding-free-will-and-how-it-can-impact-our-behavior.md)
-- [Important fallacies, paradox and biases](./chapters/fallacies/fallacies.md)
+- [Important fallacies, paradox and biases](./chapters/reasoning/fallacies.md)
 - [Open Source or Free Software or FOSS Philosophy](./chapters/programming/foss_philosophy.md)
 - [Modern-Day Bread and Circus](./chapters/philosophy/bread_and_circus.md)
 
@@ -63,5 +63,10 @@
 
 - [A Glimpse into a Coder's Experience](./chapters/programming/debugging_time.md)
 - [The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education](./chapters/programming/interdisciplinary.md)
+
+
+# Science
+
+- [Pseudoscience](./chapters/reasoning/homeopathy.md)
 
 
