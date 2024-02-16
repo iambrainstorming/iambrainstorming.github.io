@@ -68,6 +68,6 @@
 # Science
 
 - [Pseudoscience](./chapters/reasoning/homeopathy.md)
-- [What are Scholarly Activities](./chapters/academics/academician.md)
+- [What are Scholarly Activities?](./chapters/academics/academician.md)
 
 
