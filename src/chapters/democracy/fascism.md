@@ -173,6 +173,11 @@ Fascist governments may implement corporatist economic policies that involve a c
 
 [In the 2023 Global Hunger Index, India ranks 111th out of the 125 countries with sufficient data to calculate 2023 GHI scores](https://www.globalhungerindex.org/india.html)
 
+**16,518 crore rupees came to political parties in India through electoral bonds in the last 6 years. Of this, the BJP got a lion’s share.**
+Modi govt also allowed foreign funding anonymously
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8yAILaS6Q1w?si=mRCvgwrMzNuyDTOV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Militant Youth Movements 
 
 Fascist regimes often create youth organizations that promote loyalty to the state, indoctrinate young minds, and prepare them for future service to the regime.
