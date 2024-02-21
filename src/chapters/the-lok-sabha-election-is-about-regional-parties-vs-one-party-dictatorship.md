@@ -521,6 +521,15 @@ In FPTP, a single vote matters, as a candidate can lose by a few votes.
   <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeias3k43og5ohauchspj2iboz74uihomvvisamr5bfyik3eoolydw4" type="video/mp4">
 </video>
 
+### Courts on EVM
+
+Stop watching corporate TV news and protest against EVMs in front of all courts. The government cannot pressure courts to not ban EVMs.
+
+<video width="100%" controls preload="none" poster="./images/courts_evm.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicfzgpsvcnvffq5ois4r2dlaok64tmogggk5qg3s2ncaaoydyik5i" type="video/mp4">
+</video>
+
+
 
 
 
