@@ -178,6 +178,8 @@ Modi govt also allowed foreign funding anonymously
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8yAILaS6Q1w?si=mRCvgwrMzNuyDTOV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[30 firms facing ED, IT probe donated Rs 335 cr to BJP](https://www.thenewsminute.com/news/tnm-nl-investigation-30-firms-facing-ed-it-probe-donated-rs-335-cr-to-bjp)
+
 ## Militant Youth Movements 
 
 Fascist regimes often create youth organizations that promote loyalty to the state, indoctrinate young minds, and prepare them for future service to the regime.
