@@ -200,6 +200,8 @@ This video discusses four **reasons why financial intermediaries can fail**: ins
 
 Cryptogovernance is no longer purely experimental. For example, [OpenGov](https://polkadot.polkassembly.io/opengov) on Polkadot is currently operational, and more versions are likely to emerge in the coming years. It can be adapted to numerous supply chains, including education, housing, agriculture, and transportation.
 
+## Manifesto
+
 More points to cover, treat it like a manifesto:
 
 - No debt economy, unlike the large debts taken on by capitalists.
