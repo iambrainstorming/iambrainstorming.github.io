@@ -37,6 +37,59 @@ Votes by percentage: [analysis_data/lokshabha2019/state_party_data_sorted_percen
 
 In Hindi states like Gujarat, Rajasthan, Chhattisgarh, Uttarakhand, Haryana and Himachal Pradesh, the BJP secured almost 100% of seats, with Congress only holding one or two seats. The absence of other opposition or regional parties in these states allows the BJP to effectively use the tactics of trolling Congress and promoting the Hindu victim narrative. Limited options for voters make these strategies particularly effective. Using Hindi states, the BJP managed a one-party dictatorship with 300 seats in the Lok Sabha, sidelining all opposition parties and democratic values.
 
+INC got 32% of votes in Gujarat, yet zero seats, so the case of other states:
+
+```json
+{
+    "Gujarat": {
+        "BJP": {
+            "votes": 18091275,
+            "percentage": 62.20788595983407
+        },
+        "INC": {
+            "votes": 9337084,
+            "percentage": 32.10609847395451
+        }
+    },
+    "Haryana": {
+        "BJP": {
+            "votes": 7357347,
+            "percentage": 58.016213493381244
+        },
+        "INC": {
+            "votes": 3604106,
+            "percentage": 28.42010620795462
+        }
+    },
+    "Himachal Pradesh": {
+        "BJP": {
+            "votes": 2661281,
+            "percentage": 69.11104174479034
+        },
+        "INC": {
+            "votes": 1051113,
+            "percentage": 27.29644649380949
+        }
+    }
+}
+```
+
+**BJP got all the seats**
+
+```json
+{
+"Gujarat": {
+    "BJP": 26
+  },
+  "Haryana": {
+    "BJP": 10
+  },
+  "Himachal Pradesh": {
+    "BJP": 4
+  }
+}
+```
+
 **Why is there no other opposition in these states?**  
 The First Past the Post (FPTP) voting method maintains a biparty political system. Even if Congress garners 30-40% of votes, it may end up with zero seats because only candidate with highest vote wins, and other votes get waste. What if these 30% seats would have gone only to few constituency? Manipulation of EVM is another variable. (Details about EVM below) A potential strategy for Congress could be targeting specific constituencies, especially those with weaker opponents, to secure a few seats. Winning a seat with just 1% of the vote is possible under FPTP, emphasizing the importance of strategic planning.
 
