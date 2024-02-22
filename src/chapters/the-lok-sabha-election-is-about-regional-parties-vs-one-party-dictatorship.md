@@ -37,7 +37,9 @@ Votes by percentage: [analysis_data/lokshabha2019/state_party_data_sorted_percen
 
 In Hindi states like Gujarat, Rajasthan, Chhattisgarh, Uttarakhand, Haryana and Himachal Pradesh, the BJP secured almost 100% of seats, with Congress only holding one or two seats. The absence of other opposition or regional parties in these states allows the BJP to effectively use the tactics of trolling Congress and promoting the Hindu victim narrative. Limited options for voters make these strategies particularly effective. Using Hindi states, the BJP managed a one-party dictatorship with 300 seats in the Lok Sabha, sidelining all opposition parties and democratic values.
 
-INC got 32% of votes in Gujarat, yet zero seats, so the case of other states:
+## INC got 32% of votes in Gujarat, yet zero seats
+
+So the case of other states:
 
 ```json
 {
