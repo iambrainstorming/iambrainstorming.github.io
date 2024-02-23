@@ -50,7 +50,7 @@ Nodes are protected by game-theoretic incentive system, those who behave frivolo
 
 ## 15 min cities and modular competitive collaboration algorithm
 
-15-minute cities are a concept that aims to create urban environments where residents can access all the essential services and amenities within a 15-minute walk or bike ride. Decentralizing cities means distributing these services throughout the city, ensuring that they are accessible to all residents, regardless of their location. We will explore how decentralizing cities can benefit various aspects of urban life, including jobs, healthcare, childcare, schools, colleges, and supermarkets.
+15-minute cities are a concept that aims to create urban environments where residents can access all the essential services and amenities within a [15-minute walk or bike ride](../road-planning-of-cities.md). Decentralizing cities means distributing these services throughout the city, ensuring that they are accessible to all residents, regardless of their location. We will explore how decentralizing cities can benefit various aspects of urban life, including jobs, healthcare, childcare, schools, colleges, and supermarkets.
 
 ### [Jobs, Remote Work](../how-to-beat-the-worst-job-culture-of-india.md)
 
