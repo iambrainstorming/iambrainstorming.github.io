@@ -35,6 +35,8 @@ Votes by percentage: [analysis_data/lokshabha2019/state_party_data_sorted_percen
 
 **State-wise analysis (2019 Lok Sabha election):**
 
+## Hindi States
+
 In Hindi states like Gujarat, Rajasthan, Chhattisgarh, Uttarakhand, Haryana and Himachal Pradesh, the BJP secured almost 100% of seats, with Congress only holding one or two seats. The absence of other opposition or regional parties in these states allows the BJP to effectively use the tactics of trolling Congress and promoting the Hindu victim narrative. Limited options for voters make these strategies particularly effective. Using Hindi states, the BJP managed a one-party dictatorship with 300 seats in the Lok Sabha, sidelining all opposition parties and democratic values.
 
 ## INC got 32% of votes in Gujarat, yet zero seats
@@ -51,6 +53,36 @@ So the case of other states:
         "INC": {
             "votes": 9337084,
             "percentage": 32.10609847395451
+        }
+    },
+    "Rajasthan": {
+        "BJP": {
+            "votes": 18968392,
+            "percentage": 58.47031404395368
+        },
+        "INC": {
+            "votes": 11107910,
+            "percentage": 34.240276459489735
+        }
+    },
+    "Chhattisgarh": {
+        "BJP": {
+            "votes": 6902477,
+            "percentage": 50.69962781464669
+        },
+        "INC": {
+            "votes": 5569183,
+            "percentage": 40.90640292342263
+        }
+    },
+    "Uttarakhand": {
+        "BJP": {
+            "votes": 2954833,
+            "percentage": 61.013395829999425
+        },
+        "INC": {
+            "votes": 1520767,
+            "percentage": 31.401828440456953
         }
     },
     "Haryana": {
@@ -80,28 +112,210 @@ So the case of other states:
 
 ```json
 {
-"Gujarat": {
-    "BJP": 26
-  },
-  "Haryana": {
-    "BJP": 10
-  },
-  "Himachal Pradesh": {
-    "BJP": 4
-  }
+    "Gujarat": {
+        "BJP": 26
+    },
+    "Rajasthan": {
+        "BJP": 24,
+        "RLTP": 1
+    },
+    "Chhattisgarh": {
+        "INC": 2,
+        "BJP": 9
+    },
+    "Uttarakhand": {
+        "BJP": 5
+    },
+    "Haryana": {
+        "BJP": 10
+    },
+    "Himachal Pradesh": {
+        "BJP": 4
+    }
 }
 ```
 
 **Why is there no other opposition in these states?**  
 The First Past the Post (FPTP) voting method maintains a biparty political system. Even if Congress garners 30-40% of votes, it may end up with zero seats because only candidate with highest vote wins, and other votes get waste. What if these 30% seats would have gone only to few constituency? Manipulation of EVM is another variable. (Details about EVM below) A potential strategy for Congress could be targeting specific constituencies, especially those with weaker opponents, to secure a few seats. Winning a seat with just 1% of the vote is possible under FPTP, emphasizing the importance of strategic planning.
 
+## States with Competitor
+
 States with more opposition include Maharashtra, Uttar Pradesh, Bihar, and Delhi.  
 The INDIA bloc must address this challenge by avoiding vote splitting, fostering unity, and strategizing effectively. Leaders like Priyanka Chaturvedi in Shivsena, Akhilesh Yadav in Uttar Pradesh, and Arvind Kejriwal in Delhi play crucial roles.
 
+```json
+{
+    "Maharashtra": {
+        "BJP": {
+            "votes": 14912139,
+            "percentage": 27.58735969765187
+        },
+        "SHS": {
+            "votes": 12589064,
+            "percentage": 23.28968612918375
+        },
+        "INC": {
+            "votes": 8792237,
+            "percentage": 16.265580991835147
+        },
+        "NCP": {
+            "votes": 8387363,
+            "percentage": 15.516566737727999
+        },
+        "VBA": {
+            "votes": 3743560,
+            "percentage": 6.925561535453877
+        }
+    },
+    "Uttar Pradesh": {
+        "BJP": {
+            "votes": 42858171,
+            "percentage": 49.55767597558957
+        },
+        "BSP": {
+            "votes": 16659754,
+            "percentage": 19.263973970448536
+        },
+        "SP": {
+            "votes": 15533620,
+            "percentage": 17.96180491901854
+        },
+        "INC": {
+            "votes": 5457352,
+            "percentage": 6.310434528359497
+        }
+    },
+    "Bihar": {
+        "BJP": {
+            "votes": 9619548,
+            "percentage": 23.573474928517186
+        },
+        "JD(U)": {
+            "votes": 8902719,
+            "percentage": 21.81682789483805
+        },
+        "RJD": {
+            "votes": 6270769,
+            "percentage": 15.36702304557582
+        },
+        "LJP": {
+            "votes": 3206979,
+            "percentage": 7.858959594856339
+        },
+        "INC": {
+            "votes": 3140797,
+            "percentage": 7.696775288720634
+        }
+    },
+    "NCT OF Delhi": {
+        "BJP": {
+            "votes": 4908541,
+            "percentage": 56.55644905203495
+        },
+        "INC": {
+            "votes": 1953900,
+            "percentage": 22.51293119539413
+        },
+        "AAAP": {
+            "votes": 1571687,
+            "percentage": 18.109054348582536
+        }
+    },
+}
+```
+
+```json
+{
+    "Maharashtra": {
+        "BJP": 23,
+        "IND": 1,
+        "AIMIM": 1,
+        "NCP": 4,
+        "SHS": 18,
+        "INC": 1
+    },
+    "Uttar Pradesh": {
+        "BJP": 62,
+        "BSP": 10,
+        "SP": 5,
+        "ADAL": 2,
+        "INC": 1
+    },
+    "Bihar": {
+        "BJP": 17,
+        "JD(U)": 16,
+        "LJP": 6,
+        "INC": 1
+    },
+    "NCT OF Delhi": {
+        "BJP": 7
+    }
+}
+```
 In Delhi, even if AAP wins the Assembly Election, people haven't traditionally voted for them during the Lok Sabha polls because they typically don't favor Congress at the center. However, this time things have changed. AAP is now part of a national party coalition. It's crucial to remember that the INDIA bloc is not synonymous with Congress. Congress currently holds about 50 seats, and it's unlikely to surpass 150 or 200 only after they win in Hindi states. The INDIA bloc is, in fact, a coalition of regional parties, characterized by decentralization and power-sharing. Nevertheless, winning in Hindi states remains crucial for achieving a majority. So, the INDIA bloc needs to work hard to secure Congress's victory and must address the situation if Congress doesn't cooperate.
 
-South and East India states, including West Bengal and Odisha:  
-These states pose less of a threat. West Bengal has leaders like Mamata Banerjee and Mahua Moitra, who align with the INDIA bloc. Odisha has Naveen Patnaik, though he has no alliance with anyone, but he is a bit pro-BJP and anti-Congress. The BJD party is a bit more opportunistic toward the state rather than involving itself in national politics. As long as the center benefits them, they hardly care about who is in power at the center. In South Indian states Modi is hardly liked.
+## East India States
+
+East India states, including West Bengal and Odisha: 
+West Bengal has leaders like Mamata Banerjee and Mahua Moitra, who align with the INDIA bloc. Odisha has Naveen Patnaik, though he has no alliance with anyone, but he is a bit pro-BJP and anti-Congress. The BJD party is a bit more opportunistic toward the state rather than involving itself in national politics. As long as the center benefits them, they hardly care about who is in power at the center. 
+Last Loksabha election in Odisha, the largest competitor was BJP, not Congress. So, if Naveen Patnaik wants to stop one-party dictatorship, they need to stop supporting BJP.
+
+```json
+{
+  "West Bengal": {
+    "AITC": {
+      "votes": 24757345,
+      "percentage": 43.27679372529672
+    },
+    "BJP": {
+      "votes": 23028517,
+      "percentage": 40.25473571614763
+    },
+    "CPIM": {
+      "votes": 3610645,
+      "percentage": 6.311546689690433
+    },
+    "INC": {
+      "votes": 3210491,
+      "percentage": 5.612062067395416
+    }
+  },
+   "Odisha": {
+    "BJD": {
+      "votes": 10174021,
+      "percentage": 42.75854767828794
+    },
+    "BJP": {
+      "votes": 9130768,
+      "percentage": 38.374048851224686
+    },
+    "INC": {
+      "votes": 3285339,
+      "percentage": 13.807355446862044
+    },
+   }
+}
+```
+
+```json
+{
+   "West Bengal": {
+    "BJP": 18,
+    "AITC": 22,
+    "INC": 2
+  },
+  "Odisha": {
+    "BJD": 12,
+    "BJP": 8,
+    "INC": 1
+  },
+}
+```
+
+
+## South States:
+
+These states pose less of a threat.  In South Indian states Modi is hardly liked. You can analyse other states from the data.
 
 ## 2023 Legislative Assembly Election
 
