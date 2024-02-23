@@ -26,6 +26,8 @@ How does a supermarket simplify things? By consolidating a diverse range of reta
 
 **Example of [Community Governance](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders) that corporate governance unlikely to do it**:
 
+## Best Practices
+
 To illustrate, consider the role of community governance in shaping the practices of a supermarket:
 
 - **Reducing Plastic Usage:** Community governance can swiftly enforce decisions to eliminate plastic bags and encourage the use of sustainable packaging. This proactive approach aligns with environmental goals, reducing the ecological footprint of the supermarket.
@@ -50,11 +52,11 @@ Supermarkets, when governed by the community, have the potential to be more soci
 
 > Regulation doesn't mean governance will [control prices](https://mru.org/courses/principles-economics-microeconomics/price-controls-definition-nixon), control exports or imports, and disrupt the free-market system of discovering prices for goods and services through demand and supply. It is about making the supply chain more efficient and handling [negative externalities](https://mru.org/courses/principles-economics-microeconomics/externalities-definition-pigovian-tax).
 
-**Community Kitchen Proposal**
+## Community Kitchen Proposal
 
 The Community Kitchen initiative aims to bring culinary experiences by fostering a diverse range of both nutritious and delicious meals. The current lamentable state of hostel and hotel food prompts an exploration into the roots of the problem, attributing it to governance issues and the influence of capitalism on the food industry.
 
-**Key Components of the Incentive System:**
+### Key Components of the Incentive System:
 
 1. **Cook Appointment and Compensation:** The heart of the kitchen lies in the cook, and their appointment and fair compensation are crucial for maintaining culinary standards.
 
