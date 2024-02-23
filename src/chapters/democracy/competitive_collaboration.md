@@ -47,6 +47,29 @@ As different nodes are independent of each other and are free to connect to othe
 
 Nodes are protected by game-theoretic incentive system, those who behave frivolously are punished.
 
+
+## 15 min cities and modular competitive collaboration algorithm
+
+15-minute cities are a concept that aims to create urban environments where residents can access all the essential services and amenities within a 15-minute walk or bike ride. Decentralizing cities means distributing these services throughout the city, ensuring that they are accessible to all residents, regardless of their location. We will explore how decentralizing cities can benefit various aspects of urban life, including jobs, healthcare, childcare, schools, colleges, and supermarkets.
+
+### [Jobs, Remote Work](../how-to-beat-the-worst-job-culture-of-india.md)
+
+The rise of remote work has made it possible for people to work from anywhere, as long as they have a stable internet connection. Decentralizing cities can help create more job opportunities in different neighborhoods, reducing the need for long commutes and making it easier for people to find work closer to home. This can not only improve the quality of life for residents but also reduce the environmental impact of commuting.
+
+### Hospitals
+
+Access to healthcare is a critical aspect of urban life. Decentralizing cities can help ensure that hospitals and other healthcare facilities are evenly distributed throughout the city, making it easier for residents to access medical care when they need it. This can be particularly beneficial for low-income and marginalized communities, who often face barriers to accessing healthcare services.
+
+### [Child Care, Schools, Colleges](../how-avrit-learning-solves-our-education-puzzle.md)
+
+Education is another essential service that can benefit from decentralization. By ensuring that childcare facilities, schools, and colleges are located within a 15-minute walk or bike ride from residential areas, we can make it easier for parents to drop off and pick up their children, and for students to access educational resources. This can also help reduce the environmental impact of transportation, as fewer people will need to drive to school or work.
+
+### [Supermarkets](../empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)
+
+Access to fresh, healthy food is a crucial aspect of urban life. Decentralizing cities can help ensure that supermarkets and other food retailers are evenly distributed throughout the city, making it easier for residents to access healthy food options. This can help promote healthy eating habits and reduce the risk of diet-related health issues, such as obesity and diabetes.
+
+The Competitive Collaboration Algorithm can help build a free market system with public ownership by creating a decentralized network where individuals and businesses can connect and collaborate to provide essential services. This algorithm can be used to identify the optimal subgraph or subgraphs of services for each individual, ensuring that everyone has equal access to the resources they need. By promoting competition and collaboration, the algorithm can help create a more efficient and equitable urban environment.
+
 ## Resources:
 
 Code: <https://github.com/amiyatulu/competitive_collaboration>
