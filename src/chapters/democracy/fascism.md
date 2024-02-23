@@ -197,3 +197,6 @@ It's essential to recognize the dangers of fascism and to be vigilant against it
 Fascist governments often employ various tactics to maintain control and manipulate the population. Saam, Dan, Danda, and Bhed are four tools of persuasion used by these regimes. Saam refers to persuasion through conciliation, which involves using diplomacy and compromise to achieve desired outcomes. Dan represents persuasion through money, where the government provides financial incentives or rewards to encourage specific behaviors or compliance. Danda signifies persuasion through force, where the government uses coercion, threats, or violence to enforce its will. Lastly, Bhed, or persuasion through exploitation, involves manipulating the population by dividing them based on factors like race, religion, or class, and playing on their fears, insecurities, or prejudices to maintain power.
 
 [Desperate to join BJP to keep ED, I-T raids away](https://indianexpress.com/article/cities/pune/ashok-chavan-was-desperate-to-join-bjp-to-keep-ed-i-t-away-sanjay-raut-9158942/)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y9253_M38Xk?si=rD3PvtoswAjvu8Af" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
