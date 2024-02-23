@@ -94,7 +94,7 @@ The apps like [proof of humanity](https://www.proofofhumanity.id/) have proved t
 > 
 > Quality education is no more a scarce resource and is scalable, so reservation is unnecessary, students are evaluated by evidence of learning, which also makes grades unnecessary. 
 > 
-> It's all [open-source](https://github.com/amiyatulu/avrit_ui) and as it's on the blockchain, it's not owned by anybody, so no predatory practices by some private ed-tech company.  Currently, governance system is [build here](https://github.com/reaudito-org/shivarthu).
+> It's all [open-source](https://github.com/amiyatulu/avrit_ui) and as it's on the blockchain, it's not owned by anybody, so no predatory practices by some private ed-tech company.  Currently, governance system is [build here](https://github.com/reaudito/shivarthu).
 > 
 > The only problem we need the execution, where govts, NGOs and edupreneurs can come together for building learning hubs.
 

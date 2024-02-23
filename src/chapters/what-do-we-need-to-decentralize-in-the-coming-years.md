@@ -34,7 +34,7 @@ Developers need not stop here; we need to decentralize the computing servers and
 
 Here are the brave goggle and it links that I created:
 
-[https://github.com/reaudito-org/collection_goggle](https://github.com/reaudito-org/collection_goggle)
+[https://github.com/reaudito/collection_goggle](https://github.com/reaudito/collection_goggle)
 
 ## Decentralized Presearch
 
