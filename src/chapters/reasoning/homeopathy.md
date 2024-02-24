@@ -27,3 +27,10 @@ e.g. Claims of precognition, or the ability to predict future events, are diffic
 - **Failure to progress:** Genuine scientific theories and ideas are continually tested, refined, and improved upon through ongoing research and experimentation. Pseudoscience, on the other hand, tends to remain stagnant, with little or no progress in understanding or application.
 
 Examples of pseudoscience include astrology, homeopathy, psychic readings, and many alternative medicine practices. While some of these may have some beneficial effects for individuals, they lack the empirical evidence and scientific rigor to be considered legitimate scientific theories or practices.
+
+
+## PBS Video on Homeopathy
+
+<video width="100%" controls preload="none" poster="../images/homeopathy.png">
+  <source src="https://bafybeiaqtot4s3eb3s6kgusa65sirmsgpfflnurwwh2u7f5loe4ttyo6pa.ipfs.dweb.link/" type="video/mp4">
+</video>
