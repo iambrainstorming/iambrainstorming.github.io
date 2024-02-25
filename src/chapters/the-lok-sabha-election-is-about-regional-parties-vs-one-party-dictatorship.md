@@ -412,6 +412,10 @@ In Madhya Pradesh, the BJP would have lost 63 seats, and the Congress would have
 
 [https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data)
 
+## Are all politicians and parties are corrupt? Does it matters whom to vote?
+
+The common argument is that all politicians and parties are corrupt, and it hardly matters whom to vote for. As you can see, there are more than 10,000 candidates who don't get any chance of winning, many of them are independent and are treated as spoilers due to vote splitting. Are all these politicians corrupt? Of course not. Our voting method simply doesn't give a fair chance.
+
 ## Pressure for Approval Voting
 
 You can also advocate for a change in the voting method to single-winner Approval Voting in your constituency. However, independents and third parties need to collaborate and demand this change. You can [follow the link](./do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.md) to learn about the benefits of Approval Voting and how it aids third parties or independents.
