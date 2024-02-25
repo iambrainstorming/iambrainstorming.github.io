@@ -28,6 +28,8 @@ e.g. Claims of precognition, or the ability to predict future events, are diffic
 
 Examples of pseudoscience include astrology, homeopathy, psychic readings, and many alternative medicine practices. While some of these may have some beneficial effects for individuals, they lack the empirical evidence and scientific rigor to be considered legitimate scientific theories or practices.
 
+![Science Vs Pseudoscience](../images/science_pseudoscience.jpeg)
+
 
 ## PBS Video on Homeopathy
 
