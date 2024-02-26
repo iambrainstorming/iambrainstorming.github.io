@@ -47,6 +47,33 @@ their tricks no longer work.”
 [From Dictatorship to Democracy: A Conceptual Framework for Liberation](https://www.nonviolent-conflict.org/resource/from-dictatorship-to-democracy-a-conceptual-framework-for-liberation/)
 
 
+## Why British Left India? | Reality of Mahatma Gandhi's Role | Quit India Movement | Dhruv Rathee
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oZIlIludZto?si=M8XXEB_9s0AmnzlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## How to bring down a dictator
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/utW1F-QuYq8?si=gnrNsvZLNP7BS-Zd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Buddha - Conquer Fear, Become Free
+
+The general wanted the Zen master to submit to his will, and when the master would not submit, the general took out his sword and said, 
+
+> “Fool, don’t you see? I’m the type of man that can put a sword through you without blinking an eye.”
+> 
+> To which the master calmly said, **“don’t you see? I’m the type of man who can have a sword put through him without blinking an eye.”**
+> 
+> That’s what true freedom is, isn’t it?
+> 
+> **To be without fear.**
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZK4JHLzRg2Q?si=lxg3777gUP72efCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## India: extreme inequality in numbers
 
 ### Let's look at the numbers in India
