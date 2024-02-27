@@ -1,4 +1,4 @@
-## What is Pseudoscience? 
+# What is Pseudoscience? 
 
 Pseudoscience refers to ideas, theories, or practices that are presented as scientific, but lack the rigorous methodology, empirical evidence, and critical evaluation that are hallmarks of genuine scientific inquiry. Pseudoscience often relies on anecdotal evidence, personal beliefs, and unproven claims to support its ideas, rather than adhering to the scientific method and peer-reviewed research.
 

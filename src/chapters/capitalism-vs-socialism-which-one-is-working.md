@@ -35,7 +35,7 @@ Examples are Microsoft and Iphone with their proprietary software or hardware
 > 
 > We've now reached the point where it's technically easy to remove the screen or the battery from an #iPhone 14, you can replace them with genuine Apple parts purchased from their store, but when you turn on the phone things probably won't work unless somebody from Apple registered the parts' serial numbers (which have all to be genuine and new btw, throwing a wrench into the idea of sustainability through used/refurbished/compatible parts) to your phone.
 > 
-> In other words, they've been forced to remove the hardware barriers, and they've just moved them to the software.
+> In other words, they've been forced to [remove the hardware barriers, and they've just moved them to the software](./what-do-we-need-to-decentralize-in-the-coming-years.md#apple-against-interoperability).
 > 
 > \-@blacklight
 
@@ -48,6 +48,8 @@ Example of socialism is [FOSS](https://www.gnu.org/philosophy/free-sw.html) soft
 > “Free software” means software that respects users' freedom and community. Roughly, it means that **the users have the freedom to run, copy, distribute, study, change and improve the software**. Thus, “free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer.”
 > 
 > [https://www.gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)
+> 
+> [Open Source or Free Software or FOSS Philosophy](./programming/foss_philosophy.md)
 
 So, no one owns a FOSS software, anyone can study, change or improve the software.
 
@@ -58,6 +60,8 @@ e.g Pine64 [https://www.pine64.org/](https://www.pine64.org/)
 Another example can be decentralized computation using blockchain, its free market as well as owned by common with #FOSS software. You don't have to rely on aws, you can use your home computer to provide service.
 
 [https://runonflux.io/](https://runonflux.io/)
+
+[Akash Network](https://akash.network/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AkFZgZ5IjTU?si=nyAewzTyniBjMfyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
