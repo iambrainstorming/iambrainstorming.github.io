@@ -144,7 +144,10 @@ firejail --net=none vlc
 ### Apple against Interoperability
 
 [Apple argues against right-to-repair bill that would reduce its control](https://www.theverge.com/2024/2/9/24067957/apple-right-to-repair-oregon-bill-parts-pairing-ban)
+
 [Mozilla says Apple’s new browser rules are ‘as painful as possible’ for Firefox](https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox)
+
+[Apple appears to be breaking iPhone web apps in the EU](https://www.theverge.com/2024/2/14/24072764/apple-progressive-web-apps-eu-ios-17-4)
 
 ### Enhancing Privacy and Security in Offline App Design with WebAssembly
 
