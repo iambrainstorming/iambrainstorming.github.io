@@ -140,6 +140,9 @@ In November 2019, the supreme court issued a bizarre but unanimous decision that
 But these days, Chandrachud’s political independence has come under scrutiny. In December, he was revealed to have abruptly shifted eight politically sensitive cases to a bench that included a judge who had served under Modi while he was chief minister of the western state of Gujarat. And in early January, the chief justice made an unorthodox display of faith by paying a public visit to a temple in Dwarka, one of Hinduism’s holiest sites, situated in Gujarat.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q9Y0Dk-qzmA?si=ohXEBVGhA546TqKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 
 ## Weaken or Abolish as many Democratic Institutions 
