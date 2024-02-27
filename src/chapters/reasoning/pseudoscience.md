@@ -92,5 +92,5 @@ Example: When new evidence emerges that challenges a scientific theory, scientis
 ## PBS Video on Homeopathy
 
 <video width="100%" controls preload="none" poster="../images/homeopathy.png">
-  <source src="https://bafybeiaqtot4s3eb3s6kgusa65sirmsgpfflnurwwh2u7f5loe4ttyo6pa.ipfs.dweb.link/" type="video/mp4">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeidaprig2avmp3zrfgkx5h3ooqe7fnywq6sl7r3fpbcxrumvh2lg6u" type="video/mp4">
 </video>
