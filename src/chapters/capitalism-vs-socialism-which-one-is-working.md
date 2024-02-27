@@ -19,6 +19,11 @@ Characteristics central to capitalism include private property, capital accumula
 
 > Socialism is a political philosophy and movement encompassing a wide range of economic and social systems which are characterised by social ownership of the means of production, as opposed to private ownership.
 
+
+## Defination of Free Market
+
+> In economics, a free market is an economic system in which the prices of goods and services are determined by supply and demand expressed by sellers and buyers.
+
 ## **But do socialism works?** 
 
 Here are some of the video that explains why socialism is much more worse than capitalism?
@@ -28,6 +33,11 @@ But both the videos have serious flaws:
 ## **It assumes Capitalism = Free Market**
 
 Capitalism and the Free Market is often incompatible with each other. Capitalism entails private ownership, and through private ownership, individuals and entities can amass excessive wealth, establish monopolies, and potentially undermine the principles of a free market. Furthermore, they often utilize financial resources to lobby the government, seeking regulations that favour their interests and, in the process, potentially disrupt the free market.
+
+Advocates of free-market socialism assert that authentic free markets cannot exist when productive property is privately owned. They argue that private ownership fosters class disparities and income/power inequalities, allowing the dominant class to manipulate the market in their favor through tactics like monopolies, market power, or influencing government policies to suit their business interests. Furthermore, in a socialist system with cooperative and self-managed enterprises, workers are motivated to enhance productivity because they not only receive a fixed wage or salary but also a share of the profits based on their enterprise's overall performance. This heightened motivation for productivity, envisioned in a socialist setup, could be replicated in a free-market economy if employee and public-owned companies were the prevalent norm, as envisioned by various thinkers.
+
+Further more, capitalism exacerbates negative externalities, adversely affecting communities through the [tyranny of shareholders](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders).
+
 
 Examples are Microsoft and Iphone with their proprietary software or hardware
 
@@ -53,7 +63,7 @@ Example of socialism is [FOSS](https://www.gnu.org/philosophy/free-sw.html) soft
 
 So, no one owns a FOSS software, anyone can study, change or improve the software.
 
-There are also open source hardware like [RISC V.](https://www.pine64.org/)
+There are also open source hardware like build on [RISC V.](https://www.pine64.org/)
 
 e.g Pine64 [https://www.pine64.org/](https://www.pine64.org/)
 
