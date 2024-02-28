@@ -145,6 +145,8 @@ Mass protest by Supreme Court lawyers for EVM across the country
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q9Y0Dk-qzmA?si=ohXEBVGhA546TqKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[SC shifts seven cases to bench of former law secretary to Narendra Modi](https://www.nationalheraldindia.com/national/sc-shifts-seven-cases-to-bench-of-former-law-secretary-to-narendra-modi)
+
 
 
 
