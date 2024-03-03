@@ -697,6 +697,21 @@ A whistleblower is an individual who exposes information about wrongdoing, illeg
 
 [A former bureaucrat has raised concern with the Election Commission on the nomination of 'at least' four persons allegedly having 'affiliation with the BJP' as independent directors on the board of state-run BEL that manufactures EVMs, prompting opposition leaders to attack the government.](https://www.deccanherald.com/india/ex-bureaucrat-asks-ec-to-ensure-party-affiliated-persons-removed-from-board-of-bel-which-manufacture-evm-2871211)
 
+### Can EVMs be Hacked or Tampered With? | The Debate over VVPAT Matching
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXb5Cuwl6LE?si=yDqZmvZMfTjTvw9S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+The video connected all the dots of EVM. However, I have a conflict with the solution given. 
+> EVM is a useless machine, and there is no need for EVM at all. It adds extra unnecessary complexity, maintenance, and costs.
+> 
+> Using paper ballots is more cost-effective, requires less maintenance than EVMs, and EVMs demand protection for 365 days every year, whereas ballot papers need protection for only about a month after the election. Manufacturing of new EVM is another additional cost associated with EVMs. Paper ballots have fewer steps to maintain and are also considered the gold standard.
+> 
+> Instead, we can use paper ballots. Paper ballot counting can be automated in the future using an open-source machine-learning algorithm, as I have already said and demonstrated. If you want the results in one day, it can also be done with paper ballots.
+>
+> **Lets end the voting scam**. 
+>
+> To be clear, parties at the center will always want EVMs to select their own government through a flawed and opaque voting system that they have full control over. It is the responsibility of people to protest and return to paper ballot-based voting.
+
 
 ### Give missed call to 9667722062 to Ban EVM
 
