@@ -32,6 +32,10 @@ There is a call to [ban loudspeakers in mosques](https://www.newindianexpress.co
 
 [Twitter accused of censorship in India as it blocks Modi critics](https://www.theguardian.com/world/2023/apr/05/twitter-accused-of-censorship-in-india-as-it-blocks-modi-critics-elon-musk)
 
+[Hate crime tracker Hindutva Watch blocked in India ahead of national vote](https://www.aljazeera.com/news/2024/1/31/hate-crime-tracker-hindutva-watch-blocked-in-india-ahead-of-national-vote) 
+
+[On Wired.com This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://www.wired.com/story/india-elections-right-wing-website-ban/)
+
 [India ranks 1st in disinformation and misinformation](https://thewire.in/media/survey-finds-false-information-risk-highest-in-india)
 
 
