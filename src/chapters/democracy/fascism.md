@@ -198,6 +198,8 @@ Fascist regimes often create youth organizations that promote loyalty to the sta
 
 [Hinduism, Weaponised: A Secular India Under Threat | In Bad Faith - Part 1 | CNA Documentary](https://www.youtube.com/watch?v=l1qvVp8XZg8)
 
+[How RSS textbooks are reshaping Indian history and science under Modi. The chain of schools run by the BJP’s far-right ideological mentor also served as a laboratory for government changes to syllabuses.](https://www.aljazeera.com/news/2024/2/19/how-rss-textbooks-are-reshaping-indian-history-and-science-under-modi)
+
 ## Expansionism and Imperialism
 
 Some fascist regimes seek territorial expansion and may pursue aggressive foreign policies to achieve their goals. This can lead to conflicts and wars with other nations.
