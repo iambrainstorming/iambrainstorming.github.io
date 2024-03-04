@@ -34,7 +34,7 @@ There is a call to [ban loudspeakers in mosques](https://www.newindianexpress.co
 
 [Hate crime tracker Hindutva Watch blocked in India ahead of national vote](https://www.aljazeera.com/news/2024/1/31/hate-crime-tracker-hindutva-watch-blocked-in-india-ahead-of-national-vote) 
 
-[On Wired.com This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://www.wired.com/story/india-elections-right-wing-website-ban/)
+[On Wired.com This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://web.archive.org/web/20240302015318/https://www.wired.com/story/india-elections-right-wing-website-ban/)
 
 [India ranks 1st in disinformation and misinformation](https://thewire.in/media/survey-finds-false-information-risk-highest-in-india)
 
