@@ -13,7 +13,7 @@ This number — called the “labor force participation rate” includes both 
 Of those 24% of women technically in the “labor force”, many don’t actually work. Then there’s the question of “what counts as ‘employment’?” 
 In this case, the answer is as little as one hour each week of paid labor.
 
-Put differently: of India’s 1.4 billion people, 681 million are women, 509 million of those are at least 15 years old, 122 million officially in the “labor force”,  and **a tiny 38 million — 8.8% — according to tne Indian think-tank — meaningfully employed**.
+Put differently: of India’s 1.4 billion people, 681 million are women, 509 million of those are at least 15 years old, 122 million officially in the “labor force”,  and **a tiny 38 million — 8.8% — according to the Indian think-tank — meaningfully employed**.
 
 In a country of 1.4 billion, in other words, just 38 million women have jobs. 
 The United States, by contrast,  has twice as many women employed — in absolute terms — with only one-fourth the population.
