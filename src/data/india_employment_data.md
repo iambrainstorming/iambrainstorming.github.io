@@ -136,6 +136,15 @@ In that case, it would be stuck with millions of angry, aimless, and unemploye
 waste.
 
 
+## Protest against unemployment
+
+<video width="100%" controls preload="none" poster="../chapters/images/protest_unemployment.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicg6bz4fc6u5arvxgsncp5jxpf4mudod7y5bhkgbvg6dtqgtbzm3m" type="video/mp4">
+</video>
+
+
+
+
 ## Population data
 
 ```json
