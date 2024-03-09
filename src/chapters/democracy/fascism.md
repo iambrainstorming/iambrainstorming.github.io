@@ -4,9 +4,7 @@
   <source src="https://com-ft-next-media-renditions.s3.eu-west-1.amazonaws.com/17050842428480/1280x720.mp4" type="video/mp4">
 </video>
 
-*[Democracy by Margaret Atwood | Democracy 2024](https://www.ft.com/video/bd19b92f-f0e5-4668-a9a8-33b3ed68ddde)*
-
-
+_[Democracy by Margaret Atwood | Democracy 2024](https://www.ft.com/video/bd19b92f-f0e5-4668-a9a8-33b3ed68ddde)_
 
 Fascism is a far-right political ideology and system of government that emerged in the early 20th century, most notably in Italy under Benito Mussolini and in Germany under Adolf Hitler. It is characterized by authoritarianism, nationalism, and a belief in the superiority of one's own race or nation. While it's essential to understand that fascism is a deeply controversial and harmful ideology that has caused immense suffering and death, it's also important to recognize the tactics and strategies used by fascist leaders to gain and maintain power. Some of the key tricks and techniques of fascism include:
 
@@ -22,22 +20,19 @@ For example, anyone who criticizes the government will be labeled as anti-nation
 
 Fascist regimes make extensive use of propaganda to shape public opinion. This can include controlling the media, spreading false information, and using emotionally charged rhetoric to manipulate the masses. The goal is to create a climate where dissent and criticism are suppressed, and the regime's agenda is unquestioningly accepted.
 
-e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_conspiracy_theory) and promoting it [through movie](https://www.aljazeera.com/news/2023/5/4/kerala-story-film-on-alleged-indian-isil-recruits-gets-pushback) and [Godi Media](https://en.wikipedia.org/wiki/Godi_media), why Hindu festivals are only targeted. 
+e.g. Propaganda, such as [Love Jihad](https://en.wikipedia.org/wiki/Love_jihad_conspiracy_theory) and promoting it [through movie](https://www.aljazeera.com/news/2023/5/4/kerala-story-film-on-alleged-indian-isil-recruits-gets-pushback) and [Godi Media](https://en.wikipedia.org/wiki/Godi_media), why Hindu festivals are only targeted.
 
 There is a call to [ban loudspeakers in mosques](https://www.newindianexpress.com/nation/2021/Mar/24/pil-seeking-ban-on-loudspeakers-in-mosques-filed-in-jharkhand-high-court-2280984.html), despite the fact that Hindu temples contribute more than 70-80% of the noise. It's not about defending sound pollution; sound pollution is sound pollution. Religion is about [giving us peace](./hinduism.md#importance-of-spirituality), not noise and using it as a political tool. Such discrimination needs to be deemed unacceptable.
-
-
 
 [How the Indian Government Uses Raids to Silence Critics](https://time.com/6255425/india-raid-bbc-modi-documentary/)
 
 [Twitter accused of censorship in India as it blocks Modi critics](https://www.theguardian.com/world/2023/apr/05/twitter-accused-of-censorship-in-india-as-it-blocks-modi-critics-elon-musk)
 
-[Hate crime tracker Hindutva Watch blocked in India ahead of national vote](https://www.aljazeera.com/news/2024/1/31/hate-crime-tracker-hindutva-watch-blocked-in-india-ahead-of-national-vote) 
+[Hate crime tracker Hindutva Watch blocked in India ahead of national vote](https://www.aljazeera.com/news/2024/1/31/hate-crime-tracker-hindutva-watch-blocked-in-india-ahead-of-national-vote)
 
 [On Wired.com This Website Tracked Hate Crimes in India. Then the Government Took It Offline](https://web.archive.org/web/20240302015318/https://www.wired.com/story/india-elections-right-wing-website-ban/)
 
 [India ranks 1st in disinformation and misinformation](https://thewire.in/media/survey-finds-false-information-risk-highest-in-india)
-
 
 **As they rely on propaganda, they also attack the researchers**.
 
@@ -48,7 +43,6 @@ There is a call to [ban loudspeakers in mosques](https://www.newindianexpress.co
 [Researcher's twitter account @ashoswai has been withheld in India in response to a legal demand](https://en.wikipedia.org/wiki/Ashok_Swain)
 
 [Professor Ashok Swain has 500,000 followers on Twitter](https://www.uu.se/en/news/archive/2023-03-31-professor-ashok-swain-has-500000-followers-on-twitter)
-
 
 ## Cult of Personality
 
@@ -65,7 +59,6 @@ e.g Arresting and harassing [strong opponents](https://www.thehindu.com/news/nat
 When you protest against unemployment, and dictatorship (tanashahi nahi chalegi), you are given electric shocks:
 
 [Given Electric Shocks, Tortured To Implicate Political Leaders: Parliament Security Breach Accused Tell Delhi Court](https://www.livelaw.in/news-updates/delhi-court-parliament-security-breach-accused-tortured-to-name-political-leaders-248112)
-
 
 ## Militarization
 
@@ -87,7 +80,6 @@ Here are some ways in which a fascist government might use militarization to sto
 
 In summary, fascist governments use militarization to suppress peaceful protests as a means of maintaining control and reinforcing their authority. By deploying armed forces, using excessive force, making arrests, engaging in surveillance, and spreading propaganda, these governments can effectively silence dissent and discourage opposition.
 
-
 #### Barricades to stop people and farmers from going to protest in Delhi.
 
 <video width="100%" controls preload="none" poster="../images/militarization_protest.png">
@@ -102,7 +94,6 @@ In summary, fascist governments use militarization to suppress peaceful protests
 
 ["He Should Be Prosecuted": Supreme Court Shown Video Of Chandigarh Poll Officer](https://www.ndtv.com/india-news/wont-allow-murder-of-democracy-supreme-court-on-key-chandigarh-polls-4998439)
 
-
 ## Farmers Protest
 
 Security forces fired tear gas shells to disperse protesting farmers at the Punjab-Haryana Shambhu Border.
@@ -113,7 +104,6 @@ This is how our farmers, who supply us with food and fight for our nation and ju
   <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeigrj7kdrm3jn7duvhmygyvfb6yo3oijvjxdoljk5kedokdagzafzu
   " type="video/mp4">
 </video>
-
 
 ## Scapegoating and Discrimination
 
@@ -131,10 +121,9 @@ Fascist regimes may manipulate legal systems to legitimize their actions. They p
 
 [India court upholds Karnataka state’s ban on hijab in class](https://www.aljazeera.com/news/2022/3/15/india-court-upholds-karnataka-states-ban-on-hijab-in-class)
 
-
 ### The Indian Legal system
 
-[The Atlantic Article: “Today the court seems to be aiding, not arresting, India’s descent into authoritarianism](https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)      
+[The Atlantic Article: “Today the court seems to be aiding, not arresting, India’s descent into authoritarianism](https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)\
 [Link on web.archive.org](https://web.archive.org/web/20240203142305/https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)
 
 Unable to subdue the judiciary by legal means, the Modi government resorted to other measures. It began by delaying the appointment of judges: The convention had been for the government to accept the collegium’s recommendations as binding, but the Modi regime began to exercise an active veto. Once judges are appointed, the government uses the means at its disposal to cajole their loyalty. When supreme court justices retire, the government can offer those it prefers plum postings.
@@ -151,10 +140,9 @@ Mass protest by Supreme Court lawyers for EVM across the country
 
 [SC shifts seven cases to bench of former law secretary to Narendra Modi](https://www.nationalheraldindia.com/national/sc-shifts-seven-cases-to-bench-of-former-law-secretary-to-narendra-modi)
 
+[From the Bench to the BJP: Justice Abhijit Ganguly’s Controversial Transition](https://www.thequint.com/opinion/bjp-justice-abhijit-ganguly-bjp-tmc-west-bengal-controversial-transition)
 
-
-
-## Weaken or Abolish as many Democratic Institutions 
+## Weaken or Abolish as many Democratic Institutions
 
 Fascism thrives on a mission to weaken or abolish democratic institutions, systematically dismantling the foundations of a participatory society. Through authoritarian rule, it seeks to concentrate power in the hands of a single leader, suppressing dissent and curtailing individual freedoms. The erosion of democratic checks and balances becomes a hallmark, paving the way for unchecked authority. In this pursuit, fascist regimes undermine the pillars of democracy, such as independent judiciary, free press, and representative governance, leaving citizens vulnerable to manipulation and repression. The fight against fascism necessitates safeguarding these institutions to preserve the essence of democratic values.
 
@@ -168,12 +156,11 @@ Fascism thrives on a mission to weaken or abolish democratic institutions, syste
 
 [A Partisan Referee: The Speaker: This control is enabled by the fact that – much like Opposition rights – the Constitution also fails to guarantee the independence of the parliamentary “referee”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601145)
 
-
 ## Economic Policies
 
 Fascist governments may implement corporatist economic policies that involve a close relationship between the state and big business. This serves to consolidate economic power and often benefits the ruling elite, while the general population may suffer from economic hardship.
 
-[Demonetisation drive that cost India 1.5m jobs fails to uncover 'black money'](https://www.theguardian.com/world/2018/aug/30/india-demonetisation-drive-fails-uncover-black-money) 
+[Demonetisation drive that cost India 1.5m jobs fails to uncover 'black money'](https://www.theguardian.com/world/2018/aug/30/india-demonetisation-drive-fails-uncover-black-money)
 
 [India's Adani faced margin call on $1.1 bln loan before repaying in full](https://www.reuters.com/world/india/indias-adani-faced-margin-call-11-bln-loan-before-repaying-full-ft-2023-02-08/)
 
@@ -192,7 +179,7 @@ Modi govt also allowed foreign funding anonymously
 
 [30 firms facing ED, IT probe donated Rs 335 cr to BJP](https://www.thenewsminute.com/news/tnm-nl-investigation-30-firms-facing-ed-it-probe-donated-rs-335-cr-to-bjp)
 
-## Militant Youth Movements 
+## Militant Youth Movements
 
 Fascist regimes often create youth organizations that promote loyalty to the state, indoctrinate young minds, and prepare them for future service to the regime.
 
@@ -211,6 +198,5 @@ It's essential to recognize the dangers of fascism and to be vigilant against it
 Fascist governments often employ various tactics to maintain control and manipulate the population. Saam, Dan, Danda, and Bhed are four tools of persuasion used by these regimes. Saam refers to persuasion through conciliation, which involves using diplomacy and compromise to achieve desired outcomes. Dan represents persuasion through money, where the government provides financial incentives or rewards to encourage specific behaviors or compliance. Danda signifies persuasion through force, where the government uses coercion, threats, or violence to enforce its will. Lastly, Bhed, or persuasion through exploitation, involves manipulating the population by dividing them based on factors like race, religion, or class, and playing on their fears, insecurities, or prejudices to maintain power.
 
 [Desperate to join BJP to keep ED, I-T raids away](https://indianexpress.com/article/cities/pune/ashok-chavan-was-desperate-to-join-bjp-to-keep-ed-i-t-away-sanjay-raut-9158942/)
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y9253_M38Xk?si=rD3PvtoswAjvu8Af" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
