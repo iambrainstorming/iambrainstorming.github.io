@@ -142,6 +142,8 @@ Mass protest by Supreme Court lawyers for EVM across the country
 
 [From the Bench to the BJP: Justice Abhijit Ganguly’s Controversial Transition](https://www.thequint.com/opinion/bjp-justice-abhijit-ganguly-bjp-tmc-west-bengal-controversial-transition)
 
+[The appointments of Justice Dinesh Maheshwari and Justice Sanjiv Khanna to the Supreme Court have triggered a controversy over the Supreme Court collegium’s apparent indifference to the principle of seniority of high court judges in the all-India list and to inter-se seniority within the high courts which they were serving before their elevation.](https://thewire.in/law/collegium-had-a-case-for-superseding-hc-judges-but-failed-to-articulate-it)
+
 ## Weaken or Abolish as many Democratic Institutions
 
 Fascism thrives on a mission to weaken or abolish democratic institutions, systematically dismantling the foundations of a participatory society. Through authoritarian rule, it seeks to concentrate power in the hands of a single leader, suppressing dissent and curtailing individual freedoms. The erosion of democratic checks and balances becomes a hallmark, paving the way for unchecked authority. In this pursuit, fascist regimes undermine the pillars of democracy, such as independent judiciary, free press, and representative governance, leaving citizens vulnerable to manipulation and repression. The fight against fascism necessitates safeguarding these institutions to preserve the essence of democratic values.
