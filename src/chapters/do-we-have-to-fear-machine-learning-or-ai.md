@@ -90,7 +90,7 @@ Take for example [Molecular dynamics simulation](https://bmcbiol.biomedcentral.c
 [Generative AI’s environmental costs are soaring — and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
 
 One assessment suggests that ChatGPT, the chatbot created by OpenAI in San Francisco, California, is already consuming the energy of 33,000 homes. It’s estimated that a search driven by generative AI uses four to five times the energy of a conventional web search. Within years, large AI systems are likely to need as much energy as entire nations.
-
+A lawsuit by local residents revealed that in July 2022, the month before OpenAI finished training the model, the cluster used about 6% of the district’s water.
 
 Humans cannot entirely rely on AI for decision-making due to its limitations; it can only serve as an assistant.
 
