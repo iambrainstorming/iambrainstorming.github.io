@@ -70,6 +70,8 @@ Moreover, it's essential to recognize that AI doesn't possess the ability to thi
 
 > We make hundreds of decisions throughout the day based on how our human body feels. AI can't decide for us on its own because it can't feel like humans. It can't even make simple decisions, such as whether to take a bath, take a nap, or wash our hands, as AI doesn't need sleep and can't sense the coldness of water during a bath.
 
+Currently, I frequently utilize chat AI, particularly open-source ones, to check the grammar, enhance the sentences I compose, and effectively convey well-established ideas and theories that AI is trained on. I am unable to use AI for generating new ideas and perspectives. AI does not possess a human brain or body and cannot feel or think like us.
+
 ## If we were to simulate either our brain or our entire body, would it behave exactly like us?
 
 No, as it violates the principle of form following function. A robot equipped with a simulated brain may replicate sensations like hunger, even that with an approximation, but it cannot consume actual food to satisfy that hunger or drink water to quench its thirst. The interaction with the environment will inevitably differ, leading to decisions that deviate from human decision-making processes.
@@ -81,6 +83,14 @@ Take for example [Molecular dynamics simulation](https://bmcbiol.biomedcentral.c
 > Unfortunately, the calculations required to describe the absurd quantum-mechanical motions and chemical reactions of large molecular systems are often too complex and computationally intensive for even the best supercomputers. Molecular dynamics (MD) simulations, first developed in the late 1970s , seek to overcome this limitation by using simple approximations based on Newtonian physics to simulate atomic motions, thus reducing the computational complexity.
 > 
 > These successes aside, the utility of molecular dynamics simulations is still limited by two principal challenges: the force fields used require further refinement, and high computational demands prohibit routine simulations greater than a microsecond in length, leading in many cases to an inadequate sampling of conformational states. As an example of these high computational demands, consider that a **one-microsecond simulation** of a relatively small system (approximately 25,000 atoms) running on **24 processors takes several months to complete**.
+
+>Simulating our world  will always be costly.
+>Instead of fearing the intelligence of AI as a doomsday scenario for the world, we should also focus on the environmental impact of running AI, which could potentially be detrimental to our future.
+
+[Generative AI’s environmental costs are soaring — and mostly secret](https://www.nature.com/articles/d41586-024-00478-x)
+
+One assessment suggests that ChatGPT, the chatbot created by OpenAI in San Francisco, California, is already consuming the energy of 33,000 homes. It’s estimated that a search driven by generative AI uses four to five times the energy of a conventional web search. Within years, large AI systems are likely to need as much energy as entire nations.
+
 
 Humans cannot entirely rely on AI for decision-making due to its limitations; it can only serve as an assistant.
 
