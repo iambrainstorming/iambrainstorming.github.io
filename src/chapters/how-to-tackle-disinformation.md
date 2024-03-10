@@ -25,6 +25,14 @@ When asked to provide opinions on health-care reform, a flat tax, carbon emissio
 
 As a result, their opinions became less extreme.
 
+### Why do we argue? What purpose does it serve?
+
+Cognitive scientist Hugo Mercier, an expert on human reasoning and argumentation, explained that we evolved to reach consensus—sometimes on the facts, sometimes on right and wrong, sometimes on what to eat for dinner—by banging our heads together. Groups that did a better job of reaching consensus, by both producing and evaluating arguments, were better at reaching communal goals and out-survived those that didn’t. That led to the innate psychology that compels us to persuade others to see things our way when we believe our groups are misguided.
+
+Mercier told me that if we couldn’t change our minds or the minds of others, there would be no point in arguing in the first place. He asked me to imagine a world where everyone was deaf. “People would stop talking,” he said. **The fact that we so often disagree isn’t a bug in human reasoning; it’s a feature.** How arguing had led to sudden shifts, all we had to do was look at the history.  
+
+[How to have a respectful argument?](./relationships-emotions-and-happiness.md#the-5-secrets-of-effective-communication-by-david-burns)
+
 ## **2) Truth Sandwich**
 
 [https://en.wikipedia.org/wiki/Truth_sandwich](https://en.wikipedia.org/wiki/Truth_sandwich)
