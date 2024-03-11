@@ -823,8 +823,14 @@ Stop watching corporate TV news and protest against EVMs in front of all courts.
   <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicfzgpsvcnvffq5ois4r2dlaok64tmogggk5qg3s2ncaaoydyik5i" type="video/mp4">
 </video>
 
+### The resignation of an Election Commissioner
+
+There needs to be a body of three members in the Election Commission, but only one election commissioner is left. Arun Goel has resigned ahead of the 2024 Lok Sabha elections. Will only one election commissioner be able to conduct the Lok Sabha election? How are election commissioners appointed, what are the guidelines and criteria for their appointment? How can they be appointed so quickly? Will the government appoint another election commissioner now, who will follow the government's orders rather than staying neutral and independent to all parties? Will the new election commissioner, if appointed, listen to the people and consider eliminating the use of EVMs?
 
 
+<video width="100%" controls preload="none" poster="./images/election_commision_resignation.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeihgb3wkyjuiabbnuyseuksl63sizjrjoq3u735luwmzmh7uuyj3rm" type="video/mp4">
+</video>
 
 
 
