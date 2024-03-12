@@ -143,7 +143,7 @@ In essence, the shift to homeschooling during the COVID-19 pandemic created a ch
 
 ## Who benefits from current homeschooling? 
 
-The privatization of schools has already resulted in high and unaffordable fees for middle-class and poor parents. Homeschooling may only lead to the emergence of another set of [private and capitalist entities](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders) offering closed-source, high-priced online tutorials that are often less effective than private schools. As mentioned earlier, parents cannot homeschool their children by themselves; they need support. Capitalistic advertising companies are likely to take advantage of this and sell services with predatory practices and pricing.
+The privatization of schools has already resulted in high and unaffordable fees for middle-class and poor parents. Homeschooling may only lead to the emergence of another set of [private and capitalist entities](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders) offering [closed-source](./programming/foss_philosophy.md), high-priced online tutorials that are often less effective than private schools. As mentioned earlier, parents cannot homeschool their children by themselves; they need support. Capitalistic advertising companies are likely to take advantage of this and sell services with predatory practices and pricing.
 
 
 ## Education is not something that we can fix in a silo
