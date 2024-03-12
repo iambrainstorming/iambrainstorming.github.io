@@ -6,7 +6,7 @@
   - [Price discovery of decentralized supply chain](./chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
   - [What do we need to decentralize in the coming years?](./chapters/what-do-we-need-to-decentralize-in-the-coming-years.md)
   - [Emotion and empathy rather than materialism](./chapters/relationships-emotions-and-happiness.md)
-  - [No Entrance culture, and rate race, rote learning education system](./chapters/how-avrit-learning-solves-our-education-puzzle.md)
+  - [No Entrance culture, and rate race, rote learning education system](./chapters/education_system.md)
   - [Remote jobs or work from home with less working hours](./chapters/how-to-beat-the-worst-job-culture-of-india.md)
   - [Clean energy like roof top solar and wind energy](./chapters/invest_on_renewables.md)
   - [Banning single use plastic](./chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.md)
