@@ -1,5 +1,6 @@
+# Complicatedness of Sexuality
+
 ---
-title: "Complicatedness of Sexuality"
 date: "2019-04-10"
 categories: 
   - "compilation"
@@ -12,8 +13,9 @@ tags:
   - "homosexuality"
   - "lgbtq"
 ---
+## Sexuality definition
 
-Human sexuality is the way people experience and express themselves sexually. This involves biological, erotic, physical, emotional, social, or spiritual feelings and behaviors. So **definition of sexuality is very board**.
+Human sexuality is the way people experience and express themselves sexually. This involves biological, erotic, physical, emotional, social, or spiritual feelings and behaviors.  So **definition of sexuality is nuanced, board and multifaceted**.
 
 ![](images/image.png)
 
