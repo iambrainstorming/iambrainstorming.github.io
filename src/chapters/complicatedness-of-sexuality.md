@@ -22,7 +22,7 @@ date: "2019-04-10"
 
 ## Sexuality definition
 
-Human sexuality is the way people experience and express themselves sexually. This involves biological, erotic, physical, emotional, social, or spiritual feelings and behaviors. So **definition of sexuality is nuanced, board and multifaceted**.
+Human sexuality is the way people experience and express themselves sexually. This involves biological, erotic, physical, emotional, social, or spiritual feelings and behaviors. So **definition of sexuality is nuanced, broad and multifaceted**.
 
 ![](images/image.png)
 
@@ -116,7 +116,7 @@ So polygenic traits involves many more genes and many are also influenced by the
 >
 > [Reference Book: Social Problems: Continuity and Change](https://saylordotorg.github.io/text_social-problems-continuity-and-change/s08-01-understanding-sexual-orientati.html)
 
-Further defining sexuality is broad and can be very complicated. It's not as simple as being attracted to the same sex or both. Take, for example, demisexuality, where attraction occurs only when an emotional attachment is formed. Moreover, emotional attachment itself is not straightforward. You might be emotionally attached to your friends without experiencing any sexual attraction to them, even if the other party is interested. The dynamics can be highly specific. While you may appreciate someone's looks, it doesn't necessarily mean you are not sexually attracted to men or women. You can remain completely neutral during the first encounter or multiple encounters.
+Further defining sexuality is broad and can be very complicated. It's not as simple as being attracted to the same or different sex or both. Take, for example, demisexuality, where attraction occurs only when an emotional attachment is formed. Moreover, emotional attachment itself is not straightforward. You might be emotionally attached to your friends without experiencing any sexual attraction to them, even if the other party is interested. The dynamics can be highly specific. While you may appreciate someone's looks, it doesn't necessarily mean you are not sexually attracted to men or women. You can remain completely neutral during the first encounter or multiple encounters.
 
 References:
 
@@ -126,4 +126,4 @@ References:
 
 3. [https://asexuality.org/](https://asexuality.org/)
 
-4. [https://open.lib.umn.edu/socialproblems/chapter/5-1-understanding-sexual-orientation/](https://open.lib.umn.edu/socialproblems/chapter/5-1-understanding-sexual-orientation/)
+4. [Social Problems: Continuity and Change](https://open.lib.umn.edu/socialproblems/chapter/5-1-understanding-sexual-orientation/)
