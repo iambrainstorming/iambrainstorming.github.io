@@ -1,21 +1,28 @@
 # Complicatedness of Sexuality
 
 ---
+
 date: "2019-04-10"
-categories: 
+
+- categories:
+
   - "compilation"
   - "sex"
   - "sexual-orientation"
   - "sexuality"
-tags: 
+
+- tags:
+
   - "asexual"
   - "demisexual"
   - "homosexuality"
-  - "lgbtq"
+  - "lgbtqa"
+
 ---
+
 ## Sexuality definition
 
-Human sexuality is the way people experience and express themselves sexually. This involves biological, erotic, physical, emotional, social, or spiritual feelings and behaviors.  So **definition of sexuality is nuanced, board and multifaceted**.
+Human sexuality is the way people experience and express themselves sexually. This involves biological, erotic, physical, emotional, social, or spiritual feelings and behaviors. So **definition of sexuality is nuanced, board and multifaceted**.
 
 ![](images/image.png)
 
@@ -23,11 +30,11 @@ Multidimensional components indicate a specific sexual orientation and can inclu
 
 1. Engages in sexual behaviour with men, women, both or neither.
 
-3. Feels sexual desire for men, women, both or neither.
+2. Feels sexual desire for men, women, both or neither.
 
-5. Falls in love with men, women, both, or neither.
+3. Falls in love with men, women, both, or neither.
 
-7. Identifies himself or herself with a specific sexual orientation.
+4. Identifies himself or herself with a specific sexual orientation.
 
 ### **The complexity and ambiguity of defining sexual orientation.**
 
@@ -35,7 +42,7 @@ The complexity and ambiguity of defining sexual orientation result from the vary
 
 ![](images/image-1.png)
 
-A Continuum of Sexual Orientations  
+A Continuum of Sexual Orientations\
 The Kinsey scale did not include asexaulity
 
 ### sexual fluidity
@@ -66,28 +73,28 @@ We don’t have a hole in our lives where sexual attraction “should” be. **W
 
 An asexual person does not experience sexual attraction – they are not drawn to people sexually and do not desire to act upon attraction to others in a sexual way. Unlike celibacy, which is a choice to abstain from sexual activity, asexuality is an intrinsic part of who we are, just like other sexual orientations. Asexuality does not make our lives any worse or better; we just face a different set of needs and challenges than most sexual people do. There is considerable diversity among the asexual community in the needs and experiences often associated with sexuality including relationships, attraction, and arousal.
 
-**Attraction**  
+**Attraction**\
 Many asexual people may experience forms of attraction that can be romantic, aesthetic, or sensual in nature but do not lead to a need to act out on that attraction sexually. **_Instead, we may get fulfillment from relationships without sex, but based on other types of attraction. Romantic attraction is the desire to be romantically involved with another person. Aesthetic attraction is appreciation for a person’s appearance. Sensual attraction is the desire to engage in sensual (but not sexual) activities with a person, such as cuddling, hugging, or kissing_**. Asexual people who experience these other forms of attraction will often be attracted to particular gender. **These people may still identify as lesbian, gay, bi, or straight.** The [split attraction model](https://aroacefaq.tumblr.com/post/143810110365/the-split-attraction-model-what-is-it) has led some people to identify separate sexual and romantic attractions. For example, a person who’s asexual but wants relationships with the opposite sex may identify as a “heteroromantic asexual”. Most sexual people may not view their orientation that way, and may simply combine their sexual and romantic attractions into one characteristic if they’re aligned. Asexual people often feel the need to specify both sexual and romantic attractions to make it clear what drives them and what they’re seeking from other people.
 
-**Arousal**  
+**Arousal**\
 For some asexual people, arousal (sometimes interchanged with “[libido](http://wiki.asexuality.org/Libido)” in asexual dialogue) is a fairly regular occurrence, though it is not associated with a desire to find a sexual partner or partners. This could include, but is not limited to, arousal from hormone variation in a person’s menstrual cycle, or erections at certain times of the day. Some may occasionally masturbate, but feel no desire for partnered sex. Other asexual people may experience little or no arousal, often called [non-libidoist](http://wiki.asexuality.org/Nonlibidoism) asexuals. Both types are equally valid in identifying as asexual, as sexual orientation is about attraction and desire towards other people, rather than strictly physiological reactions.
 
 Because we don’t have an intrinsic need for sex, asexual people generally do not see a lack of sexual arousal as a problem to be corrected, and if they do have a libido or experience arousal, they do not feel needs are unmet by a lack of sexual activity.
 
 It is important to note that asexuality is different from medical conditions such as Hypoactive Sexual Desire Disorder (HSDD). HSDD is listed in the DSM-V, while asexuality is not. In cases of HSDD, there are underlying sexual needs that are not being met, to the point of personal distress. If not experiencing arousal or suddenly losing interest in sex is distressing, it is advisable to discuss this with a medical professional to get a diagnosis.
 
-**  
-Relationships**  
+**\
+Relationships**\
 Asexuality does not limit a person’s emotional needs. As is the case for sexual people, we vary widely in how we fulfill those needs. Some asexual people may still desire romantic relationships. Other asexual people may be most satisfied with close friendships, or happier on their own.
 
-Sexual or nonsexual, all relationships are made up of the fabric of interpersonal connection. Communication, closeness, fun, humor, excitement, and trust are all just as important in nonsexual relationships as in sexual ones. Asexual people who desire romantic relationships may have fewer cultural scripts to rely on, but they are still seeking an emotional connection of shared romantic love.   
+Sexual or nonsexual, all relationships are made up of the fabric of interpersonal connection. Communication, closeness, fun, humor, excitement, and trust are all just as important in nonsexual relationships as in sexual ones. Asexual people who desire romantic relationships may have fewer cultural scripts to rely on, but they are still seeking an emotional connection of shared romantic love. \
 **_For asexual people who desire romantic relationships, the dating pool for other asexual people is very small, as we are a very small minority of the population._** In addition to that, asexuality is often invisible and has a shorter history as an identity/community than other minority sexual orientations that may have established cultural venues of courtship. Due to this, many asexual people end up in mixed relationships with sexual people. Mixed relationships face challenges that often require compromise.
 
 ### Definitions
 
 **Asexual:** Someone who does not experience sexual attraction or an intrinsic desire to have sexual relationships (or the adjective describing a person as such).
 
-**Demisexual:** _Someone who can only experience sexual attraction or desire after an emotional bond has been formed_ (or the adjective describing a person as such). This is different from the choice to abstain from sex until certain criteria are met.
+**Demisexual:** _Someone who can only experience sexual attraction or desire after an emotional bond has been formed_ (or the adjective describing a person as such). This is different from the choice to abstain from sex until certain criteria are met.
 
 **Gray-asexual (gray-a)** or **gray-sexual:** Someone who identifies with the area between asexuality and sexuality (or the adjective describing a person as such). For example, they may experience sexual attraction very rarely, only under specific circumstances, or of an intensity so low that is ignorable and not a necessity in relationships. (Note: the spelling of gray/grey may vary by country.)
 
@@ -95,7 +102,7 @@ Sexual or nonsexual, all relationships are made up of the fabric of interpersona
 
 ![](images/image-2.png)
 
-Criticism or inappropriate comment or nagging faced by asexual people  
+Criticism or inappropriate comment or nagging faced by asexual people
 
 ## Is human sexuality polygenic?
 
@@ -106,7 +113,7 @@ A polygenic trait is a characteristic, such as height or skin color, that is inf
 So polygenic traits involves many more genes and many are also influenced by the environmental factor. 
 
 > Although no “gay gene” has been discovered, studies of identical twins find they are more likely to have the same sexual orientation (gay or straight) than would be expected from chance alone ([Kendler, Thornton, Gilman, & Kessler, 2000](https://pubmed.ncbi.nlm.nih.gov/11058483/); Santtila et al., 2008). Because identical twins have the same DNA, this similarity suggests, but does not prove, a genetic basis for sexual orientation. Keep in mind, however, that any physical or behavioral trait that is _totally_ due to genetics should show up in both twins or in neither twin. Because many identical twins do _not_ have the same sexual orientation, this dissimilarity suggests that genetics are far from the only cause of sexual orientation, to the extent they cause it at all. Several methodological problems also cast doubt on findings from many of these twin studies.
-> 
+>
 > [Reference Book: Social Problems: Continuity and Change](https://saylordotorg.github.io/text_social-problems-continuity-and-change/s08-01-understanding-sexual-orientati.html)
 
 Further defining sexuality is broad and can be very complicated. It's not as simple as being attracted to the same sex or both. Take, for example, demisexuality, where attraction occurs only when an emotional attachment is formed. Moreover, emotional attachment itself is not straightforward. You might be emotionally attached to your friends without experiencing any sexual attraction to them, even if the other party is interested. The dynamics can be highly specific. While you may appreciate someone's looks, it doesn't necessarily mean you are not sexually attracted to men or women. You can remain completely neutral during the first encounter or multiple encounters.
@@ -115,8 +122,8 @@ References:
 
 1. [Our Sexuality, Crooks and Baur](https://cloudflare-ipfs.com/ipfs/bafykbzaceax2n7vszuvr6tuatx6yirr2kbrmgpjuluemlqh5tnact4bz5wlji?filename=Robert%20L.%20Crooks%2C%20Karla%20Baur%20-%20Our%20sexuality-Cengage%20Learning%20%282010%29.pdf) Pdf Link
 
-3. The Invisible Orientation, Julie Sondra Decker
+2. The Invisible Orientation, Julie Sondra Decker
 
-5. [https://asexuality.org/](https://asexuality.org/)
+3. [https://asexuality.org/](https://asexuality.org/)
 
-7. [https://open.lib.umn.edu/socialproblems/chapter/5-1-understanding-sexual-orientation/](https://open.lib.umn.edu/socialproblems/chapter/5-1-understanding-sexual-orientation/)
+4. [https://open.lib.umn.edu/socialproblems/chapter/5-1-understanding-sexual-orientation/](https://open.lib.umn.edu/socialproblems/chapter/5-1-understanding-sexual-orientation/)
