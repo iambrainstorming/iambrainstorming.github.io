@@ -56,13 +56,19 @@ As you might have guessed, this creates a problem. There is less quantity demand
 4. They can also subsidize consumption. To get demanders to purchase more of the surplus, the government can pay part of the costs. This would obviously get expensive really fast.
 
 
-## Implementing MSP in India
+## Price floor surplus, Minimum Support Price (MSP) and poverty
 
 [In India, 6.7 million children are going without food](https://www.indiatoday.in/health/story/india-has-67-million-zero-food-children-going-without-food-harvard-study-2513449-2024-03-11), and the question is whether a price floor can still create a surplus. Surplus occurs not because there are not enough people who need the product, but because enough people fail to purchase it at a particular price. At a price floor, there will be far more people who fail to purchase it as the quantity supplied exceeds the quantity demanded, as shown in the diagram.
 
 This can be one reason why poverty persists even after two to three centuries of free market trade, despite our technological efficiency being sufficient to produce all the necessary goods to serve the entire human population. 
 
 Furthermore, the free market also facilitates wealth transfer or benefits to the rich. Shortages lead to price increases, and it is only the rich who can afford goods in cases of scarce resources.
+
+Related:
+
+[Yard Sale Model](../economics/yard-sale-model.md)
+
+[Socialism](../capitalism-vs-socialism-which-one-is-working.md#it-assumes-capitalism--free-market)
 
 ## So price floor is a bad idea. In what way we can protect farmers?
 

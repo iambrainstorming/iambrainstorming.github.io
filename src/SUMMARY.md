@@ -24,7 +24,7 @@
   - [Secure Blockchain Voting](./chapters/democracy/secure_blockchain_voting.md)
 
 # Economics
-
+- [Why income inequality exits? Yard-Sale-Model](./chapters/economics/yard-sale-model.md)
 - [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible](./chapters/economics/dismissing_return.md)
 - [Price Controls](./chapters/economics/price_controls.md)
 

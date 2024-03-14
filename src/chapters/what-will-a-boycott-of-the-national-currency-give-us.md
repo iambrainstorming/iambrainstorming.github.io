@@ -26,12 +26,15 @@ Also, take a look at the various governance issues here:
 Banks transfer wealth from people to capitalists by issuing debt or printing money. e.g. In India, Adani group has a debt of ₹2.2 trillion, which is near to the GDP of many big states in India. Many times, debt is issued for economic reasons that are detrimental to society. For example, the Adani group's primary source of income is fossil fuel, which contributes to climate change and pollution.
 
 > UN: 3.3 Billion People – almost half of humanity – Live in Countries Spending More on Debt Service Than Education, Health. The report revealed that Public debt has also spiked more than five-fold since 2000.
-> 
-> [https://unctad.org/publication/world-of-debt](https://unctad.org/publication/world-of-debt)
+>  [https://unctad.org/publication/world-of-debt](https://unctad.org/publication/world-of-debt)
+
+## [Yard-sale Model](./economics/yard-sale-model.md)
 
 Here is simulation of [Yard-sale model](https://www.jstor.org/stable/27857715) that explains why do super rich people exist in a society?
 
 [https://pudding.cool/2022/12/yard-sale/](https://pudding.cool/2022/12/yard-sale/)
+
+
 
 **UBI and decreasing income inequality**  
 Shivarthu governance may charge 1% - 20% of taxes per year of the total market cap. About 1%- 5% of taxes can be used to provide universal income.  
