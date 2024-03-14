@@ -26,7 +26,7 @@
 # Economics
 
 - [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible](./chapters/economics/dismissing_return.md)
-- [Price Contorls](./chapters/economics/price_controls.md)
+- [Price Controls](./chapters/economics/price_controls.md)
 
 # Democracy 
 

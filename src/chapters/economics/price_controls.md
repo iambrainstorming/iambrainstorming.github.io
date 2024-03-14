@@ -92,4 +92,10 @@ If several wealthy individuals start hoarding wheat, the price will begin to inc
 ## Maximum Retail Price (MRP) to tackle price gouging of retailers
 
 [Maximum Retail Price](https://en.wikipedia.org/wiki/Maximum_retail_price)
+
+[Retailers charging more than MRP](https://www.hindustantimes.com/punjab/not-mrp-retailer-s-price-the-new-norm/story-CA5QechyAkGwMK4XbsdPMN.html)
+
+On being asked, a shopkeeper blatantly said, “I sell a chilled bottle of soft drink for `35 as I need to recover the cost of electricity used by the refrigerator. Everyone is selling cold drinks for more than the MRP. If we don't do that, we will face losses.”
+
+However, according to sources, bottles of soft drinks and mineral water are purchased by retailers at wholesale prices, which help them make profit even after adjusting cost of electricity. Besides, the companies also provide them several schemes.
      
