@@ -196,6 +196,7 @@ Total company donations = 121555132000
 Amount of encashment by party missing = 57683733000  
 
 [Company Donations with percentage](https://github.com/amiyatulu/electoral_bond/blob/main/output/company_donors_denominations_with_percentage.json)
+
 [Party Encashment with percentage](https://github.com/amiyatulu/electoral_bond/blob/main/output/party_enchashment_denominations_with_percentage.json)
 
 Only about [twenty people donated within the amount of 50,000](https://github.com/amiyatulu/electoral_bond/blob/main/output/company_donors_denominations_with_percentage.json). It's not wrong to say that our government is largely about corporate funding, which implies that our country is essentially ruled by the wealthy, making it a plutocracy.
