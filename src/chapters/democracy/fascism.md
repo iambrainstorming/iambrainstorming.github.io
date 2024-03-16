@@ -202,6 +202,14 @@ Many of the companies had IT and ED raids before the donations, so it is not inc
 ![IT and ED raid](../images/it_raids.jpg)
 
 
+More data on IT and ED raid:
+
+<video width="100%" controls preload="none">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeifd7ifmmifeonoc7o5dave4dbkqnnfmpihmbpfxe6646ii6qdedwm" type="video/mp4">
+</video>
+
+
+
 ## Militant Youth Movements
 
 Fascist regimes often create youth organizations that promote loyalty to the state, indoctrinate young minds, and prepare them for future service to the regime.
