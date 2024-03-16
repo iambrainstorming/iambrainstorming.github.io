@@ -183,6 +183,8 @@ Modi govt also allowed foreign funding anonymously
 
 ## Analysis of electoral bond
 
+Date: 16-03-2024 01:15:05 PM IST
+
 [The data](https://github.com/amiyatulu/electoral_bond/tree/main/output)
 
 Some data cleaning is still required, as companies are repeated due to slightly different names given in the PDF.
