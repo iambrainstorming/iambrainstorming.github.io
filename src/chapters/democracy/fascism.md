@@ -195,7 +195,16 @@ Total company donations = 121555132000
 
 Amount of encashment by party missing = 57683733000  
 
+#### Company Donations with percentage
+
+12/Apr/2019 - 11/Jan/2024 as [given in pdf](https://github.com/amiyatulu/electoral_bond/blob/main/files/donors_list.pdf) 
+
 [Company Donations with percentage](https://github.com/amiyatulu/electoral_bond/blob/main/output/company_donors_denominations_with_percentage.json)
+
+#### Party encashment with percentage
+
+
+12/Apr/2019 - 24/Jan/2024 as [given in pdf](https://github.com/amiyatulu/electoral_bond/blob/main/files/political_party.pdf)
 
 [Party Encashment with percentage](https://github.com/amiyatulu/electoral_bond/blob/main/output/party_enchashment_denominations_with_percentage.json)
 
