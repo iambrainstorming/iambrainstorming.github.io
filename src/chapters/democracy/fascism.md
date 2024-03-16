@@ -195,6 +195,9 @@ Total company donations = 121555132000
 
 Amount of encashment by party missing = 57683733000  
 
+[Company Donations with percentage](https://github.com/amiyatulu/electoral_bond/blob/main/output/company_donors_denominations_with_percentage.json)
+[Party Encashment with percentage](https://github.com/amiyatulu/electoral_bond/blob/main/output/party_enchashment_denominations_with_percentage.json)
+
 Only about [twenty people donated within the amount of 50,000](https://github.com/amiyatulu/electoral_bond/blob/main/output/company_donors_denominations_with_percentage.json). It's not wrong to say that our government is largely about corporate funding, which implies that our country is essentially ruled by the wealthy, making it a plutocracy.
 
 Many of the companies had IT and ED raids before the donations, so it is not incorrect to say that money was extracted through extortion. Extortion is the practice of obtaining benefit (e.g., money or goods) through coercion. In most jurisdictions it is likely to constitute a criminal offence. 
