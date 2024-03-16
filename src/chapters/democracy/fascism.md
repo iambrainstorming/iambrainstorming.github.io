@@ -187,7 +187,7 @@ Date: 16-03-2024 01:15:05 PM IST
 
 [The data](https://github.com/amiyatulu/electoral_bond/tree/main/output)
 
-Some data cleaning is still required, as companies are repeated due to slightly different names given in the PDF.
+Some data cleaning is still required, as some companies' donations are split due to slightly different names given in the PDF. For example, "FUTURE GAMING AND HOTEL SERVICES PR" and "FUTURE GAMING AND HOTEL SERVICES PRIVATE LIMITED."
 
 Total encashment all parties = 63871399000 (52.545209691352234 % of donations)  
 
