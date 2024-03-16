@@ -181,6 +181,25 @@ Modi govt also allowed foreign funding anonymously
 
 [30 firms facing ED, IT probe donated Rs 335 cr to BJP](https://www.thenewsminute.com/news/tnm-nl-investigation-30-firms-facing-ed-it-probe-donated-rs-335-cr-to-bjp)
 
+## Analysis of electoral bond
+
+[The data](https://github.com/amiyatulu/electoral_bond/tree/main/output)
+
+Some data cleaning is still required, as companies are repeated due to slightly different names given in the PDF.
+
+Total encashment all parties = 63871399000 (52.545209691352234 % of donations)  
+
+Total company donations = 121555132000  
+
+Amount of encashment by party missing = 57683733000  
+
+Only about [twenty people donated within the amount of 50,000](https://github.com/amiyatulu/electoral_bond/blob/main/output/company_donors_denominations_with_percentage.json). It's not wrong to say that our government is largely about corporate funding, which implies that our country is essentially ruled by the wealthy, making it a plutocracy.
+
+Many of the companies had IT and ED raids before the donations, so it is not incorrect to say that money was extracted through extortion. Extortion is the practice of obtaining benefit (e.g., money or goods) through coercion. In most jurisdictions it is likely to constitute a criminal offence. 
+
+![IT and ED raid](../images/it_raids.jpg)
+
+
 ## Militant Youth Movements
 
 Fascist regimes often create youth organizations that promote loyalty to the state, indoctrinate young minds, and prepare them for future service to the regime.
