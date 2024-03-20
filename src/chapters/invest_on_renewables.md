@@ -128,6 +128,11 @@ Integrated solar panels, as shown in the attached photo, not only generate energ
 
 ![Integrated Solar Panels](./images/integrated-solar-panel2.jpg)
 
+## Building Integrated Photovoltaics (BIPV) 
+
+[BIPV in one Article](https://www.maysunsolar.com/bipv-in-one-article/)
+
+
 ## Why Fossil Fuel Companies Can’t Leave Resources Stranded? 
 
 Huge legal, political, and economic obstacles stand in the way of [limiting global temperature rise to 1.5 C.](https://undark.org/2023/11/02/opinion-fossil-fuel-stranding/)
