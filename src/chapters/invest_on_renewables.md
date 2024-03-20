@@ -21,6 +21,8 @@ Setting up rooftop solar systems may initially appear to be a bit expensive for 
 
 While the upfront costs of installing rooftop solar panels might seem daunting, the long-term financial benefits often outweigh the initial expenses. The return on investment (ROI) for solar installations is relatively high, leading to considerable savings on electricity bills over the years.
 
+![Solar Saving](./images/solar_stat.webp)
+
 ## Switching The World To Renewable Energy Will Cost $62 Trillion, But The Payback Would Take Just 6 Years
 
 [News Link](https://cleantechnica.com/2022/09/06/switching-the-world-to-renewable-energy-will-cost-62-trillion-but-the-payback-would-take-just-6-years/?utm_source=pocket_reader)
