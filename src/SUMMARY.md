@@ -78,3 +78,7 @@
 
 # Biology
 - [Complicatedness of Sexuality](./chapters/complicatedness-of-sexuality.md)
+
+# Drafts
+- [City Planning: Rain Water Harvesting](./chapters/city-planning/rain_water_harvesting.md)
+- [Pollution due to contruction](./chapters/city-planning/pollution_construction.md)
