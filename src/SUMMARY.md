@@ -13,6 +13,7 @@
   - [Sustainable housing design](./chapters/building-better-cities.md)
   - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)  
   - [Car-free cities](./chapters/road-planning-of-cities.md) 
+  - [City Planning: Rain Water Harvesting](./chapters/city-planning/rain_water_harvesting.md)
   - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md) 
   - [Love for USD pegged stable coin by the crypto community must end](./chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
   - [Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma](./chapters/democracy/tyranny_of_the_majority.md)
@@ -80,5 +81,4 @@
 - [Complicatedness of Sexuality](./chapters/complicatedness-of-sexuality.md)
 
 # Drafts
-- [City Planning: Rain Water Harvesting](./chapters/city-planning/rain_water_harvesting.md)
 - [Pollution due to contruction](./chapters/city-planning/pollution_construction.md)
