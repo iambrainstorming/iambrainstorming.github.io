@@ -30,7 +30,7 @@ To maximize the benefits of rainwater harvesting, cities should be planned with 
  
 ### Incorporate Green Infrastructure: 
 
-Cities should incorporate green infrastructure, such as green roofs, rain gardens, and permeable pavements, to increase the amount of rainwater that is captured and recharged into the ground.
+Cities should incorporate green infrastructure, such as green roofs, rain gardens, and [permeable pavements and roads](../road-planning-of-cities.md#concrete-roads-for-cars-create-flooding), to increase the amount of rainwater that is captured and recharged into the ground.
 
 ### Encourage Rainwater Harvesting Systems: 
 
