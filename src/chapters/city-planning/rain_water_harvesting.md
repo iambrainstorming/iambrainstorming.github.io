@@ -32,6 +32,10 @@ To maximize the benefits of rainwater harvesting, cities should be planned with 
 
 Cities should incorporate green infrastructure, such as green roofs, rain gardens, and [permeable pavements and roads](../road-planning-of-cities.md#concrete-roads-for-cars-create-flooding), to increase the amount of rainwater that is captured and recharged into the ground.
 
+#### [Rain Gardens](https://groundwater.org/rain-gardens/)
+A rain garden is a garden of native shrubs, perennials, and flowers planted in a small depression, which is generally formed on a natural slope. It is designed to temporarily hold and soak in rain water runoff that flows from roofs, driveways, patios or lawns. Rain gardens are effective in removing up to 90% of nutrients and chemicals and up to 80% of sediments from the rainwater runoff. Compared to a conventional lawn, rain gardens allow for 30% more water to soak into the ground.
+
+
 ### Encourage Rainwater Harvesting Systems: 
 
 Local governments should offer incentives and support for households and businesses to install rainwater harvesting systems, such as tax breaks and subsidies.
