@@ -16,9 +16,12 @@ Furthermore, construction activities account for 25-40% of the world's carbon em
 
 
 
-<https://www.clarity.io/blog/air-quality-monitoring-in-construction-zones-minimizing-health-risks-enhancing-sustainability>
+<https://www.clarity.io/blog/air-quality-monitoring-in-construction-zones-minimizing-health-risks-enhancing-sustainability> 
 
+## Using green infrastructure to improve urban air quality (GI4AQ)
 <https://link.springer.com/article/10.1007/s13280-019-01164-3>
+
+## Effectiveness of plants and green infrastructure utilization in ambient particulate matter removal
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8475335/>
 
