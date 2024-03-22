@@ -30,6 +30,8 @@ Some of the other apps are Status, Briar.
 
 - **Tor Network:** The Tor network allows users to browse the internet anonymously by routing their traffic through a series of volunteer-operated servers. This can help individuals access and share information while bypassing government-imposed restrictions.
 
+- **VPN:** [Opera Browser](https://www.opera.com) has a built-in free VPN, and there are other free VPNs available to install system-wide in F-Droid. 
+
 #### Maintaining Anonymity
 
 - **Operational Security (OpSec):** To avoid detection, Usha Mehta used to claim her radio station was broadcasting from "somewhere in India." Similarly, those using P2P technologies should prioritize operational security to keep their identities and locations concealed.
