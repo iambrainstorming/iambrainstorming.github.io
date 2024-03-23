@@ -1,4 +1,4 @@
-# Yard-sale Model
+# Why income inequality exists?: Yard-sale Model
 
 Here is simulation of [Yard-sale model](https://www.jstor.org/stable/27857715) that explains why do super rich people exist in a society?
 
@@ -24,8 +24,23 @@ In summary, a yard sale simulation demonstrates the potential for wealth inequal
 
 In his 2002 paper discussing this concept, Chakraborti suggested that government intervention through taxation could prevent wealth concentration.
 
-So, let's reconsider the scenario: what if, in each round of the game, we collect a portion of money from every participant and distribute it equally among all players? This approach reflects the significant taxation in many countries, where higher taxes are often levied on the wealthy. Moreover, tax revenues typically fund government programs that predominantly benefit lower-income individuals. In the United States, for instance, the wealthiest 20% of households currently possess approximately 70% of the total wealth. However, this statistic fails to fully illustrate the extent of wealth inequality: If the entire US population were condensed into a room of 1,000 people, the richest individual would possess four times more wealth than the poorest 500 combined.
+So, let's reconsider the scenario: what if, in each round of the game, we collect a portion of money from every participant and distribute it equally among all players? This approach reflects the significant taxation in many countries, where higher taxes are often levied on the wealthy. Moreover, tax revenues typically fund government programs that predominantly benefit lower-income individuals. But does it work? In the United States, for instance, the wealthiest 20% of households currently possess approximately 70% of the total wealth. However, this statistic fails to fully illustrate the extent of wealth inequality: If the entire US population were condensed into a room of 1,000 people, the richest individual would possess four times more wealth than the poorest 500 combined.
 
 The top 10% of the Indian population holds 77% of the total national wealth. 73% of the wealth generated in 2017 went to the richest 1%, while *670 million Indians who comprise the poorest half of the population saw only a 1% increase in their wealth.
 
 Another aspect to consider within this simulation is that even with redistribution, the wealthiest participant still retains a vastly disproportionate amount of wealth compared to the poorest. Furthermore, this discrepancy arises purely by chance. Now, envision applying this model to real-world scenarios: inevitably, some affluent individuals would argue that their wealth accumulation stems from their superior ability to predict coin toss outcomes.
+
+## Who pays the tax doesn't depend on who writes the check to the goverment
+
+Who pays the tax does not depend on who writes the check to the government. For example, suppose the government is taxing apples. The government could make the buyer of apples pay for each apple that they buy. Or they could require the sellers of the apples pay for each apple that they sell. What we're going to show is that, from the point of view of the buyers or sellers, it actually doesn't matter how the tax is placed. The actual outcomes are going to be identical.
+
+Taxation on individuals and corporations are [almost the same thing](https://mru.org/courses/principles-economics-microeconomics/taxes-subsidies-definition-tax-wedge). **Taxation is not an effective way to tackle income inequality**. Further taxation causes [deadweight loss](https://mru.org/courses/principles-economics-microeconomics/deadweight-loss-definition-yacht-tax), which refers to the value of transactions not made because of the tax. There is no revenue on transactions that aren't completed. Deadweight loss, a concept in economics, refers to the inefficiency created by taxes that lead to a reduction in overall economic activity and transactions. 
+This loss occurs because taxes alter the behavior of both consumers and producers, leading to transactions that would have occurred in the absence of taxes to be foregone. As a result, there is a loss of potential economic value that goes unrealized, and the government does not collect revenue on transactions that never take place.
+
+## We need to start thinking about pre-distribution
+
+> We need to start thinking about pre-distribution — the mechanisms that determine the distribution of income in the market itself, before taxes and transfers — and less about redistribution.
+
+Shifting the focus towards pre-distribution entails a fundamental reevaluation of economic policies and structures to address income disparities at their source, rather than relying solely on redistribution measures after income has already been unequally distributed. This concept emphasizes proactive interventions within the market itself to promote fairer outcomes from the outset.
+
+At its core, pre-distribution acknowledges that the initial distribution of income within a market economy is influenced by various mechanisms such as labor market dynamics, corporate governance structures, technological advancements, and institutional frameworks. By directing attention towards these mechanisms, policymakers can implement strategies that foster greater equality in the distribution of income, even before taxes and transfers come into play.
