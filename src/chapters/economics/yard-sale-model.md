@@ -37,7 +37,13 @@ Another aspect to consider within this simulation is that even with redistributi
 Who pays the tax does not depend on who writes the check to the government. For example, suppose the government is taxing apples. The government could make the buyer of apples pay for each apple that they buy. Or they could require the sellers of the apples pay for each apple that they sell. What we're going to show is that, from the point of view of the buyers or sellers, it actually doesn't matter how the tax is placed. The actual outcomes are going to be identical.
 
 Taxation on individuals and corporations are [almost the same thing](https://mru.org/courses/principles-economics-microeconomics/taxes-subsidies-definition-tax-wedge). **Taxation is not an effective way to tackle income inequality**. Further taxation causes [deadweight loss](https://mru.org/courses/principles-economics-microeconomics/deadweight-loss-definition-yacht-tax), which refers to the value of transactions not made because of the tax. There is no revenue on transactions that aren't completed. Deadweight loss, a concept in economics, refers to the inefficiency created by taxes that lead to a reduction in overall economic activity and transactions. 
-This loss occurs because taxes alter the behavior of both consumers and producers, leading to transactions that would have occurred in the absence of taxes to be foregone. As a result, there is a loss of potential economic value that goes unrealized, and the government does not collect revenue on transactions that never take place.
+This loss occurs because taxes alter the behavior of both consumers and producers, leading to transactions that would have occurred in the absence of taxes to be foregone. As a result, there is a loss of potential economic value that goes unrealized, and the government does not collect revenue on transactions that never take place.I
+
+## Taxation a tool for income inequality
+
+Moreover, some governments use excessive taxation as a tool to further wealth inequality, by providing loan write-offs for corporations while neglecting the impact of taxation on the general population. This approach decreases economic activity due to deadweight loss, and loan write-offs drain wealth from people and transfer it to large corporations.
+
+The implementation of the Goods and Services Tax (GST) in India is one example.
 
 ## We need to start thinking about pre-distribution
 
