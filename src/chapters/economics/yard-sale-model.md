@@ -24,7 +24,9 @@ In summary, a yard sale simulation demonstrates the potential for wealth inequal
 
 In his 2002 paper discussing this concept, Chakraborti suggested that government intervention through taxation could prevent wealth concentration.
 
-So, let's reconsider the scenario: what if, in each round of the game, we collect a portion of money from every participant and distribute it equally among all players? This approach reflects the significant taxation in many countries, where higher taxes are often levied on the wealthy. Moreover, tax revenues typically fund government programs that predominantly benefit lower-income individuals. But does it work? In the United States, for instance, the wealthiest 20% of households currently possess approximately 70% of the total wealth. However, this statistic fails to fully illustrate the extent of wealth inequality: If the entire US population were condensed into a room of 1,000 people, the richest individual would possess four times more wealth than the poorest 500 combined.
+So, let's reconsider the scenario: what if, in each round of the game, we collect a portion of money from every participant and distribute it equally among all players? This approach reflects the significant taxation in many countries, where higher taxes are often levied on the wealthy. Moreover, tax revenues typically fund government programs that predominantly benefit lower-income individuals.
+
+But does it work? In the United States, for instance, the wealthiest 20% of households currently possess approximately 70% of the total wealth. However, this statistic fails to fully illustrate the extent of wealth inequality: If the entire US population were condensed into a room of 1,000 people, the richest individual would possess four times more wealth than the poorest 500 combined.
 
 The top 10% of the Indian population holds 77% of the total national wealth. 73% of the wealth generated in 2017 went to the richest 1%, while *670 million Indians who comprise the poorest half of the population saw only a 1% increase in their wealth.
 
