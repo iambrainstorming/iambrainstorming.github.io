@@ -75,6 +75,7 @@
 
 - [Pseudoscience](./chapters/reasoning/pseudoscience.md)
 - [What are Scholarly Activities?](./chapters/academics/academician.md)
+- [Evidence Based Medicine vs Alternative Medicine](./chapters/reasoning/evidence-based_medicine.md)
 
 
 # Biology
