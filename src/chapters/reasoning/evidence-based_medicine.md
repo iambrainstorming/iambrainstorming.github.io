@@ -129,4 +129,4 @@ The EBM-oriented clinicians of tomorrow have three tasks:
 
 ## Comprehensive Approaches to Managing Lifestyle Diseases: Beyond Pharmaceuticals
 
-Some examples include diseases like diabetes, high blood pressure, and depression, which often require a comprehensive approach beyond pharmaceutical interventions alone. Incorporating various strategies such as yoga, exercise, a balanced diet, herbal medicine, cognitive-behavioral therapy, and relationship management can significantly enhance disease management.
+Some examples include diseases like [diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5792082/), [high blood pressure](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991739/), and depression, which often require a comprehensive approach beyond pharmaceutical interventions alone. Incorporating various strategies such as yoga, exercise, a balanced diet, herbal medicine, cognitive-behavioral therapy, and relationship management can significantly enhance disease management.
