@@ -176,6 +176,12 @@ The super-rich have opened their wallets to Modi, and income inequality has soar
 
 [Government of PM Modi blocks the bank accounts of 8,975 NGOs, in a move critics say is aimed at stifling dissent.](https://www.aljazeera.com/news/2015/5/27/india-cracks-down-on-greenpeace-and-foreign-ngos)
 
+### Civil society plays a crucial role in democracy by serving as a check on government power, while authoritarian governments are trying to eliminate it.
+
+Civil society refers to the aggregate of non-governmental organizations, community groups, and individuals outside the realm of government and business who come together to pursue shared interests, goals, and values. It encompasses a diverse range of entities including advocacy groups, charities, religious organizations, labor unions, and grassroots movements. Civil society plays a crucial role in democracy by serving as a check on government power, promoting transparency, accountability, and the protection of human rights. It provides a platform for citizens to engage in civic participation, express their opinions, and hold authorities accountable. Moreover, civil society fosters social cohesion, facilitates dialogue, and channels citizen concerns into policy-making processes, thereby enriching democratic governance.
+
+NGOs and other civil society organizations are particularly vital in safeguarding democracy and resisting dictatorship. They often serve as watchdogs, monitoring government actions and advocating for democratic principles and human rights. In autocratic regimes, NGOs can act as bulwarks against authoritarianism by mobilizing citizens, raising awareness about abuses of power, and advocating for political reform. Their independence from state control allows them to challenge oppressive policies, provide assistance to marginalized groups, and promote democratic values even in environments hostile to dissent. Through their grassroots efforts and international networks, civil society organizations contribute to building resilient democratic institutions and fostering a culture of civic engagement, ultimately strengthening the resilience of societies against authoritarian threats.
+
 [In the 2023 Global Hunger Index, India ranks 111th out of the 125 countries with sufficient data to calculate 2023 GHI scores](https://www.globalhungerindex.org/india.html)
 
 **16,518 crore rupees came to political parties in India through electoral bonds in the last 6 years. Of this, the BJP got a lion’s share.**
