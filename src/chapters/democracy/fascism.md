@@ -247,6 +247,8 @@ Fascist governments often employ various tactics to maintain control and manipul
 
 [Desperate to join BJP to keep ED, I-T raids away](https://indianexpress.com/article/cities/pune/ashok-chavan-was-desperate-to-join-bjp-to-keep-ed-i-t-away-sanjay-raut-9158942/)
 
+## Is India becoming a DICTATORSHIP? | Chandigarh Elections | Farmers Protest | Dhruv Rathee 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y9253_M38Xk?si=rD3PvtoswAjvu8Af" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
