@@ -182,6 +182,10 @@ Civil society refers to the aggregate of non-governmental organizations, communi
 
 NGOs and other civil society organizations are particularly vital in safeguarding democracy and resisting dictatorship. They often serve as watchdogs, monitoring government actions and advocating for democratic principles and human rights. In autocratic regimes, NGOs can act as bulwarks against authoritarianism by mobilizing citizens, raising awareness about abuses of power, and advocating for political reform. Their independence from state control allows them to challenge oppressive policies, provide assistance to marginalized groups, and promote democratic values even in environments hostile to dissent. Through their grassroots efforts and international networks, civil society organizations contribute to building resilient democratic institutions and fostering a culture of civic engagement, ultimately strengthening the resilience of societies against authoritarian threats.
 
+[The economist: Yamini Aiyar laments the damage done to Indian democracy under Narendra Modi](https://archive.is/olHjM)
+The most striking evidence of this is the fact that the space for the political opposition, media, academia and civil society to freely express their views is fast shrinking. Genuine democracy requires the active, public contesting of ideas and policy. In its place, the government is systematically weaponising investigative agencies, tax laws, sedition laws, anti-terror laws and laws regulating foreign funding of NGOs to disproportionately target opposition politicians and criminalise dissent. The most brazen illustration of this is the arrest of Arvind Kejriwal, Delhi’s chief minister and a popular opposition figure, on March 21st, just as the election campaign was hotting up.
+
+
 [In the 2023 Global Hunger Index, India ranks 111th out of the 125 countries with sufficient data to calculate 2023 GHI scores](https://www.globalhungerindex.org/india.html)
 
 **16,518 crore rupees came to political parties in India through electoral bonds in the last 6 years. Of this, the BJP got a lion’s share.**
