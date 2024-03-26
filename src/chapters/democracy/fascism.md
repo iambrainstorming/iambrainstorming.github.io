@@ -250,4 +250,7 @@ Fascist governments often employ various tactics to maintain control and manipul
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y9253_M38Xk?si=rD3PvtoswAjvu8Af" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+
+## Why are autocrats popular? - Assault on democracy | DW Documentary 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jWOlugUj4Qk?si=g3OjdoQB8n7V3KSH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
