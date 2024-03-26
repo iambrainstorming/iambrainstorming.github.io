@@ -166,6 +166,10 @@ Fascist governments may implement corporatist economic policies that involve a c
 
 [India's Adani faced margin call on $1.1 bln loan before repaying in full](https://www.reuters.com/world/india/indias-adani-faced-margin-call-11-bln-loan-before-repaying-full-ft-2023-02-08/)
 
+[‘Billionaire Raj’ Is Pushing India Toward Autocracy](https://archive.is/Pp8iO)
+
+The super-rich have opened their wallets to Modi, and income inequality has soared over the past decade. With an election coming, ordinary voters need to ask, ‘What’s in it for us?’
+
 [Faced with 90% drop in business, crypto exchanges are moving out of India, but with hopes of return](https://theprint.in/economy/faced-with-90-drop-in-business-crypto-exchanges-are-moving-out-of-india-but-with-hopes-of-return/1923496/)
 
 **Fascist govt don't like crypto, so that they can block bank account**
@@ -244,3 +248,6 @@ Fascist governments often employ various tactics to maintain control and manipul
 [Desperate to join BJP to keep ED, I-T raids away](https://indianexpress.com/article/cities/pune/ashok-chavan-was-desperate-to-join-bjp-to-keep-ed-i-t-away-sanjay-raut-9158942/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y9253_M38Xk?si=rD3PvtoswAjvu8Af" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jWOlugUj4Qk?si=g3OjdoQB8n7V3KSH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
