@@ -501,7 +501,9 @@ EVM is even more dangerous with FPTP voting method, because a single EVM manipul
 
 [The entire election machinery, from the manufacturing of EVMs to the software loaded onto them, to the committee appointed to evaluate the software, the so-called third-party auditing of this software and much more, is controlled by the Union govt.](https://thewire.in/government/the-anatomy-of-an-electronic-voting-machine-what-we-know-and-what-we-dont)
 
-#### [EVM Vote Count Mismatch In 370+ Seats& EC Refuses to Explain. Mismatch in votes polled& counted in EVMs in multiple Parliamentary constituencies in LS Election 2019](https://www.thequint.com/news/india/lok-sabha-election-results-2019-mismatch-in-votes-polled-and-counted-in-evm-on-multiple-seats)
+### EVM Vote count Mismatch
+
+[EVM Vote Count Mismatch In 370+ Seats& EC Refuses to Explain. Mismatch in votes polled& counted in EVMs in multiple Parliamentary constituencies in LS Election 2019](https://www.thequint.com/news/india/lok-sabha-election-results-2019-mismatch-in-votes-polled-and-counted-in-evm-on-multiple-seats)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PLY7ZwWFuhc?si=F8W8raYCgjacogE_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
