@@ -44,6 +44,10 @@ There is a call to [ban loudspeakers in mosques](https://www.newindianexpress.co
 
 [Professor Ashok Swain has 500,000 followers on Twitter](https://www.uu.se/en/news/archive/2023-03-31-professor-ashok-swain-has-500000-followers-on-twitter)
 
+#### India's media being captured
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rHEgb8ZSA1c?si=HyVe-aVJSlzZpAzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Cult of Personality
 
 Fascist leaders cultivate a cult of personality, often portraying themselves as charismatic and infallible figures. They use mass rallies, public spectacles, and staged events to create an aura of strength and invincibility around themselves.
@@ -243,6 +247,8 @@ Many of the companies had IT and ED raids before the donations, so it is not inc
 Fascist regimes often create youth organizations that promote loyalty to the state, indoctrinate young minds, and prepare them for future service to the regime.
 
 [Hinduism, Weaponised: A Secular India Under Threat | In Bad Faith - Part 1 | CNA Documentary](https://www.youtube.com/watch?v=l1qvVp8XZg8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1qvVp8XZg8?si=mhqA7uBOZhmr33uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [How RSS textbooks are reshaping Indian history and science under Modi. The chain of schools run by the BJP’s far-right ideological mentor also served as a laboratory for government changes to syllabuses.](https://www.aljazeera.com/news/2024/2/19/how-rss-textbooks-are-reshaping-indian-history-and-science-under-modi)
 
