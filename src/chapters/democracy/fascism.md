@@ -16,6 +16,14 @@ For example, anyone who criticizes the government will be labeled as anti-nation
 
 [Anyone who does not support discrimination based on religion is considered anti-Hindu by fascist govt](../democracy/hinduism.md)
 
+#### Ladakh autonomy protest
+[Sonam Wangchuk](https://en.wikipedia.org/wiki/Sonam_Wangchuk_(engineer)), an Indian engineer, innovator, education reformist, and climate change activist, is protesting against China occupying Indian land in the last decade. He discusses being called an "antinational" for his stance as he works to protect the fragile ecosystem of Ladakh
+
+
+<video width="100%" controls preload="none">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/QmU6hJ5o6dsBoZC6d2FHGvrpRi5AMwBK715d8aruSqCLwn" type="video/mp4">
+</video>
+
 ## Propaganda
 
 Fascist regimes make extensive use of propaganda to shape public opinion. This can include controlling the media, spreading false information, and using emotionally charged rhetoric to manipulate the masses. The goal is to create a climate where dissent and criticism are suppressed, and the regime's agenda is unquestioningly accepted.
