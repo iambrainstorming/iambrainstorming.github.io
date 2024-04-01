@@ -5,7 +5,7 @@
 
 As mentioned earlier, [Android phones](../what-do-we-need-to-decentralize-in-the-coming-years.md#security-of-phone) may not be appropriate for casting votes using blockchain technology. 
 
-Furthermore, one cannot use proprietary operating systems like iOS on an iPhone or Microsoft Windows, as [one cannot access the source code](../the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md#the-illusion-of-secrecy-vs-open-protocol) to understand what the program is doing in the background.
+Furthermore, one cannot use [proprietary operating systems](../programming/foss_philosophy.md) like iOS on an iPhone or Microsoft Windows, as [one cannot access the source code](../the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md#the-illusion-of-secrecy-vs-open-protocol) to understand what the program is doing in the background.
 
 ### So, what is an most affordable method of voting?
 
@@ -22,6 +22,11 @@ So, anyone, even the poorest, can hold a pen drive or memory card. Therefore, th
 
 You can use single-board computers, such as the Raspberry Pi Zero, for enhanced security, and they can be priced as low as $12.
 
+### BIOS attack
+
+[You can also examine BIOS attacks in the link](https://archive.is/Vhkaa). However, it's true that BIOS firmware is rarely made open source. As a result, it's difficult to replace the BIOS when it's infected. Even [Raspberry Pi BIOS](https://raspberrypi.stackexchange.com/questions/8475/what-bios-does-raspberry-pi-use) isn't open source. However, there are other open source alternatives, such as [RISC-V computers](https://ubuntu.com/download/risc-v), where both the hardware and software are open source.
+
+[Funding the Open Source](/src/chapters/what-do-we-need-to-decentralize-in-the-coming-years.md#funding-open-source)
 
 ## 2) Securing the app that you vote
 
