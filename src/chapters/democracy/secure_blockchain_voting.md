@@ -26,7 +26,7 @@ You can use single-board computers, such as the Raspberry Pi Zero, for enhanced 
 
 [You can also examine BIOS attacks in the link](https://archive.is/Vhkaa). However, it's true that BIOS firmware is rarely made open source. As a result, it's difficult to replace the BIOS when it's infected. Even [Raspberry Pi BIOS](https://raspberrypi.stackexchange.com/questions/8475/what-bios-does-raspberry-pi-use) isn't open source. However, there are other open source alternatives, such as [RISC-V computers](https://ubuntu.com/download/risc-v), where both the hardware and software are open source.
 
-[Funding the Open Source](/src/chapters/what-do-we-need-to-decentralize-in-the-coming-years.md#funding-open-source)
+[Funding the Open Source](../what-do-we-need-to-decentralize-in-the-coming-years.md#funding-open-source)
 
 ## 2) Securing the app that you vote
 
