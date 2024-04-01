@@ -30,7 +30,7 @@ You can use single-board computers, such as the Raspberry Pi Zero, for enhanced 
 
 ## 2) Securing the app that you vote
 
-[Link to: Enhancing Privacy and Security in Offline App Design with WebAssembly](https://amiyatulu.github.io/blog/linux/Offline_centric_apps.html)
+[Link to: Enhancing Privacy and Security in Offline App Design with WebAssembly](https://iambrainstorming.github.io/coding_blog/linux/Offline_centric_apps.html)
 
 
 ## 3) Security of the blockchain itself
