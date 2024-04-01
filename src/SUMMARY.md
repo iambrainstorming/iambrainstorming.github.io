@@ -40,6 +40,7 @@
   - [What a fascist government does?](./chapters/democracy/fascism.md)
   - [Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism](./chapters/democracy/hinduism.md)
   - [Necessary sources of political power by dictator](./chapters/democracy/fascism_power.md)
+  - [What is free and fair elections?](./chapters/democracy/free-and-fair-election.md)
   
 
 # Cooperation
