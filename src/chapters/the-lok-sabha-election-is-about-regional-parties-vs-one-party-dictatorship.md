@@ -683,6 +683,11 @@ Counting with paper ballots can be conducted in a decentralized manner, constitu
 
 Printing presses are available in every locality. Each ballot paper's size will not be more than 6-10 inches, and consequently, each ballot paper will not even cost 25 paise in Indian currency. It won't take a day to print the ballots. If government is not ready to pay for that; we can crowd fund 1-10 rupees. Most people will be ready to contribute in Rs. 100s and 1000s because it safeguards our constitution and democracy.
 
+### Booth Capturing in Paper Ballot
+
+Booth capturing, also known as booth looting, is electoral fraud in which party loyalists or hired criminals "capture" a polling booth and vote on behalf of legitimate voters to ensure a particular candidate's victory. One argument is that Electronic Voting Machines (EVMs) help decrease booth capturing by enabling a five-minute delay in voting process, polling officer can also press a close button to deactivate the EVM. However, this measure doesn't entirely prevent booth capturing. Examples of booth capturing date back to the 1990s, but with the advancement of media, surveillance technology and redundant camera based mobile phones, it has become increasingly difficult to conceal such activities. Since booth capturing is a criminal offense, re-elections can be conducted in places where it occurs.
+
+Regarding the time delay, we can now implement secure robotic ballot boxes that open at specific intervals with the press of a button by polling officers. **While booth capturing can be detected, it remains challenging to ascertain what the EVM software is doing in the background.**
 
 ### Shooting the messenger
 
