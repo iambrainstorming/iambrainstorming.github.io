@@ -689,6 +689,9 @@ Booth capturing, also known as booth looting, is electoral fraud in which party 
 
 Regarding the time delay, we can now implement secure robotic ballot boxes that open at specific intervals with the press of a button by polling officers. **While booth capturing can be detected, it remains challenging to ascertain what the EVM software is doing in the background.**
 
+In the event of booth hacking, what we need are an independent judiciary and an independent election commission that can declare [the election void](https://www.hindustantimes.com/india-news/sc-overturns-mandate-theft-in-chd-mayor-poll-101708452822779.html) and ensure the conduct of [free and fair elections](./democracy/free-and-fair-election.md). An analogy could be drawn to cricket: if the umpire is corrupt, the integrity of the game is compromised.
+
+
 ### Shooting the messenger
 
 A whistleblower is an individual who exposes information about wrongdoing, illegal activities, or unethical behavior within an organization. Unfortunately, whistleblowers may face backlash, retaliation, or legal consequences for bringing such information to light. 
