@@ -689,8 +689,11 @@ Booth capturing, also known as booth looting, is electoral fraud in which party 
 
 Regarding the time delay, we can now implement secure robotic ballot boxes that open at specific intervals with the press of a button by polling officers. **While booth capturing can be detected, it remains challenging to ascertain what the EVM software is doing in the background.**
 
+### Role of courts
+
 In the event of booth hacking, what we need are an independent judiciary and an independent election commission that can declare [the election void](https://www.hindustantimes.com/india-news/sc-overturns-mandate-theft-in-chd-mayor-poll-101708452822779.html) and ensure the conduct of [free and fair elections](./democracy/free-and-fair-election.md). An analogy could be drawn to cricket: if the umpire is corrupt, the integrity of the game is compromised.
 
+If people and opposition parties don't want EVMs, who are the CJI or the courts to force people to vote through EVMs? EVMs are an opaque voting system that can't be falsified, and there is enough  evidence through computer science. So, why are the courts forcing people to vote through EVMs and reject PILs against EVM? Courts are failing to conduct free and fair elections and protect our constitution.
 
 ### Shooting the messenger
 
