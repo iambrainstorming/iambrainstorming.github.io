@@ -49,6 +49,6 @@ Additionally, one needs to understand pseudoscience and its lack of falsifiabili
 
 ![Lack of falsifiability](../images/ak_ed_case.jpg)
 
-As you can see, the ED is exploiting the lack of falsifiability: there is no money trail and no evidence of how the money has been used. One cannot prove whether it has been used or not.
+As you can see, the ED is exploiting the lack of falsifiability. One cannot prove whether it has been used or not.
 
 > It is the duty of the [Supreme Court to protect the constitution](../the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md#role-of-courts). They need to remove such unconstitutional provisions through suo motu action. Laws are not intended to be abused or manipulated for wrongful purposes.
