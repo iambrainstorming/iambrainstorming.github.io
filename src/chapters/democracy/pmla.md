@@ -1,0 +1,54 @@
+# Draconian and unconstitutional PMLA provisions
+
+
+
+The PMLA law places the burden on suspects to prove their innocence rather than requiring the Enforcement Directorate (ED) to prove them guilty.
+
+<video width="100%" controls preload="none" poster="../images/pmla_newslaundry.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/QmaEnSqvqji1GznaiMGhsVN7C9DWwtGoQa47ahAYaUjPnL" type="video/mp4">
+</video>
+
+To understand this, we need to grasp the concept of the burden of proof.
+
+## Burden of Proof
+
+[Burden of Proof](../reasoning/fallacies.md)
+
+The burden of proof is a concept in logic and argumentation that addresses the responsibility one has to provide evidence or support for a claim they make during a debate or discussion. It establishes which side in an argument is required to present evidence to justify or validate their assertions.
+
+In simple terms, the burden of proof asks: Who needs to provide evidence to support their claim?
+
+There are generally two positions in an argument:
+
+- **The Affirmative (or Positive) Claim**: This is the side making an assertion, proposing something new, or making a claim about reality.
+
+- **The Negative (or Skeptical) Position**: This is the side that questions or rejects the affirmative claim.
+
+The burden of proof usually rests on the party making the affirmative claim. The basic idea is that if you're asserting something new or making a claim, the responsibility is on you to provide evidence to support that claim. The other side is not required to prove the claim false; they can simply point to a lack of evidence or logical flaws in the argument.
+
+For example:
+
+- Affirmative claim: "This herbal tea can cure insomnia."
+  
+  Burden of proof: The person making this claim is responsible for providing evidence, such as scientific studies or testimonials, to support the idea that the herbal tea is an effective cure for insomnia.
+
+- Negative position: "I don't believe that herbal tea can cure insomnia."
+  
+  Burden of proof: The person in the negative position doesn't necessarily have to prove that herbal tea cannot cure insomnia; instead, they can highlight the lack of evidence or flaws in the argument presented by the affirmative side.
+
+In legal contexts, the burden of proof may shift based on the nature of the claim or the type of case. However, in everyday discussions and debates, the general principle is that the person making a claim is expected to provide evidence to support it.
+
+
+> So, as you can see, it is the responsibility of the ED to prove and provide evidence, rather than the suspect having to prove innocence. The defense is not required to prove the claim false; they can simply point out a lack of evidence or logical flaws in the argument.
+
+## Lack of falsifiability
+
+[Pseudoscience](../reasoning/pseudoscience.md)
+ 
+Additionally, one needs to understand pseudoscience and its lack of falsifiability.
+
+![Lack of falsifiability](../images/ak_ed_case.jpg)
+
+As you can see, the ED is exploiting the lack of falsifiability: there is no money trail and no evidence of how the money has been used. One cannot prove whether it has been used or not.
+
+> It is the duty of the [Supreme Court to protect the constitution](../the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md#role-of-courts). They need to remove such unconstitutional provisions through suo motu action. Laws are not intended to be abused or manipulated for wrongful purposes.
