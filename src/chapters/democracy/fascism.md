@@ -72,6 +72,11 @@ When you protest against unemployment, and dictatorship (tanashahi nahi chalegi)
 
 [Given Electric Shocks, Tortured To Implicate Political Leaders: Parliament Security Breach Accused Tell Delhi Court](https://www.livelaw.in/news-updates/delhi-court-parliament-security-breach-accused-tortured-to-name-political-leaders-248112)
 
+
+### Govt attack on climate activists
+
+[Disha Ravi’s Sedition Case Is Only Latest Without Evidence, Reason](https://www.article-14.com/post/disha-ravi-s-sedition-case-is-only-latest-without-evidence-reason)
+
 ## Militarization
 
 Fascist governments tend to heavily emphasize militarism and the expansion of their armed forces. This not only serves to strengthen their control over the population but also can be used to justify aggressive foreign policies and territorial expansion.
@@ -248,6 +253,11 @@ Many of the companies had IT and ED raids before the donations, so it is not inc
   <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeifd7ifmmifeonoc7o5dave4dbkqnnfmpihmbpfxe6646ii6qdedwm" type="video/mp4">
 </video>
 
+#### BJP Washing Machine
+
+[Since 2014, 25 Opposition leaders facing corruption probe crossed over to BJP, 23 of them got reprieve (suspension of the execution of a criminal's sentence)](../images/washing_machine.jpg)
+
+[List of Opposition leaders who crossed over to BJP](../images/washing_machine2.jpg)
 
 
 ## Militant Youth Movements
@@ -259,6 +269,8 @@ Fascist regimes often create youth organizations that promote loyalty to the sta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l1qvVp8XZg8?si=mhqA7uBOZhmr33uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [How RSS textbooks are reshaping Indian history and science under Modi. The chain of schools run by the BJP’s far-right ideological mentor also served as a laboratory for government changes to syllabuses.](https://www.aljazeera.com/news/2024/2/19/how-rss-textbooks-are-reshaping-indian-history-and-science-under-modi)
+
+[Centre hands over 62% of new Sainik Schools to Sangh Parivar, BJP politicians and allies](https://www.reporters-collective.in/trc/centre-hands-sainik-schools-to-sangh-parivar-bjp-politicians)
 
 ## Expansionism and Imperialism
 
