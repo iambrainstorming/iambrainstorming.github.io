@@ -704,9 +704,6 @@ The ballot paper is the gold standard of voting. Your votes don't disappear in t
 One method involves utilizing a high-capacity auto-feed scanner to scan votes. 
 
 Scanned images need to be made public. This action promotes transparency and allows anyone to verify the count using various open-source machine learning programs.
-
-Additionally, validating the ballot serial numbers in the scanned ballot images ensures the integrity of the scanning process and prevents manipulation. It's worth noting that the ballot serial number does not reveal the voter's identity, thus ensuring anonymity.
-
 To mitigate reliance on a centralized scanner, opposition leaders or other stakeholders can independently verify the results using their own scanners. Since the process is automated, this verification task is not cumbersome.
 
 Manual counting can be prone to human errors; typically, runner-up leaders request multiple recounts to validate the results. Automated counting simplifies the recounting process, and well-trained machine learning algorithms can offer greater accuracy in counting compared to humans.
