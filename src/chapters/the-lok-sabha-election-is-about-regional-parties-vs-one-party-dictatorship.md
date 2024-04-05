@@ -507,7 +507,10 @@ EVM is even more dangerous with FPTP voting method, because a single EVM manipul
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PLY7ZwWFuhc?si=F8W8raYCgjacogE_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[Why Did EC Destroy VVPAT Slips of 2019 LS Polls in Such a Hurry?](https://www.thequint.com/news/india/why-did-election-commission-destroy-evm-voting-machine-vvpat-slips-of-2019-lok-sabha-polls#read-more)
+
 [Paper ballots are safest for our elections – on one condition.](https://edition.cnn.com/2018/11/05/opinions/to-keep-our-votes-safe-check-and-check-again-richardson-burke/index.html/)
+
 
 ## Even [VVPAT](https://en.wikipedia.org/wiki/Voter-verified_paper_audit_trail) are not the solution
 

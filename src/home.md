@@ -16,5 +16,7 @@ Git
 
 Clone:
 
+Only update it weekly or in case github is down.
+
 <https://iambrainstorming.4everland.app/>
 
