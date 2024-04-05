@@ -699,6 +699,32 @@ If people and opposition parties don't want EVMs, who are the CJI or the courts 
 
 The ballot paper is the gold standard of voting. Your votes don't disappear in the ballot box; that goes beyond the laws of physics. However, with Electronic Voting Machines (EVMs) that support read, write, and delete functions, your votes can disappear without trace, and you can't even prove it. Furthermore, one can use technology to automate and secure ballot voting by implementing robotic ballot boxes and employing open-source, tested machine learning algorithms to automate the counting process, as mentioned above.
 
+### How can we achieve secure automated vote counting through open source machine learning software?
+
+One method involves utilizing a high-capacity auto-feed scanner to scan votes. 
+
+Scanned images need to be made public. This action promotes transparency and allows anyone to verify the count using various open-source machine learning programs.
+
+Additionally, validating the ballot serial numbers in the scanned ballot images ensures the integrity of the scanning process and prevents manipulation. It's worth noting that the ballot serial number does not reveal the voter's identity, thus ensuring anonymity.
+
+To mitigate reliance on a centralized scanner, opposition leaders or other stakeholders can independently verify the results using their own scanners. Since the process is automated, this verification task is not cumbersome.
+
+Manual counting can be prone to human errors; typically, runner-up leaders request multiple recounts to validate the results. Automated counting simplifies the recounting process, and well-trained machine learning algorithms can offer greater accuracy in counting compared to humans.
+
+As for the ballot paper design, using thicker paper without folds and placing it directly into the ballot box simplifies the scanning process.
+
+Placing the unfolded ballot directly into the ballot box aids in feeding it into the scanner without requiring manual effort to open the ballot paper.
+
+To preserve anonymity without folding the ballot, a separate piece of paper can be provided to conceal it from cameras or observers before placing the voted ballot in the ballot box.
+
+In terms of paper costs, paper can be sold and recycled, which reduces expenses. Additionally, paper costs are significantly lower than those associated with electronic voting machine (EVM) assembly.
+
+For a constituency with one lakh voters, three to six scanners are typically sufficient to provide results within a day. Increasing the number of scanners reduces the processing time further. Many scanners boast scanning speeds of up to 20 pages per minute.
+
+Using this method, the cost of voting will be significantly lower than EVM assembly, and it is also one of the most secure methods.
+
+Currently I am trying out [image classification](https://github.com/reaudito/custom-image-dataset-classification). Typically, it takes 5-10 hours to train the model.
+
 ### Shooting the messenger
 
 A whistleblower is an individual who exposes information about wrongdoing, illegal activities, or unethical behavior within an organization. Unfortunately, whistleblowers may face backlash, retaliation, or legal consequences for bringing such information to light. 
