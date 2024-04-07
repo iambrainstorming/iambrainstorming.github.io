@@ -740,7 +740,7 @@ A letter from Mehmood Pracha, who is running as an Independent candidate in the 
 [Letter link 1](images/evm/randomization1.jpeg)
 
 
-[Letter link 1](images/evm/randomization2.jpeg)
+[Letter link 2](images/evm/randomization2.jpeg)
 
 ### Shooting the messenger
 
