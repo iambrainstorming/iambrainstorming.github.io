@@ -1,4 +1,4 @@
-# Draconian and unconstitutional PMLA provisions
+# Draconian and unconstitutional PMLA and UAPA provisions
 
 
 
@@ -18,7 +18,7 @@ The burden of proof is a concept in logic and argumentation that addresses the r
 
 In simple terms, the burden of proof asks: Who needs to provide evidence to support their claim?
 
-There are generally two positions in an argument:
+There are generally two position in an argument:
 
 - **The Affirmative (or Positive) Claim**: This is the side making an assertion, proposing something new, or making a claim about reality.
 

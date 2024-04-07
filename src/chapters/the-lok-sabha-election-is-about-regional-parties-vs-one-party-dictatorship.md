@@ -553,6 +553,10 @@ The number of [spoilt votes](https://en.wikipedia.org/wiki/Spoilt_vote) in a Fir
 >If you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities, why not just paper ballot?
 The more complicated the system is, the more ways it can be attacked.
 
+### Invisible Ink
+
+Even the chemicals used in the ink of VVPAT need to be validated. Chemicals like [invisible ink](https://en.wikipedia.org/wiki/Invisible_ink) do exist, which can alter your votes after a few days.
+
 
 
 
@@ -724,6 +728,19 @@ For a constituency with one lakh voters, three to six scanners are typically suf
 Using this method, the cost of voting will be significantly lower than EVM assembly, and it is also one of the most secure methods.
 
 Currently I am trying out [image classification](https://github.com/reaudito/custom-image-dataset-classification). Typically, it takes 5-10 hours to train the model.
+
+### Randomization of EVMs to be supplied to constituencies and randomized recounts of VVPATs to detect possible malfunctions or fraud
+
+Randomization is not conducted transparently. Why should we trust a video and a server controlled by a system administrator to generate random values? Secure random number generation involves drawing from shuffled papers, not relying on software controlled by a system administrator.
+
+A letter from Mehmood Pracha, who is running as an Independent candidate in the Rampur, Uttar Pradesh, Lok Sabha Constituency:
+
+> Randomization process for EVM-VVPAT machines by you, was at best a videographed demonstration of a pointless, illegal, opaque, and surreptitious fiddling of the machines being presented as a technical exercise. The very fact that I was not permitted to access the actual machines, or even see them physically, is sufficient to discredit the entire process, and to shatter my confidence, and that of the electorate, in the veracity and trustworthiness of the EVM-VVPAT machines and the polling process in which they are to be used. The entire process lasted less than half an hour, and was very evidently conducted purely as a matter of formality without inviting or permitting any actual participation by me.
+
+[Letter link 1](images/evm/randomization1.jpeg)
+
+
+[Letter link 1](images/evm/randomization2.jpeg)
 
 ### Shooting the messenger
 
