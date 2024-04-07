@@ -13,7 +13,7 @@ categories:
 
 
 <video width="100%" controls preload="none" poster="./images/car_lane_median.png">
-  <source src="https://bafybeigg3pec6krwxsmevdq3ucaih5wspxn3342gqkvdw26veoqceozqpu.ipfs.w3s.link/Road%20Planning.mp4" type="video/mp4">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeigg3pec6krwxsmevdq3ucaih5wspxn3342gqkvdw26veoqceozqpu/Road%20Planning.mp4" type="video/mp4">
 </video>
 
 
@@ -104,7 +104,7 @@ It's not about adopting an all-or-nothing approach, but rather the imperative ne
 ## 🚌 150 people overtaking 50 people. Separating the lane is not hard.
 
 <video width="100%" controls preload="none" poster="./images/bus_lane.png">
-  <source src="https://bafybeiddh2kuqvg5kg2trcm6iquynmlx2tobtagqeczcvdu4zej3hdlhwq.ipfs.w3s.link/Bus%20vs%20Cars.mp4" type="video/mp4">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiddh2kuqvg5kg2trcm6iquynmlx2tobtagqeczcvdu4zej3hdlhwq/Bus%20vs%20Cars.mp4" type="video/mp4">
 </video>
 
 ## Car free cities are good for local businesses
@@ -140,7 +140,7 @@ This 'thirsty' concrete absorbs 880 gallons of water a minute — here's how it 
 ## Get your self a car, looser. What do you think you are?
 
 <video width="100%" controls preload="none" poster="./images/bike_rails.png">
-  <source src="https://bafybeif2zk6albeippcaugynwclhsiakl7t3eqcrcoi2vbbqunffphlfvq.ipfs.w3s.link/get%20a%20car%20looser.mp4" type="video/mp4">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeif2zk6albeippcaugynwclhsiakl7t3eqcrcoi2vbbqunffphlfvq/get%20a%20car%20looser.mp4" type="video/mp4">
 </video>
 
 ## Effect of Media
