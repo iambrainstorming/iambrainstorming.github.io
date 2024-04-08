@@ -739,7 +739,7 @@ In classification problems like vote counting or identifying handwritten numbers
 
 As scanned images can be made public, humans can check them later on, within a week.
 
-> ECI cannot claim the cost of counting or the space required for counting. If you make the scanned image public, we will count it for free.
+> ECI cannot claim the cost of counting or the space or the time required for counting. If you make the scanned image public, we will count it for free.
 
 ### Randomization of EVMs to be supplied to constituencies and randomized recounts of VVPATs to detect possible malfunctions or fraud. Is randomization transparent?
 
