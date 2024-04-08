@@ -715,6 +715,8 @@ To mitigate reliance on a centralized scanner, opposition leaders or other stake
 
 Manual counting can be prone to human errors; typically, runner-up leaders request multiple recounts to validate the results. Automated counting simplifies the recounting process, and well-trained machine learning algorithms can offer greater accuracy in counting compared to humans.
 
+Vote counting is a simpler model, akin to handwriting number recognition, so machine learning can achieve a high level of accuracy as demonstrated. It also provides probabilities, indicating when the machine learning is unsure of labeling by giving a low probability. In such cases, human intervention can be involved.
+
 As for the ballot paper design, using thicker paper without folds and placing it directly into the ballot box simplifies the scanning process.
 
 Placing the unfolded ballot directly into the ballot box aids in feeding it into the scanner without requiring manual effort to open the ballot paper.
@@ -729,7 +731,7 @@ Using this method, the cost of voting will be significantly lower than EVM assem
 
 Currently I am trying out [image classification](https://github.com/reaudito/custom-image-dataset-classification). Typically, it takes 5-10 hours to train the model.
 
-### Randomization of EVMs to be supplied to constituencies and randomized recounts of VVPATs to detect possible malfunctions or fraud
+### Randomization of EVMs to be supplied to constituencies and randomized recounts of VVPATs to detect possible malfunctions or fraud. Is randomization transparent?
 
 Randomization is not conducted transparently. Why should we trust a video and a server controlled by a system administrator to generate random values? Secure random number generation involves drawing from shuffled papers, not relying on software controlled by a system administrator.
 
@@ -741,6 +743,16 @@ A letter from Mehmood Pracha, who is running as an Independent candidate in the 
 
 
 [Letter link 2](images/evm/randomization2.jpeg)
+
+### Chances of Match-fixing
+
+The chances of match-fixing increase when elections can be manipulated. Opposition parties may be negotiated with to cease protests against Electronic Voting Machines (EVMs) or to treat the protests casually, giving the appearance of opposition to EVMs.
+
+Thus, there is a high likelihood of election fixing when election results are determined by EVM machines.
+
+This undermines competition, eliminates third parties, and stifles independent thinking leaders. It can be detrimental to any representatives, regardless of party affiliation, including the ruling party. Those dissatisfied with the current regime have a high risk of losing, whether they belong to the BJP or the Congress. Additionally, many Congress leaders have switched parties due to threats from investigative agencies like the Enforcement Directorate (ED) or out of greed for money.
+
+If the BJP is targeting 370 seats, then there are 173 seats that they would have to lose. One can assume who will lose those seats in the case of match-fixing.
 
 ### Shooting the messenger
 
