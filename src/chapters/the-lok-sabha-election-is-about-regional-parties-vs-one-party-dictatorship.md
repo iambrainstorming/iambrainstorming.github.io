@@ -739,6 +739,8 @@ In classification problems like vote counting or identifying handwritten numbers
 
 As scanned images can be made public, humans can check them later on, within a week.
 
+> ECI cannot claim the cost of counting or the space required for counting. If you make the scanned image public, we will count it for free.
+
 ### Randomization of EVMs to be supplied to constituencies and randomized recounts of VVPATs to detect possible malfunctions or fraud. Is randomization transparent?
 
 Randomization is not conducted transparently. Why should we trust a video and a server controlled by a system administrator to generate random values? Secure random number generation involves drawing from shuffled papers, not relying on software controlled by a system administrator.
