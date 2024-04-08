@@ -737,7 +737,7 @@ A false positive is an error in classification in which a test result incorrectl
 
 In classification problems like vote counting or identifying handwritten numbers, there are chances of false positives. For example, [identifying a sketch as a number when it should be none of the numbers from 1 to 9](https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html). Machine learning doesn't work best when the given data is very different from the trained data, so it may fail to identify spoiled votes, which can occur in many different and unpredictable ways. Therefore, some human caution is required to check the probability values.
 
-As scanned images can be made public, humans can check it letter on, within a week. 
+As scanned images can be made public, humans can check them later on, within a week.
 
 ### Randomization of EVMs to be supplied to constituencies and randomized recounts of VVPATs to detect possible malfunctions or fraud. Is randomization transparent?
 
