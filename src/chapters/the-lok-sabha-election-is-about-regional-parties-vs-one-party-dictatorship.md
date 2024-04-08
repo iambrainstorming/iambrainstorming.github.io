@@ -713,9 +713,9 @@ One method involves utilizing a high-capacity auto-feed scanner to scan votes.
 Scanned images need to be made public. This action promotes transparency and allows anyone to verify the count using various open-source machine learning programs.
 To mitigate reliance on a centralized scanner, opposition leaders or other stakeholders can independently verify the results using their own scanners. Since the process is automated, this verification task is not cumbersome.
 
-Manual counting can be prone to human errors; typically, runner-up leaders request multiple recounts to validate the results. Automated counting simplifies the recounting process, and well-trained machine learning algorithms can offer greater accuracy in counting compared to humans.
+Manual counting can be prone to human errors; typically, runner-up leaders request multiple recounts to validate the results. Automated counting simplifies the recounting process, and well-trained machine learning algorithms can offer greater accuracy in counting.
 
-Vote counting is a simpler model, akin to handwriting number recognition, so machine learning can achieve a high level of accuracy as demonstrated. It also provides probabilities, indicating when the machine learning is unsure of labeling by giving a low probability. In such cases, human intervention can be involved.
+Vote counting is a simpler model, akin to handwriting number recognition, so machine learning can achieve a high level of accuracy [as demonstrated](https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html). It also provides probabilities, indicating when the machine learning is unsure of labeling by giving a low probability. In such cases, human intervention can be involved.
 
 As for the ballot paper design, using thicker paper without folds and placing it directly into the ballot box simplifies the scanning process.
 
@@ -730,6 +730,14 @@ For a constituency with one lakh voters, three to six scanners are typically suf
 Using this method, the cost of voting will be significantly lower than EVM assembly, and it is also one of the most secure methods.
 
 Currently I am trying out [image classification](https://github.com/reaudito/custom-image-dataset-classification). Typically, it takes 5-10 hours to train the model.
+
+#### False positives and false negatives in machine learning
+
+A false positive is an error in classification in which a test result incorrectly indicates the presence of a condition, while a false negative is the opposite error, where the test result incorrectly indicates the absence of a condition when it is actually present. 
+
+In classification problems like vote counting or identifying handwritten numbers, there are chances of false positives. For example, [identifying a sketch as a number when it should be none of the numbers from 1 to 9](https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html). Machine learning doesn't work best when the given data is very different from the trained data, so it may fail to identify spoiled votes, which can occur in many different and unpredictable ways. Therefore, some human caution is required to check the probability values.
+
+As scanned images can be made public, humans can check it letter on, within a week. 
 
 ### Randomization of EVMs to be supplied to constituencies and randomized recounts of VVPATs to detect possible malfunctions or fraud. Is randomization transparent?
 
