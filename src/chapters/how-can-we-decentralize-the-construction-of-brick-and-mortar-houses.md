@@ -13,7 +13,7 @@ categories:
 
 ## Diversity of Housing Design
 
-No two buildings or skyscrapers are identical. Engineers can craft various sustainable designs and gain approval from the decentralized governance. These designs may incorporate [diverse features](./what-will-a-boycott-of-the-national-currency-give-us.md) such as [supermarkets](./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md), playgrounds, office spaces adaptable for [remote work](./how-to-beat-the-worst-job-culture-of-india.md), natural parks, and forests. Additionally, inclusive community amenities like schools and hospitals contribute to a well-rounded environment.
+No two buildings or skyscrapers are identical. Engineers can craft various sustainable designs and gain approval from the decentralized governance. These designs may incorporate [diverse features](./what-will-a-boycott-of-the-national-currency-give-us.md) such as [supermarkets](./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md), playgrounds, office spaces adaptable for [remote work](./rethinking-work-culture.md), natural parks, and forests. Additionally, inclusive community amenities like schools and hospitals contribute to a well-rounded environment.
 
 ## Free Market: Demand and Supply Transactions and Investments
 

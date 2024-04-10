@@ -74,7 +74,7 @@ The Community Kitchen initiative aims to bring culinary experiences by fostering
 
 By addressing these key elements in the incentive system, the Community Kitchen strives to create an environment where the preparation of food becomes a collaborative and rewarding venture, promoting both health and culinary diversity.
 
-The Community Kitchen serves as a particularly valuable resource for [women seeking remote employment](./how-to-beat-the-worst-job-culture-of-india.md), offering a solution that helps them save time on cooking and dish washing. This communal space not only addresses the practical challenges of balancing work and household responsibilities but also creates a supportive environment for those engaged in remote jobs.
+The Community Kitchen serves as a particularly valuable resource for [women seeking remote employment](./rethinking-work-culture.md), offering a solution that helps them save time on cooking and dish washing. This communal space not only addresses the practical challenges of balancing work and household responsibilities but also creates a supportive environment for those engaged in remote jobs.
 
 
 ## How much time does it take to create 15-minute cities?

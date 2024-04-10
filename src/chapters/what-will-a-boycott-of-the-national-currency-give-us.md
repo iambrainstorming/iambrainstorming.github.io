@@ -219,7 +219,7 @@ More points to cover, treat it like a manifesto:
 
 - Elimination of bullshit jobs
 
-- [Remote jobs or work from home with less working hours](./how-to-beat-the-worst-job-culture-of-india.md)
+- [Remote jobs or work from home with less working hours](./rethinking-work-culture.md)
 
 - [Gender parity in workplace](https://hbr.org/2021/09/the-problem-with-greedy-work)
 

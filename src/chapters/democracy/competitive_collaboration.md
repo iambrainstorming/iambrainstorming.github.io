@@ -52,7 +52,7 @@ Nodes are protected by game-theoretic incentive system, those who behave frivolo
 
 15-minute cities are a concept that aims to create urban environments where residents can access all the essential services and amenities within a [15-minute walk or bike ride](../road-planning-of-cities.md). Decentralizing cities means distributing these services throughout the city, ensuring that they are accessible to all residents, regardless of their location. We will explore how decentralizing cities can benefit various aspects of urban life, including jobs, healthcare, childcare, schools, colleges, and supermarkets.
 
-### [Jobs, Remote Work](../how-to-beat-the-worst-job-culture-of-india.md)
+### [Jobs, Remote Work](../rethinking-work-culture.md)
 
 The rise of remote work has made it possible for people to work from anywhere, as long as they have a stable internet connection. Decentralizing cities can help create more job opportunities in different neighborhoods, reducing the need for long commutes and making it easier for people to find work closer to home. This can not only improve the quality of life for residents but also reduce the environmental impact of commuting.
 
