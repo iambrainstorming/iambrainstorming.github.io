@@ -17,3 +17,8 @@ Also, one can set up local community centers for individuals to sit and work rem
 
 
 Furthermore, the success of self-managed institutes hinges on the presence of effective leaders who possess strong leadership qualities and self-control. Identifying individuals with these attributes and entrusting them with leadership roles is crucial for the smooth functioning of self-managed teams. Leaders who can inspire and motivate their team members, maintain discipline, foster a culture of collaboration, and have the necessary skills to [evaluate evidence to determine what works and what does not](./reasoning/evidence-based_medicine.md), are invaluable assets in a self-managed environment.
+
+## Equitable money distribution as motivation to work
+
+[Equitable money distribution and inclusivity](./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md#equitable-money-distribution-and-inclusivity)
+
