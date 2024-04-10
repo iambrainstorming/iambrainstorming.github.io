@@ -7,7 +7,7 @@
   - [What do we need to decentralize in the coming years?](./chapters/what-do-we-need-to-decentralize-in-the-coming-years.md)
   - [Emotion and empathy rather than materialism](./chapters/relationships-emotions-and-happiness.md)
   - [No Entrance culture, and rate race, rote learning education system](./chapters/education_system.md)
-  - [Remote jobs or work from home with less working hours](./chapters/how-to-beat-the-worst-job-culture-of-india.md)
+  - [Remote jobs or work from home with less working hours](./chapters/rethinking-work-culture.md)
   - [Clean energy like roof top solar and wind energy](./chapters/invest_on_renewables.md)
   - [Banning single use plastic](./chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.md)
   - [Sustainable housing design](./chapters/building-better-cities.md)
@@ -79,6 +79,13 @@
 - [Pseudoscience](./chapters/reasoning/pseudoscience.md)
 - [What are Scholarly Activities?](./chapters/academics/academician.md)
 - [Evidence Based Medicine vs Alternative Medicine](./chapters/reasoning/evidence-based_medicine.md)
+
+# Organization
+
+- [When do self-managed institutes work?](./chapters/self-managed-institutes.md)
+- [Moonlighting](./chapters/moonlighting-in-a-remote-work-world.md)
+- [Micromanagement](./chapters/micromanagement.md)
+
 
 
 # Biology
