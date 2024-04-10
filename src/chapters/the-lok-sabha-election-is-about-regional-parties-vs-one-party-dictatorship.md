@@ -764,6 +764,11 @@ This undermines competition, eliminates third parties, and stifles independent t
 
 If the BJP is targeting 370 seats, then there are 173 seats that they would have to lose. One can assume who will lose those seats in the case of match-fixing.
 
+### Probability of Hacking
+
+Those who argue the probability of hacking is non-existent, firstly, the EVM is an opaque system. Nobody knows what is installed on the EVM except the software maker who has installed it. There is no way to trace it because everything is happening behind the screen. If you are inside a room, how can someone outside know what's happening inside? Light can't pass from outside to inside; walls are opaque. That's beyond the laws of physics to know what is happening inside the room through our eyes when outside. It's a complete [pseudoscience argument of lack of falsifiability](./reasoning/pseudoscience.md). EVMs are also not made public to be scrutinized by ethical hackers. So why should we trust a middleman to take care of our votes? People have the right to directly vote, not give their vote to a middleman to vote for them.
+
+
 ### Shooting the messenger
 
 A whistleblower is an individual who exposes information about wrongdoing, illegal activities, or unethical behavior within an organization. Unfortunately, whistleblowers may face backlash, retaliation, or legal consequences for bringing such information to light. 
