@@ -43,9 +43,10 @@ This loss occurs because taxes alter the behavior of both consumers and producer
 
 Moreover, some governments use excessive taxation as a tool to further wealth inequality, by providing loan write-offs for corporations while neglecting the impact of taxation on the general population. This approach decreases economic activity due to deadweight loss, and loan write-offs drain wealth from people and transfer it to large corporations.
 
+The implementation of the Goods and Services Tax (GST) in India is one example.
+
 There is no data available on which categories tax collection is highest. Details categorical tax collection data is needed. As tax collection is high, but there isn't much increase in income or spending, one can say that the government is heavily taxing inelastic goods. According to economics, [the deadweight loss is less for inelastic goods](https://mru.org/courses/principles-economics-microeconomics/deadweight-loss-definition-yacht-tax) because people don't have substitutes for these goods to avoid the tax. In other words, goods that are considered basic necessities are taxed rather than luxuries. Heavy taxation in poor countries like India places significant pressure on the working class and unemployed.
 
-The implementation of the Goods and Services Tax (GST) in India is one example.
 
 ## We need to start thinking about pre-distribution
 
