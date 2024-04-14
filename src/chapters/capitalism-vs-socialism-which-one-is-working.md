@@ -74,6 +74,11 @@ Another example can be decentralized computation using blockchain, its free mark
 [Akash Network](https://akash.network/)
 
 
+## Anarchism
+<https://en.wikipedia.org/wiki/Anarchism>
+
+Anarchism is a political philosophy and movement that is against all forms of authority and seeks to abolish the institutions it claims maintain unnecessary coercion and hierarchy, typically including the state and capitalism. Anarchism advocates for the replacement of the state with stateless societies and voluntary free associations
+
 ## Stateless society
 
 <https://en.m.wikipedia.org/wiki/Stateless_society>
