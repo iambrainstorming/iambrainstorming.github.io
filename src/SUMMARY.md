@@ -42,6 +42,7 @@
   - [Necessary sources of political power by dictator](./chapters/democracy/fascism_power.md)
   - [What is free and fair elections?](./chapters/democracy/free-and-fair-election.md)  
   - [Draconian and unconstitutional PMLA and UAPA provisions](./chapters/democracy/pmla.md)
+  - [Upholding the Justice](./chapters/democracy/upholding-justice.md)
    
   
 

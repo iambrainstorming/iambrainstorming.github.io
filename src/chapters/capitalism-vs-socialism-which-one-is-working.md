@@ -13,7 +13,7 @@ categories:
 
 Characteristics central to capitalism include private property, capital accumulation, wage labor, voluntary exchange, a price system and competitive markets
 
-\--Wikipedia
+--Wikipedia
 
 ## Definition of _socialism_
 
@@ -72,6 +72,38 @@ Another example can be decentralized computation using blockchain, its free mark
 [https://runonflux.io/](https://runonflux.io/)
 
 [Akash Network](https://akash.network/)
+
+
+## Stateless society
+
+<https://en.m.wikipedia.org/wiki/Stateless_society>
+
+A stateless society is a society that is not governed by a state. In stateless societies, there is little concentration of authority; most positions of authority that do exist are very limited in power and are generally not permanently-held positions.
+
+### Rule of Law
+But in order to maintain order in a stateless society, there has to be the rule of law. The rule of law provides a framework for resolving disputes and addressing conflicts in a peaceful and just manner. By ensuring that everyone is treated equally under the law, regardless of their social status, wealth, or political connections, the rule of law helps to prevent the abuse of power and the violation of individual rights.
+
+Moreover, the rule of law acts as a deterrent against crime by providing a consistent and transparent system of consequences for unlawful behavior. When individuals know that their actions will be judged fairly and in accordance with established legal principles, they are less likely to resort to criminal activities. Furthermore, the rule of law empowers communities to establish mechanisms for conflict resolution and dispute settlement, reducing the likelihood of violence and promoting social cohesion. 
+
+### But how can we have the rule of law in a stateless society where there is no concentration of authority?
+
+We can have the rule of law with distributed authority rather than a concentration of authority, where the constitution is framed, adapted, or amended through deliberation between the public and [thousands or millions of specialized groups with expertise](./democracy/upholding-justice.md).
+
+With automated smart contracts, thousands, even millions, can participate in the lawmaking and judgement process and approve decisions through different optimal voting methods.
+
+### Classical Liberalism
+
+<https://bigthink.com/thinking/classical-liberalism-explained/>
+
+Classical liberalism is a political tradition and a branch of liberalism that advocates free market and laissez-faire economics and civil liberties under the rule of law, with special emphasis on individual autonomy, limited government, economic freedom, political freedom and freedom of speech. Classical liberalism, contrary to liberal branches like social liberalism, looks more negatively on social policies, taxation and the state involvement in the lives of individuals, and it advocates deregulation.
+
+#### Regulation or Deregulation
+
+Deregulation of markets hardly works in tackling negative externalities. Negative externalities need to be taxed or regulated. Though markets need to be free, with [no price control](./economics/price_controls.md)— in other words, prices are decided by demand and supply— markets need to be regulated to prevent monopolization and also to prevent negative externalities.
+
+Organizations need to be publicly owned, with better [predistribution through smart contracts and game theory](./economics/yard-sale-model.md).
+
+## Two videos compare capitalism and socialism, and the problems of the videos are highlighted above.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AkFZgZ5IjTU?si=nyAewzTyniBjMfyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
