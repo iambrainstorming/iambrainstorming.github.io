@@ -557,7 +557,10 @@ The more complicated the system is, the more ways it can be attacked.
 
 Even the chemicals used in the ink of VVPAT need to be validated. Chemicals like [invisible ink](https://en.wikipedia.org/wiki/Invisible_ink) do exist, which can alter your votes after a few days.
 
+### Thermal Printing in VVPAT
 
+The VVPAT uses thermal printing, which tends to [fade over a few months](https://pandapaperroll.com/thermal-paper-fades-restore/). However, the [ECI's argument that placing reflective glass can prevent VVPAT slips](https://www.youtube.com/watch?v=zMXF8_tJN_4) from fading is quite ridiculous. While it's true that VVPAT slips will fade over time, a minute of exposure to light barely makes a difference.
+The intentions of the ECI are highly questionable, despite spending a significant amount of money on VVPATs, they didn't invest in even a decent printer that produces prints lasting a year. Furthermore, they burn VVPAT slips within three months, even though there is a provision to keep them for a year.
 
 
 ## What about independence of election commission?
