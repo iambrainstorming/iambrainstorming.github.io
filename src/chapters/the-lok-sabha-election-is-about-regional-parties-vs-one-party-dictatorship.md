@@ -806,6 +806,23 @@ The video connected all the dots of EVM. However, I have a conflict with the sol
 >
 > To be clear, parties at the center will always want EVMs to select their own government through a flawed and opaque voting system that they have full control over. It is the responsibility of people to protest and return to paper ballot-based voting.
 
+## A ghost in the machine? On EVMs, democracy deficit and its constitutionality
+
+<https://theleaflet.in/a-ghost-in-the-machine-on-evms-democracy-deficit-and-its-constitutionality/>
+
+Fundamental flaw no.1: The Black box technology
+
+The primary objection to EVMs is that the technology deployed is the ‘black box technology’
+
+Fundamental flaw no. 2: Technical scrutiny of EVMs impossible
+
+The German court struck down the use of EVMs as unconstitutional simply because no accessible public or judicial scrutiny of EVMs was possible without the intervention of technical experts.
+
+Fundamental flaw no. 3: VVPAT precedes the recorder
+
+Flaw no. 4: A near-zero paper trail
+
+The ECI, employing bizarre logic, revealed: “Verification of VVPAT paper trail of 479 (randomly selected) EVMs would generate 99 percent accuracy in election results.
 
 ### Give missed call to 9667722062 to Ban EVM
 
