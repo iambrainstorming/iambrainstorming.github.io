@@ -60,6 +60,5 @@ There is no good justification for jail with the reverse burden of proof. Yes, y
 
 We need a system of quicker trials; for that, courts need to scale, not shift dates for years or decades. By reducing the backlog of cases and streamlining court procedures, the justice system can deliver swifter resolutions while upholding the rights of the accused and also victim.
 
-Also, help victims or plaintiffs (the party who initiates a lawsuit) to collect the desired evidence.
-This could involve providing resources and support to help gather evidence, such as forensic analysis or witness testimony. By empowering victims and plaintiffs in this way, the justice system can ensure that cases are built on solid foundations of evidence rather than relying on incarceration of suspect.
+Additionally, assist victims or plaintiffs (the party initiating a lawsuit) in gathering the necessary evidence and provide them with protection if there is a threat to their safety. This could involve providing resources and support to help gather evidence, such as forensic analysis or witness testimony. By empowering victims and plaintiffs in this way, the justice system can ensure that cases are built on solid foundations of evidence rather than relying on incarceration of suspect.
 
