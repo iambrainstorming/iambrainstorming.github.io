@@ -52,3 +52,14 @@ Additionally, one needs to understand pseudoscience and its lack of falsifiabili
 As you can see, the ED is exploiting the lack of falsifiability. One cannot prove whether money has been used or not.
 
 > It is the duty of the [Supreme Court to protect the constitution](../the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md#role-of-courts). They need to remove such unconstitutional provisions through suo motu action. Laws are not intended to be abused or manipulated for wrongful purposes.
+
+
+## Reverse Burden of Proof
+
+There is no good justification for jail with the reverse burden of proof. Yes, you can jail someone for a month or two (e.g.,in case of dowry or domestic violence, to protect the victim and give some time for the victim to collect and provide evidence). But a year or six months of jail with reverse burden of proof is a **violation of fundamental rights**. Trials can run with bail. What is the fear if the suspect stays outside? What is the danger? Is there any evidence that they will commit some heinous crime like killing someone? 
+
+We need a system of quicker trials; for that, courts need to scale, not shift dates for years or decades. By reducing the backlog of cases and streamlining court procedures, the justice system can deliver swifter resolutions while upholding the rights of the accused and also victim.
+
+Also, help victims or plaintiffs (the party who initiates a lawsuit) to collect the desired evidence.
+This could involve providing resources and support to help gather evidence, such as forensic analysis or witness testimony. By empowering victims and plaintiffs in this way, the justice system can ensure that cases are built on solid foundations of evidence rather than relying on incarceration of suspect.
+
