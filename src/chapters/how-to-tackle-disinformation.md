@@ -13,6 +13,12 @@ categories:
 
 *- [Global Risks Report 2024 ](https://www.weforum.org/publications/global-risks-report-2024/)*
 
+
+## India's fake news epidemic
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nPHrjxlHx2E?si=6oCYuXBwkKATv9BD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## **1) Deep Canvassing**
 
 Dave Fleischer told me that people don’t get a chance to reflect like this very often. Daily concerns take up people’s cognitive resources: providing lunch money for their kids, evaluating their performance at work, planning who will take the car to get repaired. Without a chance to introspect, we remain overconfident in our understanding of the issues about which we are most passionate. That overconfidence translates to certainty, and we use that certainty to support extreme views.
