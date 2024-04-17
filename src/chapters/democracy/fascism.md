@@ -297,3 +297,13 @@ Fascist governments often employ various tactics to maintain control and manipul
 ## The Project: Cookbook of Modi govt explained
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DLy3YOJeogA?si=i3Rzb2VKv-SMSSGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Camden Conference about the Indian government's crackdown on journalists
+
+
+[Emily Schmall, a former South Asia correspondent for The New York Times, spoke at the 2024 Camden Conference about the Indian government's crackdown on journalists and advocates of free speech.](https://www.newslaundry.com/2024/04/13/ib-minister-called-for-tea-read-headlines-with-sarcasm-nyt-journo-recalls-her-time-in-india)
+
+
+<video width="100%" controls preload="none" poster="../images/emily.png">
+  <source src="https://bafybeici56hpjpzodtrhp3jae2ikijpit4twvcumcpdmqf3habb3l3ijgq.ipfs.nectarnode.io" type="video/mp4">
+</video>
