@@ -293,3 +293,7 @@ Fascist governments often employ various tactics to maintain control and manipul
 ## Why are autocrats popular? - Assault on democracy | DW Documentary 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jWOlugUj4Qk?si=g3OjdoQB8n7V3KSH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## The Project: Cookbook of Modi govt explained
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DLy3YOJeogA?si=i3Rzb2VKv-SMSSGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
