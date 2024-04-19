@@ -794,6 +794,21 @@ A whistleblower is an individual who exposes information about wrongdoing, illeg
 
 [Researcher Arrested in India After Disclosing Problems With Voting Machines](http://web.archive.org/web/20230203033338/https://www.wired.com/2010/08/researcher-arrested-in-india/)
 
+### The Supreme Court didn't give a judgment on 100% VVPAT counting.
+
+It would be interesting to look at the faces of candidates who lose if people vote because the losing candidates are saying to do so, no matter which party affiliation. #Loser
+
+Are 10,000 independents still contesting the election? 
+
+There's no bigger irony than the fact that they can't tally votes for 12 days. Counting is such a low-skilled job that even a 10th-grade student can do it, yet the Supreme Court rejected the counting, as predicted, as we don't trust the judge. Even after this, losers believe they will win through voting, and they still think the election can be free and fair.
+
+There are no free and fair elections; it's all a rigged game.
+
+The silence of the people equates to accepting dictatorship, allowing the government to control your taxes, economy, and the monopoly of violence.
+
+People need to stand up collectively; it can't be done by individuals alone. If 50% of the population doesn't trust the election commission and EVMs, then what's the point of elections? Don't be afraid; peacefully protest and take to the streets. They can't imprison 50% of the populace.
+
+Understand how a [fascist government operates](./democracy/fascism.md).
 
 ### Microcontrollers are ported with firmware by BEL/ECIL with directors affliated with BJP
 
