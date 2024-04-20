@@ -802,6 +802,8 @@ Are 10,000 independents still contesting the election?
 
 There's no bigger irony than the fact that they can't tally votes for 12 days. Counting is such a low-skilled job that even a 10th-grade student can do it, yet the Supreme Court rejected the counting, as predicted, as we don't trust the judge. Even after this, losers believe they will win through voting, and they still think the election can be free and fair.
 
+Why can't counting be as decentralized as polling booths? Each polling booth typically serves [300 to 700 voters](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiej6x2jlkjar34t4ag7adsdvz3scewk34igwgiqbvbq3k2xin7mxy). Therefore, if we establish similar decentralized booths for counting, it would only take an hour or two to count the paper ballots.
+
 There are no free and fair elections; it's all a rigged game.
 
 The silence of the people equates to accepting dictatorship, allowing the government to control your taxes, economy, and the monopoly of violence.
@@ -809,6 +811,15 @@ The silence of the people equates to accepting dictatorship, allowing the govern
 People need to stand up collectively; it can't be done by individuals alone. If 50% of the population doesn't trust the election commission and EVMs, then what's the point of elections? Don't be afraid; peacefully protest and take to the streets. They can't imprison 50% of the populace.
 
 Understand how a [fascist government operates](./democracy/fascism.md).
+
+### Voter turnout in Phase 1
+
+About [40% of voters are not voting](https://www.indiatoday.in/elections/lok-sabha/story/lok-sabha-elections-2024-phase-1-voting-bjp-congress-dmk-tamil-nadu-up-bengal-assembly-annamalai-2528964-2024-04-19). About [5-10% decrease in voter turnout](https://www.hindustantimes.com/india-news/64-turnout-in-lok-sabha-phase-1-elections-most-states-see-dip-from-2019-101713544427755.html) than 2019 election.
+
+[Voter turnout image](./images/9_pm_turnout_phase1.webp)
+
+With such a low voter turnout, one can assume there is high distrust in elections and politicians. The Supreme Court's decision has made it worse.
+
 
 ### Microcontrollers are ported with firmware by BEL/ECIL with directors affliated with BJP
 
