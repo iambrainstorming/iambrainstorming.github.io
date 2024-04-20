@@ -820,6 +820,10 @@ About [40% of voters are not voting](https://www.indiatoday.in/elections/lok-sab
 
 With such a low voter turnout, one can assume there is high distrust in elections and politicians. The Supreme Court's decision has made it worse.
 
+### Should we vote or not vote? With EVMs, about 5-10% manipulation is possible.
+
+EVMs have VVPATs installed even if VVPAT slips are not counted. People must check and also be trained to inspect what falls into the VVPAT. If mass manipulation occurs, it is likely to be caught. So, we request people to vote. One can still defeat the government with sufficient votes against it. So, go out and vote. Don't press NOTA. We will see what will happen next. People shouldn't lose hope. The fight for 100% counting will continue. Also, there are many things coming in the future, like decentralized monetary and supply chain systems.
+
 
 ### Microcontrollers are ported with firmware by BEL/ECIL with directors affliated with BJP
 
