@@ -822,8 +822,17 @@ With such a low voter turnout, one can assume there is high distrust in election
 
 ### Should we vote or not vote? With EVMs, about 5-10% manipulation is possible.
 
-EVMs have VVPATs installed even if VVPAT slips are not counted. People must check and also be trained to inspect what falls into the VVPAT. If mass manipulation occurs, it is likely to be caught. So, we request people to vote. One can still defeat the government with sufficient votes against it. So, go out and vote. Don't press NOTA. We will see what will happen next. People shouldn't lose hope. The fight for 100% counting will continue. Also, there are many things coming in the future, like decentralized monetary and supply chain systems.
+EVMs have VVPATs installed even if VVPAT slips are not counted. People must check and also be trained to inspect what falls into the VVPAT. If mass manipulation occurs, it is likely to be caught. So, we can request people to vote. One can still defeat the government with sufficient votes against it. So, go out and vote. Don't press NOTA. We will see what will happen next. People shouldn't lose hope. The fight for 100% counting will continue. Also, there are many things coming in the future, like decentralized monetary and supply chain systems.
 
+### About strong rooms of EVM and VVPAT storage
+
+[ECI Link](https://old.eci.gov.in/files/file/15143-arrangements-of-strong-rooms-for-safe-storage-of-evms-vvpats-and-other-election-papers-before-and-after-counting-of-votes-reg/)
+
+CCTV cameras with sufficient storage facility shall be installed. CCTV Camera should cover sealed doors of Polled EVM Strong Room and Election Paper Strong Room, security and corridor etc. A proper system to take back up of CCTV footage shall be ensured. Such video data shall be in the custody of the District Election Officer.
+
+Videography shall be made at the time of the opening and closing of Polled EVM Strong Room and Election Paper Strong Room. Proper log books shall also be maintained.
+
+> Courts can ask for a 100% counting of VVPATs at any time if protest continues, and those involved can be caught if any manipulation occurs, provided that proper security measures are taken to protect the VVPATs.
 
 ### Microcontrollers are ported with firmware by BEL/ECIL with directors affliated with BJP
 
