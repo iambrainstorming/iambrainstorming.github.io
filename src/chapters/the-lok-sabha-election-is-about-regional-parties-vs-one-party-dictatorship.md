@@ -796,11 +796,7 @@ A whistleblower is an individual who exposes information about wrongdoing, illeg
 
 ### The Supreme Court didn't give a judgment on 100% VVPAT counting.
 
-It would be interesting to look at the faces of candidates who lose if people vote because the losing candidates are saying to do so, no matter which party affiliation. #Loser
-
-Are 10,000 independents still contesting the election? 
-
-There's no bigger irony than the fact that they can't tally votes for 12 days. Counting is such a low-skilled job that even a 10th-grade student can do it, yet the Supreme Court rejected the counting, as predicted, as we don't trust the judge. Even after this, losers believe they will win through voting, and they still think the election can be free and fair.
+There's no bigger irony than the fact that they can't tally votes for 12 days. Counting is such a low-skilled job that even a 10th-grade student can do it, yet the Supreme Court rejected the counting, as predicted, as we don't trust the judge. 
 
 Why can't counting be as decentralized as polling booths? Each polling booth typically serves [300 to 700 voters](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiej6x2jlkjar34t4ag7adsdvz3scewk34igwgiqbvbq3k2xin7mxy). Therefore, if we establish similar decentralized booths for counting, it would only take an hour or two to count the paper ballots.
 
@@ -808,7 +804,7 @@ There are no free and fair elections; it's all a rigged game.
 
 The silence of the people equates to accepting dictatorship, allowing the government to control your taxes, economy, and the monopoly of violence.
 
-People need to stand up collectively; it can't be done by individuals alone. If 50% of the population doesn't trust the election commission and EVMs, then what's the point of elections? Don't be afraid; peacefully protest and take to the streets. They can't imprison 50% of the populace.
+People need to stand up collectively; it can't be done by individuals alone. If 50% of the population doesn't trust the election commission and EVMs, then why elections with EVM? Don't be afraid; peacefully protest and take to the streets. They can't imprison 50% of the populace.
 
 Understand how a [fascist government operates](./democracy/fascism.md).
 
@@ -822,7 +818,7 @@ With such a low voter turnout, one can assume there is high distrust in election
 
 ### Should we vote or not vote? With EVMs, about 5-10% manipulation is possible.
 
-EVMs have VVPATs installed even if VVPAT slips are not counted. People must check and also be trained to inspect what falls into the VVPAT. If mass manipulation occurs, it is likely to be caught. So, we can request people to vote. One can still defeat the government with sufficient votes against it. So, go out and vote. Don't press NOTA. We will see what will happen next. People shouldn't lose hope. The fight for 100% counting will continue. Also, there are many things coming in the future, like decentralized monetary and supply chain systems.
+EVMs have VVPATs installed even if VVPAT slips are not counted. People must check and also be trained to inspect what falls into the VVPAT. If mass manipulation occurs, it is likely to be caught. So, we can request people to vote. One can still defeat the government with sufficient votes against them. So, go out and vote. Don't press NOTA. We will see what will happen next. People shouldn't lose hope. The fight for 100% counting will continue. Also, there are many things coming in the future, like decentralized monetary and supply chain systems.
 
 ### About strong rooms of EVM and VVPAT storage
 
