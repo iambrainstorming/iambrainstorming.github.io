@@ -304,6 +304,12 @@ Fascist governments often employ various tactics to maintain control and manipul
 [Emily Schmall, a former South Asia correspondent for The New York Times, spoke at the 2024 Camden Conference about the Indian government's crackdown on journalists and advocates of free speech.](https://www.newslaundry.com/2024/04/13/ib-minister-called-for-tea-read-headlines-with-sarcasm-nyt-journo-recalls-her-time-in-india)
 
 
-<video width="100%" controls preload="none" poster="../images/emily.png">
-  <source src="https://bafybeici56hpjpzodtrhp3jae2ikijpit4twvcumcpdmqf3habb3l3ijgq.ipfs.nectarnode.io" type="video/mp4">
-</video>
+
+<a href="https://bafybeici56hpjpzodtrhp3jae2ikijpit4twvcumcpdmqf3habb3l3ijgq.ipfs.nectarnode.io/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaWQiOiJiYWZ5YmVpY2k1NmhwanB6b2R0cmhwM2phZTJpa2lqcGl0NHR3dmN1bWNwZG1xZjNoYWJiM2wzaWpncSIsInByb2plY3RfdXVpZCI6IjkyZjMzNzNmLTVhYzAtNGE2ZS04OWEwLTNlNGU4NjEwYzk4OSIsImlhdCI6MTcxMzgwNTk0NSwic3ViIjoiSVBGUy10b2tlbiJ9.JSKHDlhMZZalUC3Hb1D6leKGq6-JsmGqEUkQ15_EVY4" target="_blank">
+  <video controls width="400" poster="../images/emily.png">
+    <source src="https://bafybeici56hpjpzodtrhp3jae2ikijpit4twvcumcpdmqf3habb3l3ijgq.ipfs.nectarnode.io/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaWQiOiJiYWZ5YmVpY2k1NmhwanB6b2R0cmhwM2phZTJpa2lqcGl0NHR3dmN1bWNwZG1xZjNoYWJiM2wzaWpncSIsInByb2plY3RfdXVpZCI6IjkyZjMzNzNmLTVhYzAtNGE2ZS04OWEwLTNlNGU4NjEwYzk4OSIsImlhdCI6MTcxMzgwNTk0NSwic3ViIjoiSVBGUy10b2tlbiJ9.JSKHDlhMZZalUC3Hb1D6leKGq6-JsmGqEUkQ15_EVY4" type="video/mp4">
+    <!-- Add additional source elements for different video formats if needed -->
+    Your browser does not support the video tag.
+  </video>
+</a>
+
