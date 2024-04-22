@@ -1,0 +1,369 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Price discovery of decentralized supply chain - I am brainstorming</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Democracy and supply chain</li><li class="chapter-item expanded "><a href="../chapters/what-will-a-boycott-of-the-national-currency-give-us.html"><strong aria-hidden="true">1.</strong> Manifesto: What will a boycott of the national currency give us?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html" class="active"><strong aria-hidden="true">1.1.</strong> Price discovery of decentralized supply chain</a></li><li class="chapter-item expanded "><a href="../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html"><strong aria-hidden="true">1.2.</strong> What do we need to decentralize in the coming years?</a></li><li class="chapter-item expanded "><a href="../chapters/relationships-emotions-and-happiness.html"><strong aria-hidden="true">1.3.</strong> Emotion and empathy rather than materialism</a></li><li class="chapter-item expanded "><a href="../chapters/education_system.html"><strong aria-hidden="true">1.4.</strong> No Entrance culture, and rate race, rote learning education system</a></li><li class="chapter-item expanded "><a href="../chapters/rethinking-work-culture.html"><strong aria-hidden="true">1.5.</strong> Remote jobs or work from home with less working hours</a></li><li class="chapter-item expanded "><a href="../chapters/invest_on_renewables.html"><strong aria-hidden="true">1.6.</strong> Clean energy like roof top solar and wind energy</a></li><li class="chapter-item expanded "><a href="../chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.html"><strong aria-hidden="true">1.7.</strong> Banning single use plastic</a></li><li class="chapter-item expanded "><a href="../chapters/building-better-cities.html"><strong aria-hidden="true">1.8.</strong> Sustainable housing design</a></li><li class="chapter-item expanded "><a href="../chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.html"><strong aria-hidden="true">1.9.</strong> Decentralized house building</a></li><li class="chapter-item expanded "><a href="../chapters/road-planning-of-cities.html"><strong aria-hidden="true">1.10.</strong> Car-free cities</a></li><li class="chapter-item expanded "><a href="../chapters/city-planning/rain_water_harvesting.html"><strong aria-hidden="true">1.11.</strong> City Planning: Rain Water Harvesting</a></li><li class="chapter-item expanded "><a href="../chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html"><strong aria-hidden="true">1.12.</strong> Decentralizing Supermarkets Through Public Ownership and Control</a></li><li class="chapter-item expanded "><a href="../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html"><strong aria-hidden="true">1.13.</strong> Love for USD pegged stable coin by the crypto community must end</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/tyranny_of_the_majority.html"><strong aria-hidden="true">1.14.</strong> Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/simple_majority_and_super_majority.html"><strong aria-hidden="true">1.15.</strong> Simple Majority vs Super Majority</a></li><li class="chapter-item expanded "><a href="../chapters/capitalism-vs-socialism-which-one-is-working.html"><strong aria-hidden="true">1.16.</strong> Socialism vs Capitalism</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">1.17.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/shivarthu/Shivarthu.html"><strong aria-hidden="true">1.18.</strong> Shivarthu: A governance Protocol</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/competitive_collaboration.html"><strong aria-hidden="true">1.19.</strong> The Competitive Collaboration Algorithm</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/secure_blockchain_voting.html"><strong aria-hidden="true">1.20.</strong> Secure Blockchain Voting</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Economics</li><li class="chapter-item expanded "><a href="../chapters/economics/yard-sale-model.html"><strong aria-hidden="true">2.</strong> Why income inequality exits? Yard-Sale-Model</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">3.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/economics/price_controls.html"><strong aria-hidden="true">4.</strong> Price Controls</a></li><li class="chapter-item expanded affix "><li class="part-title">Democracy</li><li class="chapter-item expanded "><a href="../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html"><strong aria-hidden="true">5.</strong> Do we need a supreme leader? How can we share power between parties?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">5.1.</strong> The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship</a></li><li class="chapter-item expanded "><a href="../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">5.2.</strong> How EVM works and Why it should be banned to save the democracy</a></li><li class="chapter-item expanded "><a href="../chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.html"><strong aria-hidden="true">5.3.</strong> Open-list proportional representation vs. Mixed-member proportional representation</a></li><li class="chapter-item expanded "><a href="../chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.html"><strong aria-hidden="true">5.4.</strong> Parliamentary or Presidential form of government? What's in the name?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/govt_controlling_information.html"><strong aria-hidden="true">5.5.</strong> How to share information under fascism or dictatorship?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism.html"><strong aria-hidden="true">5.6.</strong> What a fascist government does?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/hinduism.html"><strong aria-hidden="true">5.7.</strong> Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism_power.html"><strong aria-hidden="true">5.8.</strong> Necessary sources of political power by dictator</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/free-and-fair-election.html"><strong aria-hidden="true">5.9.</strong> What is free and fair elections?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/pmla.html"><strong aria-hidden="true">5.10.</strong> Draconian and unconstitutional PMLA and UAPA provisions</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/upholding-justice.html"><strong aria-hidden="true">5.11.</strong> Upholding the Justice</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Cooperation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">6.</strong> Cooperation for common good</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/how-to-tackle-disinformation.html"><strong aria-hidden="true">6.1.</strong> How to tackle disinformation?</a></li><li class="chapter-item expanded "><a href="../chapters/cooperation/cooperation-secrets.html"><strong aria-hidden="true">6.2.</strong> Secrets of Cooperation</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">AI/ Machine Learning</li><li class="chapter-item expanded "><a href="../chapters/do-we-have-to-fear-machine-learning-or-ai.html"><strong aria-hidden="true">7.</strong> Do we have to fear machine learning or AI?</a></li><li class="chapter-item expanded affix "><li class="part-title">Philosophy</li><li class="chapter-item expanded "><a href="../chapters/understanding-free-will-and-how-it-can-impact-our-behavior.html"><strong aria-hidden="true">8.</strong> Understanding free will and how it can impact our behavior</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/fallacies.html"><strong aria-hidden="true">9.</strong> Important fallacies, paradox and biases</a></li><li class="chapter-item expanded "><a href="../chapters/programming/foss_philosophy.html"><strong aria-hidden="true">10.</strong> Open Source or Free Software or FOSS Philosophy</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/bread_and_circus.html"><strong aria-hidden="true">11.</strong> Modern-Day Bread and Circus</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/how_to_know_who_trustworthy.html"><strong aria-hidden="true">12.</strong> Key points – How to know who’s trustworthy</a></li><li class="chapter-item expanded affix "><li class="part-title">India Employment</li><li class="chapter-item expanded "><a href="../data/india_employment_data.html"><strong aria-hidden="true">13.</strong> India Employment Data</a></li><li class="chapter-item expanded affix "><li class="part-title">Programming</li><li class="chapter-item expanded "><a href="../chapters/programming/debugging_time.html"><strong aria-hidden="true">14.</strong> A Glimpse into a Coder's Experience</a></li><li class="chapter-item expanded "><a href="../chapters/programming/interdisciplinary.html"><strong aria-hidden="true">15.</strong> The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education</a></li><li class="chapter-item expanded affix "><li class="part-title">Science</li><li class="chapter-item expanded "><a href="../chapters/reasoning/pseudoscience.html"><strong aria-hidden="true">16.</strong> Pseudoscience</a></li><li class="chapter-item expanded "><a href="../chapters/academics/academician.html"><strong aria-hidden="true">17.</strong> What are Scholarly Activities?</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/evidence-based_medicine.html"><strong aria-hidden="true">18.</strong> Evidence Based Medicine vs Alternative Medicine</a></li><li class="chapter-item expanded affix "><li class="part-title">Organization</li><li class="chapter-item expanded "><a href="../chapters/self-managed-institutes.html"><strong aria-hidden="true">19.</strong> When do self-managed institutes work?</a></li><li class="chapter-item expanded "><a href="../chapters/moonlighting-in-a-remote-work-world.html"><strong aria-hidden="true">20.</strong> Moonlighting</a></li><li class="chapter-item expanded "><a href="../chapters/micromanagement.html"><strong aria-hidden="true">21.</strong> Micromanagement</a></li><li class="chapter-item expanded affix "><li class="part-title">Biology</li><li class="chapter-item expanded "><a href="../chapters/complicatedness-of-sexuality.html"><strong aria-hidden="true">22.</strong> Complicatedness of Sexuality</a></li><li class="chapter-item expanded affix "><li class="part-title">Drafts</li><li class="chapter-item expanded "><a href="../chapters/city-planning/pollution_construction.html"><strong aria-hidden="true">23.</strong> Pollution due to contruction</a></li><li class="chapter-item expanded affix "><li class="part-title">Links</li><li class="chapter-item expanded "><a href="../home.html"><strong aria-hidden="true">24.</strong> Page Links</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">I am brainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="what-if-crypto-token-prices-are-discovered-through-consensus-of-utility-rather-than-demand-and-supply"><a class="header" href="#what-if-crypto-token-prices-are-discovered-through-consensus-of-utility-rather-than-demand-and-supply">What if crypto token prices are discovered through consensus of utility rather than demand and supply?</a></h1>
+<h2 id="date-2022-12-19"><a class="header" href="#date-2022-12-19">date: &quot;2022-12-19&quot;</a></h2>
+<hr />
+<p>categories:</p>
+<ul>
+<li>&quot;blockchain&quot;</li>
+<li>&quot;cryptocurrency&quot;</li>
+<li>&quot;dex&quot;</li>
+</ul>
+<hr />
+<blockquote>
+<p>“The stock market is filled with individuals who know the price of everything, but the value of nothing.” — Phillip Fisher</p>
+</blockquote>
+<p>Scams involving cryptocurrency are extremely prevalent.<br />
+The majority of coins on the cryptocurrency market are worthless meme coins, but they nevertheless manage to dupe individuals into parting by enticing them to grow their money and making them rich in no time.<br />
+Crypto scams are currently not limited to big cities now they have even begun targeting underdeveloped villages in nations like India.</p>
+<p>The issue is caused by the price being determined by the supply and demand of tokens on exchanges without considering their utility. The prices of tokens depend on how many people you manage to fool, and the scammer's ability to make a sudden spike through pump and dump.</p>
+<p>Crypto scams, also negatively impact useful coins, and all currency prices move in sync, both good coins, and bad coins get dumped in a beer market.</p>
+<h2 id="bad-money-drives-out-good-so-we-need-to-eliminate-the-bad-money"><a class="header" href="#bad-money-drives-out-good-so-we-need-to-eliminate-the-bad-money">Bad money drives out good, so we need to eliminate the bad money</a></h2>
+<p>The price of tokens derived through demand and supply is suboptimal. It doesn't include a consensus from <a href="https://amiyatulu.github.io/blog/shivarthu/tyranny_of_the_majority.html">everyone or stakeholders</a>, but just the interacting party. So, they are free to produce as much as negative externality they like without any consequences.</p>
+<p>Can we discover prices through consensus and using human rationality rather than speculation, increase stability of coins prices and curtail <a href="https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt">FUD</a>? There may be some way out.</p>
+<p>The score schelling game can assist in determining cryptocurrency prices in decentralized exchanges by consensus and human reason.</p>
+<p>The algorithm is provided in the following link:</p>
+<p><a href="https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#price-discovery-of-projects-through-score-schelling-game">https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#price-discovery-of-projects-through-score-schelling-game</a></p>
+<p>But setting an exchange using score schelling game is not without challenges. One of the problem is arbitrage. If the AMM price is lower than the market price, then people will drain all the liquidity and sell it at a higher price in the market. The solution can be the ability to withdraw after a month or have a KYC so that you can't withdraw tokens after certain limits.<br />
+Similarly, if the demand and utility of the token are more and the price is set lower, it can create a shortage, and more people will not be benefited, so, prices need to be increased through consensus.</p>
+<blockquote>
+<p>Another way is to tax the shit coins and subsidize the good coins based on the price discovery, and this won't impact the liquidity or create the problem of arbitrage, neither KYC is needed.<br />
+Taxing can be done using market makers like Uniswap, and taxes collected are sold at lower discovered prices to buy or collect good coins and hence plummeting the shitcoin price and good coins collected are given as subsidies while exchanging the good coins . Liquidity providers can also be incentivized with tax collected.</p>
+</blockquote>
+<h2 id="rationality-disinformation-and-nudge"><a class="header" href="#rationality-disinformation-and-nudge"><strong>Rationality, Disinformation and Nudge</strong></a></h2>
+<p>Only a nudge while buying from an exchange can work to many extents.<br />
+For example in real world, Adani stocks got plummeted by the Hindenburg report.</p>
+<p>A decentralized cryptoexchange with <a href="https://amiyatulu.github.io/blog/shivarthu/tyranny_of_the_majority.html">a good governance</a> can provide a nudge for discovered prices, or provide research review and discussion about the advantages, disadvantages, security and application of the cryptocurrency.</p>
+<p>An example nudge: &quot;The price of the coin derived by decentralized experts is this. Do you want to buy the token at this price?&quot;</p>
+<p>We also need to have good institutes to stop disinformation by scammers. <a href="./what-do-we-need-to-decentralize-in-the-coming-years.html">Social media</a> are usually a good target for online fraud.</p>
+<p>We can slowly increase the complexity of exchange with passing year that includes providing liquidity at predicted prices.</p>
+<p><strong>An example exchange:</strong></p>
+<p>Discovering price in crypto exchange using score Schelling game based on coin utility.</p>
+<p>Bitcoin = 0.1<br />
+Ethereum = 0.4<br />
+Polkadot = 0.3<br />
+Near = 0.2</p>
+<p>Exchange:</p>
+<p>2 Near = 1 Ethereum</p>
+<p>To calculate the price you need to take into account:</p>
+<ol>
+<li>Utility of the token (Most priority)</li>
+<li>Total Supply of token</li>
+<li>Inflation or deflation of token</li>
+<li>Demand for token</li>
+</ol>
+<p>KYC of user, with limits to how much they can withdraw every day.</p>
+<p>There can be incentives for providing liquidity, and the ability sale your token at the discovered price during the initial coin offering.</p>
+<p>Price discovery every day or weekly.</p>
+<h2 id="what-will-be-impact-of-other-exchanges"><a class="header" href="#what-will-be-impact-of-other-exchanges">What will be impact of other exchanges?</a></h2>
+<p><a href="https://amiyatulu.github.io/blog/shivarthu/consensus_price_discovery.html">Details in the link.</a></p>
+<p><strong>Different supply chains can be built with their own cryptocurrency.</strong></p>
+<p>Supply chains can use free market pricing derived from demand and supply where required rather than consensus pricing, or price derived by governance.</p>
+<ol>
+<li>No price ceiling or floor so that there are no shortage or wastage.</li>
+<li>A large number of buyers and sellers</li>
+<li>Subsidize positive externality and tax negative externality</li>
+<li>Perfect information with all information of utilities available</li>
+<li>No more than average 5 hours of working hours per day for employees and no <a href="https://en.wikipedia.org/wiki/Bullshit_Jobs">bullshit jobs</a></li>
+<li>Sustainable production</li>
+<li>Governance with expertise that takes care of the whole system like setting taxes or subsidies.</li>
+<li>Equitable token distribution, so that everyone can create a demand and rich doesn't get richer.</li>
+</ol>
+<p><strong>Take for example modified version of the cooked food supply chain such as Zomato.</strong></p>
+<ol>
+<li>Free monthly tokens can be given to kyc users collected from the randomized tax. It keeps the currency deflationary with a fixed supply. (<a href="https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection">https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection</a>)</li>
+<li>Large number of buyers and sellers</li>
+<li>Tax unhealthy food, which means a percentage of transaction cost is collected and added to a governance account.</li>
+<li>Subsidize healthy food like fruits and vegetables which means the buyers or sellers are given a few additional tokens during the transaction.</li>
+<li>Governance with expertise that takes care of the whole system like setting taxes or subsidies.</li>
+<li>No commission by the trade maker or app provider</li>
+</ol>
+<p>Subsidies cause more trade and can be wasteful due to deadweight loss if it's not a positive externality.</p>
+<p>When the price is made fixed, randomized tax collected from deflationary currency can disincentivize buying or keeping the token, which results in less demand. So price of token needed to be slowly increased with time like 1-10% per year to compensate the 1-10% tax, also taking the account of the utility.</p>
+<p><strong>Now look at ride-sharing supply chain like ola:</strong></p>
+<ol>
+<li>Free monthly tokens can be given to KYC user collected from the randomized tax. It keeps the currency deflationary with a fixed supply. (<a href="https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection">https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection</a>)</li>
+<li>Large number of buyers and sellers</li>
+<li>Tax fossil fuel bikes or cars</li>
+<li>Subsidize electric bikes or bicycle ride</li>
+<li>Governance with expertise that takes care of the whole system like setting taxes or subsidies and women's safety.</li>
+<li>No commission by the trade maker or app provider</li>
+</ol>
+<p><strong>Another example can be the supply chain of precision farming</strong> (like hydroponics agriculture, biofloc fish farming, <a href="https://agricultureguruji.com/hydroponic-fodder/">hydroponics livestock feed</a>) :</p>
+<p><a href="https://www.weforum.org/agenda/2019/11/netherlands-dutch-farming-agriculture-sustainable/?utm_source=Facebook%20Videos&amp;utm_medium=Facebook%20Videos&amp;utm_campaign=Facebook%20Video%20Blogs">The Netherlands might be a small country, but it's the second-largest exporter of agriculture in the world.</a></p>
+<ol>
+<li>Governance to allocate money to farmers through algorithm like score schelling game for buying equipment for precision farming that can be paid through installment.</li>
+<li><a href="https://github.com/amiyatulu/shivarthu">Expertise governance</a> for collecting data and analyzing data collected from precision farming and providing feedback to farmers.</li>
+<li>Decentralized supply chain tracking system from production to consumers, so that both consumer and producers get fair prices, and there is no surplus/wastage or shortages.</li>
+<li>Some UBI to consumers so that they can always create a demand.</li>
+<li>Incentivizing learning for precision farming.</li>
+</ol>
+<p>Vertical farming offers several benefits compared to traditional agricultural methods:</p>
+<ol>
+<li>
+<p>Increased crop yield: Vertical farming maximizes the use of space by stacking plants vertically, allowing for multiple layers of cultivation. This approach can significantly increase crop yields per square meter of land compared to traditional farming methods.</p>
+</li>
+<li>
+<p>Efficient land use: Vertical farms can be built in urban areas, unused buildings, or even indoors, making them independent of arable land availability. This enables farming in densely populated areas, reducing the need for long-distance transportation of produce.</p>
+</li>
+<li>
+<p>Year-round cultivation: Vertical farming utilizes controlled environments, such as indoor facilities or greenhouses, which enable year-round cultivation regardless of external weather conditions. This leads to consistent crop production and reduces the risks associated with seasonal variations.</p>
+</li>
+<li>
+<p>Water conservation: Vertical farming employs hydroponic or aeroponic systems that recycle and conserve water. These methods use significantly less water than conventional farming, as water is efficiently delivered directly to the roots of plants, minimizing wastage through evaporation or runoff.</p>
+</li>
+<li>
+<p>Reduction in pesticide use: The controlled environment of vertical farms reduces the risk of pest infestations, decreasing the need for chemical pesticides. Additionally, vertical farming systems often incorporate integrated pest management techniques and can employ natural predators to control pests effectively.</p>
+</li>
+<li>
+<p>Energy efficiency: Although vertical farms require energy for lighting, heating, and cooling, advancements in LED technology and energy management systems have made them more energy-efficient over time. Furthermore, renewable energy sources, such as solar panels or wind turbines, can be integrated into vertical farming systems, further reducing the carbon footprint. The photosynthesis process has an upper limit of around 11% in terms of its maximum theoretical efficiency. Consequently, LED lights utilized in vertical farming exhibit inefficiency. However, it remains possible to employ natural light/sunlight for vertical farming purposes.</p>
+</li>
+<li>
+<p>Reduced transportation and logistics: By establishing vertical farms close to urban centers or directly within them, the distance between the farm and consumer is significantly reduced. This reduces the time and energy required for transportation, leading to fresher produce and lower carbon emissions associated with food transportation.</p>
+</li>
+<li>
+<p>Enhanced food security: Vertical farming can contribute to local food production, reducing dependence on long-distance imports and enhancing food security. It provides the opportunity to cultivate a wide variety of crops, including specialty or exotic produce, that may not be locally available through conventional farming.</p>
+</li>
+<li>
+<p>GMOs in Controlled Environments: The possibility of using GMOs exists in precision agriculture, such as precision vertical farming or hydroponics, where cultivation occurs in controlled environments without <a href="https://cban.ca/gmos/issues/environmental-impacts/">leakage into the surrounding environment</a>. GMOs with high yields and nutritional benefits can be considered, but their use requires appropriate regulations and rigorous testing (e.g. <a href="http://natureinstitute.org/nontarget/">Nontarget Effects of Genetic Manipulation</a>) to ensure their safety for human health. Additionally, the crops are not patented, which prevents the creation of monopolies and protects farmers. One example of GMOs involves producing genetically modified sugarcane or corn using aeroponics or hydroponics, and then utilizing them to <a href="https://grist.org/food/cooking-oil-deforestation-startup-sugarcane-solution/">produce vegetable oil with yeast</a>. This approach can help address the deforestation problem and reduce environmental impact, making it conducive to positive outcomes in life cycle assessments (LCAs).</p>
+</li>
+<li>
+<p>Mitigation of environmental impact: By minimizing land use, conserving water, reducing pesticide usage, and optimizing energy consumption, vertical farming has the potential to mitigate some of the negative environmental impacts associated with conventional agriculture, such as deforestation, water pollution, and greenhouse gas emissions.</p>
+</li>
+<li>
+<p>Educational and research opportunities: Vertical farming serves as a platform for education, research, and innovation in agriculture and sustainable food production. It allows for experimentation with new techniques, crop varieties, and cultivation methods, fostering advancements in agricultural practices and knowledge.</p>
+</li>
+</ol>
+<p>While vertical farming has numerous benefits, it also faces challenges related to initial investment costs, energy consumption, and scalability. However, ongoing technological advancements and increasing interest in sustainable food production are expected to address these challenges over time.</p>
+<blockquote>
+<p>The high upfront costs of precision vertical farming, which amount to crores, pose a significant barrier for individuals to establish such operations. However, through the power of collective funding and governance, vertical farming can become both accessible and practical. One possible approach is to consider community investment, with each person contributing around $25 (which <a href="./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html">can be paid back in form of UBI or agricultural outputs</a>), to establish community-run vertical farming ventures.</p>
+</blockquote>
+<p>Privacy and large-scale computation are an important requirements for building decentralized supply chains. <a href="https://wiki.phala.network/en-us/build/general/features/">New blockchains</a> are do made to solve these issues.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/what-will-a-boycott-of-the-national-currency-give-us.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/what-will-a-boycott-of-the-national-currency-give-us.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

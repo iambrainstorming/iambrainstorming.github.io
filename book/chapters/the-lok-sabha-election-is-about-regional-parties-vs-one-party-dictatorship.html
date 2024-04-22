@@ -1,0 +1,913 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>How EVM works and Why it should be banned to save the democracy - I am brainstorming</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Democracy and supply chain</li><li class="chapter-item expanded "><a href="../chapters/what-will-a-boycott-of-the-national-currency-give-us.html"><strong aria-hidden="true">1.</strong> Manifesto: What will a boycott of the national currency give us?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html"><strong aria-hidden="true">1.1.</strong> Price discovery of decentralized supply chain</a></li><li class="chapter-item expanded "><a href="../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html"><strong aria-hidden="true">1.2.</strong> What do we need to decentralize in the coming years?</a></li><li class="chapter-item expanded "><a href="../chapters/relationships-emotions-and-happiness.html"><strong aria-hidden="true">1.3.</strong> Emotion and empathy rather than materialism</a></li><li class="chapter-item expanded "><a href="../chapters/education_system.html"><strong aria-hidden="true">1.4.</strong> No Entrance culture, and rate race, rote learning education system</a></li><li class="chapter-item expanded "><a href="../chapters/rethinking-work-culture.html"><strong aria-hidden="true">1.5.</strong> Remote jobs or work from home with less working hours</a></li><li class="chapter-item expanded "><a href="../chapters/invest_on_renewables.html"><strong aria-hidden="true">1.6.</strong> Clean energy like roof top solar and wind energy</a></li><li class="chapter-item expanded "><a href="../chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.html"><strong aria-hidden="true">1.7.</strong> Banning single use plastic</a></li><li class="chapter-item expanded "><a href="../chapters/building-better-cities.html"><strong aria-hidden="true">1.8.</strong> Sustainable housing design</a></li><li class="chapter-item expanded "><a href="../chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.html"><strong aria-hidden="true">1.9.</strong> Decentralized house building</a></li><li class="chapter-item expanded "><a href="../chapters/road-planning-of-cities.html"><strong aria-hidden="true">1.10.</strong> Car-free cities</a></li><li class="chapter-item expanded "><a href="../chapters/city-planning/rain_water_harvesting.html"><strong aria-hidden="true">1.11.</strong> City Planning: Rain Water Harvesting</a></li><li class="chapter-item expanded "><a href="../chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html"><strong aria-hidden="true">1.12.</strong> Decentralizing Supermarkets Through Public Ownership and Control</a></li><li class="chapter-item expanded "><a href="../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html"><strong aria-hidden="true">1.13.</strong> Love for USD pegged stable coin by the crypto community must end</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/tyranny_of_the_majority.html"><strong aria-hidden="true">1.14.</strong> Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/simple_majority_and_super_majority.html"><strong aria-hidden="true">1.15.</strong> Simple Majority vs Super Majority</a></li><li class="chapter-item expanded "><a href="../chapters/capitalism-vs-socialism-which-one-is-working.html"><strong aria-hidden="true">1.16.</strong> Socialism vs Capitalism</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">1.17.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/shivarthu/Shivarthu.html"><strong aria-hidden="true">1.18.</strong> Shivarthu: A governance Protocol</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/competitive_collaboration.html"><strong aria-hidden="true">1.19.</strong> The Competitive Collaboration Algorithm</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/secure_blockchain_voting.html"><strong aria-hidden="true">1.20.</strong> Secure Blockchain Voting</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Economics</li><li class="chapter-item expanded "><a href="../chapters/economics/yard-sale-model.html"><strong aria-hidden="true">2.</strong> Why income inequality exits? Yard-Sale-Model</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">3.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/economics/price_controls.html"><strong aria-hidden="true">4.</strong> Price Controls</a></li><li class="chapter-item expanded affix "><li class="part-title">Democracy</li><li class="chapter-item expanded "><a href="../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html"><strong aria-hidden="true">5.</strong> Do we need a supreme leader? How can we share power between parties?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html" class="active"><strong aria-hidden="true">5.1.</strong> The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship</a></li><li class="chapter-item expanded "><a href="../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html" class="active"><strong aria-hidden="true">5.2.</strong> How EVM works and Why it should be banned to save the democracy</a></li><li class="chapter-item expanded "><a href="../chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.html"><strong aria-hidden="true">5.3.</strong> Open-list proportional representation vs. Mixed-member proportional representation</a></li><li class="chapter-item expanded "><a href="../chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.html"><strong aria-hidden="true">5.4.</strong> Parliamentary or Presidential form of government? What's in the name?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/govt_controlling_information.html"><strong aria-hidden="true">5.5.</strong> How to share information under fascism or dictatorship?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism.html"><strong aria-hidden="true">5.6.</strong> What a fascist government does?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/hinduism.html"><strong aria-hidden="true">5.7.</strong> Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism_power.html"><strong aria-hidden="true">5.8.</strong> Necessary sources of political power by dictator</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/free-and-fair-election.html"><strong aria-hidden="true">5.9.</strong> What is free and fair elections?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/pmla.html"><strong aria-hidden="true">5.10.</strong> Draconian and unconstitutional PMLA and UAPA provisions</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/upholding-justice.html"><strong aria-hidden="true">5.11.</strong> Upholding the Justice</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Cooperation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">6.</strong> Cooperation for common good</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/how-to-tackle-disinformation.html"><strong aria-hidden="true">6.1.</strong> How to tackle disinformation?</a></li><li class="chapter-item expanded "><a href="../chapters/cooperation/cooperation-secrets.html"><strong aria-hidden="true">6.2.</strong> Secrets of Cooperation</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">AI/ Machine Learning</li><li class="chapter-item expanded "><a href="../chapters/do-we-have-to-fear-machine-learning-or-ai.html"><strong aria-hidden="true">7.</strong> Do we have to fear machine learning or AI?</a></li><li class="chapter-item expanded affix "><li class="part-title">Philosophy</li><li class="chapter-item expanded "><a href="../chapters/understanding-free-will-and-how-it-can-impact-our-behavior.html"><strong aria-hidden="true">8.</strong> Understanding free will and how it can impact our behavior</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/fallacies.html"><strong aria-hidden="true">9.</strong> Important fallacies, paradox and biases</a></li><li class="chapter-item expanded "><a href="../chapters/programming/foss_philosophy.html"><strong aria-hidden="true">10.</strong> Open Source or Free Software or FOSS Philosophy</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/bread_and_circus.html"><strong aria-hidden="true">11.</strong> Modern-Day Bread and Circus</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/how_to_know_who_trustworthy.html"><strong aria-hidden="true">12.</strong> Key points – How to know who’s trustworthy</a></li><li class="chapter-item expanded affix "><li class="part-title">India Employment</li><li class="chapter-item expanded "><a href="../data/india_employment_data.html"><strong aria-hidden="true">13.</strong> India Employment Data</a></li><li class="chapter-item expanded affix "><li class="part-title">Programming</li><li class="chapter-item expanded "><a href="../chapters/programming/debugging_time.html"><strong aria-hidden="true">14.</strong> A Glimpse into a Coder's Experience</a></li><li class="chapter-item expanded "><a href="../chapters/programming/interdisciplinary.html"><strong aria-hidden="true">15.</strong> The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education</a></li><li class="chapter-item expanded affix "><li class="part-title">Science</li><li class="chapter-item expanded "><a href="../chapters/reasoning/pseudoscience.html"><strong aria-hidden="true">16.</strong> Pseudoscience</a></li><li class="chapter-item expanded "><a href="../chapters/academics/academician.html"><strong aria-hidden="true">17.</strong> What are Scholarly Activities?</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/evidence-based_medicine.html"><strong aria-hidden="true">18.</strong> Evidence Based Medicine vs Alternative Medicine</a></li><li class="chapter-item expanded affix "><li class="part-title">Organization</li><li class="chapter-item expanded "><a href="../chapters/self-managed-institutes.html"><strong aria-hidden="true">19.</strong> When do self-managed institutes work?</a></li><li class="chapter-item expanded "><a href="../chapters/moonlighting-in-a-remote-work-world.html"><strong aria-hidden="true">20.</strong> Moonlighting</a></li><li class="chapter-item expanded "><a href="../chapters/micromanagement.html"><strong aria-hidden="true">21.</strong> Micromanagement</a></li><li class="chapter-item expanded affix "><li class="part-title">Biology</li><li class="chapter-item expanded "><a href="../chapters/complicatedness-of-sexuality.html"><strong aria-hidden="true">22.</strong> Complicatedness of Sexuality</a></li><li class="chapter-item expanded affix "><li class="part-title">Drafts</li><li class="chapter-item expanded "><a href="../chapters/city-planning/pollution_construction.html"><strong aria-hidden="true">23.</strong> Pollution due to contruction</a></li><li class="chapter-item expanded affix "><li class="part-title">Links</li><li class="chapter-item expanded "><a href="../home.html"><strong aria-hidden="true">24.</strong> Page Links</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">I am brainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-lok-sabha-election-is-about-regional-parties-third-parties-and-independent-vs-one-party-dictatorship"><a class="header" href="#the-lok-sabha-election-is-about-regional-parties-third-parties-and-independent-vs-one-party-dictatorship">The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship.</a></h1>
+<h2 id="date-2023-12-05"><a class="header" href="#date-2023-12-05">date: &quot;2023-12-05&quot;</a></h2>
+<hr />
+<p>categories: </p>
+<ul>
+<li>&quot;politics&quot;</li>
+</ul>
+<hr />
+<p>What strategies has the BJP employed?</p>
+<ol>
+<li>
+<p>Casting Hindus as victims and promoting nationalism.</p>
+</li>
+<li>
+<p>Positioning Congress as the opposition and trolling Rahul Gandhi. Portraying Modi as a supreme leader ( but a <a href="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafkreifezrdzrlijxtzcoohi4k35ypa3aikfnrdkiqqw75clnd7xrsqism">cult leader</a> in disguise) and discrediting Rahul Gandhi as unfit for the PM role. It's crucial to note that the opposition is not the Congress, which currently holds only 50 seats in the Lok Sabha and may at most reach 150. Moreover, Rahul Gandhi is not PM candidate; the INDIA bloc is a coalition of regional parties, requiring a nuanced narrative.</p>
+</li>
+<li>
+<p>Propagating unrealistic dreams, such as inflating the GDP with excessive zeroes and aiming for a 5 trillion-dollar economy in five years.</p>
+</li>
+<li>
+<p>Distributing freebies and money during campaigning/election.</p>
+</li>
+</ol>
+<p>More than 10,000 WhatsApp groups are actively involved in disinformation campaigns, leveraging national media for Hindu-Muslim narratives.</p>
+<p><strong><a href="./how-to-tackle-disinformation.html">How to tackle disinformation?: Link</a></strong></p>
+<blockquote>
+<p>People need to understand the intensity of the problem. We are just in a small margin to <a href="./democracy/fascism.html">dictatorship</a>. Opposition and people need to make no mistake. We need to break the brute force majority of one party. Lok Sabha and Rajya Sabha are safeguards of the constitution. Now, Lok Sabha is completely useless. Rajya Sabha is in a small margin. We need not give more than 20% of seats to BJP again.</p>
+</blockquote>
+<p><a href="../chapters/democracy/fascism_power.html">Necessary sources of political power</a></p>
+<p><a href="https://www.nonviolent-conflict.org/resource/from-dictatorship-to-democracy-a-conceptual-framework-for-liberation/">From Dictatorship to Democracy: A Conceptual Framework for Liberation</a></p>
+<p>Data: <a href="https://github.com/amiyatulu/election_result/blob/main/2019_loksabha/src/loksabha_seats.json">https://github.com/amiyatulu/election_result/blob/main/2019_loksabha/src/loksabha_seats.json</a></p>
+<p>Total data: <a href="https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/lokshabha2019">data_analysis/analysis_data/lokshabha2019</a></p>
+<p>Votes by percentage: <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/analysis_data/lokshabha2019/state_party_data_sorted_percentage/party_votes_by_state_percentage.json">analysis_data/lokshabha2019/state_party_data_sorted_percentage/party_votes_by_state_percentage.json</a></p>
+<p><strong>State-wise analysis (2019 Lok Sabha election):</strong></p>
+<h2 id="hindi-states"><a class="header" href="#hindi-states">Hindi States</a></h2>
+<p>In Hindi states like Gujarat, Rajasthan, Chhattisgarh, Uttarakhand, Haryana and Himachal Pradesh, the BJP secured almost 100% of seats, with Congress only holding one or two seats. The absence of other opposition or regional parties in these states allows the BJP to effectively use the tactics of trolling Congress and promoting the Hindu victim narrative. Limited options for voters make these strategies particularly effective. Using Hindi states, the BJP managed a one-party dictatorship with 300 seats in the Lok Sabha, sidelining all opposition parties and democratic values.</p>
+<h2 id="inc-got-32-of-votes-in-gujarat-yet-zero-seats"><a class="header" href="#inc-got-32-of-votes-in-gujarat-yet-zero-seats">INC got 32% of votes in Gujarat, yet zero seats</a></h2>
+<p>So the case of other states:</p>
+<pre><code class="language-json">{
+    &quot;Gujarat&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 18091275,
+            &quot;percentage&quot;: 62.20788595983407
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 9337084,
+            &quot;percentage&quot;: 32.10609847395451
+        }
+    },
+    &quot;Rajasthan&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 18968392,
+            &quot;percentage&quot;: 58.47031404395368
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 11107910,
+            &quot;percentage&quot;: 34.240276459489735
+        }
+    },
+    &quot;Chhattisgarh&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 6902477,
+            &quot;percentage&quot;: 50.69962781464669
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 5569183,
+            &quot;percentage&quot;: 40.90640292342263
+        }
+    },
+    &quot;Uttarakhand&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 2954833,
+            &quot;percentage&quot;: 61.013395829999425
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 1520767,
+            &quot;percentage&quot;: 31.401828440456953
+        }
+    },
+    &quot;Haryana&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 7357347,
+            &quot;percentage&quot;: 58.016213493381244
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 3604106,
+            &quot;percentage&quot;: 28.42010620795462
+        }
+    },
+    &quot;Himachal Pradesh&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 2661281,
+            &quot;percentage&quot;: 69.11104174479034
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 1051113,
+            &quot;percentage&quot;: 27.29644649380949
+        }
+    }
+}
+</code></pre>
+<p><strong>BJP got all the seats</strong></p>
+<pre><code class="language-json">{
+    &quot;Gujarat&quot;: {
+        &quot;BJP&quot;: 26
+    },
+    &quot;Rajasthan&quot;: {
+        &quot;BJP&quot;: 24,
+        &quot;RLTP&quot;: 1
+    },
+    &quot;Chhattisgarh&quot;: {
+        &quot;INC&quot;: 2,
+        &quot;BJP&quot;: 9
+    },
+    &quot;Uttarakhand&quot;: {
+        &quot;BJP&quot;: 5
+    },
+    &quot;Haryana&quot;: {
+        &quot;BJP&quot;: 10
+    },
+    &quot;Himachal Pradesh&quot;: {
+        &quot;BJP&quot;: 4
+    }
+}
+</code></pre>
+<p><strong>Why is there no other opposition in these states?</strong><br />
+The First Past the Post (FPTP) voting method maintains a biparty political system. Even if Congress garners 30-40% of votes, it may end up with zero seats because only candidate with highest vote wins, and other votes get waste. What if these 30% seats would have gone only to few constituency? Manipulation of EVM is another variable. (Details about EVM below) A potential strategy for Congress could be targeting specific constituencies, especially those with weaker opponents, to secure a few seats. Winning a seat with just 1% of the vote is possible under FPTP, emphasizing the importance of strategic planning.</p>
+<h2 id="states-with-competitor"><a class="header" href="#states-with-competitor">States with Competitor</a></h2>
+<p>States with more opposition include Maharashtra, Uttar Pradesh, Bihar, and Delhi.<br />
+The INDIA bloc must address this challenge by avoiding vote splitting, fostering unity, and strategizing effectively. Leaders like Priyanka Chaturvedi in Shivsena, Akhilesh Yadav in Uttar Pradesh, and Arvind Kejriwal in Delhi play crucial roles.</p>
+<pre><code class="language-json">{
+    &quot;Maharashtra&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 14912139,
+            &quot;percentage&quot;: 27.58735969765187
+        },
+        &quot;SHS&quot;: {
+            &quot;votes&quot;: 12589064,
+            &quot;percentage&quot;: 23.28968612918375
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 8792237,
+            &quot;percentage&quot;: 16.265580991835147
+        },
+        &quot;NCP&quot;: {
+            &quot;votes&quot;: 8387363,
+            &quot;percentage&quot;: 15.516566737727999
+        },
+        &quot;VBA&quot;: {
+            &quot;votes&quot;: 3743560,
+            &quot;percentage&quot;: 6.925561535453877
+        }
+    },
+    &quot;Uttar Pradesh&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 42858171,
+            &quot;percentage&quot;: 49.55767597558957
+        },
+        &quot;BSP&quot;: {
+            &quot;votes&quot;: 16659754,
+            &quot;percentage&quot;: 19.263973970448536
+        },
+        &quot;SP&quot;: {
+            &quot;votes&quot;: 15533620,
+            &quot;percentage&quot;: 17.96180491901854
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 5457352,
+            &quot;percentage&quot;: 6.310434528359497
+        }
+    },
+    &quot;Bihar&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 9619548,
+            &quot;percentage&quot;: 23.573474928517186
+        },
+        &quot;JD(U)&quot;: {
+            &quot;votes&quot;: 8902719,
+            &quot;percentage&quot;: 21.81682789483805
+        },
+        &quot;RJD&quot;: {
+            &quot;votes&quot;: 6270769,
+            &quot;percentage&quot;: 15.36702304557582
+        },
+        &quot;LJP&quot;: {
+            &quot;votes&quot;: 3206979,
+            &quot;percentage&quot;: 7.858959594856339
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 3140797,
+            &quot;percentage&quot;: 7.696775288720634
+        }
+    },
+    &quot;NCT OF Delhi&quot;: {
+        &quot;BJP&quot;: {
+            &quot;votes&quot;: 4908541,
+            &quot;percentage&quot;: 56.55644905203495
+        },
+        &quot;INC&quot;: {
+            &quot;votes&quot;: 1953900,
+            &quot;percentage&quot;: 22.51293119539413
+        },
+        &quot;AAAP&quot;: {
+            &quot;votes&quot;: 1571687,
+            &quot;percentage&quot;: 18.109054348582536
+        }
+    },
+}
+</code></pre>
+<pre><code class="language-json">{
+    &quot;Maharashtra&quot;: {
+        &quot;BJP&quot;: 23,
+        &quot;IND&quot;: 1,
+        &quot;AIMIM&quot;: 1,
+        &quot;NCP&quot;: 4,
+        &quot;SHS&quot;: 18,
+        &quot;INC&quot;: 1
+    },
+    &quot;Uttar Pradesh&quot;: {
+        &quot;BJP&quot;: 62,
+        &quot;BSP&quot;: 10,
+        &quot;SP&quot;: 5,
+        &quot;ADAL&quot;: 2,
+        &quot;INC&quot;: 1
+    },
+    &quot;Bihar&quot;: {
+        &quot;BJP&quot;: 17,
+        &quot;JD(U)&quot;: 16,
+        &quot;LJP&quot;: 6,
+        &quot;INC&quot;: 1
+    },
+    &quot;NCT OF Delhi&quot;: {
+        &quot;BJP&quot;: 7
+    }
+}
+</code></pre>
+<p>In Delhi, even if AAP wins the Assembly Election, people haven't traditionally voted for them during the Lok Sabha polls because they typically don't favor Congress at the center. However, this time things have changed. AAP is now part of a national party coalition. It's crucial to remember that the INDIA bloc is not synonymous with Congress. Congress currently holds about 50 seats, and it's unlikely to surpass 150 or 200 only after they win in Hindi states. The INDIA bloc is, in fact, a coalition of regional parties, characterized by decentralization and power-sharing. Nevertheless, winning in Hindi states remains crucial for achieving a majority. So, the INDIA bloc needs to work hard to secure Congress's victory and must address the situation if Congress doesn't cooperate.</p>
+<h2 id="east-india-states"><a class="header" href="#east-india-states">East India States</a></h2>
+<p>East India states, including West Bengal and Odisha: 
+West Bengal has leaders like Mamata Banerjee and Mahua Moitra, who align with the INDIA bloc. Odisha has Naveen Patnaik, though he has no alliance with anyone, but he is a bit pro-BJP and anti-Congress. The BJD party is a bit more opportunistic toward the state rather than involving itself in national politics. As long as the center benefits them, they hardly care about who is in power at the center. 
+Last Loksabha election in Odisha, the largest competitor was BJP, not Congress. So, if Naveen Patnaik wants to stop one-party dictatorship, they need to stop supporting BJP.</p>
+<blockquote>
+<p>All regional parties need to understand what is at stake. They may support BJP, but ultimately, Modi will ditch them after advantage is taken. Their <a href="./democracy/fascism.html">intentions are clear</a>. All need to protest against EVM.</p>
+</blockquote>
+<pre><code class="language-json">{
+  &quot;West Bengal&quot;: {
+    &quot;AITC&quot;: {
+      &quot;votes&quot;: 24757345,
+      &quot;percentage&quot;: 43.27679372529672
+    },
+    &quot;BJP&quot;: {
+      &quot;votes&quot;: 23028517,
+      &quot;percentage&quot;: 40.25473571614763
+    },
+    &quot;CPIM&quot;: {
+      &quot;votes&quot;: 3610645,
+      &quot;percentage&quot;: 6.311546689690433
+    },
+    &quot;INC&quot;: {
+      &quot;votes&quot;: 3210491,
+      &quot;percentage&quot;: 5.612062067395416
+    }
+  },
+   &quot;Odisha&quot;: {
+    &quot;BJD&quot;: {
+      &quot;votes&quot;: 10174021,
+      &quot;percentage&quot;: 42.75854767828794
+    },
+    &quot;BJP&quot;: {
+      &quot;votes&quot;: 9130768,
+      &quot;percentage&quot;: 38.374048851224686
+    },
+    &quot;INC&quot;: {
+      &quot;votes&quot;: 3285339,
+      &quot;percentage&quot;: 13.807355446862044
+    },
+   }
+}
+</code></pre>
+<pre><code class="language-json">{
+   &quot;West Bengal&quot;: {
+    &quot;BJP&quot;: 18,
+    &quot;AITC&quot;: 22,
+    &quot;INC&quot;: 2
+  },
+  &quot;Odisha&quot;: {
+    &quot;BJD&quot;: 12,
+    &quot;BJP&quot;: 8,
+    &quot;INC&quot;: 1
+  },
+}
+</code></pre>
+<h2 id="south-states"><a class="header" href="#south-states">South States:</a></h2>
+<p>These states pose less of a threat.  In South Indian states Modi is hardly liked. You can analyse other states from the data.</p>
+<h2 id="2023-legislative-assembly-election"><a class="header" href="#2023-legislative-assembly-election">2023 Legislative Assembly Election</a></h2>
+<p>I have already <a href="./do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html">discussed the impact of vote splitting and about vote wastage in FPTP voting</a> and how it prevents third parties and independents from winning.</p>
+<p>Here is real data on vote wastage in elections. In <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/vote_wastage_data_madhay_pradesh.json">Madhya Pradesh</a> 109 out of 230 constituencies, the election outcome would be reversed if we consider the count of vote wastage. This indicates that the majority have voted against the winning candidate.</p>
+<p>Similarly, in <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/vote_wastage_data_chhattisgarh.json">Chhattisgarh</a> 46 out of 90 constituencies, <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/vote_wastage_data_rajasthan.json">Rajasthan</a> 119 out of 199, <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/vote_wastage_data_telangana.json">Telengana</a> 68 out of 119, and <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/vote_wastage_data_mizoram.json">Mizoram</a> 36 out of 40.</p>
+<p>Further dissatisfaction by voters, in the form of NOTA, is also evident. They cannot vote for independent candidates because they have almost no chance of winning, and they have preferred NOTA.</p>
+<p>In <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/nota_votes_madhay_pradesh.json">Madhya Pradesh</a>, 193 constituencies recorded more than 1000 votes for NOTA. More than 2000 votes in 79 constituencies, more than 3000 votes in 35 constituencies.</p>
+<p>In <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/nota_votes_chhattisgarh.json">Chhattisgarh</a>, 64 constituencies recorded more than 1000 votes for NOTA. More than 2000 votes in 46 constituencies, more than 3000 votes in 23 constituencies.</p>
+<p>In <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/nota_votes_rajasthan.json">Rajasthan</a>, 178 constituencies recorded more than 1000 votes for NOTA. More than 2000 votes in 70 constituencies, more than 3000 votes in 30 constituencies.</p>
+<p>In <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/nota_votes_telangana.json">Telangana</a>, 81 constituencies recorded more than 1000 votes for NOTA. More than 2000 votes in 22 constituencies, more than 3000 votes in 4 constituencies.</p>
+<p><a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/nota_votes_mizoram.json">Mizoram</a> has zero NOTA with more than 1000 votes. But it has worst impact on vote splitting.</p>
+<ul>
+<li>[<em>Rajastan, No data available for <a href="https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/data/rajasthan">S203 Karanpur - 3</a></em>]</li>
+</ul>
+<p>Update the repository with Karnapur data of Rajasthan, it became 120 out of 200. </p>
+<h2 id="votes-by-party-in-2023-legislative-assembly-election"><a class="header" href="#votes-by-party-in-2023-legislative-assembly-election">Votes by Party in 2023 Legislative Assembly Election</a></h2>
+<p>Here is the list of total votes in all constituency by party. </p>
+<p><a href="https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/total_votes_by_party_data">Data by Votes</a></p>
+<p><a href="https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/total_percentage_by_party_data">Data by Percentage</a></p>
+<h3 id="madhya-pradesh"><a class="header" href="#madhya-pradesh">Madhya Pradesh</a></h3>
+<p>In Madhya Pradesh BJP got 48% votes, and INC got 40% of votes, where as BJP got 163 seats, INC 66 seats, which means BJP got 70.87% where as INC with 28.70% seats.</p>
+<p>Difference in votes between BJP and INC = 8%</p>
+<p>Difference in seats between BJP and INC = 42% </p>
+<h3 id="rajasthan"><a class="header" href="#rajasthan">Rajasthan</a></h3>
+<p>In Rajasthan BJP got 41% votes, and INC got 39% of votes, where as BJP got 115 seats, INC 69 seats (70 seats with karanpur), which means BJP got 57.50% seats where as INC got 35.00% seats. </p>
+<p>Difference in votes between BJP and INC = 2%</p>
+<p>Difference in seats between BJP and INC = 22.5% </p>
+<h3 id="chattisgarh"><a class="header" href="#chattisgarh">Chattisgarh</a></h3>
+<p>In Chattisgarh BJP got 46% votes and INC got 42% of votes, where as BJP got 54 seats, INC 35 seats, which means BJP got 60% of seats, where as INC got 38% of seats</p>
+<p>Difference in votes between BJP and INC = 4%</p>
+<p>Difference in seats between BJP and INC = 22% </p>
+<h3 id="telangana"><a class="header" href="#telangana">Telangana</a></h3>
+<p>In Telangana INC got 39% votes, BHRS got 37% of votes and BJP got 13% of votes, where as INC 64 seats, BHRS 39 seats, BJP 8 seats, which means INC got 53.78% of seats, BHRS got 32.77% of seats and BJP got 6.72% of seats.</p>
+<p>Difference in votes between INC and BHRS = 2%</p>
+<p>Difference in seats between INC and BHRS = 21% </p>
+<h2 id="other-legislative-assembly-election"><a class="header" href="#other-legislative-assembly-election">Other Legislative Assembly Election</a></h2>
+<p>Delhi is an outlier among all the parties, where they have own the true majority in 2020. <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/analysis_data/vote_wastage_won_data/vote_wastage_data_delhi_legislative_election_2020.json">Only 17 constituencies where vote wastage own, out of 70</a>.</p>
+<p>In Uttar Pradesh 2022 election, <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/analysis_data/vote_wastage_won_data/vote_wastage_data_uttar_pradesh_general_election_2022.json">in 301 constituencies out of 403</a>, majority have not voted to the winning candidate.</p>
+<p>Similarly, in <a href="https://github.com/amiyatulu/election_result/blob/main/2023_legislative_assembly_election/data_analysis/analysis_data/vote_wastage_won_data/vote_wastage_data_punjab_legislative_election_2022.json">Punjab, 89 out of 117</a>, the majority have not voted for the winning candidate. Punjab is a different case, as it has recently been taken over by AAP. One can imagine how difficult it is for a new party with a voting method like FPTP.</p>
+<h2 id="list-of-spoilers-with-decreasing-order-of-votes"><a class="header" href="#list-of-spoilers-with-decreasing-order-of-votes">List of Spoilers with decreasing order of votes:</a></h2>
+<p><a href="https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/independent_list">https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/independent_list</a></p>
+<p>In the First Past the Post (FPTP) system, a two-party system predominates, and third parties and independents are viewed as spoilers. People are hesitant to vote for them, fearing that it might result in a wasted vote and inadvertently contribute to the victory of the least favored candidate—someone whom the voter actively wishes not to see win.</p>
+<p>There are 2303 spoilers in Madhya Pradesh, 1650 spoilers in Rajasthan, 1090 spoilers in Chhattisgarh, and 2053 in Telangana who have almost no chance of winning due to the use of the FPTP voting method.</p>
+<p>In other words, FPTP doesn't give a fair chance to every candidate, which goes against the preamble of the constitution. This voting method can be considered unconstitutional.</p>
+<h2 id="who-is-evil-whether-its-the-people-or-the-voting-method"><a class="header" href="#who-is-evil-whether-its-the-people-or-the-voting-method"><strong>Who is evil, whether it's the people or the voting method?</strong></a></h2>
+<p>In Madhya Pradesh, the BJP would have lost 63 seats, and the Congress would have lost 45 because in these constituencies vote wastage has won, or if we could consider the majority decision. In Rajasthan, the Congress would have lost 42 seats, and the BJP 65 seats. In Chhattisgarh, the BJP would have lost 24, and the Congress 21 if we consider majority decision.</p>
+<blockquote>
+<p>Can you blame voters if you don't even provide the option and instead force them to vote tactically, thus preventing them from voting for their sincere preference?</p>
+</blockquote>
+<p><a href="https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data">https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data</a></p>
+<h2 id="are-all-politicians-and-parties-are-corrupt-does-it-matters-whom-to-vote"><a class="header" href="#are-all-politicians-and-parties-are-corrupt-does-it-matters-whom-to-vote">Are all politicians and parties are corrupt? Does it matters whom to vote?</a></h2>
+<p>The common argument is that all politicians and parties are corrupt, and it hardly matters whom to vote for. As you can see, there are more than 10,000 candidates who don't get any chance of winning, many of them are independent and are treated as spoilers due to vote splitting. Are all these politicians corrupt? Of course not. Our voting method simply doesn't give a fair chance.</p>
+<h2 id="pressure-for-approval-voting"><a class="header" href="#pressure-for-approval-voting">Pressure for Approval Voting</a></h2>
+<p>You can also advocate for a change in the voting method to single-winner Approval Voting in your constituency. However, independents and third parties need to collaborate and demand this change. You can <a href="./do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html">follow the link</a> to learn about the benefits of Approval Voting and how it aids third parties or independents.</p>
+<h2 id="how-does-the-india-bloc-need-to-select-constituency-candidates"><a class="header" href="#how-does-the-india-bloc-need-to-select-constituency-candidates">How does the India bloc need to select constituency candidates?</a></h2>
+<p>India bloc has come a long way from partisanship to inclusiveness in the fight for a common cause. So, why do candidates need to be partisan? India bloc can also include candidates from Independent.</p>
+<p>Here are some of the desirable attributes of a good candidate for an election:</p>
+<ol>
+<li>
+<p>Independent thinkers: Their goal needs to be to serve the constituency, state, or country, not strong loyalty towards parties. They work in a team or contribute to it, stay with the team even in difficult conditions, but that doesn't mean supporting the wrongdoing within the parties. They need to take an independent stand and ask for practical reform within the team if things go wrong. Their work is not that of a marketing agent for some cult leader or supporting whatever the party does.</p>
+</li>
+<li>
+<p>Some education: Understanding how the world functions has become highly complicated. One can't decipher things without some education. Without a good education, you can't formulate policies, whether in economics, addressing social challenges, or foreseeing the unintended consequences of policy-making.</p>
+</li>
+<li>
+<p>Perseverance: A person serious about politics should be willing to fight for years with steady persistence</p>
+</li>
+<li>
+<p>Rejecting Far-Right Ideologies:<br />
+Candidates should steer clear of divisive ideologies such as racism, bigotry, xenophobia, or Islamophobia, as well as authoritarianism. Rejecting charismatic or cult-like leaders, like god-men or women, is essential. True leadership should prioritize democratic principles and the well-being of the people.</p>
+</li>
+</ol>
+<h2 id="tackling-vote-splitting"><a class="header" href="#tackling-vote-splitting">Tackling Vote Splitting</a></h2>
+<p>In the First Past the Post (FPTP) system, when multiple candidates with similar ideologies run in a constituency, votes are likely to split, which can make the candidate lose. To address this issue, they need to manage vote splitting by endorsing a single candidate and employing other marketing strategies, such as spreading awareness among the people about the workings of voting methods. Additionally, efforts should be made to reform the constituency voting system, considering alternatives such as Approval Voting or Proportional Representation to effectively tackle vote splitting.</p>
+<blockquote>
+<p>With Single Winnner Approval Voting, if the INDIA bloc sends three candidates to contest an election in a constituency, the chance of any one of them winning increases substantially. However, with FPTP, the chance of any one of the three winning decreases due to vote splitting.</p>
+</blockquote>
+<h2 id="who-benefits-the-most-from-first-past-the-post-fptp"><a class="header" href="#who-benefits-the-most-from-first-past-the-post-fptp">Who benefits the most from First Past the Post (FPTP)?</a></h2>
+<p>Political parties are commonly categorized into two main types: right-wing and left-wing. To understand these terms, let's delve into their meanings. Right-wing and far-right-wing ideologies often lean towards radical conservatism, ultra-nationalism, and authoritarianism. On the other hand, left-wing politics is associated with principles of social equality and egalitarianism.</p>
+<p>However, classifying political parties as strictly right-wing or left-wing can be an oversimplification. The distinction is more nuanced when we consider the diverse ideologies within parties. Political parties are composed of winning candidates, each with their unique set of beliefs and values. Consequently, a party may encompass a range of perspectives, making it challenging to neatly categorize the entire party as exclusively right-wing or left-wing.</p>
+<p><strong>The FPTP voting method centers around the candidate who secures the majority of votes, but who gains the most advantage from this system?</strong> Right-wing voters typically gravitate towards charismatic leaders, demonstrating strong and unwavering support for a single leader. Consequently, they are less likely to split their votes among multiple candidates. On the other hand, left-wing voters tend to embrace egalitarian ideals, expressing themselves more openly and not necessarily favoring a single leader. This makes them more prone to vote-splitting.</p>
+<p>In light of these dynamics, it can be argued that FPTP disproportionately disadvantages left-wing leaders. The system, structured to reward the candidate with the most votes in each constituency, may not align with the diverse and expressive nature of left-wing voters. As a result, FPTP tends to favor the cohesiveness of right-wing voters, potentially impacting the representation of left-wing leaders in the political landscape.</p>
+<h2 id="how-will-you-explain-fptp-to-5-year-old"><a class="header" href="#how-will-you-explain-fptp-to-5-year-old">How will you explain FPTP to 5 year old?</a></h2>
+<p>Imagine you and your friends live in a hostel, and every day you all have to eat the same thing for lunch. The owner always serves upma, but most of the kids in the hostel don't like it every day. So, they decide to vote to change the menu and have different foods.</p>
+<p>Now, the way they vote is a bit confusing. It's called FPTP, which means &quot;First Past the Post.&quot; Each person gets to choose their favorite food, and the one with the most votes wins.</p>
+<p>Here's how it went:</p>
+<pre><code>50 friends voted for Upma.
+30 friends voted for Dahi Bada.
+10 friends voted for Puri Sabji.
+30 friends voted for Idli.
+40 friends voted for Paneer Curry.
+45 friends voted for Chicken Biryani.
+35 friends voted for Chilly Chicken.
+28 friends voted for Mutton Curry.
+</code></pre>
+<p>Even though most friends wanted a change and voted for different foods, Upma got the most votes. So, even though more friends wanted something else, Upma stays on the menu.</p>
+<p>Unfortunately, nothing changed due to the use of the most terrible voting method called FPTP, even though most students desired a different menu.</p>
+<h2 id="how-will-you-explain-tactical-voting-to-a-5-year-old-in-fptp"><a class="header" href="#how-will-you-explain-tactical-voting-to-a-5-year-old-in-fptp">How will you explain tactical voting to a 5 year old in FPTP?</a></h2>
+<p>Imagine you and your friends are choosing a new game to play, but you have to pick just one game to play together. Each friend can only vote for their favorite game, and the game with the most votes wins.</p>
+<p>Now, let's say your absolute favorite game is a bit unusual, and not many friends like it. If you vote for that game, it might not get enough votes to win. So, what do you do? You might decide to vote for a game that's not your favorite but is more popular among your friends, just to make sure it wins.</p>
+<p>Tactical voting is like when you pick a game you don't love but think is more likely to win, just so you're not stuck with a game you really don't like. In elections, it's when people vote for a candidate who might not be their top choice but has a better chance of winning, to prevent a candidate they really don't want from winning.</p>
+<h2 id="what-should-be-implemented-first-approval-voting-or-proportional-representation"><a class="header" href="#what-should-be-implemented-first-approval-voting-or-proportional-representation">What should be implemented first: Approval Voting or Proportional Representation?</a></h2>
+<p>It is easier to change the voting method at the constituency or municipality level than at the multi-constituency, state, or country level. Proportional Representation requires a nationwide change, while for single-winner Approval Voting, one constituency or municipality election will suffice, paving the way for Proportional Representation. The tactical voting problem is also addressed through Approval Voting. Directly advocating for Proportional Representation can potentially delay the process.</p>
+<p>According to the theory of diffusion, the less familiar an innovation is, and the more inconvenient, uncomfortable, or expensive it is, the greater the resistance will typically be, and the less likely it will be to diffuse. Approval Voting is the simplest and least expensive to implement, with fewer roadblocks.</p>
+<p>Furthermore, Proportional Representation and Approval Voting are not mutually exclusive. Proportional Representation works better, becomes more <a href="https://electionscience.org/voting-methods/spoiler-effect-top-5-ways-plurality-voting-fails/">expressive</a>, and keeps bad actors out when used in conjunction with Approval Voting</p>
+<h2 id="no-evm-in-election"><a class="header" href="#no-evm-in-election">No EVM in Election</a></h2>
+<p>EVM is one of the most insecure system of voting.</p>
+<blockquote>
+<p>Without secure voting system, there is no point of constitution or democracy.</p>
+</blockquote>
+<p>Paper ballot may take time for counting, but its much more secure. Counting is not a big problem, one can wait a bit for results, and it can also be automated with machine learning or optical scanner.</p>
+<p>EVM is even more dangerous with FPTP voting method, because a single EVM manipulation can swing the result.</p>
+<p><a href="https://thewire.in/government/the-anatomy-of-an-electronic-voting-machine-what-we-know-and-what-we-dont">The entire election machinery, from the manufacturing of EVMs to the software loaded onto them, to the committee appointed to evaluate the software, the so-called third-party auditing of this software and much more, is controlled by the Union govt.</a></p>
+<h3 id="evm-vote-count-mismatch"><a class="header" href="#evm-vote-count-mismatch">EVM Vote count Mismatch</a></h3>
+<p><a href="https://www.thequint.com/news/india/lok-sabha-election-results-2019-mismatch-in-votes-polled-and-counted-in-evm-on-multiple-seats">EVM Vote Count Mismatch In 370+ Seats&amp; EC Refuses to Explain. Mismatch in votes polled&amp; counted in EVMs in multiple Parliamentary constituencies in LS Election 2019</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLY7ZwWFuhc?si=F8W8raYCgjacogE_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p><a href="https://www.thequint.com/news/india/why-did-election-commission-destroy-evm-voting-machine-vvpat-slips-of-2019-lok-sabha-polls#read-more">Why Did EC Destroy VVPAT Slips of 2019 LS Polls in Such a Hurry?</a></p>
+<p><a href="https://edition.cnn.com/2018/11/05/opinions/to-keep-our-votes-safe-check-and-check-again-richardson-burke/index.html/">Paper ballots are safest for our elections – on one condition.</a></p>
+<h2 id="even-vvpat-are-not-the-solution"><a class="header" href="#even-vvpat-are-not-the-solution">Even <a href="https://en.wikipedia.org/wiki/Voter-verified_paper_audit_trail">VVPAT</a> are not the solution</a></h2>
+<h3 id="security-concerns"><a class="header" href="#security-concerns">Security concerns</a></h3>
+<p>The introduction of malicious software into a VVPAT system can cause it to intentionally misrecord the voter's selections. This attack could minimize detection by manipulating only a small percentage of the votes or for only lesser known races.</p>
+<p>Another security concern is that a VVPAT could print while no voter is observing the paper trail, a form of <a href="https://en.wikipedia.org/wiki/Ballot_stuffing">ballot stuffing</a>. Even if additional votes were discovered through matching to the voters list, it would be impossible to identify legitimate ballots from fraudulent ballots.</p>
+<p>Alternatively the printer could invalidate the printed record after the voter leaves and print a new fraudulent ballot. These ballots would be undetectable as invalidated ballots are quite common during elections. Also, VVPAT systems that are technically able to reverse the paper feed could be open to manipulated software overwriting or altering the VVPAT after the voter checks it.</p>
+<h3 id="effectiveness-concerns-hardly-anyone-in-india-checks-the-vvpat"><a class="header" href="#effectiveness-concerns-hardly-anyone-in-india-checks-the-vvpat">Effectiveness concerns: Hardly Anyone In India checks the VVPAT</a></h3>
+<p>Also problematic is that voters are not <em>required</em> to actually check the paper audit before casting a ballot, which is critical to &quot;verifying&quot; the vote. While the option to look at the paper may provide comfort to an individual voter, the VVPAT does not serve as an effective check on malfunction or fraud unless a statistically relevant number of voters participate.</p>
+<h3 id="demo-hack-in-vvpat-with-dark-glass"><a class="header" href="#demo-hack-in-vvpat-with-dark-glass">Demo hack in VVPAT with dark glass</a></h3>
+<video width="100%" controls preload="none" poster="./images/vvpat_hack_demo.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeibup4fyk7femmxbvvmxflukrqexk6amitrleec4lozpofby2zmery" type="video/mp4">
+</video>
+<h2 id="suggestion-given-by-india-bloc"><a class="header" href="#suggestion-given-by-india-bloc">Suggestion given by INDIA bloc</a></h2>
+<p>Here is a suggestion given by the INDIA bloc: &quot;Instead of the VVPAT slip falling into the box, it should be handed over to the voter, who shall then place it in a separate ballot box after having verified their choice. 100% counting of VVPAT slips should then be done.&quot;</p>
+<p>So basically, it means using an Electronic Voting Machine (EVM) as a printer to print out votes instead of using an ink stamp to vote on a paper ballot. However, it still has flaws. Like a printer, an EVM can be programmed to print as many votes for a party that manipulated the EVM. Therefore, the possibility of ballot stuffing can still exist, and it's may be hard to identify, as the voter may hide it while putting the vote in the ballot box. Remember, a few instances of ballot stuffing in FPTP can overturn the election result and cause the winning candidate to lose.</p>
+<p>One way to solve vote stuffing is to allow only a single paper in the printer (VVPAT) during voting. Just like a secret ballot is provided by <a href="./images/ballot_paper.webp">tearing off the serial number and voter signature</a>, now the single secret ballot can go through the printer to print out the vote.</p>
+<p>Also, voters, especially the uneducated ones, need to be trained to recheck their vote printed on the VVPAT. It's double work for them; first, they have to vote on the EVM appropriately, and then check if the vote is the same or not on the VVPAT. Furthermore, if you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities?</p>
+<p>EVM may decrease spoilt or invalid votes. Although I couldn't find data on the number of spoilt votes in India.</p>
+<p>The number of <a href="https://en.wikipedia.org/wiki/Spoilt_vote">spoilt votes</a> in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design. The same problem also arises in EVMs, as they add unnecessary complexity. Voters may press the wrong button, may not check the VVPAT, and many other issues may arise. The more complicated the system is, the more ways it can be attacked. e.g. Have you thought before that ballot stuffing is possible with VVPAT? I don't think vote spoiling is a big issue until proper measures are taken. Some may intentionally spoil their votes as a form of protest. </p>
+<blockquote>
+<p>If you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities, why not just paper ballot?
+The more complicated the system is, the more ways it can be attacked.</p>
+</blockquote>
+<h3 id="invisible-ink"><a class="header" href="#invisible-ink">Invisible Ink</a></h3>
+<p>Even the chemicals used in the ink of VVPAT need to be validated. Chemicals like <a href="https://en.wikipedia.org/wiki/Invisible_ink">invisible ink</a> do exist, which can alter your votes after a few days.</p>
+<h3 id="thermal-printing-in-vvpat"><a class="header" href="#thermal-printing-in-vvpat">Thermal Printing in VVPAT</a></h3>
+<p>The VVPAT uses thermal printing, which tends to <a href="https://pandapaperroll.com/thermal-paper-fades-restore/">fade over a few months</a>. However, the <a href="https://www.youtube.com/watch?v=zMXF8_tJN_4">ECI's argument that placing reflective glass can prevent VVPAT slips</a> from fading is quite ridiculous. While it's true that VVPAT slips will fade over time, a minute of exposure to light barely makes a difference.
+The intentions of the ECI are highly questionable, despite spending a significant amount of money on VVPATs, they didn't invest in even a decent printer that produces prints lasting a year. Furthermore, they burn VVPAT slips within three months, even though there is a provision to keep them for a year.</p>
+<h2 id="what-about-independence-of-election-commission"><a class="header" href="#what-about-independence-of-election-commission">What about independence of election commission?</a></h2>
+<p>The Center is making desperate attempts to undermine the independence of the Election Commission. They have also passed a bill aiming to remove the Chief Justice of India (CJI) and the leader of the opposition from the Election Commission panel. Without an independent Election Commission, how can we ensure that fair elections are conducted?</p>
+<p>There are numerous ways in which the ruling party at the Center can benefit, including engaging in corrupt campaigning practices such as bribing voters. In such cases, the Election Commission might turn a blind eye. Additionally, if Electronic Voting Machine (EVM) results are declared, there is a risk that the Election Commission might ignore the Voter Verified Paper Audit Trail (VVPAT). This raises concerns about the finality of results, especially in the presence of discrepancies. Which result will be considered final: the one from the EVM or the VVPAT?</p>
+<p>In the past, the Election Commission has already overlooked VVPAT discrepancies. How can one ensure that VVPATs are counted correctly, particularly concerning their security? What if the Election Commission disagrees with the proposal put forth by the INDIA bloc? Are there contingency plans, such as mass protests?</p>
+<h2 id="belgium-uses-paper-ballot-printer"><a class="header" href="#belgium-uses-paper-ballot-printer">Belgium uses paper ballot printer</a></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DVNMyZTO_0s?si=_B03fsqy5vpAAcRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>Its an ATM like voting machine where the printed votes placed in the ballot box after verification, in the Indian context, the user interface (UI) of the screen needs to be simplified. This is crucial as many voters may not be highly educated. Furthermore, voters should be trained with a demonstration before the election, illustrating how to double-check the vote on the printed paper and how to anonymously place the printed paper in the ballot box.</p>
+<p>An advantage of this method is that vote spoiling is negligible, as the paper is computer-printed. However, there is still the risk that a voter may press the wrong button and cast an unintended vote. Another benefit is the flexibility to use any voting method, such as Approval Voting. This is challenging with Voter Verified Paper Audit Trail (VVPAT) systems because reprogramming all Electronic Voting Machines (EVMs) or even changing hardware is required to experiment with different voting methods.</p>
+<blockquote>
+<p>However, it has one significant drawback that can be a primary argument against using the system. There is a chance for voters to be tracked and their information retained, possibly even transmitted over the internet, thereby compromising the anonymity of votes.</p>
+</blockquote>
+<h2 id="the-best-option-paper-ballot-without-any-technology"><a class="header" href="#the-best-option-paper-ballot-without-any-technology">The Best Option: Paper ballot without any technology</a></h2>
+<blockquote>
+<p><strong>A paper ballot, without relying on any technology or complications, appears to be the best option. To prevent vote spoiling, the paper can be made thicker to avoid ink spillage, and higher-quality ink can be used for the stamp. Furthermore, open-source machine learning models and algorithms can be employed for the accurate counting of votes, thereby reducing the cost of counting and faster result declaration.</strong></p>
+<p>Here is a demo and source code for recognizing numbers using machine learning. Similar classification training can be applied to vote counting.</p>
+<p><a href="https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html">MNIST Web Demo</a></p>
+<p><a href="https://github.com/tracel-ai/burn/tree/main/examples/mnist-inference-web">MNIST Web Demo Source code</a></p>
+</blockquote>
+<blockquote>
+<h3 id="the-paper-ballot-is-the-simplest-solution"><a class="header" href="#the-paper-ballot-is-the-simplest-solution">The paper ballot is the simplest solution.</a></h3>
+<p>With paper ballots, every citizen, politician, or election nominee can understand what is actually happening. Everyone has the idea of how to secure the system without adding complexity that only technical experts can comprehend, making it difficult for the common citizen to identify the problems or technicalities of electronic voting machines.</p>
+</blockquote>
+<h2 id="evm-hack-hypothesis"><a class="header" href="#evm-hack-hypothesis"><strong>EVM Hack Hypothesis</strong></a></h2>
+<p>There is no doubt that EVMs can be hacked. If it is indeed susceptible to hacking, it is in the best interest of politicians, especially for the incumbent party, as they hold the power at the state or center.</p>
+<p>The problem with EVMs is that it is hard to prove whether they have been hacked or not, due to reasons associated with how EVMs are manipulated.</p>
+<p>Let's consider the hypothesis: if parties can hack the EVMs, how will they change the ballot to ensure their candidate wins?</p>
+<p>They can't substantially increase the total vote count of a constituency because it is already declared on the voting day itself. They may not do mass manipulation, as its likely to be caught.</p>
+<p>Instead, they may make the candidate win with a small margin. They could increase the votes for the candidate they want to win, decrease the votes for the candidate they want to lose (first runnerup), and manipulate vote splitting (increase the votes of second, third etc runnerup) while keeping the total vote count of the constituency constant.</p>
+<p>As given in data, there are many instances where the majority of people in a constituency have voted against a candidate, yet they have won. While it is very likely to happen with FPTP, EVM hacking can make it even worse.</p>
+<p>You can also look the data where FPTP got worse, Madhya Pradesh BJP got 48% votes, and INC got 40% of votes, where as BJP got 70.87% where as INC with 28.70% seats.</p>
+<p>It's better for us to stop using the EVM and reform our voting system by doing away FPTP.</p>
+<h2 id="security-analysis-of-a-real-indian-evm"><a class="header" href="#security-analysis-of-a-real-indian-evm">Security analysis of a real Indian EVM</a></h2>
+<p>You can watch a demo video by going through the link:</p>
+<p><a href="https://indiaevm.org">https://indiaevm.org</a></p>
+<p>Here the the research paper with about security analysis of a real Indian EVM.</p>
+<p><a href="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeihpuk27kya3cxhwr5vc64a5ei55fr7bnqikjpdwxlf3agitajfbvm">Pdf Link</a></p>
+<h3 id="abstract-of-the-paper"><a class="header" href="#abstract-of-the-paper">Abstract of the paper</a></h3>
+<p>Elections in India are conducted almost exclusively using electronic voting machines developed over the past two decades by a pair of government-owned companies. These devices, known in India as EVMs, have been praised for their simple design, ease of use, and reliability, but recently they have also been criticized following widespread reports of election irregularities. Despite this criticism, many details of the machines’ design have never been publicly disclosed, and they have not been subjected to a rigorous, independent security evaluation. In this paper, we present a security analysis of a real Indian EVM obtained from an anonymous source. We describe the machine’s design and operation in detail, and we evaluate its security in light of relevant election procedures. We conclude that in spite of the machines’ simplicity and minimal software trusted computing base, they are vulnerable to serious attacks that can alter election results and violate the secrecy of the ballot. We demonstrate two attacks, implemented using custom hardware, which could be carried out by dishonest election insiders or other criminals with only brief physical access to the machines. This case study carries important lessons for Indian elections and for electronic voting security more generally.</p>
+<h3 id="some-details-about-evm-hack-in-the-paper"><a class="header" href="#some-details-about-evm-hack-in-the-paper">Some Details about EVM Hack in the Paper</a></h3>
+<p>We demonstrate two attacks that involve physically tampering with the EVMs’ hardware. First, we show how dishonest election insiders or other criminals could alter election results by replacing parts of the machines with malicious look-alike components. Such attacks are made far simpler and cheaper by the EVMs’ minimalist design, and they could be accomplished without the involvement of any field-level poll officials. Second, we show how attackers could <strong>use portable hardware devices</strong> to extract and <strong>alter the vote records stored</strong> in the machines’ memory, allowing them to change election outcomes and violate ballot secrecy. This attack is technically straightforward because the <strong>EVMs do not use even basic cryptography</strong> to protect vote data internally. It could be carried out by local election officials without being detected by the national authorities or the EVM manufacturers’ agents.</p>
+<p>Though EVM manufacturers and election officials have attempted to keep the design of the EVMs secret, this presents only a minor obstacle for would-be attackers. There are nearly 1.4 million EVMs in use throughout the country, and criminals would only need access to one of them to develop working attacks.</p>
+<p>Dishonest insiders or other criminals would likely face less difficulty than we did in obtaining such access. There are many other possibilities for manipulating Indian EVMs, both with and without the involvement of dishonest election insiders. Depending on the local context and security environment, the nature and scale of potential manipulations may vary, but neither the machines’ simplicity nor their secret design keeps them safe.</p>
+<h3 id="the-illusion-of-secrecy-vs-open-protocol"><a class="header" href="#the-illusion-of-secrecy-vs-open-protocol">The Illusion of Secrecy vs Open Protocol</a></h3>
+<p>The common assumption is that a secret encryption algorithm adds an extra layer of security by making it more challenging for attackers to decipher sensitive information. However, this belief is built on the misconception that secrecy equates to strength.</p>
+<p>Testing Strength Through Transparency:</p>
+<p>The paradox lies in the fact that the only reliable way to determine the strength of an encryption method is to make it public and subject it to rigorous analysis by the cryptographic community. Public scrutiny and peer review play a pivotal role in identifying vulnerabilities and ensuring the robustness of an encryption algorithm.</p>
+<h3 id="lesson-from-cryptography"><a class="header" href="#lesson-from-cryptography">Lesson from Cryptography</a></h3>
+<blockquote>
+<p>One important and counterintuitive fact in this situation is that both the encryption and decryption algorithms are publicly known. It seems that keeping the encryption algorithm secret should make the whole system harder to break. However, secret algorithms also mean untested algorithms: The only way to find out whether an encryption method is strong, i.e., cannot be broken by a determined attacker, is to make it public and have it analyzed by other cryptographers.</p>
+<p><em>[Book: Understanding Cryptography: Christof Paar, Jan Pelzl]</em></p>
+</blockquote>
+<h3 id="open-source-software-are-more-secure"><a class="header" href="#open-source-software-are-more-secure">Open source software are more secure</a></h3>
+<p>It's not that opensource software is necessarily better engineered...it is that without the sourcecode it is impossible to see what a program does. So opensource software is seen as more secure as it is the only kind of software that can be checked for security at all without needing to blindly trust someone...everything not open-source can't be checked and by this has to be seen as insecure.</p>
+<blockquote>
+<p>In a voting process, the ballot needs to be kept secret not the protocol or process. </p>
+</blockquote>
+<h2 id="securing-your-code"><a class="header" href="#securing-your-code">Securing Your Code</a></h2>
+<p><a href="https://www.schneier.com/crypto-gram/archives/1999/0915.html">Schneier on Security</a></p>
+<p>The exact same reasoning leads any smart security engineer to demand open source code for anything related to security. Let’s review: Security has nothing to do with functionality. Therefore, no amount of beta testing can ever uncover a security flaw. The only way to find security flaws in a piece of code—such as in a cryptographic algorithm or security protocol—is to evaluate it. This is true for all code, whether it is open source or proprietary. And you can’t just have anyone evaluate the code, you need experts in security software evaluating the code. You need them evaluating it multiple times and from different angles, over the course of years. It’s possible to hire this kind of expertise, but it is much cheaper and more effective to let the community at large do this. <strong>And the best way to make that happen is to publish the source code.</strong></p>
+<h3 id="why-should-we-trust-proprietary-or-closed-source-software"><a class="header" href="#why-should-we-trust-proprietary-or-closed-source-software">Why should we trust proprietary or closed source software?</a></h3>
+<p>No one can be sure what the proprietary or closed source software does in the background. It can provide accurate results during testing, but after the election, it may switch votes when you turn on the EVM. Based on the current inquiry, it seems to also have a clock. This makes it easy to switch votes with precise date and time.</p>
+<p>Please note that one can also use a timer based on process time using loops and conditionals, process time is a measure of the total CPU time consumed by an executing process. Process times are a count of CPU instructions or <a href="https://en.m.wikipedia.org/wiki/Clock_signal">clock cycles</a> and generally do not have a direct correlation to wall time. Although it doesn't have a direct correlation with wall time, one can still use it approximately to <strong>schedule tasks like vote switching or swapping</strong> at specific timings.</p>
+<p>Also, as said earlier, one also cannot know what it prints to the VVPAT; it may print multiple votes in the absence of oversight.</p>
+<p>Even if the software is made open source, we still cannot be sure if the correct software is installed, especially if a corrupt official has manipulated it.</p>
+<h3 id="why-electronic-voting-is-still-a-bad-idea"><a class="header" href="#why-electronic-voting-is-still-a-bad-idea">Why Electronic Voting Is Still A Bad Idea</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LkH2r-sNjQs?si=65prPw8RWLM_J6Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h3 id="the-cost-associated-with-replacing-evm-with-a-paper-ballot"><a class="header" href="#the-cost-associated-with-replacing-evm-with-a-paper-ballot">The cost associated with replacing EVM with a paper ballot</a></h3>
+<p>There are almost no countries that utilize electronic voting machines (EVMs). One argument in favor of EVMs is cost efficiency. India, being a vast country with a sizable population, will it incur high expenses with paper ballots? Let's compare the costs associated with EVMs and paper ballots.</p>
+<p>The initial setup, including the appointment of volunteers to manage booths, remains the same for both methods. The primary difference lies in the vote counting process. Given India's large population, there is a need for a substantial number of counting centers. But there are also large number of volunters in a large populated country. A significant portion of the adult population in India is unemployed, resulting in lower labor costs. Counting is a low-skill labour, so anyone can do it at a very low cost. To contribute to saving the country, most people would be willing to work for free for a week or a month. It wouldn't take a week to finish counting votes. Additionally, there are maintenance and manufacturing costs associated with EVMs, which are absent in the case of paper ballots. <strong>Consequently, paper ballots prove to be a more cost-effective option.</strong></p>
+<p>Counting with paper ballots can be conducted in a decentralized manner, constituency-wise, involving a large number of people. Moreover, the counting process can be automated using open-source machine learning, as demonstrated earlier. Anyone can develop the machine learning algorithm, and the validation and accuracy checks can be performed by the community. </p>
+<h3 id="how-much-time-does-it-take-to-print-a-ballot-paper"><a class="header" href="#how-much-time-does-it-take-to-print-a-ballot-paper">How much time does it take to print a ballot paper?</a></h3>
+<p>Printing presses are available in every locality. Each ballot paper's size will not be more than 6-10 inches, and consequently, each ballot paper will not even cost 25 paise in Indian currency. It won't take a day to print the ballots. If government is not ready to pay for that; we can crowd fund 1-10 rupees. Most people will be ready to contribute in Rs. 100s and 1000s because it safeguards our constitution and democracy.</p>
+<h3 id="booth-capturing-in-paper-ballot"><a class="header" href="#booth-capturing-in-paper-ballot">Booth Capturing in Paper Ballot</a></h3>
+<p>Booth capturing, also known as booth looting, is electoral fraud in which party loyalists or hired criminals &quot;capture&quot; a polling booth and vote on behalf of legitimate voters to ensure a particular candidate's victory. One argument is that Electronic Voting Machines (EVMs) help decrease booth capturing by enabling a five-minute delay in voting process, polling officer can also press a close button to deactivate the EVM. However, this measure doesn't entirely prevent booth capturing. Examples of booth capturing date back to the 1990s, but with the advancement of media, surveillance technology and redundant camera based mobile phones, it has become increasingly difficult to conceal such activities. Since booth capturing is a criminal offense, re-elections can be conducted in places where it occurs.</p>
+<p>Regarding the time delay, we can now implement secure robotic ballot boxes that open and close at specific intervals with the press of a button by polling officers. The slit or hole can be thin enough so that a single ballot can enter. It is a simple machine. Such a device will be much cheaper than an EVM assembly. <strong>While booth capturing can be detected, it remains challenging to ascertain what the EVM software is doing in the background.</strong></p>
+<p>Courts cannot disregard the use of <a href="https://www.barandbench.com/news/is-there-any-punishment-tampering-manipulating-evms-supreme-court-asks-eci">ballot papers by simply stating</a>, &quot;We all know what happened when there was ballot papers. You may have but we have not forgotten.&quot; This statement is vague and does not provide a specific reason of the potential vulnerabilities of ballot papers in modern times. The world is dynamic, and the past is not the same as the present. It is true that past instances of ballot paper misuse have occurred, but it is essential to evaluate the current situation with consideration for advancements in technology and security measures. For instance, the widespread availability of cheaper CCTV cameras and camera phones has significantly improved the monitoring capabilities of polling stations. This is not how courts should argue. They need to talk by evidence and citation like how are paper ballots vulnerable to booth hacking, and how do EVMs protect against booth hacking?</p>
+<h3 id="role-of-courts"><a class="header" href="#role-of-courts">Role of courts</a></h3>
+<p>In the event of booth hacking, what we need are an independent judiciary and an independent election commission that can declare <a href="https://www.hindustantimes.com/india-news/sc-overturns-mandate-theft-in-chd-mayor-poll-101708452822779.html">the election void</a> and ensure the conduct of <a href="./democracy/free-and-fair-election.html">free and fair elections</a>. An analogy could be drawn to cricket: if the umpire is corrupt, the integrity of the game is compromised.</p>
+<p>If people and opposition parties don't want EVMs, who are the CJI or the courts to force people to vote through EVMs? EVMs are an opaque voting system that can't be falsified, and there is enough  evidence through computer science. These are not theoretical evidence, but evidence from many decades of <a href="./programming/foss_philosophy.html#proprietary-software-is-often-malware">computer science practices</a>. So, why are the courts forcing people to vote through EVMs and reject PILs against EVM? Courts are failing to conduct free and fair elections and protect our constitution.</p>
+<h3 id="is-paper-ballot-voting-archaic"><a class="header" href="#is-paper-ballot-voting-archaic">Is paper ballot voting archaic?</a></h3>
+<p>The ballot paper is the gold standard of voting. Your votes don't disappear in the ballot box; that goes beyond the laws of physics. However, with Electronic Voting Machines (EVMs) that support read, write, and delete functions, your votes can disappear without trace, and you can't even prove it. Furthermore, one can use technology to automate and secure ballot voting by implementing robotic ballot boxes and employing open-source, tested machine learning algorithms to automate the counting process, as mentioned above.</p>
+<h3 id="how-can-we-achieve-secure-automated-vote-counting-through-open-source-machine-learning-software"><a class="header" href="#how-can-we-achieve-secure-automated-vote-counting-through-open-source-machine-learning-software">How can we achieve secure automated vote counting through open source machine learning software?</a></h3>
+<p>One method involves utilizing a high-capacity auto-feed scanner to scan votes. </p>
+<p>Scanned images need to be made public. This action promotes transparency and allows anyone to verify the count using various open-source machine learning programs.
+To mitigate reliance on a centralized scanner, opposition leaders or other stakeholders can independently verify the results using their own scanners. Since the process is automated, this verification task is not cumbersome.</p>
+<p>Manual counting can be prone to human errors; typically, runner-up leaders request multiple recounts to validate the results. Automated counting simplifies the recounting process, and well-trained machine learning algorithms can offer greater accuracy in counting.</p>
+<p>Vote counting is a simpler model, akin to handwriting number recognition, so machine learning can achieve a high level of accuracy <a href="https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html">as demonstrated</a>. It also provides probabilities, indicating when the machine learning is unsure of labeling by giving a low probability. In such cases, human intervention can be involved.</p>
+<p>As for the ballot paper design, using thicker paper without folds and placing it directly into the ballot box simplifies the scanning process.</p>
+<p>Placing the unfolded ballot directly into the ballot box aids in feeding it into the scanner without requiring manual effort to open the ballot paper.</p>
+<p>To preserve anonymity without folding the ballot, a separate piece of paper can be provided to conceal it from cameras or observers before placing the voted ballot in the ballot box.</p>
+<p>In terms of paper costs, paper can be sold and recycled, which reduces expenses. Additionally, paper costs are significantly lower than those associated with electronic voting machine (EVM) assembly.</p>
+<p>For a constituency with one lakh voters, three to six scanners are typically sufficient to provide results within a day. Increasing the number of scanners reduces the processing time further. Many scanners boast scanning speeds of up to 20 pages per minute.</p>
+<p>Using this method, the cost of voting will be significantly lower than EVM assembly, and it is also one of the most secure methods.</p>
+<p>Currently I am trying out <a href="https://github.com/reaudito/custom-image-dataset-classification">image classification</a>. Typically, it takes 5-10 hours to train the model.</p>
+<h4 id="false-positives-and-false-negatives-in-machine-learning"><a class="header" href="#false-positives-and-false-negatives-in-machine-learning">False positives and false negatives in machine learning</a></h4>
+<p>A false positive is an error in classification in which a test result incorrectly indicates the presence of a condition, while a false negative is the opposite error, where the test result incorrectly indicates the absence of a condition when it is actually present. </p>
+<p>In classification problems like vote counting or identifying handwritten numbers, there are chances of false positives. For example, <a href="https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html">identifying a sketch as a number when it should be none of the numbers from 1 to 9</a>. Machine learning doesn't work best when the given data is very different from the trained data, so it may fail to identify spoiled votes, which can occur in many different and unpredictable ways. Therefore, some human caution is required to check the probability values.</p>
+<p>As scanned images can be made public, humans can check them later on, within a week.</p>
+<blockquote>
+<p>ECI cannot claim the cost of counting or the space or the time required for counting. If you make the scanned image public, we will count it for free.</p>
+</blockquote>
+<h3 id="how-can-we-be-sure-that-the-scanner-software-is-not-hacked"><a class="header" href="#how-can-we-be-sure-that-the-scanner-software-is-not-hacked">How can we be sure that the scanner software is not hacked?</a></h3>
+<p>The software installed on a laptop can be Linux-based, and the scanner software can be open source; for example, <a href="https://github.com/OpenPrinting/hplip-printer-app">HP drivers are open source</a>. <a href="./programming/foss_philosophy.html">We shouldn't trust Windows or other closed-source software</a>. However, what about the software installed in the scanner hardware itself? It's usually proprietary. Therefore, it's advisable not to use a scanner that has firmware installed. Many scanners are just motors and some buttons; there is no CPU or memory chip for firmware to reside on. Only the driver is needed installed on computer, which can be open source. The Linux OS and driver software need to be installed on the laptop under proper surveillance, and the checksum of the Linux OS and driver software needs to be checked.</p>
+<h3 id="randomization-of-evms-to-be-supplied-to-constituencies-and-randomized-recounts-of-vvpats-to-detect-possible-malfunctions-or-fraud-is-randomization-transparent"><a class="header" href="#randomization-of-evms-to-be-supplied-to-constituencies-and-randomized-recounts-of-vvpats-to-detect-possible-malfunctions-or-fraud-is-randomization-transparent">Randomization of EVMs to be supplied to constituencies and randomized recounts of VVPATs to detect possible malfunctions or fraud. Is randomization transparent?</a></h3>
+<p>Randomization is not conducted transparently. Why should we trust a video and a server controlled by a system administrator to generate random values? Secure random number generation involves drawing from shuffled papers, not relying on software controlled by a system administrator.</p>
+<p>A letter from Mehmood Pracha, who is running as an Independent candidate in the Rampur, Uttar Pradesh, Lok Sabha Constituency:</p>
+<blockquote>
+<p>Randomization process for EVM-VVPAT machines by you, was at best a videographed demonstration of a pointless, illegal, opaque, and surreptitious fiddling of the machines being presented as a technical exercise. The very fact that I was not permitted to access the actual machines, or even see them physically, is sufficient to discredit the entire process, and to shatter my confidence, and that of the electorate, in the veracity and trustworthiness of the EVM-VVPAT machines and the polling process in which they are to be used. The entire process lasted less than half an hour, and was very evidently conducted purely as a matter of formality without inviting or permitting any actual participation by me.</p>
+</blockquote>
+<p><a href="images/evm/randomization1.jpeg">Letter link 1</a></p>
+<p><a href="images/evm/randomization2.jpeg">Letter link 2</a></p>
+<h3 id="chances-of-match-fixing"><a class="header" href="#chances-of-match-fixing">Chances of Match-fixing</a></h3>
+<p>The chances of match-fixing increase when elections can be manipulated. Opposition parties may be negotiated with to cease protests against Electronic Voting Machines (EVMs) or to treat the protests casually, giving the appearance of opposition to EVMs.</p>
+<p>Thus, there is a high likelihood of election fixing when election results are determined by EVM machines.</p>
+<p>This undermines competition, eliminates third parties, and stifles independent thinking leaders. It can be detrimental to any representatives, regardless of party affiliation, including the ruling party. Those dissatisfied with the current regime have a high risk of losing, whether they belong to the BJP or the Congress. Additionally, many Congress leaders have switched parties due to threats from investigative agencies like the Enforcement Directorate (ED) or out of greed for money.</p>
+<p>If the BJP is targeting 370 seats, then there are 173 seats that they would have to lose. One can assume who will lose those seats in the case of match-fixing.</p>
+<h3 id="probability-of-hacking"><a class="header" href="#probability-of-hacking">Probability of Hacking</a></h3>
+<p>Those who argue the probability of hacking is non-existent, firstly, the EVM is an opaque system. Nobody knows what is installed on the EVM except the software maker who has installed it. There is no way to trace it because everything is happening behind the screen. If you are inside a room, how can someone outside know what's happening inside? Light can't pass from outside to inside; walls are opaque. That's beyond the laws of physics to know what is happening inside the room through our eyes when outside. It's a complete <a href="./reasoning/pseudoscience.html">pseudoscience argument of lack of falsifiability</a>. The software installed is proprietary or closed source. EVMs are also not made public to be scrutinized by ethical hackers. So why should we trust a middleman to take care of our votes? People have the right to directly vote, not give their vote to a middleman to vote for them.</p>
+<p>When there is so much control by the software maker and installer, the probability of rigging elections becomes extremely high, not low.</p>
+<h3 id="shooting-the-messenger"><a class="header" href="#shooting-the-messenger">Shooting the messenger</a></h3>
+<p>A whistleblower is an individual who exposes information about wrongdoing, illegal activities, or unethical behavior within an organization. Unfortunately, whistleblowers may face backlash, retaliation, or legal consequences for bringing such information to light. </p>
+<p>&quot;Shooting the messenger&quot; is a critical perspective on the unfair treatment that whistleblowers may experience for their courageous actions in exposing the truth.</p>
+<blockquote>
+<p>The government should prioritize the safeguarding of whistleblowers rather than resorting to punishing the messenger.</p>
+</blockquote>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1-L9eiUQCRY?si=eZcejKWUgdZHr59u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p><a href="http://web.archive.org/web/20230203033338/https://www.wired.com/2010/08/researcher-arrested-in-india/">Researcher Arrested in India After Disclosing Problems With Voting Machines</a></p>
+<h3 id="the-supreme-court-didnt-give-a-judgment-on-100-vvpat-counting"><a class="header" href="#the-supreme-court-didnt-give-a-judgment-on-100-vvpat-counting">The Supreme Court didn't give a judgment on 100% VVPAT counting.</a></h3>
+<p>There's no bigger irony than the fact that they can't tally votes for 12 days. Counting is such a low-skilled job that even a 10th-grade student can do it, yet the Supreme Court rejected the counting, as predicted, as we don't trust the judge. </p>
+<p>Why can't counting be as decentralized as polling booths? Each polling booth typically serves <a href="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiej6x2jlkjar34t4ag7adsdvz3scewk34igwgiqbvbq3k2xin7mxy">300 to 700 voters</a>. Therefore, if we establish similar decentralized booths for counting, it would only take an hour or two to count the paper ballots.</p>
+<p>There are no free and fair elections; it's all a rigged game.</p>
+<p>The silence of the people equates to accepting dictatorship, allowing the government to control your taxes, economy, and the monopoly of violence.</p>
+<p>People need to stand up collectively; it can't be done by individuals alone. If 50% of the population doesn't trust the election commission and EVMs, then why elections with EVM? Don't be afraid; peacefully protest and take to the streets. They can't imprison 50% of the populace.</p>
+<p>Understand how a <a href="./democracy/fascism.html">fascist government operates</a>.</p>
+<h3 id="voter-turnout-in-phase-1"><a class="header" href="#voter-turnout-in-phase-1">Voter turnout in Phase 1</a></h3>
+<p>About <a href="https://www.indiatoday.in/elections/lok-sabha/story/lok-sabha-elections-2024-phase-1-voting-bjp-congress-dmk-tamil-nadu-up-bengal-assembly-annamalai-2528964-2024-04-19">40% of voters are not voting</a>. About <a href="https://www.hindustantimes.com/india-news/64-turnout-in-lok-sabha-phase-1-elections-most-states-see-dip-from-2019-101713544427755.html">5-10% decrease in voter turnout</a> than 2019 election.</p>
+<p><a href="./images/9_pm_turnout_phase1.webp">Voter turnout image</a></p>
+<p>With such a low voter turnout, one can assume there is high distrust in elections and politicians. The Supreme Court's decision has made it worse.</p>
+<h3 id="should-we-vote-or-not-vote-with-evms-about-5-10-manipulation-is-possible"><a class="header" href="#should-we-vote-or-not-vote-with-evms-about-5-10-manipulation-is-possible">Should we vote or not vote? With EVMs, about 5-10% manipulation is possible.</a></h3>
+<p>EVMs have VVPATs installed even if VVPAT slips are not counted. People must check and also be trained to inspect what falls into the VVPAT. If mass manipulation occurs, it is likely to be caught. So, we can request people to vote. One can still defeat the government with sufficient votes against them. So, go out and vote. Don't press NOTA. We will see what will happen next. People shouldn't lose hope. The fight for 100% counting will continue. Also, there are many things coming in the future, like decentralized monetary and supply chain systems.</p>
+<h3 id="about-strong-rooms-of-evm-and-vvpat-storage"><a class="header" href="#about-strong-rooms-of-evm-and-vvpat-storage">About strong rooms of EVM and VVPAT storage</a></h3>
+<p><a href="https://old.eci.gov.in/files/file/15143-arrangements-of-strong-rooms-for-safe-storage-of-evms-vvpats-and-other-election-papers-before-and-after-counting-of-votes-reg/">ECI Link</a></p>
+<p>CCTV cameras with sufficient storage facility shall be installed. CCTV Camera should cover sealed doors of Polled EVM Strong Room and Election Paper Strong Room, security and corridor etc. A proper system to take back up of CCTV footage shall be ensured. Such video data shall be in the custody of the District Election Officer.</p>
+<p>Videography shall be made at the time of the opening and closing of Polled EVM Strong Room and Election Paper Strong Room. Proper log books shall also be maintained.</p>
+<blockquote>
+<p>Courts can ask for a 100% counting of VVPATs at any time if protest continues, and those involved can be caught if any manipulation occurs, provided that proper security measures are taken to protect the VVPATs.</p>
+</blockquote>
+<h3 id="microcontrollers-are-ported-with-firmware-by-belecil-with-directors-affliated-with-bjp"><a class="header" href="#microcontrollers-are-ported-with-firmware-by-belecil-with-directors-affliated-with-bjp">Microcontrollers are ported with firmware by BEL/ECIL with directors affliated with BJP</a></h3>
+<p><a href="https://www.deccanherald.com/india/ex-bureaucrat-asks-ec-to-ensure-party-affiliated-persons-removed-from-board-of-bel-which-manufacture-evm-2871211">A former bureaucrat has raised concern with the Election Commission on the nomination of 'at least' four persons allegedly having 'affiliation with the BJP' as independent directors on the board of state-run BEL that manufactures EVMs, prompting opposition leaders to attack the government.</a></p>
+<h3 id="can-evms-be-hacked-or-tampered-with--the-debate-over-vvpat-matching"><a class="header" href="#can-evms-be-hacked-or-tampered-with--the-debate-over-vvpat-matching">Can EVMs be Hacked or Tampered With? | The Debate over VVPAT Matching</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXb5Cuwl6LE?si=yDqZmvZMfTjTvw9S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>The video connected all the dots of EVM. However, I have a conflict with the solution given. </p>
+<blockquote>
+<p>EVM is a useless machine, and there is no need for EVM at all. It adds extra unnecessary complexity, maintenance, and costs.</p>
+<p>Using paper ballots is more cost-effective, requires less maintenance than EVMs, and EVMs demand protection for 365 days every year, whereas ballot papers need protection for only about few months, hardly 3-6 months after the election. Any unprotected EVM at any time is susceptible to hackers manipulating it and installing malware. Manufacturing of new EVM is another additional cost associated with EVMs. Paper ballots have fewer steps to maintain and are also considered the gold standard.</p>
+<p>So, instead, we can just use paper ballots. Paper ballot counting can be automated in the future using an open-source machine-learning algorithm, as I have already said and demonstrated. If you want the results in one day, it can also be done with paper ballots.</p>
+<p><strong>Lets end the voting scam</strong>. </p>
+<p>To be clear, parties at the center will always want EVMs to select their own government through a flawed and opaque voting system that they have full control over. It is the responsibility of people to protest and return to paper ballot-based voting.</p>
+</blockquote>
+<h2 id="a-ghost-in-the-machine-on-evms-democracy-deficit-and-its-constitutionality"><a class="header" href="#a-ghost-in-the-machine-on-evms-democracy-deficit-and-its-constitutionality">A ghost in the machine? On EVMs, democracy deficit and its constitutionality</a></h2>
+<p><a href="https://theleaflet.in/a-ghost-in-the-machine-on-evms-democracy-deficit-and-its-constitutionality/">https://theleaflet.in/a-ghost-in-the-machine-on-evms-democracy-deficit-and-its-constitutionality/</a></p>
+<p>Fundamental flaw no.1: The Black box technology</p>
+<p>The primary objection to EVMs is that the technology deployed is the ‘black box technology’</p>
+<p>Fundamental flaw no. 2: Technical scrutiny of EVMs impossible</p>
+<p>The German court struck down the use of EVMs as unconstitutional simply because no accessible public or judicial scrutiny of EVMs was possible without the intervention of technical experts.</p>
+<p>Fundamental flaw no. 3: VVPAT precedes the recorder</p>
+<p>Flaw no. 4: A near-zero paper trail</p>
+<p>The ECI, employing bizarre logic, revealed: “Verification of VVPAT paper trail of 479 (randomly selected) EVMs would generate 99 percent accuracy in election results.</p>
+<h3 id="give-missed-call-to-9667722062-to-ban-evm"><a class="header" href="#give-missed-call-to-9667722062-to-ban-evm">Give missed call to 9667722062 to Ban EVM</a></h3>
+<p>If you want to support Ban EVM Movement... Just give Miss Call- 9667722062- Adv. Rajendra Pal Gautam</p>
+<p>2 Lakh 30,000 have already given missed call in 48 hours</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sHmpEv4dWDA?si=Y2z8PgCtPJKz-YbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h3 id="share-on-social-media-for-missed-call-to-9667722062-to-ban-evm"><a class="header" href="#share-on-social-media-for-missed-call-to-9667722062-to-ban-evm">Share on social media for missed call to 9667722062 to Ban EVM</a></h3>
+<h3 id="message-1"><a class="header" href="#message-1">Message 1</a></h3>
+<pre><code>If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
+
+2 Lakh 30,000 have already given missed call in 48 hours
+
+https://youtu.be/sHmpEv4dWDA?si=Zm1ISm6WOzhFPyB2
+
+#EVM_Hatao_Desh_Bachao 
+#BanEVM_Save_India
+#EVM_हटाओ_लोकतंतर_बचाओ 
+#EVM_Hatao_Loktantra_Bacho 
+
+</code></pre>
+<h3 id="message-2"><a class="header" href="#message-2">Message 2</a></h3>
+<pre><code>If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
+
+2 Lakh 30,000 have already given missed call in 48 hours
+
+https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeifofj2zgq5wnb2juvyj3nyf23wdizpqtsfmbmidoqsxau3js7biyq
+
+#EVM_Hatao_Desh_Bachao 
+#BanEVM_Save_India
+#EVM_हटाओ_लोकतंतर_बचाओ 
+#EVM_Hatao_Loktantra_Bacho 
+</code></pre>
+<h3 id="message-3"><a class="header" href="#message-3">Message 3</a></h3>
+<pre><code>Ban EVM Movement... Give Miss Call- 9667722062
+
+2024 election will be without EVM.
+Farmers, the army, and everyone needs to come together to ban it.
+
+https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicjvqn3ksjfys7cmpqu7msap2vvnlqbbejilv4jtjuztrkpennule
+
+#EVM_Hatao_Desh_Bachao
+#BanEVM_Save_India
+#EVM_हटाओ_लोकतंतर_बचाओ
+#EVM_Hatao_Loktantra_Bacho
+</code></pre>
+<h3 id="message-from-the-army-officer"><a class="header" href="#message-from-the-army-officer">Message from the Army officer</a></h3>
+<p>When an army officer dies for their nation on the border, it is often seen as a sacrifice made to protect the country from external threats and maintain its sovereignty. This act highlights the significance of safeguarding national borders and reinforces the idea that a nation must be prepared to defend itself against potential dangers.</p>
+<p>Similarly, having a secure voting system within a nation is equally important for preserving democracy and ensuring the stability and safety of the country. A secure voting system guarantees fair elections, which are essential for reflecting the will of the people and upholding the principles of representative government. When citizens cast their votes with confidence, knowing that their choices will be accurately recorded and counted, they contribute to the legitimacy and strength of the political process.</p>
+<p>A vulnerable or compromised voting system can lead to various issues such as voter fraud, manipulation, or suppression, all of which undermine the democratic foundation of a nation. Such situations not only erode public trust but also create social unrest, instability, and potentially even violence. Therefore, investing time, resources, and efforts into developing and maintaining a robust and reliable voting infrastructure should be considered a priority for any democratic nation.</p>
+<video width="100%" controls preload="none" poster="./images/army_message.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeid2cqvrjnc3fzimjyqopiujq4ssbzakvjvikddkrztc3ofxe5yyti" type="video/mp4">
+</video>
+<h3 id="timer-in-evm"><a class="header" href="#timer-in-evm">Timer in EVM</a></h3>
+<video width="100%" controls preload="none" poster="./images/evm_timer.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiaydqvgnah3ncz2eeeuyzguomv5bdpdn2blwy6n6tfqbchzebdgpq" type="video/mp4">
+</video>
+<h3 id="impact-of-evm-on-our-country"><a class="header" href="#impact-of-evm-on-our-country">Impact of EVM on our country</a></h3>
+<video width="100%" controls preload="none" poster="./images/evm_impact_on_nation.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeifsxwvuejck4mulnriy24evfjoiuqbyisj24nsi4cixea4wcipk2u" type="video/mp4">
+</video>
+<h3 id="evm-manipulation-in-loksabha-2019-election-and-state-assembly"><a class="header" href="#evm-manipulation-in-loksabha-2019-election-and-state-assembly">EVM manipulation in loksabha 2019 election and state assembly</a></h3>
+<video width="100%" controls preload="none" poster="./images/evm_manipulation.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiaw6uy5iq77gcinx4vhefjpwfm2ebox6usz5f7srqblfvlny7tpeu" type="video/mp4">
+</video>
+<h3 id="duplicate-voter-lists-in-lakhs"><a class="header" href="#duplicate-voter-lists-in-lakhs">Duplicate voter lists in lakhs</a></h3>
+<p>In FPTP, a single vote matters, as a candidate can lose by a few votes.</p>
+<video width="100%" controls preload="none" poster="./images/duplicate_votes.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeias3k43og5ohauchspj2iboz74uihomvvisamr5bfyik3eoolydw4" type="video/mp4">
+</video>
+<h3 id="courts-on-evm"><a class="header" href="#courts-on-evm">Courts on EVM</a></h3>
+<p>Stop watching corporate TV news and protest against EVMs in front of all courts. The government cannot pressure courts to not ban EVMs.</p>
+<video width="100%" controls preload="none" poster="./images/courts_evm.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicfzgpsvcnvffq5ois4r2dlaok64tmogggk5qg3s2ncaaoydyik5i" type="video/mp4">
+</video>
+<h3 id="the-resignation-of-an-election-commissioner"><a class="header" href="#the-resignation-of-an-election-commissioner">The resignation of an Election Commissioner</a></h3>
+<p>There needs to be a body of three members in the Election Commission, but only one election commissioner is left. Arun Goel has resigned ahead of the 2024 Lok Sabha elections. Will only one election commissioner be able to conduct the Lok Sabha election? How are election commissioners appointed, what are the guidelines and criteria for their appointment? How have they been appointed so quickly overnight? Will the government appoint another election commissioner now, who will follow the government's orders rather than staying neutral and independent to all parties? Will the new election commissioner, if appointed, listen to the people and consider eliminating the use of EVMs?</p>
+<video width="100%" controls preload="none" poster="./images/election_commision_resignation.png">
+  <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeihgb3wkyjuiabbnuyseuksl63sizjrjoq3u735luwmzmh7uuyj3rm" type="video/mp4">
+</video>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

@@ -1,0 +1,295 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Secure Blockchain Voting - I am brainstorming</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Democracy and supply chain</li><li class="chapter-item expanded "><a href="../../chapters/what-will-a-boycott-of-the-national-currency-give-us.html"><strong aria-hidden="true">1.</strong> Manifesto: What will a boycott of the national currency give us?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html"><strong aria-hidden="true">1.1.</strong> Price discovery of decentralized supply chain</a></li><li class="chapter-item expanded "><a href="../../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html"><strong aria-hidden="true">1.2.</strong> What do we need to decentralize in the coming years?</a></li><li class="chapter-item expanded "><a href="../../chapters/relationships-emotions-and-happiness.html"><strong aria-hidden="true">1.3.</strong> Emotion and empathy rather than materialism</a></li><li class="chapter-item expanded "><a href="../../chapters/education_system.html"><strong aria-hidden="true">1.4.</strong> No Entrance culture, and rate race, rote learning education system</a></li><li class="chapter-item expanded "><a href="../../chapters/rethinking-work-culture.html"><strong aria-hidden="true">1.5.</strong> Remote jobs or work from home with less working hours</a></li><li class="chapter-item expanded "><a href="../../chapters/invest_on_renewables.html"><strong aria-hidden="true">1.6.</strong> Clean energy like roof top solar and wind energy</a></li><li class="chapter-item expanded "><a href="../../chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.html"><strong aria-hidden="true">1.7.</strong> Banning single use plastic</a></li><li class="chapter-item expanded "><a href="../../chapters/building-better-cities.html"><strong aria-hidden="true">1.8.</strong> Sustainable housing design</a></li><li class="chapter-item expanded "><a href="../../chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.html"><strong aria-hidden="true">1.9.</strong> Decentralized house building</a></li><li class="chapter-item expanded "><a href="../../chapters/road-planning-of-cities.html"><strong aria-hidden="true">1.10.</strong> Car-free cities</a></li><li class="chapter-item expanded "><a href="../../chapters/city-planning/rain_water_harvesting.html"><strong aria-hidden="true">1.11.</strong> City Planning: Rain Water Harvesting</a></li><li class="chapter-item expanded "><a href="../../chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html"><strong aria-hidden="true">1.12.</strong> Decentralizing Supermarkets Through Public Ownership and Control</a></li><li class="chapter-item expanded "><a href="../../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html"><strong aria-hidden="true">1.13.</strong> Love for USD pegged stable coin by the crypto community must end</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/tyranny_of_the_majority.html"><strong aria-hidden="true">1.14.</strong> Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/simple_majority_and_super_majority.html"><strong aria-hidden="true">1.15.</strong> Simple Majority vs Super Majority</a></li><li class="chapter-item expanded "><a href="../../chapters/capitalism-vs-socialism-which-one-is-working.html"><strong aria-hidden="true">1.16.</strong> Socialism vs Capitalism</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/dismissing_return.html"><strong aria-hidden="true">1.17.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../../chapters/shivarthu/Shivarthu.html"><strong aria-hidden="true">1.18.</strong> Shivarthu: A governance Protocol</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/competitive_collaboration.html"><strong aria-hidden="true">1.19.</strong> The Competitive Collaboration Algorithm</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/secure_blockchain_voting.html" class="active"><strong aria-hidden="true">1.20.</strong> Secure Blockchain Voting</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Economics</li><li class="chapter-item expanded "><a href="../../chapters/economics/yard-sale-model.html"><strong aria-hidden="true">2.</strong> Why income inequality exits? Yard-Sale-Model</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/dismissing_return.html"><strong aria-hidden="true">3.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/price_controls.html"><strong aria-hidden="true">4.</strong> Price Controls</a></li><li class="chapter-item expanded affix "><li class="part-title">Democracy</li><li class="chapter-item expanded "><a href="../../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html"><strong aria-hidden="true">5.</strong> Do we need a supreme leader? How can we share power between parties?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">5.1.</strong> The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship</a></li><li class="chapter-item expanded "><a href="../../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">5.2.</strong> How EVM works and Why it should be banned to save the democracy</a></li><li class="chapter-item expanded "><a href="../../chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.html"><strong aria-hidden="true">5.3.</strong> Open-list proportional representation vs. Mixed-member proportional representation</a></li><li class="chapter-item expanded "><a href="../../chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.html"><strong aria-hidden="true">5.4.</strong> Parliamentary or Presidential form of government? What's in the name?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/govt_controlling_information.html"><strong aria-hidden="true">5.5.</strong> How to share information under fascism or dictatorship?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/fascism.html"><strong aria-hidden="true">5.6.</strong> What a fascist government does?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/hinduism.html"><strong aria-hidden="true">5.7.</strong> Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/fascism_power.html"><strong aria-hidden="true">5.8.</strong> Necessary sources of political power by dictator</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/free-and-fair-election.html"><strong aria-hidden="true">5.9.</strong> What is free and fair elections?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/pmla.html"><strong aria-hidden="true">5.10.</strong> Draconian and unconstitutional PMLA and UAPA provisions</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/upholding-justice.html"><strong aria-hidden="true">5.11.</strong> Upholding the Justice</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Cooperation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">6.</strong> Cooperation for common good</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/how-to-tackle-disinformation.html"><strong aria-hidden="true">6.1.</strong> How to tackle disinformation?</a></li><li class="chapter-item expanded "><a href="../../chapters/cooperation/cooperation-secrets.html"><strong aria-hidden="true">6.2.</strong> Secrets of Cooperation</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">AI/ Machine Learning</li><li class="chapter-item expanded "><a href="../../chapters/do-we-have-to-fear-machine-learning-or-ai.html"><strong aria-hidden="true">7.</strong> Do we have to fear machine learning or AI?</a></li><li class="chapter-item expanded affix "><li class="part-title">Philosophy</li><li class="chapter-item expanded "><a href="../../chapters/understanding-free-will-and-how-it-can-impact-our-behavior.html"><strong aria-hidden="true">8.</strong> Understanding free will and how it can impact our behavior</a></li><li class="chapter-item expanded "><a href="../../chapters/reasoning/fallacies.html"><strong aria-hidden="true">9.</strong> Important fallacies, paradox and biases</a></li><li class="chapter-item expanded "><a href="../../chapters/programming/foss_philosophy.html"><strong aria-hidden="true">10.</strong> Open Source or Free Software or FOSS Philosophy</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/bread_and_circus.html"><strong aria-hidden="true">11.</strong> Modern-Day Bread and Circus</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/how_to_know_who_trustworthy.html"><strong aria-hidden="true">12.</strong> Key points – How to know who’s trustworthy</a></li><li class="chapter-item expanded affix "><li class="part-title">India Employment</li><li class="chapter-item expanded "><a href="../../data/india_employment_data.html"><strong aria-hidden="true">13.</strong> India Employment Data</a></li><li class="chapter-item expanded affix "><li class="part-title">Programming</li><li class="chapter-item expanded "><a href="../../chapters/programming/debugging_time.html"><strong aria-hidden="true">14.</strong> A Glimpse into a Coder's Experience</a></li><li class="chapter-item expanded "><a href="../../chapters/programming/interdisciplinary.html"><strong aria-hidden="true">15.</strong> The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education</a></li><li class="chapter-item expanded affix "><li class="part-title">Science</li><li class="chapter-item expanded "><a href="../../chapters/reasoning/pseudoscience.html"><strong aria-hidden="true">16.</strong> Pseudoscience</a></li><li class="chapter-item expanded "><a href="../../chapters/academics/academician.html"><strong aria-hidden="true">17.</strong> What are Scholarly Activities?</a></li><li class="chapter-item expanded "><a href="../../chapters/reasoning/evidence-based_medicine.html"><strong aria-hidden="true">18.</strong> Evidence Based Medicine vs Alternative Medicine</a></li><li class="chapter-item expanded affix "><li class="part-title">Organization</li><li class="chapter-item expanded "><a href="../../chapters/self-managed-institutes.html"><strong aria-hidden="true">19.</strong> When do self-managed institutes work?</a></li><li class="chapter-item expanded "><a href="../../chapters/moonlighting-in-a-remote-work-world.html"><strong aria-hidden="true">20.</strong> Moonlighting</a></li><li class="chapter-item expanded "><a href="../../chapters/micromanagement.html"><strong aria-hidden="true">21.</strong> Micromanagement</a></li><li class="chapter-item expanded affix "><li class="part-title">Biology</li><li class="chapter-item expanded "><a href="../../chapters/complicatedness-of-sexuality.html"><strong aria-hidden="true">22.</strong> Complicatedness of Sexuality</a></li><li class="chapter-item expanded affix "><li class="part-title">Drafts</li><li class="chapter-item expanded "><a href="../../chapters/city-planning/pollution_construction.html"><strong aria-hidden="true">23.</strong> Pollution due to contruction</a></li><li class="chapter-item expanded affix "><li class="part-title">Links</li><li class="chapter-item expanded "><a href="../../home.html"><strong aria-hidden="true">24.</strong> Page Links</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">I am brainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="secure-blockchain-voting"><a class="header" href="#secure-blockchain-voting">Secure Blockchain Voting</a></h1>
+<h2 id="1-securing-the-device-that-you-vote"><a class="header" href="#1-securing-the-device-that-you-vote">1) Securing the device that you vote</a></h2>
+<p>As mentioned earlier, <a href="../what-do-we-need-to-decentralize-in-the-coming-years.html#security-of-phone">Android phones</a> may not be appropriate for casting votes using blockchain technology. </p>
+<p>Furthermore, one cannot use <a href="../programming/foss_philosophy.html">proprietary operating systems</a> like iOS on an iPhone or Microsoft Windows, as <a href="../the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html#the-illusion-of-secrecy-vs-open-protocol">one cannot access the source code</a> to understand what the program is doing in the background.</p>
+<h3 id="so-what-is-an-most-affordable-method-of-voting"><a class="header" href="#so-what-is-an-most-affordable-method-of-voting">So, what is an most affordable method of voting?</a></h3>
+<blockquote>
+<p>It's simply a Linux-bootable USB drive or memory card.</p>
+</blockquote>
+<p>So, anyone, even the poorest, can hold a pen drive or memory card. Therefore, the system enables everyone to participate in democracy.</p>
+<h3 id="what-security-measure-we-need-to-take-for-voting"><a class="header" href="#what-security-measure-we-need-to-take-for-voting">What security measure we need to take for voting?</a></h3>
+<ol>
+<li>
+<p>Validate the checksum of the files on the pen drive or memory card. The community can publish the checksum, allowing users to verify that it is correct and that they are running the correct open-source software.</p>
+</li>
+<li>
+<p>You need a trusted computer to boot; it can be anyone from your family or relatives whom you trust. Only the computer's BIOS needs to be secure. As it's done in a decentralized manner, a mass attack becomes very difficult. You don't have to trust any election commission or government.</p>
+</li>
+</ol>
+<p>You can use single-board computers, such as the Raspberry Pi Zero, for enhanced security, and they can be priced as low as $12.</p>
+<h3 id="bios-attack"><a class="header" href="#bios-attack">BIOS attack</a></h3>
+<p><a href="https://archive.is/Vhkaa">You can also examine BIOS attacks in the link</a>. However, it's true that BIOS firmware is rarely made open source. As a result, it's difficult to replace the BIOS when it's infected. Even <a href="https://raspberrypi.stackexchange.com/questions/8475/what-bios-does-raspberry-pi-use">Raspberry Pi BIOS</a> isn't open source. However, there are other open source alternatives, such as <a href="https://ubuntu.com/download/risc-v">RISC-V computers</a>, where both the hardware and software are open source.</p>
+<p><a href="../what-do-we-need-to-decentralize-in-the-coming-years.html#funding-open-source">Funding the Open Source</a></p>
+<h2 id="2-securing-the-app-that-you-vote"><a class="header" href="#2-securing-the-app-that-you-vote">2) Securing the app that you vote</a></h2>
+<p><a href="https://iambrainstorming.github.io/coding_blog/linux/Offline_centric_apps.html">Link to: Enhancing Privacy and Security in Offline App Design with WebAssembly</a></p>
+<h2 id="3-security-of-the-blockchain-itself"><a class="header" href="#3-security-of-the-blockchain-itself">3) Security of the blockchain itself</a></h2>
+<h3 id="so-what-a-blockchain-do"><a class="header" href="#so-what-a-blockchain-do">So what a blockchain do?</a></h3>
+<p>Blockchains are a technology which is all about providing guarantees about process integrity. If a process is run on a blockchain, the process is guaranteed to run according to some pre-agreed code and provide the correct output. No one can prevent the execution, no one can tamper with the execution, and no one can censor and block any users' inputs from being processed.</p>
+<h3 id="explain-to-a-5-year-old-the-51-attack-of-the-proof-of-stake-algorithm-in-blockchain"><a class="header" href="#explain-to-a-5-year-old-the-51-attack-of-the-proof-of-stake-algorithm-in-blockchain">Explain to a 5-year-old the 51% attack of the proof-of-stake algorithm in blockchain</a></h3>
+<p>Imagine you and your friends are playing with building blocks to make a tall tower. In the blockchain world, people use something called Proof of Stake (PoS) to decide who gets to add the next block to the tower.</p>
+<p>Now, a 51% attack in Proof of Stake is like a big, mischievous friend who tries to cheat the game. In our tower-building game, this friend is so tricky that they convince more than half of the players to help them instead of playing by the rules. Since they have more than half the players on their side, they can now control what blocks go into the tower.</p>
+<p>So, instead of building the tower the way everyone agreed, this tricky friend and their team can start adding blocks that might not be good for the tower. It's like they're trying to make the tower wobbly or even knock it down! This is not fair because the game was supposed to be about working together and following the rules.</p>
+<p>In the blockchain world, a 51% attack in Proof of Stake means that some people with more than half of the power can make decisions that are not good for the whole group. </p>
+<h3 id="detail-video-explaining-blockchain"><a class="header" href="#detail-video-explaining-blockchain">Detail video explaining Blockchain</a></h3>
+<h4 id="web3-blockchain-fundamentals-mooc"><a class="header" href="#web3-blockchain-fundamentals-mooc">Web3 Blockchain Fundamentals MOOC</a></h4>
+<p><a href="https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J">https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J</a></p>
+<h4 id="proof-of-stake"><a class="header" href="#proof-of-stake">Proof of Stake</a></h4>
+<p><a href="https://www.youtube.com/watch?v=CDvonnvqrs4&amp;list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&amp;index=15">https://www.youtube.com/watch?v=CDvonnvqrs4&amp;list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&amp;index=15</a></p>
+<h3 id="can-we-have-voting-system-without-using-blockchain-through-cryptography"><a class="header" href="#can-we-have-voting-system-without-using-blockchain-through-cryptography">Can we have voting system without using blockchain through cryptography?</a></h3>
+<p>One can go through the links to implement voting in cryptography, meeting the required properties of voting system.</p>
+<p><a href="https://crypto.stanford.edu/pbc/notes/crypto/voting.html">https://crypto.stanford.edu/pbc/notes/crypto/voting.html</a></p>
+<p><a href="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeibuirxnrpjd6tagfavkwmicfjlpmubydxtijz3dhfl6ur5urwk37u">An Implementation of a Mix-Net Based Network Voting Scheme and Its Use in a Private Organization</a></p>
+<p>Desirable features for voters and for administrators who manage voting system:</p>
+<ul>
+<li>
+<p>it enjoys flexibility in representing a vote, unlike homomorphic encryption based scheme where the design of the system depends heavily on the number of choices in each vote.</p>
+</li>
+<li>
+<p>the voters can simply vote-and-go and require only a small computational ability.</p>
+</li>
+<li>
+<p>by having authorities prove the correctness of their procedures, it achieves public verifiability, that is, anyone can verify the correctness of the tally.</p>
+</li>
+</ul>
+<p><a href="https://vitalik.eth.limo/general/2021/05/25/voting2.html">Blockchain voting is overrated among uninformed people but underrated among informed people</a></p>
+<h3 id="blockchain-beyond-voting"><a class="header" href="#blockchain-beyond-voting">Blockchain beyond voting</a></h3>
+<p>Blockchain extends beyond its application in voting; it encompasses smart contracts and incentive distributions as well. It can be referred to as a publicly operated peer-to-peer open source application, devoid of centralized ownership. The versatility of blockchain lies in its adaptability; you can seamlessly integrate any compatible module to address specific problem sets. This technology empowers decentralized and trustless systems, ensuring transparency and security in various domains beyond just voting.</p>
+<h3 id="smart-contracts"><a class="header" href="#smart-contracts">Smart Contracts</a></h3>
+<p>Smart contracts are self-executing contracts with the terms of the agreement directly written into code.</p>
+<h3 id="navigating-bugs-vulnerabilities-and-open-source-solutions"><a class="header" href="#navigating-bugs-vulnerabilities-and-open-source-solutions">Navigating Bugs, Vulnerabilities, and Open Source Solutions</a></h3>
+<p>While blockchain apps can be developed as fully open source, with all components, including the frontend and its dependencies, being open source or FOSS (Free and Open Source Software), there is still a chance of encountering bugs. These bugs can potentially lead to security vulnerabilities and even result in the theft of funds.  Additionally, poor algorithm design without thorough validation (e.g. through game theory etc.) can make the app susceptible to attacks.</p>
+<p>However, since the source code is publicly available, anyone is free to audit it, identify vulnerabilities, and contribute to fixing them. This transparency allows for a collaborative effort in enhancing the security of the application, as the community can collectively work towards identifying and addressing potential risks.</p>
+<h3 id="how-can-we-make-apps-low-stake"><a class="header" href="#how-can-we-make-apps-low-stake">How can we make apps low-stake?</a></h3>
+<p>The higher the stake involved, the more precarious it becomes for our democracy and economy in the event of hacking or bugs, despite it being decentralized and open-source. How can we make the system involve less stake?</p>
+<p>It can be subtle, depending on the intertwining processes in the algorithm. Take, for example, the design of a voting system. First Past the Post (FPTP) is more <a href="../the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html#votes-by-party-in-2023-legislative-assembly-election">dangerous</a> than Single Winner Approval. Single Winner Approval is more dangerous than Multi-Winner Approval (in thousands). Similarly, elections every five years are more dangerous than elections every six months. With direct democracy, stakes will be low, and there will be less chance of coercion.</p>
+<p>We can also create a low-stakes system by decentralizing various supply chains and institutions, as well as separating powers, making them autonomous. This can be achieved through <a href="./tyranny_of_the_majority.html">separate governance</a> using different methods like separate voting system, whether it's in social media, journalism, the police force, transportation, super markets, universities or even by decentralizing the power of election commissions to ensure that free and fair ballot paper elections are conducted.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../chapters/democracy/competitive_collaboration.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../chapters/economics/yard-sale-model.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../chapters/democracy/competitive_collaboration.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../chapters/economics/yard-sale-model.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
