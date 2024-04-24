@@ -55,3 +55,8 @@ There is no data available on which categories tax collection is highest. Detail
 Shifting the focus towards pre-distribution entails a fundamental reevaluation of economic policies and structures to address income disparities at their source, rather than relying solely on redistribution measures after income has already been unequally distributed. This concept emphasizes proactive interventions within the market itself to promote fairer outcomes from the outset.
 
 At its core, pre-distribution acknowledges that the initial distribution of income within a market economy is influenced by various mechanisms such as labor market dynamics, corporate governance structures, technological advancements, and institutional frameworks. By directing attention towards these mechanisms, policymakers can implement strategies that foster greater equality in the distribution of income, even before taxes and transfers come into play.
+
+
+We can achieve pre-distribution by [reinventing our organization](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeig42esblqefhpyf4ozx5uhwl7nosxaddrvih274zpttgev7xoplxu?filename=Frederic%20Laloux%20-%20Reinventing%20Organizations-Nelson%20Parker%20(2014).epub) stopping monopolies, and building cooperatives and decentralized autonomous organizations with pre-distribution built-in, using game theory through smart contracts.
+
+
