@@ -5,7 +5,11 @@ Achieving a society with both freedom and peace is of course no simple task. It 
 
 
 But how is this possible? What kind of power can the democratic opposition mobilize that will be sufficient to destroy the dictatorship and its vast military and police networks? The answers lie in an often ignored understanding of political power. Learning this insight is not really so difficult a task. Some basic truths are quite simple.
- 
+
+## Local candidates need to take away support from BJP
+
+Local candidates and MLAs need to take away support from BJP. BJP is playing a dangerous game of fascism by trying to take over every possible institute they can. People need to stop supporting local candidates that are from BJP. Local candidates can join any party, including independent, but not BJP. Remember, in a one-party dictatorship, there is hardly any power left with local candidates, so why vote for them? Democracy is about making decisions by consensus, by listening to everyone, not decisions made by a single supreme leader. Remember how a dictator gets its power. All support systems of dictator need to be broken. Bring Down Dictatorship.
+
  
 ## Necessary sources of political power
 
@@ -31,6 +35,15 @@ Naturally, dictators are sensitive to actions and ideas that threaten their capa
 However, that is not the end of the story. Repression, even brutalities, do not always produce a resumption of the necessary degree of submission and cooperation for the regime to function.
 
 If, despite repression, the sources of power can be restricted or severed for enough time, the initial results may be uncertainty and confusion within the dictatorship. That is likely to be followed by a clear weakening of the power of the dictatorship. Over time, the withholding of the sources of power can produce the paralysis and impotence of the regime, and in severe cases, its disintegration. The dictators’ power will die, slowly or rapidly, from political starvation.
+
+
+## Conclusion
+
+In conclusion, the struggle against authoritarianism necessitates a unified front comprising citizens, elected officials, and local representatives. It requires a concerted effort to undermine the sources of power upon which dictators depend, thereby weakening their stranglehold on society.
+
+By refusing to support local candidates affiliated with authoritarian regimes, citizens can disrupt the regime's access to essential resources and undermine its authority. Democracy thrives on consensus and inclusive decision-making, not unilateral edicts from a supreme leader.
+
+Remember, the power of a dictatorship lies not in its inherent strength, but in the acquiescence and compliance of the governed. Through collective action and steadfast resistance, we can dismantle the foundations of tyranny and usher in an era of genuine democratic governance. It is incumbent upon us all to stand firm in defense of liberty, justice, and the rule of law.
 
 
 ## The “Monkey Master” fable
