@@ -8,7 +8,7 @@ But how is this possible? What kind of power can the democratic opposition mobil
 
 ## Local candidates need to take away support from BJP
 
-Local candidates and MLAs need to take away support from BJP. BJP is playing a dangerous game of fascism by trying to take over every possible institute they can. People need to stop supporting local candidates that are from BJP. Local candidates can join any party, including independent, but not BJP. Remember, in a one-party dictatorship, there is hardly any power left with local candidates, so why vote for them? Democracy is about making decisions by consensus, by listening to everyone, not decisions made by a single supreme leader. Remember how a dictator gets its power. All support systems of dictator need to be broken. Bring Down Dictatorship.
+Local candidates and MLAs need to take away support from BJP. BJP is playing a dangerous game of fascism by trying to take over every possible institute they can. People need to stop supporting local candidates that are from BJP. Local candidates can join any party, including independent, but not BJP. Remember, in a one-party dictatorship, there is hardly any power left with local candidates, so why vote them? Democracy is about making decisions by consensus, by listening to everyone, not decisions made by a single supreme leader. Remember how a dictator gets its power. All support systems of dictator need to be broken. Bring Down Dictatorship.
 
  
 ## Necessary sources of political power
