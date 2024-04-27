@@ -42,10 +42,14 @@ Whatever you achieve in life, whatever you have acquired, whether wealth or succ
 **Increased empathy for others:**  
 Understanding others' situations and trying to feel them can increase empathy. Understanding means trying to know the causation, which can prompt you to act with compassion to offer help. It can also contribute to a high degree of self-awareness.
 
+## Potential pitfall while talking about free will
+
 It can also have a different and potentially negative impact if it's taken with a casual meaning.
 
 **Taking responsibility for your own actions:**  
-You might start thinking that nothing is within your control, so why feel responsible for your actions? If everything is predetermined, why bother to act? The absence of free will is linked to the cause-and-effect relationship, and quantum mechanics posits that it is probabilistic. Your thoughts—how you think—have an impact on how you act, and how you act has an impact on others. It's a feedback loop.
+You might start thinking that nothing is within your control, so why feel responsible for your actions? If everything is predetermined, why bother to act? The absence of free will is linked to the cause-and-effect relationship, and quantum mechanics posits that it is probabilistic. Your thoughts—how you think—have an impact on how you act, and how you act has an impact on others. 
+
+**[It's a feedback loop](../chapters/philosophy/understanding_feedback_loop.md)**.
 
 **Meaning of life:**  
 Thinking about the brain in terms of atoms, molecules, and chemical pathways can make life feel meaningless. One may fall into the fallacy of composition—no atoms are alive, so, therefore, nothing made of atoms is alive. However, being alive has a specific definition involving processes like respiration and growth. Form follows function, and different forms lead to different functions. Atoms don't have the same properties as molecules, and similarly, a human body doesn't have the same properties as individual atoms. At the system level, we are all interdependent and play specific, meaningful roles in terms of family, community, or the ecosystem.
