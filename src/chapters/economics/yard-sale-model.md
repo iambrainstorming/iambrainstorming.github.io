@@ -47,6 +47,14 @@ The implementation of the Goods and Services Tax (GST) in India is one example.
 
 There is no data available on which categories tax collection is highest. Details categorical tax collection data is needed. As tax collection is high, but there isn't much increase in income or spending, one can say that the government is heavily taxing inelastic goods. According to economics, [the deadweight loss is less for inelastic goods](https://mru.org/courses/principles-economics-microeconomics/deadweight-loss-definition-yacht-tax) because people don't have substitutes for these goods to avoid the tax. In other words, goods that are considered basic necessities are taxed rather than luxuries. Heavy taxation in poor countries like India places significant pressure on the working class and unemployed.
 
+## Inheritance tax and wealth redistribution
+
+Inheritance tax, also known as estate tax, is a form of [wealth redistribution](https://youtu.be/8P2tKoshyMU?si=J8LBQp1Au5oYpBYk) that aims to reduce economic inequality by taxing the transfer of assets from one generation to another. This tax is levied on the value of a deceased person's estate before it is distributed to their heirs. The rationale behind this tax is that it prevents the accumulation of vast wealth within a small number of families, thereby promoting social mobility and ensuring that the overall distribution of wealth in society is more equitable. Critics argue that inheritance tax can discourage entrepreneurship and wealth creation, as well as burdening middle-class families with large tax bills. However, proponents maintain that inheritance tax is an essential tool for promoting social justice and preventing the creation of a permanent aristocracy of wealth.
+
+Does inheritance tax discourage entrepreneurship and wealth creation? It depends on execution, and it's a more complex issue of business logistics. It can actually be used to break monopolies and foster more entrepreneurship.
+
+By breaking up concentrations of wealth and redistributing it among smaller entrepreneurs, inheritance tax can help prevent the [formation of monopolies and oligopolies](https://iambrainstorming.github.io/opinionated_observer/factcheck/tavleen_sign_factcheck.html) that can stifle competition and innovation. This can lead to a more vibrant and competitive business environment, which can ultimately benefit consumers, businesses, and the economy as a whole.
+
 
 ## We need to start thinking about pre-distribution
 
