@@ -53,6 +53,8 @@ Inheritance tax, also known as estate tax, is a form of [wealth redistribution](
 
 Does inheritance tax discourage entrepreneurship and wealth creation? It depends on execution, and it's a more complex issue of business logistics. It can actually be used to break monopolies and foster more entrepreneurship.
 
+It's not something that we will implement inheritance tax and things will now work fine. It can actually disrupt the business and make goods more expensive for consumers through taxation. One needs to find ways for more competition, remove barriers in markets, and ensure the efficient transfer of ownership to distributed networks so that logistics remain efficient without creating a burden on common people.
+
 By breaking up concentrations of wealth and redistributing it among smaller entrepreneurs, inheritance tax can help prevent the [formation of monopolies and oligopolies](https://iambrainstorming.github.io/opinionated_observer/factcheck/tavleen_sign_factcheck.html) that can stifle competition and innovation. This can lead to a more vibrant and competitive business environment, which can ultimately benefit consumers, businesses, and the economy as a whole.
 
 
