@@ -164,4 +164,4 @@ While vertical farming has numerous benefits, it also faces challenges related t
 
 > The high upfront costs of precision vertical farming, which amount to crores, pose a significant barrier for individuals to establish such operations. However, through the power of collective funding and governance, vertical farming can become both accessible and practical. One possible approach is to consider community investment, with each person contributing around $25 (which [can be paid back in form of UBI or agricultural outputs](./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)), to establish community-run vertical farming ventures.
 
-Privacy and large-scale computation are an important requirements for building decentralized supply chains. [New blockchains](https://wiki.phala.network/en-us/build/general/features/) are do made to solve these issues.
+Privacy and large-scale computation are an important requirements for building decentralized supply chains. [New blockchains](https://fleek.network/) and [zero knowledge proofs](https://www.risczero.com/) are do made to solve these issues.
