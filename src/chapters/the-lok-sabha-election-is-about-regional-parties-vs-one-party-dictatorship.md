@@ -503,7 +503,7 @@ EVM is even more dangerous with FPTP voting method, because a single EVM manipul
 
 ### EVM Vote count Mismatch
 
-[EVM Vote Count Mismatch In 370+ Seats& EC Refuses to Explain. Mismatch in votes polled& counted in EVMs in multiple Parliamentary constituencies in LS Election 2019](https://www.thequint.com/news/india/lok-sabha-election-results-2019-mismatch-in-votes-polled-and-counted-in-evm-on-multiple-seats)
+[EVM Vote Count Mismatch In 370+ Seats & EC Refuses to Explain. Mismatch in votes polled & counted in EVMs in multiple Parliamentary constituencies in LS Election 2019](https://www.thequint.com/news/india/lok-sabha-election-results-2019-mismatch-in-votes-polled-and-counted-in-evm-on-multiple-seats)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PLY7ZwWFuhc?si=F8W8raYCgjacogE_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -543,8 +543,6 @@ So basically, it means using an Electronic Voting Machine (EVM) as a printer to 
 One way to solve vote stuffing is to allow only a single paper in the printer (VVPAT) during voting. Just like a secret ballot is provided by [tearing off the serial number and voter signature](./images/ballot_paper.webp), now the single secret ballot can go through the printer to print out the vote.
 
 Also, voters, especially the uneducated ones, need to be trained to recheck their vote printed on the VVPAT. It's double work for them; first, they have to vote on the EVM appropriately, and then check if the vote is the same or not on the VVPAT. Furthermore, if you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities?
-
-
 
 EVM may decrease spoilt or invalid votes. Although I couldn't find data on the number of spoilt votes in India.
 

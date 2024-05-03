@@ -82,6 +82,8 @@ Price discovery every day or weekly.
 
 [Details in the link.](https://amiyatulu.github.io/blog/shivarthu/consensus_price_discovery.html)
 
+## Supply Chains
+
 **Different supply chains can be built with their own cryptocurrency.**
 
 Supply chains can use free market pricing derived from demand and supply where required rather than consensus pricing, or price derived by governance.
@@ -95,6 +97,7 @@ Supply chains can use free market pricing derived from demand and supply where r
 7) Governance with expertise that takes care of the whole system like setting taxes or subsidies.  
 6) Equitable token distribution, so that everyone can create a demand and rich doesn't get richer.
 
+## Food Delivery 
 **Take for example modified version of the cooked food supply chain such as Zomato.**  
 
 1) Free monthly tokens can be given to kyc users collected from the randomized tax. It keeps the currency deflationary with a fixed supply. ([https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection))  
@@ -108,6 +111,9 @@ Subsidies cause more trade and can be wasteful due to deadweight loss if it's no
 
 When the price is made fixed, randomized tax collected from deflationary currency can disincentivize buying or keeping the token, which results in less demand. So price of token needed to be slowly increased with time like 1-10% per year to compensate the 1-10% tax, also taking the account of the utility.
 
+
+## Ride sharing
+
 **Now look at ride-sharing supply chain like ola:**  
 
 1) Free monthly tokens can be given to KYC user collected from the randomized tax. It keeps the currency deflationary with a fixed supply. ([https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection))  
@@ -116,6 +122,9 @@ When the price is made fixed, randomized tax collected from deflationary currenc
 4) Subsidize electric bikes or bicycle ride  
 5) Governance with expertise that takes care of the whole system like setting taxes or subsidies and women's safety.  
 6) No commission by the trade maker or app provider
+
+
+## Agriculture
 
 **Another example can be the supply chain of precision farming** (like hydroponics agriculture, biofloc fish farming, [hydroponics livestock feed](https://agricultureguruji.com/hydroponic-fodder/)) :
 
