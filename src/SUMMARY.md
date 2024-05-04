@@ -64,6 +64,7 @@
 - [Open Source or Free Software or FOSS Philosophy](./chapters/programming/foss_philosophy.md)
 - [Modern-Day Bread and Circus](./chapters/philosophy/bread_and_circus.md)
 - [Key points – How to know who’s trustworthy](./chapters/philosophy/how_to_know_who_trustworthy.md)
+- [Grit: The power of passion and perseverance](./chapters/academics/grit.md)
 
 
 # India Employment
