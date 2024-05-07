@@ -255,7 +255,7 @@ More points to cover, treat it like a manifesto:
 
 - 60%-70% forest cover
 
-- [Sustainable Agriculture](./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
+- [Sustainable Agriculture](./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md#agriculture)
 
 - [Decentralizing Supermarkets Through Public Ownership and Control](./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)
 

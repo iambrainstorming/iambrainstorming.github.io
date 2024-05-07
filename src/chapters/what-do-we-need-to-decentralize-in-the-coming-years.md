@@ -251,7 +251,13 @@ Don't overthink which instance to choose; you can change your instance anytime i
 
 Use the 'Install' shortcut so that the website functions like an Android app, and you won't have to remember the URL.
 
+### Moderators per user in fediverse
 
+Assuming that Monthly Active Users (MAUs) are the relevant quantity, and assuming further that there is at least one admin or moderator per server, the ratio is (1 million) to (27 thousand) which is approximately 1/37. Though it's a very crude estimate which averages over wildly differently-sized instances.
+
+![Moderators](./images/fediverse_moderators.png)
+
+[Data Shows X Has Significantly Fewer Moderation Staff Than Other Platforms ](https://www.socialmediatoday.com/news/x-has-significantly-fewer-moderation-staff/714650/)
 
 ### Personalized Feeds
 
