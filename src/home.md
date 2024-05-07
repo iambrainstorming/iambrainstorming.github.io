@@ -5,6 +5,10 @@ iambrainstorming
 
 <https://iambrainstorming.github.io>
 
+<https://iambrainstorming.4everland.app/>
+
+<https://iambrainstorming.on-fleek.app/>
+
 
 Git
 
@@ -14,9 +18,4 @@ Git
 <https://gitlab.com/iambrainstorming/blog>
 
 
-Clone:
-
-Only update it weekly or in case github is down.
-
-<https://iambrainstorming.4everland.app/>
 
