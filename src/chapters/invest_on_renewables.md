@@ -162,3 +162,9 @@ The report assesses the consumption emissions of different income groups between
 
 
 ![Carbon Footprints in 2030](./images/carbon_footprints.jpg)
+
+## Indian Ocean in permanent heatwave
+
+A new study shows the steady warming of the Indian Ocean, and predicts that the ocean will be in a 'permanent heatwave' state by the end of the century.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jGP5DldecQI?si=QOKbBLc71PPG0DPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
