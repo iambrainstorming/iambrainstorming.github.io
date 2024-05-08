@@ -137,6 +137,14 @@ This 'thirsty' concrete absorbs 880 gallons of water a minute — here's how it 
 
 ![Traffic in Gurgaon](./images/traffic-in-gorgaon.jpeg)
 
+## Traffic in Hyderabad IT corridor
+
+  <video controls height="500">
+    <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeihvp7sphelthx5pvbycljfqg6jvkfnek2ledkzpodj2ddcsxagiky" type="video/mp4">
+    <!-- Add additional source elements for different video formats if needed -->
+    Your browser does not support the video tag.
+  </video>
+
 ## Get your self a car, looser. What do you think you are?
 
 <video width="100%" controls preload="none" poster="./images/bike_rails.png">
