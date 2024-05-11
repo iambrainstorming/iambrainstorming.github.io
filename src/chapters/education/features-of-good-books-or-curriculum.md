@@ -1,4 +1,4 @@
-# Features of good books or curriculum"
+# Features of good books or curriculum
 
 **Learning About Learning Resources**  
 **[https://github.com/amiyatulu/teacher\_resources](https://github.com/amiyatulu/teacher_resources)**
