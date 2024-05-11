@@ -52,6 +52,10 @@
   - [How to tackle disinformation?](./chapters/how-to-tackle-disinformation.md)
   - [Secrets of Cooperation](./chapters/cooperation/cooperation-secrets.md)
 
+# Education
+
+- [Features of good books or curriculum](./chapters/education/features-of-good-books-or-curriculum.md)
+
 # AI/ Machine Learning
 
 - [Do we have to fear machine learning or AI?](./chapters/do-we-have-to-fear-machine-learning-or-ai.md)

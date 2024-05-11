@@ -1,15 +1,4 @@
----
-title: "All books that don't meet the learning criteria must be taken off"
-date: "2017-01-14"
-categories: 
-  - "books"
-  - "curriculum"
-  - "education"
-  - "idea"
-  - "learning-strategies"
-  - "original"
-  - "politics"
----
+# Features of good books or curriculum"
 
 **Learning About Learning Resources**  
 **[https://github.com/amiyatulu/teacher\_resources](https://github.com/amiyatulu/teacher_resources)**
@@ -19,9 +8,9 @@ Textbook must cover six fundamental instructional strategies while presenting th
 1) [Pairing graphics with words](http://www.learningscientists.org/blog/2016/9/1-1)  
 2) [Linking abstract concepts with concrete representations](http://www.learningscientists.org/blog/2016/8/25-1)
 
-![](images/f77bb-abstract.jpg)
+![](../images/f77bb-abstract.jpg)
 
-![](images/21c5c-concrete.png)
+![](../images/21c5c-concrete.png)
 
 Why we face difficulty to remember abstract concepts?
 
@@ -29,21 +18,21 @@ Why we face difficulty to remember abstract concepts?
 
 3) [Posing probing questions](http://www.learningscientists.org/blog/2016/7/7-1)
 
-![](images/screenshot-from-2019-04-07-19-58-55.png)
+![](../images/screenshot-from-2019-04-07-19-58-55.png)
 
 [http://mrkempnz.com/2014/06/questioning-the-most-powerful-tool-in-the-classroom-an-action-research.html](http://mrkempnz.com/2014/06/questioning-the-most-powerful-tool-in-the-classroom-an-action-research.html)
 
 "What Makes a Great Question?" rubric  
 Why, how, what if, how do you know, what are the evidences
 
-![](images/08cc9-inquiry.png)
+![](../images/08cc9-inquiry.png)
 
 **What if and why not  
 helps you to find alternatives to a solution**
 
 4) Repeatedly alternating problems with their solutions provided and problems that students must solve.
 
-![](https://iambrainstorming.files.wordpress.com/2021/05/solved_unsolved.png?w=821)
+![](../images/solved_unsolved.png)
 
 Solved example and unsolved problem   
 with steps of problem-solving strategy: 1) sort 2)strategize 3) solve and 4) check.   
@@ -58,7 +47,7 @@ with steps of problem-solving strategy: 1) sort 2)strategize 3) solve and 4) che
 Detailed explanation of the strategies is given here, NCTQ learning about learning   [https://drive.google.com/file/d/0B8x9dkicaW23bFMyeS1WZ1NYT2c/view?usp=sharing](https://drive.google.com/file/d/0B8x9dkicaW23bFMyeS1WZ1NYT2c/view?usp=sharing)  
 and [http://www.learningscientists.org/](http://www.learningscientists.org/)
 
-![](images/82964-six_strategies.jpg)
+![](../images/82964-six_strategies.jpg)
 
 The problem with our education system:  
 **Most (99%) books referred by our teachers (whether its schools or higher education), not even meet a single criterion, most importantly posing probing questions and linking abstract concepts with concrete representations, which are the foundation for learning and comprehension/understanding.**   
@@ -104,7 +93,7 @@ Have you ever heard the phrase “form follows function?” It’s a philosophy 
 
 > **One example is not enough, provide as many as you can to explain its use in a different context and situations**
 
-![example](images/example.png)
+![example](../images/example.png)
 
 Function and Limits from book Essential Calculus by James Stewart
 
@@ -116,14 +105,14 @@ Rolling one die has 6 simple events: 1, 2, … 6
 Roll two dice: 7 **(not a simple event)**  
 Rolling two dice have 36 simple events: 1-1, 1-2,….., 6-6, and 7 is NOT a simple event because it CAN BE broken down into simpler events, such as 3-4 or 6-1.
 
-![](https://iambrainstorming.files.wordpress.com/2020/04/classification.png?w=369)
+![](../images/classification.png)
 
 A classification Problem
 
 2) **Diagrammatic representation of text** with proper labeling and caption containing enough description should be provided.  
 e.g.
 
-![](images/2a284-feedforwad_loop.png)
+![](../images/2a284-feedforwad_loop.png)
 
 Molecular Biology of the Cell, Alberts
 
@@ -136,18 +125,18 @@ Example of an analogy: Converting AC to DC
 The converter uses a diode, a tiny electronic device that acts as a one-way valve to allow electron flow in one direction only. Since alternating current changes its direction each half-cycle, current passes through a diode only half of each period. The output is a rough dc, and it is off half the time. To maintain continuous current while smoothing the bumps, a capacitor is used. The capacitor acts as a storage reservoir for a charge.  
 Diagram with **analogies**:
 
-![](images/0f1c5-analogy1.png)
+![](../images/0f1c5-analogy1.png)
 
-![](images/4d302-analogy2.png)
+![](../images/4d302-analogy2.png)
 
 Conceptual Physics, by Paul G. Hewitt
 
 4)After the text has explained a concept, it must give few questions on the particular concept in the same place. The questions should be prepared in a manner that, it checks the understanding of the concept, not just recall of the concept.  
 5) Questions should be **probing**, also many questions should be **graphics/diagrams with texts**. Most books that are recommended usually don't contain visual questions. For example, if you look our books of biology, very less visual, and almost no probing questions are present, do compare with questions of Campbell Biology, Molecular Biology of the Cell, how they bring probing questions with visuals in them.
 
-![](images/91370-family.jpg)
+![](../images/91370-family.jpg)
 
-![](images/e96a9-synthesize_questions.jpg)
+![](../images/e96a9-synthesize_questions.jpg)
 
 Question from Campbell Biology
 
@@ -155,11 +144,11 @@ Question from Campbell Biology
 
 > Don't make it (the content) simple, teach the complexity by simplifying it. The curriculum should cover the depth of a concept and breadth of the subject without the clutter.
 
-![](images/c7c75-book.jpg)
+![](../images/c7c75-book.jpg)
 
 7) Books should be written in a manner that they talk with the students, not throwing information like short notes.
 
-![](images/4ce43-trigonometry.jpg)
+![](../images/4ce43-trigonometry.jpg)
 
 8) A book should also provide memory assistance for hard to remember information.
 
@@ -169,12 +158,12 @@ Kingdom–phylum–class–order–family–genus–species
 
 9)Questions should have relevance to real problems, concrete situations, application based, not all hypothetical questions detached from reality.
 
-![](images/28ac0-c3eyufiwgaak3hn.jpg)
+![](../images/28ac0-c3eyufiwgaak3hn.jpg)
 
 10) Questions and distractor in the case of MQCs should be very clear, that checks the comprehension, without creating confusion. Many times questions are written in a way that is just difficult to understand, you can't even know what the question is actually asking, so how can you even try to solve it even if you understood the concepts.  
 11) Each question in the textbook should have its purpose, **problems shouldn't be designed just for the sake of doing it**, it should **improve** the understanding of the concept at a deeper level, eliminate **misconceptions** and fix concept into memory.
 
-![](images/b52f4-rote.png)
+![](../images/b52f4-rote.png)
 
 A formula from NCERT Book
 
@@ -184,7 +173,7 @@ A formula from NCERT Book
 
 12) Real photograph and funny cartoons with explanations and questions (e.g. in case of representing resistance as zigzag wire, it can be represented as bulbs)
 
-![](images/4118b-photograph.png)
+![](../images/4118b-photograph.png)
 
 _Conceptual Physics, by Paul G. Hewitt_
 
@@ -192,7 +181,7 @@ _Conceptual Physics, by Paul G. Hewitt_
 
 _Venkatraman Ramakrishnan interview: Nobel prize for chemistry for work on **ribosome** structure_
 
-![](images/8896d-venki.jpg)
+![](../images/8896d-venki.jpg)
 
 _Venkatraman Ramakrishnan_
 
@@ -202,19 +191,19 @@ _Proteins carry oxygen in our blood, form antibodies that fight microbes, and ev
 
 14) Posing a probing question before explaining the topic.
 
-![](images/scientific-methods.png)
+![](../images/scientific-methods.png)
 
 _Conceptual Physical Science by Hewitt, Suchocki, Hewitt_
 
 15) Books should include questions that address life skills like collaboration, and 21st-century skills like the ability to analyze and interpret data. It must have questions with a **section for data interpretation and analysis and questions for group work** along with conceptual, mathematical and review questions. 
 
-![](images/237fc-scientific2bskills.png)
+![](../images/237fc-scientific2bskills.png)
 
 Chemistry a Molecular Approach,  Nivaldo J Tro
 
 An example of question that promotes critical thinking. Critical thinking questions are hard to develop and require a lot of time for research and effort:
 
-![](https://iambrainstorming.files.wordpress.com/2020/11/plusminus.jpeg?w=1024)
+![](../images/plusminus.jpg)
 
 > Questions should be brain friendly. Memory is reconstructive not reproductive.
 
@@ -222,12 +211,12 @@ An example of question that promotes critical thinking. Critical thinking questi
 
 16) Each section should give a **message or lesson about big ideas** that help to make a judgment or **transfer of learning** in different situations.  The essence of the message should be in the title that is descriptive and a further descriptive subtitle. 
 
-![](images/ffb58-message2.png)
+![](../images/ffb58-message2.png)
 
 A descriptive title  
 from book Molecular Biology of the Cell, Alberts
 
-![](images/2fca5-message1.png)
+![](../images/2fca5-message1.png)
 
 A descriptive subtitle  
 from book Inorganic Chemistry  
@@ -240,7 +229,7 @@ by Shriver, Weller, Overton, Rourke and Armstrong
 
 > The narrative technique provides a deeper meaning for the reader and helps the reader to use imagination to visualize situations.
 
-![](images/d9c17-plant_colonization.png)
+![](../images/d9c17-plant_colonization.png)
 
 Colonization of Plants in the barren landscape  
 Campbell Biology, Reece, Urry, Cain et. al.
@@ -261,7 +250,7 @@ Anecdotal evidence (evidence collected in a casual or informal manner and relyin
 > [https://github.com/amiyatulu/teacher\_resources/raw/master/Stories:AndButTherefore.pdf](https://github.com/amiyatulu/teacher_resources/raw/master/Stories:AndButTherefore.pdf)  
 >   
 
-![](images/abt.png)
+![](../images/abt.png)
 
 ABT: All You need to know to tell stories by Randy Olson  
 i wonder
@@ -269,8 +258,7 @@ i wonder
 > **The conclusion should be supported by the premises and the arguments with contradictions, inconsistencies, and exceptions mentioned in the arguments.**
 
 > Extremely simplified models are useful to anyone who understands the assumptions, understands how the assumptions drive outcomes, understands how violation of assumptions affects outcomes, and understands how this defines the scope of the original model and its extensions.
-> 
-> [https://twitter.com/oliverbeige/status/1159046541778309120?s=20](https://twitter.com/oliverbeige/status/1159046541778309120?s=20)
+
 
 There are three parts to any [proposition](http://www.yitsplace.com/Programming/prop_parts.htm):
 
@@ -282,18 +270,18 @@ There are three parts to any [proposition](http://www.yitsplace.com/Programming
 > 
 > [http://www.yitsplace.com/Programming/prop\_parts.htm](http://www.yitsplace.com/Programming/prop_parts.htm)
 
-![](images/logic.png)
+![](../images/logic.png)
 
 A concise Introduction to Logic  
 by Patrick J. Hurley, Lori Watson
 
-![](images/logic2.png)
+![](../images/logic2.png)
 
 Without logic, your working long hours will make things even worse
 
 **18) Topics can have connection boxes containing discussion about situations that are surprising, nonintuitive or widely-held false ideas.**
 
-![](images/why-sex.png)
+![](../images/why-sex.png)
 
 Why do males exits? Why bdelloids have completely abandoned sex?  
 Biology, the unity and diversity of life, by Starr, Taggart, Evers et al.
@@ -309,18 +297,16 @@ Cognitive overload occurs when the total cognitive load exceeds the working memo
 
 e.g. This material creates a **high** intrinsic **cognitive load** because of use of too many technical terminologies (many times hard to imagine and comprehend)  in a single sentence or paragraph.
 
-![](images/18d54-screenshot2bfrom2b2017-12-122b14-16-30.png)
+![](../images/18d54-screenshot2bfrom2b2017-12-122b14-16-30.png)
 
 NCERT Biology
 
 Cognitive load theory in detail:  
 [https://github.com/amiyatulu/teacher\_resources/raw/master/cognitive\_load\_theory\_report\_AA1.pdf](https://github.com/amiyatulu/teacher_resources/raw/master/cognitive_load_theory_report_AA1.pdf)
 
-![](images/cognitive-load.png)
+![](../images/cognitive-load.png)
 
 Education Centre for Education Statistics & Evaluation
-
-  
 
 > New information should be presented slowly after the previous one is mastered by elaboration and practice.
 > 
@@ -340,7 +326,7 @@ Students may mark the checkboxes with the following symbols
 It checks the level of confidence in the topics before and after learning. Students can use a pencil to mark the checkboxes, erase and reuse the checkboxes.  
 The preface of the book can have guidelines about "How to use the learning outcomes?" Learning outcomes can include **_each small components_** of learning in the checklist.
 
-![](images/d989f-learning_objectives.png)
+![](../images/d989f-learning_objectives.png)
 
 Key Learning Outcomes from Book: Chemistry A Molecular Approach, Nivaldo J. Tro  
   
@@ -350,7 +336,7 @@ Blog on the importance of sharing learning outcomes:
 
 22) End of the chapter can provide references to the texts. [Referencing is a way to provide evidence to support the assertions and claims in the content.](https://student.unsw.edu.au/why-referencing-important) It also helps the reader to dig deeper into the scientific methodology that validates the assertions and claims.
 
-![](images/80a0c-screenshot2bfrom2b2018-09-042b12-05-59.png)
+![](../images/80a0c-screenshot2bfrom2b2018-09-042b12-05-59.png)
 
 The Psychology of Human Sexuality by Justin J. Lehmiller
 

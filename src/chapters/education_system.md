@@ -4,23 +4,9 @@
 
 ## Girls education
 
-According to UNICEF:
+### When we invest in girls’ education
 
-### When we invest in girls’ secondary education
-
-- The lifetime earnings of girls dramatically increase
-
-- National growth rates rise
-
-- Child marriage rates decline
-
-- Child mortality rates fall
-
-- Maternal mortality rates fall
-
-- Child stunting drops
-
-Poor families have more willingness to invest in boys education rather than girls education because girls can't contribute to parents family earnings, as they will get married and move to their husbands home.  
+Investing in girls' secondary education has far-reaching benefits that extend beyond individual gains. When girls are provided with equal opportunities to pursue education, their lifetime earnings significantly increase, breaking the cycle of poverty and empowering them to contribute to their communities and nations. National growth rates rise as a result of a more educated and skilled workforce. Additionally, social issues such as child marriage, child mortality, maternal mortality, and child stunting decline, leading to healthier and more prosperous communities. Despite these proven advantages, girls' education is often undervalued, especially in poorer families, due to societal norms and the misconception that girls will not contribute financially to their parents. By investing in girls' secondary education, we not only empower individual girls but also create a ripple effect of positive change that transforms societies and drives global progress.
 
 ## Bullying 
 
@@ -44,8 +30,8 @@ For example, Girls are good at biology and boys are good at maths. We always hav
 Our education system is designed as a scarce resource. Quality education doesn't scale, as a result, we have limited seats, which leads to the reservation for lower caste to give them a chance for upliftment. 
 
 ## Costly education
-
-Higher education is costly, many go to higher education by taking loans or quit from their education as they can't afford it. 
+ 
+Privatization of schools and colleges has made education costly and inaccessible to a significant portion of the population. The shift towards privatization has resulted in a growing disparity between those who can afford quality education and those who cannot. This has led to a two-tiered system where the wealthy have access to superior resources and opportunities, while the less fortunate are left behind. The high cost of private education often forces families to make difficult choices, such as taking on significant debt or sacrificing other necessities to afford tuition fees. Furthermore, privatization can lead to a focus on profit over educational quality, with schools and colleges becoming businesses that prioritize financial gain over the well-being and success of their students
 
 ## Grades
 
@@ -155,3 +141,18 @@ e.g. One cannot anticipate an improved curriculum if our workforce, comprising t
 Additionally, one cannot expect a [socialist curriculum](./capitalism-vs-socialism-which-one-is-working.md) if the workforce is structured to serve capitalism. Furthermore, proper curriculum reform cannot be anticipated if politics is [highly centralized](./the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md#how-will-you-explain-fptp-to-5-year-old).
 
 Furthermore, the [interconnectedness of education](./programming/interdisciplinary.md) spans across various fields, illustrating its flexibility and adaptability. Interdisciplinary education seamlessly integrates knowledge from diverse fields, fostering a holistic understanding that transcends traditional disciplinary boundaries. In the realms of medicine, infrastructure, and engineering, interdisciplinary education acts as a catalyst for innovation by encouraging collaboration between experts from various fields, leading to comprehensive solutions and advancements. For instance, the [concept of 15-minute cities](./democracy/competitive_collaboration.md#15-min-cities-and-modular-competitive-collaboration-algorithm), where residents can access essential services within a short radius, relies on innovative urban planning and infrastructure design that stems from [a well-educated and forward-thinking society](./academics/academician.md). Education, therefore, is not a standalone entity but a dynamic force that weaves its threads into the fabric of our daily lives, influencing our perspectives, decisions, and the very structure of the world we inhabit.
+
+
+
+## Challenges that need to be overcome to scale education
+
+Scaling education across districts and countries is indeed a complex and challenging endeavor that requires the collaboration of various stakeholders and sufficient resources. One of the key challenges is the need for substantial infrastructure development, which demands significant financial investment. However, with the advent of blockchain technology and cryptocurrencies, innovative funding mechanisms using smart contracts can be leveraged to support the necessary infrastructure without solely relying on governmental or wealthy sources.
+
+Nonetheless, establishing a decentralized governance system that effectively manages and optimizes educational processes is a daunting task. It entails iterative algorithm optimization based on new evidence, experimentation, advocacy, and the implementation of improved curriculum and evaluation systems. 
+
+As a tuition teacher for few years with a unique professional background in interdisciplinary research, spanning computational biology and computer science, I had the valuable opportunity to evaluate the diverse needs of students from various backgrounds and learning levels. Each student brings their own set of experiences, and understanding these differences is crucial to tailoring [effective teaching methods](./education/features-of-good-books-or-curriculum.md). However, creating systemic change in education and ensuring that every student receives a quality education goes beyond the efforts of a single teacher. It demands the collective dedication and collaboration of an entire teacher workforce.
+
+Managing and coordinating such a labor force adds another layer of complexity to the challenge of scaling education. It is important to acknowledge that addressing these challenges requires a multi-faceted approach involving technological innovation, financial resources, and the active participation of educators and stakeholders.
+
+The goal is to start small, with a few teachers at the table, and establish a suitable governance model built on smart contracts. We will iterate, improve, and scale as we go. Experiments in education tend to take longer, as learning is a years-long process. Completing a single book or course can take several months or even years of time.
+
