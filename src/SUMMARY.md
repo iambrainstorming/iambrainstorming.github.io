@@ -55,6 +55,7 @@
 # Education
 
 - [Features of good books or curriculum](./chapters/education/features-of-good-books-or-curriculum.md)
+- [Smartphones: An Evil Device Stealing Children's Childhood](./chapters/philosophy/smartphones-evil-device.md)
 
 # AI/ Machine Learning
 
