@@ -3,7 +3,8 @@
 ## The Dark Side of Smartphones
 
 The excessive use of smartphones can lead to significant neurological changes in children's developing brains. Research has found elevated levels of gamma-aminobutyric acid (GABA) in the brains of individuals with excessive smartphone use, resulting in poorer attention, control, and an increased tendency to be easily distracted. The constant flow of information and instant gratification provided by smartphones can also reduce children's attention spans and negatively impact their ability to focus. As children's brains are still developing, they are more susceptible to becoming dependent on the instant rewards and stimulation provided by these devices.
-Impact on Emotional and Social Development
+
+## Impact on Emotional and Social Development
 
 The excessive use of smartphones can also disrupt the healthy emotional and social development of children. The constant connectivity and instant gratification provided by these devices can interfere with their ability to regulate emotions effectively. Excessive screen time can lead to irritability, mood swings, and even depression when children are unable to access their devices. Moreover, the virtual world can become a substitute for real-life interactions, hindering the development of essential social skills and empathy. The overreliance on smartphones may also contribute to a sense of isolation and loneliness, as children spend less time engaging in face-to-face interactions and forming meaningful connections with peers and family members. 
 
