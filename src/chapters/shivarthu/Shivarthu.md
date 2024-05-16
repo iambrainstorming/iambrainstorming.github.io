@@ -14,8 +14,7 @@ Our democracy has many challenges, blockchain can provide a way to tackle those 
 
 ### Project Details
 
-Project Github link: <https://github.com/amiyatulu/shivarthu>
-
+Project Github link: <https://github.com/reaudito/shivarthu>
 
 ### Departments:
 
@@ -34,7 +33,7 @@ Moderators chosen through approval voting have the ability to invalidate the fak
 
 
 Experience evaluation pallet 
-<https://github.com/amiyatulu/shivarthu/tree/main/pallets/template>
+<https://github.com/reaudito/shivarthu/tree/main/pallets/profile-validation>
 
 
 <img src="Portfolio.svg" alt="portfolio" height="600"/>
@@ -42,7 +41,41 @@ Experience evaluation pallet
 
 ## The Schelling Game:
 
+### The schellingCoin
+
+The SchellingCoin is designed to encourage truthfulness through economic incentives. The coin's mechanism is based on the concept of Schelling Points, as described by Thomas Schelling.
+
+In essence, the idea is to create a scenario where individuals are motivated to tell the truth because they expect others to do so as well. In the case of the SchellingCoin, if we wanted to know if it rained in Paris this morning, we could ask every owner of the coin to vote secretly on whether it rained or not. After all the votes are cast, the results would be revealed, and those who voted in agreement with the majority would be rewarded with 10% of their coins, while those who voted differently would lose 10% of their coins.
+
+The SchellingCoin's mechanism is rooted in the concept of focal points, which Schelling described as "each person's expectation of what the other expects him to expect to be expected to do." In this case, the focal point is honesty. The idea is that every individual in the system expects others to vote truthfully, because they expect others to expect them to vote truthfully. This creates a self-reinforcing loop, where individuals are incentivized to tell the truth because they believe others will do the same.
+
+[Kleros Whitepaper](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiarvlogal2u7i566wdfwjqty53giccwmb6tcjz6zrmvs3rt56j37y)
+
 {{#include effectiveness_schelling_game.md}}
+
+### Sybil Attack:
+
+A Sybil attack is a type of attack on a peer-to-peer network or a decentralized system where an attacker creates multiple pseudonymous identities (Sybils) to gain a disproportionate control or influence over the network. This can be done by creating multiple fake identities, flood the network with fake requests, or manipulate the network's decision-making processes.
+
+### How more stakes, more chances of selecting as juror protects from Sybil attack?:
+
+In a system like the SchellingCoin, where the amount of stakes determines the chances of being selected as a juror, increasing the stakes for a node (user) makes it more difficult for an attacker to launch a Sybil attack. In a random selection process, an attacker could create multiple fake addresses to increase their chances of being selected as a juror. By being chosen more frequently than honest jurors, the attacker could effectively control the outcome. However, the stake-based selection mechanism ensures that only genuine users with a vested interest in the outcome are drawn as jurors, protecting the integrity of the system.
+
+
+### Alternative to more stakes, more chances of selecting as juror:
+
+Increased stakes and a greater likelihood of being chosen as a juror may lead to a concentration of wealthier individuals in the decision-making process. An alternative approach to mitigate Sybil attacks is to use Stake by KYC (Know Your Customer) and Positive Externality Score.
+
+#### Stake by KYC:
+
+In this approach, nodes are required to provide verifiable identification (KYC) to participate in the juror network. This ensures that each juror is a unique entity and cannot create multiple fake identities.
+
+#### Positive Externality Score:
+
+A Positive Externality Score can be used to incentivize jurors to behave honestly and contribute positively to the network. This score can be calculated based on the jurors behavior, such as the quality of its decisions, the number of honest votes, or the amount of valuable contributions it makes to the network.
+
+By using Stake by KYC and Positive Externality Score, the network can promote accountability, authenticity, and cooperation among nodes, making it more resistant to Sybil attacks.
+
 
 ## Where Schelling Game implemented in the project?
 
@@ -57,7 +90,7 @@ Then jurors will vote for their decision using the commit and reveal scheme. In 
 If a juror's vote is coherent (more than 51% of other jurors agree) then they receive incentives, otherwise, incentives are deducted from the stake of the juror. 
 
 Sortition Sum Game pallets:
-<https://github.com/amiyatulu/shivarthu/tree/main/pallets/sortition-sum-game>
+<https://github.com/reaudito/shivarthu/tree/main/pallets/sortition-sum-game>
 
 
 ## Voting for selection of department representatives:
@@ -72,7 +105,7 @@ Winners:
 <img src="Winners.svg" alt="Winner" height="600"/>
 
 Seq phragmen voting:
-<https://github.com/amiyatulu/shivarthu/tree/main/pallets/election>
+<https://github.com/reaudito/shivarthu/tree/main/pallets/election>
 
 
 #### Voting for selection of governors   
