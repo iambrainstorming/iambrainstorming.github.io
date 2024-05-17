@@ -34,7 +34,7 @@ Poverty is something where people can't afford the basic things they need such a
       - Price of 1 Kg apple  = Rs 80
     - As input cost is Rs 30, it will reach to equilibrium price of Rs 60
       - New Quantity demanded = 600
-      - New Quantity demanded = 600
+      - New Quantity supplied = 600
       
   
 ## Elaboration 
