@@ -62,6 +62,7 @@ The simulation starts by defining poverty as a state where individuals cannot af
 ### Conclusion:
 The simulation suggests that with a 2% tax and UBI, the supply chain can meet the needs of the entire population, including the poor, by ensuring that everyone has enough purchasing power to afford basic necessities like food. The tax collection and redistribution help alleviate poverty and create a more balanced economy.
 
+## Comment on simulation
 
 The simulation you provided appears to be a basic representation of a supply and demand model with the introduction of a tax and Universal Basic Income (UBI) system. While the simulation is simplified, it seems to capture some key concepts and can provide insights into how tax and UBI policies might impact a supply chain and poverty levels. However, it's important to note that real-world economies are far more complex, and there may be additional factors and dynamics at play that this simulation does not account for.
 
