@@ -28,6 +28,7 @@
 - [Why income inequality exits? Yard-Sale-Model](./chapters/economics/yard-sale-model.md)
 - [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible](./chapters/economics/dismissing_return.md)
 - [Price Controls](./chapters/economics/price_controls.md)
+- [A simplified tax simulation](./chapters/economics/tax_collection_simulation.md)
 
 # Democracy 
 
@@ -75,6 +76,8 @@
 # India Employment
 
 - [India Employment Data](./data/india_employment_data.md)
+
+
 
 # Programming
 
