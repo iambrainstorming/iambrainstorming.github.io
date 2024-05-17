@@ -1,5 +1,11 @@
 # Tax collection simulation
 
+This is a simulation of tax collection within the context of a particular supply chain, specifically using the example of an apple supply chain. While a specialized supply chain with its own unique token doesn't currently exist, the advancement of cryptocurrency and blockchain technology is gradually pushing us toward similar systems.
+
+The simulation explores the potential impact of implementing a tax system within this innovative supply chain model. By using apples as a representative product, we can examine how taxes might affect the flow of goods, services, and currency within the supply chain.
+
+As we move toward a more decentralized and tokenized economy, simulations like this become increasingly relevant. They help us understand the potential benefits and challenges of incorporating tax collection into these emerging systems, and how it could shape the future of supply chain management and economic transactions.
+
 ## Can taxation of a supply chain meet everyone need?
 
 ### Poverty
