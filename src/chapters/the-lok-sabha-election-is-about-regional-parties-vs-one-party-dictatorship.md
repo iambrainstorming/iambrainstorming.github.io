@@ -831,6 +831,20 @@ One crucial step is to compile and thoroughly examine the actual voter data from
 
 Additionally, maintaining a strong and vigilant presence at the strong rooms where the electronic voting machines and ballot boxes are stored is essential. This will help deter any potential tampering or unauthorized access, thus ensuring the integrity of the election results. 
 
+### Voter turn out anomalies are so evident now
+
+![Voter turnout anomalies](./images/turnout_anomolies.jpeg)
+
+There appears to be a significant anomaly in the voter turnout data for 02 Dhule PC. Notably, there was an increase of 85,943 total votes polled within a 24-hour period.
+
+[Twitter/X Link](https://x.com/mahacpimspeak/status/1793093810010083716)
+
+
+[Turnout data dhule on poling day](./images/dhule_1.jpeg)
+
+[Turnout data dhule  after 24 hours](./images/dhule_2.jpeg)
+
+ 
 ### About strong rooms of EVM and VVPAT storage
 
 [ECI Link](https://old.eci.gov.in/files/file/15143-arrangements-of-strong-rooms-for-safe-storage-of-evms-vvpats-and-other-election-papers-before-and-after-counting-of-votes-reg/)
