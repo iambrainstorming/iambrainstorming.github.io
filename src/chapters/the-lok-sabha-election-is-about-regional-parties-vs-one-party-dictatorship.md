@@ -823,6 +823,14 @@ With such a low voter turnout, one can assume there is high distrust in election
 
 EVMs have VVPATs installed even if VVPAT slips are not counted. People must check and also be trained to inspect what falls into the VVPAT. It's hard to say how many votes will be manipulated. It can range from 5% to even 30% of vote manipulation. But if mass manipulation occurs, it is likely to be caught if VVPATs are counted. One needs to also be aware of VVPAT ballot stuffing i.e. EVM printing the ballot when no one is watching. The Election Commission of India (ECI) is already changing or manipulating the voter turnout data and not providing the full details of actual numbers of voter turnout in each booth or constituency; instead, [they provide percentages](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeigcvw4psyce2kch7efv5lj3zgkkqb3zohqr6phofw3ks65bd72jxe). There's no transparency at all levels of voting, from the calculation of voter turnout to EVM black box. We can still request people to vote. We can still defeat the government with sufficient votes against them and VVPAT are counted. Don't press NOTA. We will see what happens next. The fight for 100% counting needs to continue, though the Supreme Court is unlikely to allow counting. We need to be ready for mass protests during and after the election for 100% counting of VVPAT.
 
+### Ensuring Election Integrity: A Call to Action for Indian Political Parties
+
+To the political parties and alliances of India, it is imperative that we take the necessary steps to ensure a secure and fair election process, including the prevention of election fraud.
+
+One crucial step is to compile and thoroughly examine the actual voter data from each booth and constituency, as recorded in Form 17C. This data will provide a comprehensive overview of voter turnout and patterns, enabling us to identify any discrepancies or anomalies.
+
+Additionally, maintaining a strong and vigilant presence at the strong rooms where the electronic voting machines and ballot boxes are stored is essential. This will help deter any potential tampering or unauthorized access, thus ensuring the integrity of the election results. 
+
 ### About strong rooms of EVM and VVPAT storage
 
 [ECI Link](https://old.eci.gov.in/files/file/15143-arrangements-of-strong-rooms-for-safe-storage-of-evms-vvpats-and-other-election-papers-before-and-after-counting-of-votes-reg/)
