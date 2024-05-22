@@ -829,7 +829,7 @@ To the political parties and alliances of India, it is imperative that we take t
 
 One crucial step is to compile and thoroughly examine the actual voter data from each booth and constituency, as recorded in Form 17C. This data will provide a comprehensive overview of voter turnout and patterns, enabling us to identify any discrepancies or anomalies.
 
-Additionally, maintaining a strong and vigilant presence at the strong rooms where the electronic voting machines and ballot boxes are stored is essential. This will help deter any potential tampering or unauthorized access, thus ensuring the integrity of the election results. 
+Additionally, maintaining a strong and vigilant presence at the strong rooms where the electronic voting machines and VVPAT are stored is essential. This will help deter any potential tampering or unauthorized access, thus ensuring the integrity of the election results. 
 
 ### Voter turn out anomalies are so evident now
 
