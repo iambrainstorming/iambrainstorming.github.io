@@ -819,6 +819,9 @@ About [40% of voters are not voting](https://www.indiatoday.in/elections/lok-sab
 
 With such a low voter turnout, one can assume there is high distrust in elections and politicians. The Supreme Court's decision has made it worse.
 
+The population of India is increasing, so voter turnout is expected to increase. [However, it is showing the opposite trend, with voter turnout actually decreasing.](./images/voter_turn_out_analysis.jpeg)
+
+
 ### Should we vote or not vote? 
 
 EVMs have VVPATs installed even if VVPAT slips are not counted. People must check and also be trained to inspect what falls into the VVPAT. It's hard to say how many votes will be manipulated. It can range from 5% to even 30% of vote manipulation. But if mass manipulation occurs, it is likely to be caught if VVPATs are counted. One needs to also be aware of VVPAT ballot stuffing i.e. EVM printing the ballot when no one is watching. The Election Commission of India (ECI) is already changing or manipulating the voter turnout data and not providing the full details of actual numbers of voter turnout in each booth or constituency; instead, [they provide percentages](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeigcvw4psyce2kch7efv5lj3zgkkqb3zohqr6phofw3ks65bd72jxe). There's no transparency at all levels of voting, from the calculation of voter turnout to EVM black box. We can still request people to vote. We can still defeat the government with sufficient votes against them and VVPAT are counted. Don't press NOTA. We will see what happens next. The fight for 100% counting needs to continue, though the Supreme Court is unlikely to allow counting. We need to be ready for mass protests during and after the election for 100% counting of VVPAT.

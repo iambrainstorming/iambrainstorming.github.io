@@ -10,7 +10,7 @@ categories:
   - "politics"
 ---
 
-India is currently in a risky predicament or situation. Judiciary is manipulated and attacked like never before in my lifetime. The CBI, ED, and courts are being used to try and silence any dissident opposition views.
+India is currently in a risky predicament or situation. Judiciary is manipulated and attacked like never before in my lifetime. The CBI, ED, Income Tax department and courts are being used to try and silence any dissident opposition views.
 
 > The judiciary is never independent. Govt can coerce judges or help in the appointment of corrupt judges. Or can pass law, compromising the fundamental rights and using law to abuse opposition or suppress dissent. To have a strong justice system we need to have strong democracy first.  
 > Countries with inferior democracy always have an inferior judiciary.
@@ -20,6 +20,11 @@ Despite the central govt getting just 37% of votes, their power is far-reaching 
 ![Vote Percentage](./images/vote_percentage.webp)
 
 The BJP only has 37% of the vote. Why does it have 100% control over the ministry and why does it possess 55% of the seats?
+
+Voter turnout of [2019 election was 67%](https://www.ndtv.com/india-news/general-elections-2019-record-voter-turnout-of-67-11-per-cent-in-lok-sabha-polls-2041481), so 37% of 67% voted to BJP, which is equal to 24% of people.
+
+> In other words, only 24% of total voters in India supported BJP. Why should it have 100% control?
+
 
 ![Opposition States](./images/opposition-states.webp)
 
