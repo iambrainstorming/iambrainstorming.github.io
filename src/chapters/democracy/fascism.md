@@ -72,6 +72,10 @@ When you protest against unemployment, and dictatorship (tanashahi nahi chalegi)
 
 [Given Electric Shocks, Tortured To Implicate Political Leaders: Parliament Security Breach Accused Tell Delhi Court](https://www.livelaw.in/news-updates/delhi-court-parliament-security-breach-accused-tortured-to-name-political-leaders-248112)
 
+## Even foreign citizens are not safe
+
+[“Everyone is absolutely terrified”: Inside a US ally’s secret war on its American critics A foreign government is trying to silence US critics of its authoritarian turn — and it's succeeding.](https://www.vox.com/world-politics/24160779/inside-indias-secret-campaign-to-threaten-and-harass-americans)
+
 
 ### Govt attack on climate activists
 
