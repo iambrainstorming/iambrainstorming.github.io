@@ -183,7 +183,7 @@
 <p>Shivarthu will be build on Substrate.</p>
 <p>Our democracy has many challenges, blockchain can provide a way to tackle those challenges by minimizing trust through game theory.  That made our team interested in creating this project.</p>
 <h3 id="project-details"><a class="header" href="#project-details">Project Details</a></h3>
-<p>Project Github link: <a href="https://github.com/reaudito/shivarthu">https://github.com/reaudito/shivarthu</a></p>
+<p>Project Github link: <a href="https://github.com/reaudito/tanssi-shivarthu">https://github.com/reaudito/tanssi-shivarthu</a></p>
 <h3 id="departments"><a class="header" href="#departments">Departments:</a></h3>
 <p>The governance is divided into many departments like education, infrastructure, health, community service for every locality.</p>
 <h3 id="expertise-evaluation-of-representatives-"><a class="header" href="#expertise-evaluation-of-representatives-">Expertise evaluation of representatives :</a></h3>
@@ -194,15 +194,16 @@ Their kyc and experience is evaluated by schelling game.</p>
 If they know each other, friends and relatives will become guarantors for each other.
 Moderators chosen through approval voting have the ability to invalidate the fake vouching by down voting the guarantor.</p>
 <p>Experience evaluation pallet 
-<a href="https://github.com/reaudito/shivarthu/tree/main/pallets/profile-validation">https://github.com/reaudito/shivarthu/tree/main/pallets/profile-validation</a></p>
+<a href="https://github.com/reaudito/tanssi-shivarthu/tree/main/custom-pallets/profile-validation">https://github.com/reaudito/tanssi-shivarthu/tree/main/custom-pallets/profile-validation</a></p>
 <img src="Portfolio.svg" alt="portfolio" height="600"/>
 <h2 id="the-schelling-game"><a class="header" href="#the-schelling-game">The Schelling Game:</a></h2>
 <h3 id="the-schellingcoin"><a class="header" href="#the-schellingcoin">The schellingCoin</a></h3>
 <p>The SchellingCoin is designed to encourage truthfulness through economic incentives. The coin's mechanism is based on the concept of Schelling Points, as described by Thomas Schelling.</p>
 <p>In essence, the idea is to create a scenario where individuals are motivated to tell the truth because they expect others to do so as well. In the case of the SchellingCoin, if we wanted to know if it rained in Paris this morning, we could ask every owner of the coin to vote secretly on whether it rained or not. After all the votes are cast, the results would be revealed, and those who voted in agreement with the majority would be rewarded with 10% of their coins, while those who voted differently would lose 10% of their coins.</p>
 <p>The SchellingCoin's mechanism is rooted in the concept of focal points, which Schelling described as &quot;each person's expectation of what the other expects him to expect to be expected to do.&quot; In this case, the focal point is honesty. The idea is that every individual in the system expects others to vote truthfully, because they expect others to expect them to vote truthfully. This creates a self-reinforcing loop, where individuals are incentivized to tell the truth because they believe others will do the same.</p>
+<p><img src="payoff.png" alt="Payoff" /></p>
 <p><a href="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiarvlogal2u7i566wdfwjqty53giccwmb6tcjz6zrmvs3rt56j37y">Kleros Whitepaper</a></p>
-<h2 id="effectiveness-of-schelling-game"><a class="header" href="#effectiveness-of-schelling-game">Effectiveness of Schelling Game</a></h2>
+<h3 id="effectiveness-of-schelling-game"><a class="header" href="#effectiveness-of-schelling-game">Effectiveness of Schelling Game</a></h3>
 <p>The Schelling game of Shivarthu is designed to incentivize participants to reveal truthful information by rewarding them based on the majority consensus.</p>
 <p>In the Schelling game, participants are asked to vote on the outcome of a particular event or question. They are rewarded based on the accuracy of their vote and the overall consensus among the participants. The idea is that participants will have an incentive to vote honestly in order to maximize their potential rewards.</p>
 <blockquote>
@@ -224,6 +225,20 @@ Moderators chosen through approval voting have the ability to invalidate the fak
 <h4 id="positive-externality-score"><a class="header" href="#positive-externality-score">Positive Externality Score:</a></h4>
 <p>A Positive Externality Score can be used to incentivize jurors to behave honestly and contribute positively to the network. This score can be calculated based on the jurors behavior, such as the quality of its decisions, the number of honest votes, or the amount of valuable contributions it makes to the network.</p>
 <p>By using Stake by KYC and Positive Externality Score, the network can promote accountability, authenticity, and cooperation among nodes, making it more resistant to Sybil attacks.</p>
+<h3 id="incentive-system-adaptation"><a class="header" href="#incentive-system-adaptation">Incentive system adaptation</a></h3>
+<p>No deductions will be made from your stake in the Schelling game if your accuracy is greater than 60%. Instead, any penalties will be applied to your rewards. Here's how it works:</p>
+<ul>
+<li>
+<p>If you make 10 decisions and get 6 wrong and 4 right, you'll receive incentives for the correct decisions but incur disincentives for the incorrect ones. Specifically, you will earn incentives for the 4 correct decisions but face penalties of 1.5 times the number of incorrect decisions (6 * 1.5 disincentives).</p>
+</li>
+<li>
+<p>Both incentives and your original stake will be released only after you have made between 20 and 50 decisions.</p>
+</li>
+<li>
+<p>If your accuracy falls below 60%, a 5% to 10% cut will be made from your stake.</p>
+</li>
+</ul>
+<p>By ensuring there are fewer disincentives for staking and requiring at least 20 decisions to release the funds, we aim to increase voter participation.</p>
 <h2 id="where-schelling-game-implemented-in-the-project"><a class="header" href="#where-schelling-game-implemented-in-the-project">Where Schelling Game implemented in the project?</a></h2>
 <p>In this project, the Schelling game is employed to perform Know Your Customer (KYC) checks on users. Furthermore, a modified version of the Schelling game called the score Schelling game is applied to funding departments, incorporating both funding allocation and rating of users based on the positive externality they generate.</p>
 <p>In the Schelling game, individuals who wish to participate as jurors can apply to make decisions. The likelihood of being selected as a juror is directly proportional to the number of tokens a juror stakes. The more tokens a juror stakes, the greater their chances of being chosen. Additionally, jurors are randomly selected, which helps safeguard the system against sybil attacks.</p>
@@ -231,8 +246,10 @@ Moderators chosen through approval voting have the ability to invalidate the fak
 <a href="https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/">https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/</a></p>
 <p>Then jurors will vote for their decision using the commit and reveal scheme. In the commit phase, they submit the hash of the vote string. Then, in the reveal phase, they submit the hash and the vote string. If the vote string matches with the hash, then the vote is accepted. 
 If a juror's vote is coherent (more than 51% of other jurors agree) then they receive incentives, otherwise, incentives are deducted from the stake of the juror. </p>
+<p>Sortition Sum Game Algoritm:</p>
+<p><a href="sortition_sum_game.pdf">An Efficient Data Structure for Blockchain Sortition</a></p>
 <p>Sortition Sum Game pallets:
-<a href="https://github.com/reaudito/shivarthu/tree/main/pallets/sortition-sum-game">https://github.com/reaudito/shivarthu/tree/main/pallets/sortition-sum-game</a></p>
+<a href="https://github.com/reaudito/tanssi-shivarthu/tree/main/custom-pallets/sortition-sum-game">https://github.com/reaudito/tanssi-shivarthu/tree/main/custom-pallets/sortition-sum-game</a></p>
 <h2 id="voting-for-selection-of-department-representatives"><a class="header" href="#voting-for-selection-of-department-representatives">Voting for selection of department representatives:</a></h2>
 <p>The election will be conducted using a multi-winner approval system. To choose the representatives, we will employ the sequential Phragmén method on the substrate. In this approach, instead of using stake, we will consider the vote weight based on factors such as reputation, experience, and positive externality scores. These scores are determined by the level of participation in the network or the positive external effects they have generated. As mentioned earlier, the positive externality score is calculated using the score Schelling game.</p>
 <p><a href="https://paritytech.github.io/substrate/master/sp_npos_elections/phragmen/fn.seq_phragmen.html">https://paritytech.github.io/substrate/master/sp_npos_elections/phragmen/fn.seq_phragmen.html</a></p>

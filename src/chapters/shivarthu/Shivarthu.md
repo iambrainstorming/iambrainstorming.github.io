@@ -14,7 +14,7 @@ Our democracy has many challenges, blockchain can provide a way to tackle those 
 
 ### Project Details
 
-Project Github link: <https://github.com/reaudito/shivarthu>
+Project Github link: <https://github.com/reaudito/tanssi-shivarthu>
 
 ### Departments:
 
@@ -33,7 +33,7 @@ Moderators chosen through approval voting have the ability to invalidate the fak
 
 
 Experience evaluation pallet 
-<https://github.com/reaudito/shivarthu/tree/main/pallets/profile-validation>
+<https://github.com/reaudito/tanssi-shivarthu/tree/main/custom-pallets/profile-validation>
 
 
 <img src="Portfolio.svg" alt="portfolio" height="600"/>
@@ -49,9 +49,27 @@ In essence, the idea is to create a scenario where individuals are motivated to 
 
 The SchellingCoin's mechanism is rooted in the concept of focal points, which Schelling described as "each person's expectation of what the other expects him to expect to be expected to do." In this case, the focal point is honesty. The idea is that every individual in the system expects others to vote truthfully, because they expect others to expect them to vote truthfully. This creates a self-reinforcing loop, where individuals are incentivized to tell the truth because they believe others will do the same.
 
+![Payoff](payoff.png)
+
 [Kleros Whitepaper](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiarvlogal2u7i566wdfwjqty53giccwmb6tcjz6zrmvs3rt56j37y)
 
-{{#include effectiveness_schelling_game.md}}
+### Effectiveness of Schelling Game
+
+The Schelling game of Shivarthu is designed to incentivize participants to reveal truthful information by rewarding them based on the majority consensus.
+
+In the Schelling game, participants are asked to vote on the outcome of a particular event or question. They are rewarded based on the accuracy of their vote and the overall consensus among the participants. The idea is that participants will have an incentive to vote honestly in order to maximize their potential rewards.
+
+> The effectiveness and accuracy of the Schelling game, like any decentralized system, depend on several factors:
+> 
+> Participation: The accuracy of the results can improve with a larger number of participants. More participants increase the diversity of perspectives,reducing the potential for bias or manipulation.
+>
+> Token Staking: In the protocol, participants must stake tokens as collateral, which can be lost if they vote against the majority outcome. This mechanism provides an additional incentive for participants to vote honestly.
+>
+> Jury Selection: It utilizes a random selection process to form a jury panel from the pool of participants. This randomness helps prevent collusion and bias within the jury.
+
+The accuracy of the Schelling game can vary depending on the specific context and the quality of information available. It is important to note that no system can guarantee 100% accuracy. Factors such as the complexity of the question, the availability of information, and potential manipulation attempts can influence the accuracy of the results.
+
+However, decentralized systems like Schelling game aim to mitigate biases and provide a fair and transparent mechanism for dispute resolution. By incentivizing truthful voting and random jury selection, Schelling game aims to achieve a reasonable level of accuracy in determining the majority consensus. Nonetheless, it is advisable to consider the specific details and context of each use case when evaluating the accuracy of the system.
 
 ### Sybil Attack:
 
@@ -76,6 +94,18 @@ A Positive Externality Score can be used to incentivize jurors to behave honestl
 
 By using Stake by KYC and Positive Externality Score, the network can promote accountability, authenticity, and cooperation among nodes, making it more resistant to Sybil attacks.
 
+### Incentive system adaptation
+
+No deductions will be made from your stake in the Schelling game if your accuracy is greater than 60%. Instead, any penalties will be applied to your rewards. Here's how it works:
+
+- If you make 10 decisions and get 6 wrong and 4 right, you'll receive incentives for the correct decisions but incur disincentives for the incorrect ones. Specifically, you will earn incentives for the 4 correct decisions but face penalties of 1.5 times the number of incorrect decisions (6 * 1.5 disincentives).
+
+- Both incentives and your original stake will be released only after you have made between 20 and 50 decisions.
+
+- If your accuracy falls below 60%, a 5% to 10% cut will be made from your stake.
+
+By ensuring there are fewer disincentives for staking and requiring at least 20 decisions to release the funds, we aim to increase voter participation.
+
 
 ## Where Schelling Game implemented in the project?
 
@@ -89,8 +119,13 @@ We will use the substrate randomness trait for generating a random number.
 Then jurors will vote for their decision using the commit and reveal scheme. In the commit phase, they submit the hash of the vote string. Then, in the reveal phase, they submit the hash and the vote string. If the vote string matches with the hash, then the vote is accepted. 
 If a juror's vote is coherent (more than 51% of other jurors agree) then they receive incentives, otherwise, incentives are deducted from the stake of the juror. 
 
+Sortition Sum Game Algoritm:
+
+[An Efficient Data Structure for Blockchain Sortition](sortition_sum_game.pdf)
+
+
 Sortition Sum Game pallets:
-<https://github.com/reaudito/shivarthu/tree/main/pallets/sortition-sum-game>
+<https://github.com/reaudito/tanssi-shivarthu/tree/main/custom-pallets/sortition-sum-game>
 
 
 ## Voting for selection of department representatives:
