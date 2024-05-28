@@ -924,7 +924,7 @@ Therefore, in the 2019 general election, only 20,625 EVMs were scrutinised. This
 
 ## The Multiplication Rule of Probability
 
-Even if you consider the multiplication rule in probability, often used in quality control, such a minuscule sample will show a high probability of a plausible outcome where all samples are good, not a rare outcome, if some 0.1% or 1% manipulation is done. 
+Even if you consider the multiplication rule in probability, often used in quality control, such a minuscule sample will show a high probability or a plausible outcome where all samples are good, and will not be a rare outcome, even if some 0.1% or 1% manipulation is done. 
 
 Some other assumptions can be made, such as hacking being done in a few constituencies rather than all constituencies as a whole.
 
