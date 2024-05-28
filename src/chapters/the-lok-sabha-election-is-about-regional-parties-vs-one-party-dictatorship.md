@@ -910,7 +910,9 @@ Flaw no. 4: A near-zero paper trail
 
 The ECI, employing bizarre logic, revealed: “Verification of VVPAT paper trail of 479 (randomly selected) EVMs would generate 99 percent accuracy in election results.
 
-## The Multiplication Rule of Probability
+## Statistics behind VVPAT verifiability
+
+### The Multiplication Rule of Probability
 
 Even if you consider the multiplication rule in probability, often used in quality control, such a minuscule sample will show a high probability or a plausible outcome where all samples are good, and will not be a rare outcome, even if some 0.1% or 1% manipulation is done. 
 
