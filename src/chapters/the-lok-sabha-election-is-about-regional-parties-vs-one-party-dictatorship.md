@@ -924,7 +924,7 @@ For example, if a Parliamentary Constituency (PC) has 2,000,000 voters, the tota
 
 [Multiplication Rule Explanation](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicpgfmasyo4nc7bwn4psnn4pr4jvpt7f6wga7hp2i4jyuprvfxjxa)
 
-An example of using the multiplication rule of probability: Suppose 200 EVMs are used for scrutiny. Remember, 200 is an assumption. Currently, not even a single or about 10 EVM per constituency is falls for scrutiny if we take the percentage. 
+An example of using the multiplication rule of probability: Suppose 200 EVMs are used for scrutiny. Remember, 200 is an assumption. Currently, between 0 to 10 EVM per constituency is falls for scrutiny if we take the percentage. 
 
 The probability of no manipulation is the same as the probability of all 200 EVMs being good. Therefore, we want to find P(all 200 EVMs are good). Assuming the manipulation rate of EVMs is 1%, the probability of a good EVM is P(good EVM) = 0.99.
 
