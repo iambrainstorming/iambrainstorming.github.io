@@ -910,31 +910,19 @@ Flaw no. 4: A near-zero paper trail
 
 The ECI, employing bizarre logic, revealed: “Verification of VVPAT paper trail of 479 (randomly selected) EVMs would generate 99 percent accuracy in election results.
 
-## Statistics and minuscule sample size
-
-The ECI, employing bizarre logic, revealed: “Verification of VVPAT paper trail of 479 (randomly selected) EVMs would generate 99 percent accuracy in election results.”
-
-This statement of the ECI is statistically incredulous. This is because, in the general election of 2019, 2.23 million ballot units and 1.73 million VVPATs were deployed. The sample size proposed by ECI for scrutiny was merely 0.000214 percent.
-
-The Supreme Court, in turn, directed that scrutiny of VVPAT slips be increased by eight times to 4,125 EVMs. The logic for this suggested number, still a minuscule proportion of the total EVM size, is missing.
-
-It translated to scrutinising 0.00184 percent of EVMs, a sample size that is statistically insignificant and meaningless. The court directed that physical scrutiny of VVPATs be increased from one to five per constituency.
-
-Therefore, in the 2019 general election, only 20,625 EVMs were scrutinised. This scrutiny is farcical because it translates into only  0.00184 percent of the total number of EVMs that were deployed.
-
 ## The Multiplication Rule of Probability
 
 Even if you consider the multiplication rule in probability, often used in quality control, such a minuscule sample will show a high probability or a plausible outcome where all samples are good, and will not be a rare outcome, even if some 0.1% or 1% manipulation is done. 
 
 Some other assumptions can be made, such as hacking being done in a few constituencies rather than all constituencies as a whole.
 
-For example, if a Parliamentary Constituency (PC) has 2,000,000 voters, the total number of Electronic Voting Machines (EVMs) needed would be 2,000,000 / 2,000, resulting in a total of 1,000 EVMs. If you consider that 0.00184 percent of the total EVMs are scrutinized, then 0.0184 EVMs in the constituency fall under scrutiny. It's not even a single EVM per constituency.
+For example, if a Parliamentary Constituency (PC) has 2,000,000 voters, the total number of Electronic Voting Machines (EVMs) needed would be 2,000,000 / 2,000, resulting in a total of 1,000 EVMs. If you consider that 1% percent of the total EVMs are scrutinized, then 10 EVMs in the constituency fall under scrutiny. 
 
 ### An example of multiplication rule
 
 [Multiplication Rule Explanation](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicpgfmasyo4nc7bwn4psnn4pr4jvpt7f6wga7hp2i4jyuprvfxjxa)
 
-An example of using the multiplication rule of probability: Suppose 200 EVMs are used for scrutiny. Remember, 200 is an assumption. Currently, not even a single EVM per constituency is falls for scrutiny if we take the percentage. 
+An example of using the multiplication rule of probability: Suppose 200 EVMs are used for scrutiny. Remember, 200 is an assumption. Currently, not even a single or about 10 EVM per constituency is falls for scrutiny if we take the percentage. 
 
 The probability of no manipulation is the same as the probability of all 200 EVMs being good. Therefore, we want to find P(all 200 EVMs are good). Assuming the manipulation rate of EVMs is 1%, the probability of a good EVM is P(good EVM) = 0.99.
 
