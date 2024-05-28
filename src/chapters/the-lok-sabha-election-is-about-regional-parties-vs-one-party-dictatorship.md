@@ -811,7 +811,7 @@ People need to stand up collectively; it can't be done by individuals alone. If 
 
 Understand how a [fascist government operates](./democracy/fascism.md).
 
-### Voter turnout in Phase 1
+### Voter turnout 
 
 About [40% of voters are not voting](https://www.indiatoday.in/elections/lok-sabha/story/lok-sabha-elections-2024-phase-1-voting-bjp-congress-dmk-tamil-nadu-up-bengal-assembly-annamalai-2528964-2024-04-19). About [5-10% decrease in voter turnout](https://www.hindustantimes.com/india-news/64-turnout-in-lok-sabha-phase-1-elections-most-states-see-dip-from-2019-101713544427755.html) than 2019 election.
 
@@ -819,7 +819,7 @@ About [40% of voters are not voting](https://www.indiatoday.in/elections/lok-sab
 
 With such a low voter turnout, one can assume there is high distrust in elections and politicians. The Supreme Court's decision has made it worse.
 
-The population of India is increasing, so voter turnout is expected to increase. [However, it is showing the opposite trend, with voter turnout actually decreasing.](./images/voter_turn_out_analysis.jpeg)
+The population of India is increasing, so absolute voter turnout number is expected to increase. [However, it is showing the opposite trend, with absolute voter turnout number actually decreasing.](./images/voter_turn_out_analysis.jpeg)
 
 
 ### Should we vote or not vote? 
@@ -832,7 +832,8 @@ To the political parties and alliances of India, it is imperative that we take t
 
 One crucial step is to compile and thoroughly examine the actual voter data from each booth and constituency, as recorded in Form 17C. This data will provide a comprehensive overview of voter turnout and patterns, enabling us to identify any discrepancies or anomalies.
 
-Additionally, maintaining a strong and vigilant presence at the strong rooms where the electronic voting machines and VVPAT are stored is essential. This will help deter any potential tampering or unauthorized access, thus ensuring the integrity of the election results. 
+Additionally, maintaining a strong and vigilant presence at the strong rooms where the electronic voting machines and VVPAT are stored is essential. This will help deter any potential tampering or unauthorized access, thus ensuring the integrity of the election results.
+
 
 ### Voter turn out anomalies are so evident now
 
@@ -846,6 +847,11 @@ There appears to be a significant anomaly in the voter turnout data for 02 Dhule
 [Turnout data dhule on poling day](./images/dhule_1.jpeg)
 
 [Turnout data dhule  after 24 hours](./images/dhule_2.jpeg)
+
+
+### ECI released voter turnout numbers 
+
+After so much criticism, the ECI [released the actual voter turnout numbers](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeih6dqab6uiw5ol5rs4voj2zzwyzbgwanbs4jxivpxafo35tlbev6i) just a week before the election was to end.
 
  
 ### About strong rooms of EVM and VVPAT storage
@@ -903,6 +909,45 @@ Fundamental flaw no. 3: VVPAT precedes the recorder
 Flaw no. 4: A near-zero paper trail
 
 The ECI, employing bizarre logic, revealed: “Verification of VVPAT paper trail of 479 (randomly selected) EVMs would generate 99 percent accuracy in election results.
+
+## Statistics and minuscule sample size
+
+The ECI, employing bizarre logic, revealed: “Verification of VVPAT paper trail of 479 (randomly selected) EVMs would generate 99 percent accuracy in election results.”
+
+This statement of the ECI is statistically incredulous. This is because, in the general election of 2019, 2.23 million ballot units and 1.73 million VVPATs were deployed. The sample size proposed by ECI for scrutiny was merely 0.000214 percent.
+
+The Supreme Court, in turn, directed that scrutiny of VVPAT slips be increased by eight times to 4,125 EVMs. The logic for this suggested number, still a minuscule proportion of the total EVM size, is missing.
+
+It translated to scrutinising 0.00184 percent of EVMs, a sample size that is statistically insignificant and meaningless. The court directed that physical scrutiny of VVPATs be increased from one to five per constituency.
+
+Therefore, in the 2019 general election, only 20,625 EVMs were scrutinised. This scrutiny is farcical because it translates into only  0.00184 percent of the total number of EVMs that were deployed.
+
+## The Multiplication Rule of Probability
+
+Even if you consider the multiplication rule in probability, often used in quality control, such a minuscule sample will show a high probability of a plausible outcome where all samples are good, not a rare outcome, if some 0.1% or 1% manipulation is done. 
+
+Some other assumptions can be made, such as hacking being done in a few constituencies rather than all constituencies as a whole.
+
+For example, if a Parliamentary Constituency (PC) has 2,000,000 voters, the total number of Electronic Voting Machines (EVMs) needed would be 2,000,000 / 2,000, resulting in a total of 1,000 EVMs. If you consider that 0.00184 percent of the total EVMs are scrutinized, then 0.0184 EVMs in the constituency fall under scrutiny. It's not even a single EVM per constituency.
+
+### An example of multiplication rule
+
+[Multiplication Rule Explanation](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicpgfmasyo4nc7bwn4psnn4pr4jvpt7f6wga7hp2i4jyuprvfxjxa)
+
+An example of using the multiplication rule of probability: Suppose 200 EVMs are used for scrutiny. Remember, 200 is an assumption. Currently, not even a single EVM per constituency is falls for scrutiny if we take the percentage. 
+
+The probability of no manipulation is the same as the probability of all 200 EVMs being good. Therefore, we want to find P(all 200 EVMs are good). Assuming the manipulation rate of EVMs is 1%, the probability of a good EVM is P(good EVM) = 0.99.
+
+P(1st is good and 2nd is good and 3rd is good . . . and 200th is good)
+
+= P(good EVM) * P(good EVM) * . . . * P(good EVM)
+
+=  0.99 * 0.99 * . . . * 0.99
+
+Thus, P(all 200 EVMs are good) = (0.99)^200 = 0.13397. 
+
+The probability is still high and not a rare outcome. There is still a high chance that all 200 EVMs are found to be good, even with 1% manipulation. In the First-Past-The-Post (FPTP) system, every vote matters, and candidates can lose by just a few votes. Even the methodology of randomization is questionable and is opaque, as mentioned above.
+
 
 ## Vague arguments of Supreme Court
 
