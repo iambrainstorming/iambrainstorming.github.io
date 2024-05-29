@@ -976,6 +976,13 @@ In the First-Past-The-Post (FPTP) system, every vote matters, and candidates can
 
 The Supreme Court judge seems to be utterly corrupt. He is making all the [same vague arguments to justify the security of EVMs](./images/EVM_arguments.png) that have already been debunked. According to Justice Khanna, EVMs are not re-programmable. It may be [one time programmable memory](https://reversepcb.com/what-is-one-time-programmable-memory/), but votes are not in non-volatile memory. Votes are readable and rewritable. As mentioned earlier, attackers could use portable hardware devices to extract and alter the vote records stored in the machines' memory, thereby enabling them to change election outcomes and violate ballot secrecy. As per previous analysis by hacker, **EVMs do not use even basic cryptography** to protect vote data internally. Furthermore, judge says that the source code couldn't be disclosed and that EVMs can't be made public for a hackathon because they will be prone to misuse. This is completely opposite to the principles of computer science and security experts. What are they scared of, if it's one-time programmable memory? No one can change its code, right? Why should we believe what you said is true if it hasn't been tested by independent security experts? The argument that EVMs don't recognize political parties and candidates is completely misleading. VVPATs contain information about political parties through symbol uploading. There is a [free flow of information](./images/EVM_information.png) between VVPATs and the control unit. This makes the EVM aware of political parties and candidates.
 
+## Court Decision of Verifiability
+
+1st and 2nd runner-ups can ask the Supreme Court to verify the internals of just 5 percent of EVMs, which will be about 30 EVMs. Such a minuscule check is statistically insignificant. Furthermore, it doesn't allow independent verification. All runners-up need to petition the courts to count VVPAT for not less than 300 randomly selected EVMs (probability value = 0.0152356880) or to conduct a 100% VVPAT count. Remember, proper randomization must be done by drawing from paper, not through software.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oWpJLgjdx0Q?si=dgwaxTysW-yVmxx5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### Give missed call to 9667722062 to Ban EVM
 
 If you want to support Ban EVM Movement... Just give Miss Call- 9667722062- Adv. Rajendra Pal Gautam
