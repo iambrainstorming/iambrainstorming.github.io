@@ -914,17 +914,19 @@ The ECI, employing bizarre logic, revealed: “Verification of VVPAT paper trail
 
 ### The Multiplication Rule of Probability
 
-Even if you consider the multiplication rule in probability, often used in quality control, such a minuscule sample will show a high probability or a plausible outcome where all samples are good, and will not be a rare outcome, even if some 0.1% or 1% manipulation is done. 
+If you consider the multiplication rule in probability, often used in quality control, such a minuscule sample will show a high probability or a plausible outcome that all samples are good. Getting all samples as good will not be a rare outcome, if some 0.1% or 1% manipulation is done.
 
 Some other assumptions can be made, such as hacking being done in a few constituencies rather than all constituencies as a whole.
 
-For example, if a Parliamentary Constituency (PC) has 2,000,000 voters, the total number of Electronic Voting Machines (EVMs) needed would be 2,000,000 / 2,000, resulting in a total of 1,000 EVMs. If you consider that 1% percent of the total EVMs are scrutinized, then 10 EVMs in the constituency fall under scrutiny. 
+For example, if a [Parliamentary Constituency (PC)](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeih6dqab6uiw5ol5rs4voj2zzwyzbgwanbs4jxivpxafo35tlbev6i) has 1,200,000 voters, the total number of Electronic Voting Machines (EVMs) needed would be  1,200,000/ 2,000, resulting in a total of 600 EVMs. If you consider that 1% percent of the total EVMs are scrutinized, then 6 EVMs in the constituency fall under scrutiny. 
 
 ### An example of multiplication rule
 
 [Multiplication Rule Explanation](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicpgfmasyo4nc7bwn4psnn4pr4jvpt7f6wga7hp2i4jyuprvfxjxa)
 
-An example of using the multiplication rule of probability: Suppose 200 EVMs are used for scrutiny. Remember, 200 is an assumption. Currently, between 0 to 10 EVM per constituency is falls for scrutiny if we take the percentage. 
+An example of using the multiplication rule of probability: Suppose 200 EVMs are used for scrutiny. Remember, 200 is an assumption. Currently, between 0 to 6 EVM per constituency is falls for scrutiny if we take the percentage. 
+
+Also, in the following example, we consider a large sample, but in a constituency, the sample is as small as 600 EVMs. 
 
 The probability of no manipulation is the same as the probability of all 200 EVMs being good. Therefore, we want to find P(all 200 EVMs are good). Assuming the manipulation rate of EVMs is 1%, the probability of a good EVM is P(good EVM) = 0.99.
 
@@ -936,7 +938,38 @@ P(1st is good and 2nd is good and 3rd is good . . . and 200th is good)
 
 Thus, P(all 200 EVMs are good) = (0.99)^200 = 0.13397. 
 
-The probability is still high and not a rare outcome. There is still a high chance that all 200 EVMs are found to be good, even with 1% manipulation. In the First-Past-The-Post (FPTP) system, every vote matters, and candidates can lose by just a few votes. Even the methodology of randomization is questionable and is opaque, as mentioned above.
+The probability is still high and not a rare outcome. There is still a high chance that all 200 EVMs are found to be good, even with 1% manipulation. 
+
+
+### Realistic Scenario Example
+
+Now let's run the example with a smaller sample of 600 EVMs. It will be a more realistic scenario.
+
+If one percent of EVMs are hacked, the number will be 6 EVMs, and 6 * 2000 = 12000 votes are compromised.
+
+
+If we check 200 EVMs:
+
+P(1st is good and 2nd is good and 3rd is good . . . and 200th is good)
+
+= 594/600 * 593/599 * 592/598 * 591/597 * 590/596 ...... till 200th
+
+= 0.0866925812
+
+If we check 100 EVMs:
+
+P(1st is good and 2nd is good and 3rd is good . . . and 100th is good)
+
+= 594/600 * 593/599 * 592/598 * 591/597 * 590/596 ...... till 100th
+
+= 0.3332163812
+
+
+The probability of finding all good EVMs is still high if we check 100 EVMs. To be very sure, the probability needs to be minuscule, like less than 0.01.
+
+[Rust code](https://github.com/silicology/multiplication-rule/blob/main/src/main.rs)
+
+In the First-Past-The-Post (FPTP) system, every vote matters, and candidates can lose by just a few votes. Even the methodology of randomization is questionable and is opaque, as mentioned above.
 
 
 ## Vague arguments of Supreme Court
