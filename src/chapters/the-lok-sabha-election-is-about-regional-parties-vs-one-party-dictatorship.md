@@ -972,6 +972,34 @@ The probability of finding all good EVMs is still high if we check 100 EVMs. To 
 In the First-Past-The-Post (FPTP) system, every vote matters, and candidates can lose by just a few votes. Even the methodology of randomization is questionable and is opaque, as mentioned above.
 
 
+Do recall the data how many lost by just few votes.
+
+[Runner up lost by strength, 2023 legislative assembly](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/runner_up_lost_by_strength)
+
+e.g. 2023 Legislative assembly election, Madhya Pradesh
+```json
+
+{
+  "number_of_places_runner_up_less_than_1000": 12,
+  "number_of_places_runner_up_less_than_2000_more_than_1000": 6,
+  "number_of_places_runner_up_less_than_3000_more_than_2000": 11,
+  "number_of_places_runner_up_less_than_4000_more_than_3000": 5,
+  "number_of_places_runner_up_less_than_5000_more_than_4000": 8,
+  "number_of_places_runner_up_less_than_6000_more_than_5000": 7,
+  "number_of_places_runner_up_less_than_7000_more_than_6000": 4,
+  "number_of_places_runner_up_less_than_8000_more_than_7000": 4,
+  "number_of_places_runner_up_less_than_9000_more_than_80000": 4,
+  "number_of_places_runner_up_less_than_10000_more_than_9000": 4,
+  "number_of_places_runner_up_greater_than_10000": 165,
+  "number_of_places_runner_up_less_than_20000_more_than_10000": 57,
+  "number_of_places_runner_up_less_than_30000_more_than_20000": 49,
+  "number_of_places_runner_up_less_than_40000_more_than_30000": 28,
+  "number_of_places_runner_up_greate_than_40000": 31,
+  "No of constituency": 230,
+}    
+```
+
+
 ## Vague arguments of Supreme Court
 
 The Supreme Court judge seems to be utterly corrupt. He is making all the [same vague arguments to justify the security of EVMs](./images/EVM_arguments.png) that have already been debunked. According to Justice Khanna, EVMs are not re-programmable. It may be [one time programmable memory](https://reversepcb.com/what-is-one-time-programmable-memory/), but votes are not in non-volatile memory. Votes are readable and rewritable. As mentioned earlier, attackers could use portable hardware devices to extract and alter the vote records stored in the machines' memory, thereby enabling them to change election outcomes and violate ballot secrecy. As per previous analysis by hacker, **EVMs do not use even basic cryptography** to protect vote data internally. Furthermore, judge says that the source code couldn't be disclosed and that EVMs can't be made public for a hackathon because they will be prone to misuse. This is completely opposite to the principles of computer science and security experts. What are they scared of, if it's one-time programmable memory? No one can change its code, right? Why should we believe what you said is true if it hasn't been tested by independent security experts? The argument that EVMs don't recognize political parties and candidates is completely misleading. VVPATs contain information about political parties through symbol uploading. There is a [free flow of information](./images/EVM_information.png) between VVPATs and the control unit. This makes the EVM aware of political parties and candidates.

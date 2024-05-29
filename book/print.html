@@ -3362,6 +3362,29 @@ However, it is important to note that knowing the serial number is not the only 
 <p>The probability of finding all good EVMs is still high if we check 100 EVMs. To be very sure, the probability needs to be minuscule, like less than 0.01.</p>
 <p><a href="https://github.com/silicology/multiplication-rule/blob/main/src/main.rs">Rust code</a></p>
 <p>In the First-Past-The-Post (FPTP) system, every vote matters, and candidates can lose by just a few votes. Even the methodology of randomization is questionable and is opaque, as mentioned above.</p>
+<p>Do recall the data how many lost by just few votes.</p>
+<p><a href="https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/runner_up_lost_by_strength">Runner up lost by strength, 2023 legislative assembly</a></p>
+<p>e.g. 2023 Legislative assembly election, Madhya Pradesh</p>
+<pre><code class="language-json">
+{
+  &quot;number_of_places_runner_up_less_than_1000&quot;: 12,
+  &quot;number_of_places_runner_up_less_than_2000_more_than_1000&quot;: 6,
+  &quot;number_of_places_runner_up_less_than_3000_more_than_2000&quot;: 11,
+  &quot;number_of_places_runner_up_less_than_4000_more_than_3000&quot;: 5,
+  &quot;number_of_places_runner_up_less_than_5000_more_than_4000&quot;: 8,
+  &quot;number_of_places_runner_up_less_than_6000_more_than_5000&quot;: 7,
+  &quot;number_of_places_runner_up_less_than_7000_more_than_6000&quot;: 4,
+  &quot;number_of_places_runner_up_less_than_8000_more_than_7000&quot;: 4,
+  &quot;number_of_places_runner_up_less_than_9000_more_than_80000&quot;: 4,
+  &quot;number_of_places_runner_up_less_than_10000_more_than_9000&quot;: 4,
+  &quot;number_of_places_runner_up_greater_than_10000&quot;: 165,
+  &quot;number_of_places_runner_up_less_than_20000_more_than_10000&quot;: 57,
+  &quot;number_of_places_runner_up_less_than_30000_more_than_20000&quot;: 49,
+  &quot;number_of_places_runner_up_less_than_40000_more_than_30000&quot;: 28,
+  &quot;number_of_places_runner_up_greate_than_40000&quot;: 31,
+  &quot;No of constituency&quot;: 230,
+}    
+</code></pre>
 <h2 id="vague-arguments-of-supreme-court"><a class="header" href="#vague-arguments-of-supreme-court">Vague arguments of Supreme Court</a></h2>
 <p>The Supreme Court judge seems to be utterly corrupt. He is making all the <a href="chapters/./images/EVM_arguments.png">same vague arguments to justify the security of EVMs</a> that have already been debunked. According to Justice Khanna, EVMs are not re-programmable. It may be <a href="https://reversepcb.com/what-is-one-time-programmable-memory/">one time programmable memory</a>, but votes are not in non-volatile memory. Votes are readable and rewritable. As mentioned earlier, attackers could use portable hardware devices to extract and alter the vote records stored in the machines' memory, thereby enabling them to change election outcomes and violate ballot secrecy. As per previous analysis by hacker, <strong>EVMs do not use even basic cryptography</strong> to protect vote data internally. Furthermore, judge says that the source code couldn't be disclosed and that EVMs can't be made public for a hackathon because they will be prone to misuse. This is completely opposite to the principles of computer science and security experts. What are they scared of, if it's one-time programmable memory? No one can change its code, right? Why should we believe what you said is true if it hasn't been tested by independent security experts? The argument that EVMs don't recognize political parties and candidates is completely misleading. VVPATs contain information about political parties through symbol uploading. There is a <a href="chapters/./images/EVM_information.png">free flow of information</a> between VVPATs and the control unit. This makes the EVM aware of political parties and candidates.</p>
 <h2 id="court-decision-of-verifiability"><a class="header" href="#court-decision-of-verifiability">Court Decision of Verifiability</a></h2>
@@ -4099,6 +4122,29 @@ However, it is important to note that knowing the serial number is not the only 
 <p>The probability of finding all good EVMs is still high if we check 100 EVMs. To be very sure, the probability needs to be minuscule, like less than 0.01.</p>
 <p><a href="https://github.com/silicology/multiplication-rule/blob/main/src/main.rs">Rust code</a></p>
 <p>In the First-Past-The-Post (FPTP) system, every vote matters, and candidates can lose by just a few votes. Even the methodology of randomization is questionable and is opaque, as mentioned above.</p>
+<p>Do recall the data how many lost by just few votes.</p>
+<p><a href="https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/runner_up_lost_by_strength">Runner up lost by strength, 2023 legislative assembly</a></p>
+<p>e.g. 2023 Legislative assembly election, Madhya Pradesh</p>
+<pre><code class="language-json">
+{
+  &quot;number_of_places_runner_up_less_than_1000&quot;: 12,
+  &quot;number_of_places_runner_up_less_than_2000_more_than_1000&quot;: 6,
+  &quot;number_of_places_runner_up_less_than_3000_more_than_2000&quot;: 11,
+  &quot;number_of_places_runner_up_less_than_4000_more_than_3000&quot;: 5,
+  &quot;number_of_places_runner_up_less_than_5000_more_than_4000&quot;: 8,
+  &quot;number_of_places_runner_up_less_than_6000_more_than_5000&quot;: 7,
+  &quot;number_of_places_runner_up_less_than_7000_more_than_6000&quot;: 4,
+  &quot;number_of_places_runner_up_less_than_8000_more_than_7000&quot;: 4,
+  &quot;number_of_places_runner_up_less_than_9000_more_than_80000&quot;: 4,
+  &quot;number_of_places_runner_up_less_than_10000_more_than_9000&quot;: 4,
+  &quot;number_of_places_runner_up_greater_than_10000&quot;: 165,
+  &quot;number_of_places_runner_up_less_than_20000_more_than_10000&quot;: 57,
+  &quot;number_of_places_runner_up_less_than_30000_more_than_20000&quot;: 49,
+  &quot;number_of_places_runner_up_less_than_40000_more_than_30000&quot;: 28,
+  &quot;number_of_places_runner_up_greate_than_40000&quot;: 31,
+  &quot;No of constituency&quot;: 230,
+}    
+</code></pre>
 <h2 id="vague-arguments-of-supreme-court-1"><a class="header" href="#vague-arguments-of-supreme-court-1">Vague arguments of Supreme Court</a></h2>
 <p>The Supreme Court judge seems to be utterly corrupt. He is making all the <a href="chapters/./images/EVM_arguments.png">same vague arguments to justify the security of EVMs</a> that have already been debunked. According to Justice Khanna, EVMs are not re-programmable. It may be <a href="https://reversepcb.com/what-is-one-time-programmable-memory/">one time programmable memory</a>, but votes are not in non-volatile memory. Votes are readable and rewritable. As mentioned earlier, attackers could use portable hardware devices to extract and alter the vote records stored in the machines' memory, thereby enabling them to change election outcomes and violate ballot secrecy. As per previous analysis by hacker, <strong>EVMs do not use even basic cryptography</strong> to protect vote data internally. Furthermore, judge says that the source code couldn't be disclosed and that EVMs can't be made public for a hackathon because they will be prone to misuse. This is completely opposite to the principles of computer science and security experts. What are they scared of, if it's one-time programmable memory? No one can change its code, right? Why should we believe what you said is true if it hasn't been tested by independent security experts? The argument that EVMs don't recognize political parties and candidates is completely misleading. VVPATs contain information about political parties through symbol uploading. There is a <a href="chapters/./images/EVM_information.png">free flow of information</a> between VVPATs and the control unit. This makes the EVM aware of political parties and candidates.</p>
 <h2 id="court-decision-of-verifiability-1"><a class="header" href="#court-decision-of-verifiability-1">Court Decision of Verifiability</a></h2>
