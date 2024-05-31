@@ -976,7 +976,10 @@ Do recall the data how many lost by just few votes.
 
 [Runner up lost by strength, 2023 legislative assembly](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/runner_up_lost_by_strength)
 
-e.g. 2023 Legislative assembly election, Madhya Pradesh
+### For example, 2023 Legislative assembly election, Madhya Pradesh
+
+As you can see, just manipulating one EVM (2000 votes) in different constituencies can cause 18 candidates to lose the election. It can be terribly hard to detect one EVM manipulation. 1% EVM manipulation (about 6 EVMs manipulation `6 * 2,000 = 12,000 votes` out of 600 EVMs with total 12 lakh votes) will completely reverse the outcome of the election result.
+
 ```json
 
 {
