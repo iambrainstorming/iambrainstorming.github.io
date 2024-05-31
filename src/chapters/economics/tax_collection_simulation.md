@@ -1,4 +1,4 @@
-# Tax collection simulation
+# Tax collection simulation for poverty alleviation
 
 This is a simulation of tax collection within the context of a particular supply chain, specifically using the example of an apple supply chain. While a specialized supply chain with its own unique token doesn't currently exist, the advancement of cryptocurrency and blockchain technology is gradually pushing us toward similar systems.
 
@@ -90,5 +90,11 @@ Here's a step-by-step explanation and evaluation of the simulation:
    - The simulation suggests that the tax and UBI system successfully alleviates poverty by ensuring everyone can afford food. This is a positive outcome and aligns with the goal of such policies.
    - However, it's important to note that this simulation assumes a perfectly elastic supply, meaning producers can instantly adjust their supply to meet demand. In reality, supply adjustments may take time, and there could be other factors affecting production, such as resource constraints or technological limitations.
    - Additionally, the simulation doesn't consider potential unintended consequences, such as inflationary pressures or changes in consumer behavior, which could impact the effectiveness of the UBI in the long term.
+6. **Implementation Issues:**
+   - Implementing such systems requires Know Your Customer (KYC) procedures and smart contracts. By utilizing smart contracts, it can be ensured that the money given in UBI is solely used for purchasing apples. 
+   - Each supply chain presents its unique challenges, and implementing the system across every supply chain is both tedious and challenging, requiring time for experimentation and improvement.
+7. **Wasteful Trade:**
+   - This system may generate wasteful trade, such as when money is given for buying apples when the person does not need apples. To address this issue, UBI tokens can be handed over to the individual, allowing them to purchase other goods while collecting a certain tax for the UBI given. 
+   - However, giving tax money for buying other goods can negatively impact production in the supply chain, so it needs to be permitted with certain rules. These rules could include using the money for staking for a specific period, such as few months or a year, instead of selling it in real-time.
 
 In conclusion, while this simulation provides a simplified representation of tax collection and UBI's impact on a supply chain and poverty alleviation, it does offer insights into how such policies might work in theory. However, real-world implementations would likely involve more complexities and require careful consideration of a broader range of economic factors and potential externalities.
