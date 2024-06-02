@@ -1018,7 +1018,7 @@ As court cases can take longer, proper care needs to be taken to secure the VVPA
 
 As there is also a chance of ballot stuffing, since the VVPAT can print ballots when no one is watching, this can also be detected by comparing the voter turnout recorded in the 17C form.
 
-## On Voting Day
+## On Couting Day
 
 On the counting day, the EVM counts need to be matched with all 17C forms of voter turnout booth-wise. Any discrepancies found can be questioned regarding the integrity of the EVM. Also, a [proper randomization method](#randomization-of-evms) is used for VVPAT that are supposed to be counted on voting day.
 
