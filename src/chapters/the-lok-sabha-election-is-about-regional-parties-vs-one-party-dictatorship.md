@@ -1022,6 +1022,8 @@ As there is also a chance of ballot stuffing, since the VVPAT can print ballots 
 
 On the counting day, the EVM counts need to be matched with all 17C forms of voter turnout booth-wise. Any discrepancies found can be questioned regarding the integrity of the EVM. Also, a [proper randomization method](#randomization-of-evms) is used for VVPAT that are supposed to be counted on voting day.
 
+Check [the video](https://www.youtube.com/watch?v=IrQVWmS3pj8) what to do when you don't have 17C form, and how to fill and collect 17C part 2 on the counting day.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oWpJLgjdx0Q?si=dgwaxTysW-yVmxx5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
