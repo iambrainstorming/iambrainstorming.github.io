@@ -96,5 +96,7 @@ Here's a step-by-step explanation and evaluation of the simulation:
 7. **Wasteful Trade:**
    - This system may generate wasteful trade, such as when money is given for buying apples when the person does not need apples. To address this issue, UBI tokens can be handed over to the individual, allowing them to purchase other goods while collecting a certain tax for the UBI given. 
    - However, giving tax money for buying other goods can negatively impact production in the supply chain, so it needs to be permitted with certain rules. These rules could include using the money for staking for a specific period, such as few months or a year, instead of selling it in real-time.
-
+8. **Freeloader Problem**: 
+   - UBI for no work can also create a freeloader problem, so UBI should be released with some proof of contribution, such as creating positive externalities or contributing to the supply chain.
+  
 In conclusion, while this simulation provides a simplified representation of tax collection and UBI's impact on a supply chain and poverty alleviation, it does offer insights into how such policies might work in theory. However, real-world implementations would likely involve more complexities and require careful consideration of a broader range of economic factors and potential externalities.
