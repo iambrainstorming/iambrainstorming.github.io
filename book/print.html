@@ -2154,11 +2154,13 @@ calculate_new_mean(items3)
 <p>Initial project funding comes from inflation, however as the inflation rate declines over time, the funds are collected by subtracting some amount of balance from different accounts so that there is no longer any inflation.</p>
 <p>To avoid creating disincentives to invest in the coin, tax collection or deduction of balance is randomized for every transaction.</p>
 <p>During a transaction, a random value is generated between 0 and 10. If the drawn number is 0, no tax will be deducted. If the number is 10, a 5% tax will be deducted from the transaction. In the case of the drawn number being 5, a 2.5% tax will be deducted.</p>
-<p>In order to stop hoarding following tax collection can also be applied:</p>
+<p>Another way of tax collection, but less simple:</p>
 <p>An account number is assigned to each account starting from 1000 in ascending order. A random number n between 1-1000 is drawn.</p>
 <p>All account numbers with account_number % 1000 == drawn random number are taxed</p>
 <p>If the drawn number is 1,000, one out of every 1,000 accounts will be taxed.</p>
 <p>The primary governance determines the tax rate. The block number is stored during the draw. One draw is conducted each month at random time. Tax is deducted when the account interacts with the blockchain.</p>
+<h3 id="why-tax-collection-not-inflation"><a class="header" href="#why-tax-collection-not-inflation">Why tax collection, not inflation?</a></h3>
+<p>The current price of token is being impacted by a combination of psychological and economic factors due to inflation. As inflation rises, sell pressure increases, leading to fear and uncertainty among investors, causing them to seek hedging in alternative assets with lower inflation rates. This heightened sell pressure can trigger panic selling and herd behavior, further driving down the token's price. Additionally, loss aversion and recency bias intensify these effects, causing investors to overreact to the lack of price movement. Loss aversion suggests that the pain of losing is twice as powerful as the pleasure of gaining, while recency bias gives greater importance to recent events over historical ones, further influencing investor behavior.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="the-competitive-collaboration-algorithm"><a class="header" href="#the-competitive-collaboration-algorithm">The Competitive Collaboration Algorithm</a></h1>
 <p>Competitive Collaboration Algorithm:</p>
 <blockquote>

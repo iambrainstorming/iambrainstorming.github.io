@@ -271,7 +271,7 @@ To avoid creating disincentives to invest in the coin, tax collection or deducti
 
 During a transaction, a random value is generated between 0 and 10. If the drawn number is 0, no tax will be deducted. If the number is 10, a 5% tax will be deducted from the transaction. In the case of the drawn number being 5, a 2.5% tax will be deducted.
 
-In order to stop hoarding following tax collection can also be applied:
+Another way of tax collection, but less simple:
 
 An account number is assigned to each account starting from 1000 in ascending order. A random number n between 1-1000 is drawn.
 
@@ -280,3 +280,7 @@ All account numbers with account_number % 1000 == drawn random number are taxed
 If the drawn number is 1,000, one out of every 1,000 accounts will be taxed.
 
 The primary governance determines the tax rate. The block number is stored during the draw. One draw is conducted each month at random time. Tax is deducted when the account interacts with the blockchain.
+
+### Why tax collection, not inflation?
+
+The current price of token is being impacted by a combination of psychological and economic factors due to inflation. As inflation rises, sell pressure increases, leading to fear and uncertainty among investors, causing them to seek hedging in alternative assets with lower inflation rates. This heightened sell pressure can trigger panic selling and herd behavior, further driving down the token's price. Additionally, loss aversion and recency bias intensify these effects, causing investors to overreact to the lack of price movement. Loss aversion suggests that the pain of losing is twice as powerful as the pleasure of gaining, while recency bias gives greater importance to recent events over historical ones, further influencing investor behavior.
