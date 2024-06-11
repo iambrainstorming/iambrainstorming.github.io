@@ -408,6 +408,12 @@ In other words, FPTP doesn't give a fair chance to every candidate, which goes a
 
 In Madhya Pradesh, the BJP would have lost 63 seats, and the Congress would have lost 45 because in these constituencies vote wastage has won, or if we could consider the majority decision. In Rajasthan, the Congress would have lost 42 seats, and the BJP 65 seats. In Chhattisgarh, the BJP would have lost 24, and the Congress 21 if we consider majority decision.
 
+### 2024 LokSabha Election
+
+[286 candidates](https://github.com/silicology/election_data_analysis/blob/main/data/vote_splitting_won.json) would have lost out of 543 candidates if we take the majority votes, which are vote wastage. That's 52% of the seats.
+
+Bharatiya Janata Party (BJP) would have lost 84 seats, and Indian National Congress (INC) would ahve lost 62 seats.
+
 > Can you blame voters if you don't even provide the option and instead force them to vote tactically, thus preventing them from voting for their sincere preference?
 
 [https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data)
@@ -1024,8 +1030,23 @@ On the counting day, the EVM counts need to be matched with all 17C forms of vot
 
 Check [the video](https://www.youtube.com/watch?v=IrQVWmS3pj8) what to do when you don't have 17C form, and how to fill and collect 17C part 2 on the counting day.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oWpJLgjdx0Q?si=dgwaxTysW-yVmxx5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Loksabha Election 2024 Results
+
+[In 140+ LS Seats, More EVM Votes Were Counted Than EVM Votes Polled. What's the Magical Mystery Behind it?](https://thewire.in/government/in-140-ls-seats-more-evm-votes-were-counted-than-evm-votes-polled-whats-going-on)
+
+![Top contituencies with manipulation](images/top_contituencies.png)
+
+Here is the code and data for election analysis. 
+
+[Analysis Data](https://github.com/silicology/election_data_analysis/tree/main/data)
+
+The data for EVM votes and Postal votes are here. Will soon list out details of all discrepancies.
+
+[EVM & Postal Votes](https://github.com/silicology/election_data_analysis/blob/main/data/2024_loksabha_election_evm_postal_data.json)
+
 
 
 ### Give missed call to 9667722062 to Ban EVM
