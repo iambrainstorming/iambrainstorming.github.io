@@ -1043,9 +1043,13 @@ Here is the code and data for election analysis.
 
 [Analysis Data](https://github.com/silicology/election_data_analysis/tree/main/data)
 
-The data for EVM votes and Postal votes are here. Will soon list out details of all discrepancies.
+The data for EVM votes and Postal votes are here. 
 
 [EVM & Postal Votes](https://github.com/silicology/election_data_analysis/blob/main/data/2024_loksabha_election_evm_postal_data.json)
+
+Data of all discrepancies is here.
+
+[Discrepancies EVM votes during polling and evm votes during counting](https://github.com/silicology/election_data_analysis/blob/main/data/voter_turnout_data/evm_tunout_matching/evm_voter_turnout_comparison.json)
 
 
 
