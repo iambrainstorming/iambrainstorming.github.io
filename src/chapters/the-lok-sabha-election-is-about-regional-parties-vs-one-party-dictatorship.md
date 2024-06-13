@@ -1049,7 +1049,63 @@ The data for EVM votes and Postal votes are here.
 
 Data of all discrepancies is here.
 
-[Discrepancies EVM votes during polling and evm votes during counting](https://github.com/silicology/election_data_analysis/blob/main/data/voter_turnout_data/evm_tunout_matching/evm_voter_turnout_comparison.json)
+[Discrepancies EVM votes during polling and evm votes during counting](https://github.com/silicology/election_data_analysis/blob/main/data/voter_turnout_data/evm_turnout_matching/evm_voter_turnout_comparison.json)
+
+```json
+[
+  {
+    "constituency_name": "Andaman & Nicobar Islands",
+    "difference": -26,
+    "evm_turnout_votes": 201992,
+    "evm_turnout_votes_polled": 202018,
+    "state": "Andaman & Nicobar Islands"
+  },
+  {
+    "constituency_name": "Srikakulam",
+    "difference": -5216,
+    "evm_turnout_votes": 1208912,
+    "evm_turnout_votes_polled": 1214128,
+    "state": "Andhra Pradesh"
+  },
+  {
+    "constituency_name": "Vizianagaram",
+    "difference": -6176,
+    "evm_turnout_votes": 1278710,
+    "evm_turnout_votes_polled": 1284886,
+    "state": "Andhra Pradesh"
+  },
+  {
+    "constituency_name": "Visakhapatnam",
+    "difference": -3689,
+    "evm_turnout_votes": 1366795,
+    "evm_turnout_votes_polled": 1370484,
+    "state": "Andhra Pradesh"
+  },
+
+```
+
+[Percentage data by party in each state](https://github.com/silicology/election_data_analysis/blob/main/data/percentage_votes_state_wise.json)
+
+```json
+{
+  "Andaman & Nicobar Islands": [
+    {
+      "party": "Bharatiya Janata Party",
+      "percentage": 50.58218197260437,
+      "votes": 102436
+    },
+    {
+      "party": "Indian National Congress",
+      "percentage": 38.53560741479601,
+      "votes": 78040
+    },
+    {
+      "party": "Andaman Nicobar Democratic Congress",
+      "percentage": 4.0757676012522595,
+      "votes": 8254
+    },
+
+```
 
 
 
