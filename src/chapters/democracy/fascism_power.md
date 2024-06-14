@@ -6,11 +6,9 @@ Achieving a society with both freedom and peace is of course no simple task. It 
 
 But how is this possible? What kind of power can the democratic opposition mobilize that will be sufficient to destroy the dictatorship and its vast military and police networks? The answers lie in an often ignored understanding of political power. Learning this insight is not really so difficult a task. Some basic truths are quite simple.
 
-## Local candidates need to take away support from BJP
+## Local Candidates Need to Withdraw Support from Fascism
 
-Local candidates and MLAs need to take away support from BJP. BJP is playing a dangerous game of fascism by trying to take over every possible institute they can. People need to stop supporting local candidates that are from BJP. Local candidates can join any party, including independent, but not BJP. Remember, in a one-party dictatorship, there is hardly any power left with local candidates, so why vote them? Democracy is about making decisions by consensus, by listening to everyone, not decisions made by a single supreme leader. Remember how a dictator gets its power. All support systems of dictator need to be broken. Bring Down Dictatorship.
-
- 
+Local candidates and MLAs must withdraw their support from any party that promotes fascism. Fascist governments play a dangerous game by attempting to take over every possible institution. People need to stop supporting local candidates affiliated with parties that endorse fascism. Local candidates can join any party, including independent ones, but not a fascist party. Remember, in a one-party dictatorship, local candidates have little power, so why vote for them? Democracy is about making decisions by consensus, listening to everyone, not decisions made by a single supreme leader. Remember how a dictator gains power. All support systems for a dictator need to be dismantled. Bring down dictatorship.
 ## Necessary sources of political power
 
 > The principle is simple. Dictators require the assistance of the people they rule, without which they cannot secure and maintain the sources of political power. These sources of political power include:
