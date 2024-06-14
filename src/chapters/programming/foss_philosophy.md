@@ -81,5 +81,16 @@ In conclusion, open source software offers a higher level of security compared t
 
 [- Schneier on Security](https://www.schneier.com/crypto-gram/archives/1999/0915.html)
 
+## Which Open Source License to Use?
 
+<https://choosealicense.com/>
 
+[Copyleft licenses](https://fossa.com/blog/all-about-copyleft-licenses/) generally require that any derivative work of the copyleft-licensed software be released under the same license as the original software. In other words, the modified code has to be exactly as “open” as the original. One of the practical ramifications of this requirement is that OSS users may be forced to publish their own changes or additions in source code form if they release a binary that includes a copyleft-licensed component.
+
+[GNU GPLv3 is a copyleft license](https://choosealicense.com/licenses/gpl-3.0/) 
+
+Copyleft licenses play a crucial role in promoting fairness and countering the unjust power taken by proprietary software makers and companies that do not pay a fair share of profit to open source developers. By using copyleft licenses, developers can ensure that their work remains accessible and available for others to use, modify, and share, without fear of exploitation by proprietary interests. This approach helps to create a more equitable digital landscape where developers can collaborate and benefit from each other's work, while also protecting their rights and ensuring that their contributions are not unfairly appropriated.
+
+The use of copyleft licenses also discourages the mistreatment of users by proprietary software makers. By making the source code of a program available to the public, copyleft ensures that users can inspect and understand the inner workings of a program, allowing them to identify and address any malware or malicious features that may be present. This transparency promotes trust between developers and users, and encourages the creation of software that prioritizes the needs and rights of the people who use it.
+
+Furthermore, copyleft licenses help to address the issue of companies profiting from open source software without fairly compensating the developers who create it. By requiring that any modifications or derivatives of the original work be released under the same copyleft license, these licenses ensure that the benefits of open source software development are shared among the entire community. This not only encourages collaboration and innovation, but also helps to ensure that developers are fairly compensated for their contributions, rather than being exploited by companies that seek to profit from their work without giving back.
