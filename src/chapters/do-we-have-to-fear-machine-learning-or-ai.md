@@ -117,7 +117,6 @@ The machine does this by constructing a massive statistical model, one which is 
 <https://bigthink.com/thinking/objective-reality-2/>
 
 You bite into an apple and perceive a pleasantly sweet taste. That perception makes sense from an evolutionary perspective: Sugary fruits are dense with energy, so we evolved to generally enjoy the taste of fruits. But the taste of an apple is not a property of external reality. It exists only in our brains as a subjective perception.
-Featured Videos
 
 Cognitive scientist Donald Hoffman told Big Think:
 
