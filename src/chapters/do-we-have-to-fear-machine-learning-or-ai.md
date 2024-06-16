@@ -84,6 +84,9 @@ Take for example [Molecular dynamics simulation](https://bmcbiol.biomedcentral.c
 > 
 > These successes aside, the utility of molecular dynamics simulations is still limited by two principal challenges: the force fields used require further refinement, and high computational demands prohibit routine simulations greater than a microsecond in length, leading in many cases to an inadequate sampling of conformational states. As an example of these high computational demands, consider that a **one-microsecond simulation** of a relatively small system (approximately 25,000 atoms) running on **24 processors takes several months to complete**.
 
+
+### Simulating is costly
+
 >Simulating our world  will always be costly.
 >Instead of fearing the intelligence of AI as a doomsday scenario for the world, we should also focus on the environmental impact of running AI, which could potentially be detrimental to our future.
 
@@ -94,9 +97,28 @@ A lawsuit by local residents revealed that in July 2022, the month before OpenAI
 
 Humans cannot entirely rely on AI for decision-making due to its limitations; it can only serve as an assistant.
 
-Reputed AI models like ChatGPT and a open source model like HuggingFace's Chat have the potential to make the world more truthful by providing a single source of truth trained on high-quality academic information.
+Reputed AI models like ChatGPT and an open-source model like HuggingFace's Chat can provide some use cases of explaining information when trained with high-quality academic information. 
 
-**Why Do People Believe the Earth Is Flat?**
+[ChatGPT is bullshit](https://link.springer.com/epdf/10.1007/s10676-024-09775-5?sharing_token=0CIhP_zo5-plierRq8kkDPe4RwlQNchNByi7wbcMAY77xTOWyddkW01qGFs1m5zuuoZGBctVlsJF8SbYqcxWi-XzgEYEPiw7xwWi4bMYXJ_1JARDrER9JGdWZOW-UGSkrk_tXPjPh-XWvFNoiFzNlnDUUUEBAztiX9PtP2p6jfI%3D)
+
+### Is reality Subjective or Objective? 
+
+#### Is reality an illusion?
+
+<https://bigthink.com/thinking/objective-reality-2/>
+
+You bite into an apple and perceive a pleasantly sweet taste. That perception makes sense from an evolutionary perspective: Sugary fruits are dense with energy, so we evolved to generally enjoy the taste of fruits. But the taste of an apple is not a property of external reality. It exists only in our brains as a subjective perception.
+Featured Videos
+
+Cognitive scientist Donald Hoffman told Big Think:
+
+“Colors, odors, tastes and so on are not real in that sense of objective reality. They are real in a different sense. They’re real experiences. Your headache is a real experience, even though it could not exist without you perceiving it. So it exists in a different way than the objective reality that physicists talk about.”
+
+A bat with sonar experiences a reality vastly different from our own. Using [echolocation](https://en.wikipedia.org/wiki/Animal_echolocation), bats emit high-frequency sounds that bounce off objects, allowing them to navigate and hunt with precision in complete darkness. This ability creates a sensory world based on sound waves and echoes, unlike humans who primarily rely on visual cues. As a result, a bat's perception of its environment is shaped by auditory reflections, presenting a reality where spatial awareness and object detection are governed by sound rather than sight.
+
+> How can we expect AI to be more truthful if realities are subjective across different species and even between individuals of the same species? AI doesn't even have a human brain and can never simulate a human brain because they don't have the same form, structure, and function as humans
+
+### Why Do People Believe the Earth Is Flat?
 
 [http://web.archive.org/web/20230802193056/https://nautil.us/why-do-people-believe-the-earth-is-flat-305667/](http://web.archive.org/web/20230802193056/https://nautil.us/why-do-people-believe-the-earth-is-flat-305667/)
 
@@ -108,7 +130,9 @@ So there is a chunk of Flat-Earth believers who brand themselves as the only tru
 > 
 > [What do we need to decentralize in the coming years?](./what-do-we-need-to-decentralize-in-the-coming-years.md)
 
-Here, is how we can stop AI from misuse, given by chatgpt:
+## Preventing AI misuse
+
+Here, is how we can stop AI from misuse:
 
 Preventing the misuse of AI involves a combination of technical, ethical, and regulatory measures. Here are some steps that can be taken to address AI misuse:
 
@@ -131,5 +155,18 @@ Preventing the misuse of AI involves a combination of technical, ethical, and re
 9. **Global Cooperation:** Given that AI has a global impact, international collaboration is crucial. Countries can work together to develop harmonized regulations and share best practices.
 
 10. **Responsible Innovation:** Tech companies and AI researchers should consider the ethical implications of their work from the outset and prioritize the development of AI that aligns with societal values.
+
+
+### Open sourcing the AI: 
+
+[Open sourcing an AI model](./programming/foss_philosophy.md) can prevent its misuse by allowing for greater transparency and collaboration within the community. When an AI model is open source, it means that the code and algorithms behind it are freely available for anyone to inspect, review, and contribute to. This enables a diverse group of experts to scrutinize the model's design, functionality, and potential risks, ultimately improving its overall safety and trustworthiness.
+
+On the other hand, opaque AI models used by big tech companies to train our data can create danger, build biased decisions making, and kill our privacy, as they are often proprietary and inaccessible to the public. These black-box models are designed and implemented by a select few experts within the companies, making it challenging for external parties to understand the logic behind their decisions or detect any potential biases or flaws.
+
+This lack of transparency can lead to the creation of biased decision-making algorithms, as the developers may not be aware of or may unintentionally overlook certain biases present in the data used to train the model. These biases can then be perpetuated and amplified, leading to discriminatory outcomes that disproportionately affect certain groups of people.
+
+Moreover, opaque AI models can also threaten our privacy, as they may collect and analyze sensitive personal data without our knowledge or consent. Without proper oversight and regulation, these models can be used to exploit our data for commercial gain or even manipulate public opinion.
+
+In contrast, open sourcing AI models promotes collaboration and fosters a shared interest in developing safe, transparent, and fair AI systems. By making the code and algorithms publicly accessible, developers and researchers can work together to identify and address potential issues, ensuring that the technology benefits society as a whole rather than a select few.
 
 Preventing AI misuse requires a multifaceted approach involving technology, policy, education, and ethical considerations. It's an ongoing challenge that requires vigilance and adaptation as AI technology evolves.
