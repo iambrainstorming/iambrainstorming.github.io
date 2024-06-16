@@ -116,7 +116,7 @@ Cognitive scientist Donald Hoffman told Big Think:
 
 A bat with sonar experiences a reality vastly different from our own. Using [echolocation](https://en.wikipedia.org/wiki/Animal_echolocation), bats emit high-frequency sounds that bounce off objects, allowing them to navigate and hunt with precision in complete darkness. This ability creates a sensory world based on sound waves and echoes, unlike humans who primarily rely on visual cues. As a result, a bat's perception of its environment is shaped by auditory reflections, presenting a reality where spatial awareness and object detection are governed by sound rather than sight.
 
-> How can we expect AI to be more truthful if realities are subjective across different species and even between individuals of the same species? AI doesn't even have a human brain and can never simulate a human brain because they don't have the same form, structure, and function as humans
+> How can we expect AI to be more truthful if realities are subjective across different species and even between individuals of the same species? AI doesn't even have a human brain and can never simulate a human brain because they don't have the same [form, structure, and function](https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells) as humans.
 
 ### Why Do People Believe the Earth Is Flat?
 
