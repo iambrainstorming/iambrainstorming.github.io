@@ -52,6 +52,8 @@ There is a call to [ban loudspeakers in mosques](https://www.newindianexpress.co
 
 [Professor Ashok Swain has 500,000 followers on Twitter](https://www.uu.se/en/news/archive/2023-03-31-professor-ashok-swain-has-500000-followers-on-twitter)
 
+[Will India's Booker Prize-winning author Arundhati Roy face jail for 14-year-old remark?](https://www.bbc.com/news/articles/c3ggyz13m2po)
+
 #### India's media being captured
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHEgb8ZSA1c?si=HyVe-aVJSlzZpAzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -68,6 +70,8 @@ Fascist regimes frequently employ violence, intimidation, and censorship to sile
 
 e.g Arresting and harassing [strong opponents](https://www.thehindu.com/news/national/manish-sisodia-arrest-9-opposition-leaders-write-to-pm-modi-about-misuse-of-central-agencies/article66583183.ece) who are difficult to tackle, for example, either by arresting them or [removing them from the assembly](https://www.bbc.com/news/world-asia-india-67294799).
 
+[Why were 141 India opposition MPs suspended from parliament?](https://www.aljazeera.com/news/2023/12/19/why-141-india-opposition-mps-suspended-from-parliament)
+
 When you protest against unemployment, and dictatorship (tanashahi nahi chalegi), you are given electric shocks:
 
 [Given Electric Shocks, Tortured To Implicate Political Leaders: Parliament Security Breach Accused Tell Delhi Court](https://www.livelaw.in/news-updates/delhi-court-parliament-security-breach-accused-tortured-to-name-political-leaders-248112)
@@ -79,7 +83,7 @@ When you protest against unemployment, and dictatorship (tanashahi nahi chalegi)
 
 ### Govt attack on climate activists
 
-[Disha Ravi’s Sedition Case Is Only Latest Without Evidence, Reason](https://www.article-14.com/post/disha-ravi-s-sedition-case-is-only-latest-without-evidence-reason)
+[Disha Ravi’s Sedition Case Is Only Latest Without Evidence, Reason](https://www.article-14.com/post/disha-ravi-s-sedition-case-is-only-latest-without-evidence-reason)i
 
 ## Militarization
 
@@ -275,6 +279,10 @@ Fascist regimes often create youth organizations that promote loyalty to the sta
 [How RSS textbooks are reshaping Indian history and science under Modi. The chain of schools run by the BJP’s far-right ideological mentor also served as a laboratory for government changes to syllabuses.](https://www.aljazeera.com/news/2024/2/19/how-rss-textbooks-are-reshaping-indian-history-and-science-under-modi)
 
 [Centre hands over 62% of new Sainik Schools to Sangh Parivar, BJP politicians and allies](https://www.reporters-collective.in/trc/centre-hands-sainik-schools-to-sangh-parivar-bjp-politicians)
+
+[India Cuts Periodic Table and Evolution from School Textbooks](https://www.scientificamerican.com/article/india-cuts-periodic-table-and-evolution-from-school-textbooks/)
+
+[NCERT deletes references to Mahatma Gandhi, post-Godhra riots beyond its 'syllabus rationalisation](https://www.indiatoday.in/india/story/ncert-textbooks-mahatma-gandhi-godhra-riots-removed-2356040-2023-04-05)
 
 ## Expansionism and Imperialism
 
