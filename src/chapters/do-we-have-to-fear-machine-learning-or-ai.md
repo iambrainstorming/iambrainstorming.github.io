@@ -122,7 +122,8 @@ However, this agency is fundamentally different from human or biological agency.
 
 Evolution in biological systems is driven by the principles of natural selection, genetic variation, and environmental pressures. Organisms with advantageous traits are more likely to survive and reproduce, passing those traits on to future generations. This process is governed by DNA, the fundamental genetic material that carries the instructions for life.
 
-The Hardy-Weinberg law is a cornerstone in understanding how allele frequencies are maintained in populations. It states that allele and genotype frequencies in a population remain constant from generation to generation in the absence of evolutionary influences such as mutation, migration, genetic drift, and natural selection. 
+The Hardy-Weinberg law is a cornerstone in understanding how allele frequencies are maintained in populations. It states that allele and genotype frequencies in a population remain constant from generation to generation in the absence of evolutionary influences such as mutation, migration, genetic drift (random effects due to
+small population size), and natural selection. 
 
 In contrast, AI does not possess DNA or any equivalent genetic material. AI systems do not reproduce, mutate, or undergo natural selection in the biological sense. Instead, they are designed, developed, and updated by human engineers. The "evolution" of AI is more accurately described as a process of iterative improvement and innovation driven by human creativity and technological advancements.
 
