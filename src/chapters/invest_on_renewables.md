@@ -58,13 +58,25 @@ Although India missed its target of achieving 100 GW of solar power by 2023, glo
 
 Poor states states like Odisha, Jharkhand, Chhattisgarh are very much dependent on coal revenue. It all about politics. This must change, political pressure must be build on these state.
 
-[Governments Spent Record $1 Trillion Subsidizing Fossil Fuels Last Year](https://e360.yale.edu/digest/1-trillion-fossil-fuel-subsidies)
 
-This decentralization of power generation at the community level can lead to a significant reduction in electricity prices, and in some cases, it has the potential to bring the cost down to zero.
+### The Struggle for Commercialization of Rooftop Solar Panels: Overcoming Government Hesitancy and Corporate Monopolies
+
+Roof top solar panels have the potential to revolutionize the way we generate and consume energy, but commercialization of rooftop solar has been slow due to hesitant government policies and the influence of monopolistic corporate lobbies. The government is reluctant to provide subsidies for roof top solar systems for commercial purposes, which hampers the widespread adoption of this sustainable energy source. Meanwhile, large corporations are more interested in building solar hubs in rivers and fields, which can be easily washed away in floods. It also perpetuates a cycle of corporate profit, rather than decentralizing the power economy and putting it in the hands of the public. It is crucial for governments to recognize the importance of roof top solar panels and provide the necessary support for their commercialization, ultimately benefiting both the environment and the people.
+
+[Storm damages world's biggest floating solar plant in Madhya Pradesh](https://timesofindia.indiatimes.com/city/indore/storm-damages-worlds-biggest-floating-solar-plant/articleshow/109231119.cms)
+
+
+## Zero electricity Bills
 
 ![Zero bill](./images/renewables.jpg)
 
 > Zero electric bills can be a reality in your city. Don't be misled by the gimmick of a zero fossil fuel electricity bill, and don't tolerate overpriced fossil fuel electricity. In both cases, the fossil fuel industry profits, either through subsidies or price gouging.
+
+
+[Governments Spent Record $1 Trillion Subsidizing Fossil Fuels Last Year](https://e360.yale.edu/digest/1-trillion-fossil-fuel-subsidies)
+
+This decentralization of power generation at the community level can lead to a significant reduction in electricity prices, and in some cases, it has the potential to bring the cost down to zero.
+
 
 ## Adani imported ₹13,000 crores of coal at above market value so crores of Indians overpay for electricity.
 
