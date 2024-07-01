@@ -1112,6 +1112,14 @@ Data of all discrepancies is here.
 It's not surprising when Wi-Fi is installed on EVMs and controlled by mobile phones. The inefficient ECI is not even able to count all the VVPATs, which only takes a week or two. How can one expect that they will check the internals of each EVM microscopically? It's even more technologically challenging. An illegal confiscation of an EVM for one hour at any time within the lifespan of the EVM allows them to replace parts and install duplicates. Only a few EVM manipulations can switch the result in FPTP, as candidates usually win by a small margin.
 
 [OTP to unlock the voting machine](https://thewire.in/government/explained-a-news-report-an-alleged-otp-and-an-evm-controversy-in-maharashtra)
+
+## Manipulation in strong room
+
+<video controls width="500">
+    <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeifldklawqjcnwgufpsh3yhgiopsme3vax4vval2euxlq7gjmo77em" type="video/mp4">
+    <!-- Add additional source elements for different video formats if needed -->
+    Your browser does not support the video tag.
+</video>
  
 
 ### Give missed call to 9667722062 to Ban EVM
