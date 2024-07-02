@@ -14,7 +14,7 @@ Our democracy has many challenges, blockchain can provide a way to tackle those 
 
 ### Project Details
 
-Project Github link: <https://github.com/reaudito/tanssi-shivarthu>
+Project Github link: <https://github.com/reaudito/shivarthu>
 
 ### Departments:
 
@@ -33,7 +33,7 @@ Moderators chosen through approval voting have the ability to invalidate the fak
 
 
 Experience evaluation pallet 
-<https://github.com/reaudito/tanssi-shivarthu/tree/main/custom-pallets/profile-validation>
+<https://github.com/reaudito/shivarthu/tree/main/custom-pallets/profile-validation>
 
 
 <img src="Portfolio.svg" alt="portfolio" height="600"/>
@@ -125,7 +125,7 @@ Sortition Sum Game Algoritm:
 
 
 Sortition Sum Game pallets:
-<https://github.com/reaudito/tanssi-shivarthu/tree/main/custom-pallets/sortition-sum-game>
+<https://github.com/reaudito/shivarthu/tree/main/custom-pallets/sortition-sum-game>
 
 
 ## Voting for selection of department representatives:
@@ -140,7 +140,7 @@ Winners:
 <img src="Winners.svg" alt="Winner" height="600"/>
 
 Seq phragmen voting:
-<https://github.com/reaudito/shivarthu/tree/main/pallets/election>
+<https://github.com/reaudito/shivarthu/tree/main/custom-pallets/election>
 
 
 #### Voting for selection of governors   
