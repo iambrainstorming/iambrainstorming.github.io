@@ -11,6 +11,7 @@
   - [Clean energy like roof top solar and wind energy](./chapters/invest_on_renewables.md)
   - [Banning single use plastic](./chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.md)
   - [Sustainable housing design](./chapters/building-better-cities.md)
+  - [Decentralized Wifi](./chapters/broadband_share/broadband_share_idea.md)
   - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)  
   - [Car-free cities](./chapters/road-planning-of-cities.md) 
   - [City Planning: Rain Water Harvesting](./chapters/city-planning/rain_water_harvesting.md)
