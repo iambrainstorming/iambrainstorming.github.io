@@ -79,7 +79,7 @@ However, for mothers who have undergone a cesarean section or those who must ret
 
 Breastfeeding has health benefits for the mother too! Breastfeeding can reduce the mother's risk of breast and ovarian cancer, type 2 diabetes, and high blood pressure.
 
-[Exclusive breastfeeding for optimal growth, development and health of infants](https://www.who.int/tools/elena/interventions/exclusive-breastfeeding)i
+[Exclusive breastfeeding for optimal growth, development and health of infants](https://www.who.int/tools/elena/interventions/exclusive-breastfeeding)
 
 [Five great benefits of breastfeeding](https://www.cdc.gov/breastfeeding/features/breastfeeding-benefits.html)
 
