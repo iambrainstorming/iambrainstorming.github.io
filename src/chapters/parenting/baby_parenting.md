@@ -133,3 +133,20 @@ Generally, newborns sleep a total of about 8 to 9 hours in the daytime and a tot
 Not all babies know how to put themselves to sleep. When it's time for bed, many parents want to rock their baby to sleep. Newborns and younger infants will fall asleep while breastfeeding. Having a routine at bedtime is a good idea. But if an older baby falls asleep while eating or in your arms, this may become a pattern. Your baby may then start to expect to be in your arms to fall asleep. When your baby briefly awakens during a sleep cycle, he or she may not be able to go back to sleep on his or her own.
 
 After the newborn period, most experts recommend allowing your baby to become sleepy in your arms, then placing him or her in the bed while still awake. This way your baby learns how to go to sleep on his or her own. Playing soft music while your baby is getting sleepy is also a good way to help create a bedtime routine.
+
+## Sterilize Infant Feeding Items
+
+[How to Clean, Sanitize, and Store Infant Feeding Items Frequently Asked Questions](https://www.cdc.gov/hygiene/faq/)
+
+### What are infant feeding items?
+
+Infant feeding items include bottles and the nipples, rings, and caps that go with them. Certain bottles also may include valves or membranes. Some infants may be fed with a syringe, medicine cup, spoon, or supplemental nursing system.
+
+## Sanitizing
+For extra germ removal, sanitize feeding items at least once daily. Sanitizing is particularly important when your baby is younger than 2 months, was born prematurely, or has a weakened immune system. Daily sanitizing of feeding items may not be necessary for older, healthy babies, if those items are cleaned carefully after each use.
+
+### Boil:
+- Place disassembled feeding items into a pot and cover with water.
+- Put the pot over heat and bring to a boil.
+- Boil for 5 minutes.
+- Remove items with clean tongs.
