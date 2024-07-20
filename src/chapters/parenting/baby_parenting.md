@@ -86,3 +86,36 @@ Breastfeeding has health benefits for the mother too! Breastfeeding can reduce t
 Exclusive breastfeeding for about the first six months is recommended. The Dietary Guidelines for Americans recommends continued breastfeeding while introducing appropriate complementary foods until children are 12 months old or older.
 
 The American Academy of Pediatrics and the World Health Organization also recommend exclusive breastfeeding for about 6 months, with continued breastfeeding along with introducing appropriate complementary foods for up to 2 years of age or longer.
+
+
+## The importance of skin-to-skin with baby after delivery 
+[The importance of skin-to-skin with baby after delivery](https://news.sanfordhealth.org/childrens/the-importance-of-skin-to-skin-after-delivery-you-should-know/)
+
+### Benefits of kangaroo care
+
+Numerous research studies have found benefit after benefit from spending time with your newborn in skin-to-skin contact. This sharing of love and touch helps by:
+
+- Decreasing stress in both baby and parents
+- Allowing you to learn about each other through touch, sight, smell and hearing
+- Promoting bonding and breastfeeding
+- Stabilizing baby’s body temperature, heartbeat, breathing and blood oxygen levels
+- Strengthening baby’s digestion and immune systems
+- Encouraging baby to spend more time in deep sleep and quiet alert states
+- Producing a stronger milk supply in breastfeeding moms
+- Reducing postpartum bleeding in moms
+
+## Ideal Room Temperature
+
+[What Is the Ideal Room Temperature for a Newborn?](https://www.parents.com/room-temperature-for-newborn-8630954)
+
+### If a room is too hot
+
+Overheating is a major risk factor for SIDS. SIDS deaths are most common in winter, which suggests that indoor temperature regulation plays a role in a baby's risk for the syndrome.
+
+Overly warm temperatures are thought to increase SIDS risk by stressing a newborn's immature thermal regulation system. This can impact their breathing and heart rate and make it harder for them to wake up—and cry out—if they are experiencing a health issue.
+
+### If a room is too cold
+
+Overly cold temperatures can put a baby at risk of hypothermia. Hypothermia occurs when body temperature drops to a dangerously low level, which can damage your baby's organs. Because newborns have a higher ratio of skin surface to body mass and tend to have lower fat stores, they lose body heat four times faster than adults.
+
+Premature babies have an especially challenging time regulating their body temperature and are at an increased risk for hypothermia. So it's especially important to pay close attention to the temperature of preemies' rooms and dress them appropriately. 
