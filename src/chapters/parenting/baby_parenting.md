@@ -150,3 +150,44 @@ For extra germ removal, sanitize feeding items at least once daily. Sanitizing i
 - Put the pot over heat and bring to a boil.
 - Boil for 5 minutes.
 - Remove items with clean tongs.
+
+## Maternal diet and breastfeeding
+
+[Breastfeeding and diet](https://www.nhs.uk/conditions/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/)
+
+You do not need to follow a special diet while you're breastfeeding. But it's a good idea for you, just like everyone else, to eat a healthy diet with a variety of foods every day.
+
+A healthy diet includes:
+
+- at least 5 portions of a variety of fruit and vegetables a day, including fresh, frozen, tinned and dried fruit and vegetables, and no more than one 150ml glass of 100% unsweetened juice or smoothies
+- starchy foods, such as potatoes, bread, pasta, rice or other starchy carbohydrates – choose higher fibre or wholegrain varieties where possible
+- plenty of fibre from wholemeal bread and pasta, breakfast cereals, brown rice, potatoes with the skin on, pulses such as beans and lentils, and fruit and vegetables – after having a baby, some women have bowel problems and constipation, and fibre can help with this
+- protein foods, such as beans, pulses, fish, eggs and lean meat
+- dairy or dairy alternatives, such as milk, cheese and yoghurt, choosing lower-fat and lower-sugar products where possible – these contain calcium and are a source of protein
+- drinking plenty of fluids – have a drink beside you when you settle down to breastfeed: water, lower fat milks, lower sugar or sugar-free drinks are all good choices
+
+
+### Caffeine and breastfeeding
+
+Caffeine can reach your baby through your breast milk. Caffeine is a stimulant, so if you have a lot, it may make your baby restless and keep them awake.
+
+Caffeine occurs naturally in lots of foods and drinks, including coffee, tea and chocolate. It's also added to some soft drinks and energy drinks, as well as some cold and flu remedies.
+
+There’s not enough information to say how much caffeine is too much, and babies respond to caffeine differently. But it’s a good idea to reduce how much caffeine you drink, especially when your baby is less than 6 months old.
+
+
+### Do breastfeeding mothers need more calories?
+
+[Maternal Diet and Breastfeeding](https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html)
+
+Yes. Breastfeeding mothers generally need more calories to meet their nutritional needs. To be well-nourished, breastfeeding mothers need 340 to 400 more kilocalories (kcal) per day than the amount they consumed before pregnancy. This means approximately 2,000 to 2,800 kcal per day for breastfeeding women versus 1,600 to 2,400 kcal per day for moderately active women who are not pregnant and not breastfeeding.
+
+## Postpartum Belly Wraps
+
+[The Best Postpartum Belly Wraps to Support Your Body as It Recovers](https://www.parents.com/pregnancy/my-body/postpartum/postpartum-belly-wraps-should-you-use-one/)
+
+The best postpartum belly wraps provide 360-degree support to help the abdominal wall recover, stabilize your core, back, and ligaments, and assist with correct posture, which is a big bonus when breastfeeding or bottle feeding a baby.
+
+Belly wraps provide compression to the abdominal wall, which has been stretched and weakened after 10 months of pregnancy
+
+Especially after a C-section, a belly wrap can offer healing compression.
