@@ -103,6 +103,9 @@
 # Biology
 - [Complicatedness of Sexuality](./chapters/complicatedness-of-sexuality.md)
 
+# Parenting
+- [Baby Parenting](./chapters/parenting/baby_parenting.md)
+
 # Drafts
 - [Pollution due to contruction](./chapters/city-planning/pollution_construction.md)
 
