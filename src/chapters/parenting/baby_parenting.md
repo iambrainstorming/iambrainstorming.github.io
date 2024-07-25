@@ -182,7 +182,7 @@ There’s not enough information to say how much caffeine is too much, and babie
 
 Yes. Breastfeeding mothers generally need more calories to meet their nutritional needs. To be well-nourished, breastfeeding mothers need 340 to 400 more kilocalories (kcal) per day than the amount they consumed before pregnancy. This means approximately 2,000 to 2,800 kcal per day for breastfeeding women versus 1,600 to 2,400 kcal per day for moderately active women who are not pregnant and not breastfeeding.
 
-## Postpartum Belly Wraps
+## Postpartum Belly Wraps for Mother
 
 [The Best Postpartum Belly Wraps to Support Your Body as It Recovers](https://www.parents.com/pregnancy/my-body/postpartum/postpartum-belly-wraps-should-you-use-one/)
 

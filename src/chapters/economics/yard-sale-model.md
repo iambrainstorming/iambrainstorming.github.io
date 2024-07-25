@@ -32,12 +32,12 @@ The top 10% of the Indian population holds 77% of the total national wealth. 73%
 
 Another aspect to consider within this simulation is that even with redistribution, the wealthiest participant still retains a vastly disproportionate amount of wealth compared to the poorest. Furthermore, this discrepancy arises purely by chance. Now, envision applying this model to real-world scenarios: inevitably, some affluent individuals would argue that their wealth accumulation stems from their superior ability to predict coin toss outcomes.
 
-## Who pays the tax doesn't depend on who writes the check to the goverment
+## Who pays the tax doesn't depend on who writes the check to the government
 
 Who pays the tax does not depend on who writes the check to the government. For example, suppose the government is taxing apples. The government could make the buyer of apples pay for each apple that they buy. Or they could require the sellers of the apples pay for each apple that they sell. What we're going to show is that, from the point of view of the buyers or sellers, it actually doesn't matter how the tax is placed. The actual outcomes are going to be identical.
 
 Taxation on individuals and corporations are [almost the same thing](https://mru.org/courses/principles-economics-microeconomics/taxes-subsidies-definition-tax-wedge). **Taxation is not an effective way to tackle income inequality**. Further taxation causes [deadweight loss](https://mru.org/courses/principles-economics-microeconomics/deadweight-loss-definition-yacht-tax), which refers to the value of transactions not made because of the tax. There is no revenue on transactions that aren't completed. Deadweight loss, a concept in economics, refers to the inefficiency created by taxes that lead to a reduction in overall economic activity and transactions. 
-This loss occurs because taxes alter the behavior of both consumers and producers, leading to transactions that would have occurred in the absence of taxes to be foregone. As a result, there is a loss of potential economic value that goes unrealized, and the government does not collect revenue on transactions that never take place.I
+This loss occurs because taxes alter the behavior of both consumers and producers, leading to transactions that would have occurred in the absence of taxes to be foregone. As a result, there is a loss of potential economic value that goes unrealized, and the government does not collect revenue on transactions that never take place.
 
 ## Taxation a tool to further income inequality
 
