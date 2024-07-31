@@ -1,4 +1,4 @@
-# What curriculum should students have in high school?
+# What curriculum should students have in decentralized learning pod or schooling?
 
 What curriculum should students have in high school? Our schools are somewhat good at primary education. During primary education, children can spend most of their time socializing and playing, while also improving their numerical and language skills to prepare for high school. However, when it comes to high school and higher education, the complexity of the subjects increases, requiring a more logical and analytical problem-solving approach.
 
