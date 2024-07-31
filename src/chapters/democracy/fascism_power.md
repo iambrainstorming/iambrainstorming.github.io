@@ -58,6 +58,32 @@ their tricks no longer work.”
 [From Dictatorship to Democracy: A Conceptual Framework for Liberation](https://www.nonviolent-conflict.org/resource/from-dictatorship-to-democracy-a-conceptual-framework-for-liberation/)
 
 
+## CANVAS Core Curriculum: A Guide to Effective Nonviolent Struggle
+
+
+[CANVAS Core Curriculum: A Guide to Effective Nonviolent Struggle](https://www.nonviolent-conflict.org/resource/guide-effective-nonviolent-struggle-2/)
+
+### THE MONOLITHIC MODEL
+The monolithic model describes the system authoritarians want you to perceive as being solid and unmovable like a mountain. This model promotes the idea of a fixed power structure, as if nothing could be changed except the per- son or people at the top. Whoever the person on the top of the power structure is, he/she has power over society. The decisions he/she makes today become a reality for the entire society tomorrow. The person or people at the top can be changed - through a revolution, a war, or a coup - but the model remains the same: whoever gets to the top of the mountain ends up controlling all power in society. You can break small pieces away by attacking this mono- lith with your actions or campaigns... But the mountain of power is still there. 
+
+You can create positive change in society, if you have the right person at the top! - says the regime... 
+
+Still, there’s only one problem with this model. 
+
+**THIS MODEL OF POLITICAL POWER IS NOT TRUE!** 
+
+Power does not function this way. No matter how many times an authoritarian or others tell you that it does, reality teaches us something else.
+
+### THE PLURALISTIC MODEL 
+
+However monolithic or fixed it may appear in the previous model, the nature of power is actually diametrically differ- ent. In a society, power can change very swiftly. It is fragile and dispersed. Wherever people are, the ultimate reality of power is the same. Power in society ultimately comes from the people. And those people - each of whom is a small, individual source of political power - can change their minds. 
+
+**Rulers only have that power which people provide to them.** 
+
+Power can be given to the ruler willingly, like in democratic societies, or people can be coerced to give it, against their own will, or they can simply be apathetic, and relinquish that power because they don’t care and they don’t think their actions can lead to any change. **This is why nonviolent campaigns are so important: They make people aware that their actions CAN and DO make change. This is especially true when people are unified and act together in nonviolent and strategically coordinated ways.**
+
+
+
 ## Why British Left India? | Reality of Mahatma Gandhi's Role | Quit India Movement | Dhruv Rathee
 
 
