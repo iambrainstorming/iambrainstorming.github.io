@@ -49,6 +49,8 @@ Robert F. Weaver-Molecular Biology
 
 Judy Owen, Jenni Punt, Sharon Stranford: Kuby Immunology 
 
+[IBiology online MOOC course](https://www.ibiology.org/educators-resources/online-course/)
+
 
 ### Mathematics
 Gary L Musser, William F Burger, Blake E Peterson: Mathematics for elementary teachers a contemporary approach
@@ -90,6 +92,8 @@ Anxiety and Phobia Workbook - Edmund J. Bourne
 
 ### Social Sciences
 As already recommended, Openstax world history
+
+[Economics MRU](https://mru.org/)
 
 
 
