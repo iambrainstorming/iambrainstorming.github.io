@@ -9,6 +9,7 @@ But how is this possible? What kind of power can the democratic opposition mobil
 ## Local Candidates Need to Withdraw Support from Fascism
 
 Local candidates and MLAs must withdraw their support from any party that promotes fascism. Fascist governments play a dangerous game by attempting to take over every possible institution. People need to stop supporting local candidates affiliated with parties that endorse fascism. Local candidates can join any party, including independent ones, but not a fascist party. Remember, in a one-party dictatorship, local candidates have little power, so why vote for them? Democracy is about making decisions by consensus, listening to everyone, not decisions made by a single supreme leader. Remember how a dictator gains power. All support systems for a dictator need to be dismantled. Bring down dictatorship.
+
 ## Necessary sources of political power
 
 > The principle is simple. Dictators require the assistance of the people they rule, without which they cannot secure and maintain the sources of political power. These sources of political power include:
@@ -82,7 +83,49 @@ However monolithic or fixed it may appear in the previous model, the nature of p
 
 Power can be given to the ruler willingly, like in democratic societies, or people can be coerced to give it, against their own will, or they can simply be apathetic, and relinquish that power because they don’t care and they don’t think their actions can lead to any change. **This is why nonviolent campaigns are so important: They make people aware that their actions CAN and DO make change. This is especially true when people are unified and act together in nonviolent and strategically coordinated ways.**
 
+### Obedience
 
+Why is obedience regarded as the “heart of political power”? The answer is simple: if the people do not obey, the ruler cannot rule. Strategies for nonviolent struggle are based upon this insight. Mechanisms and methods of nonviolent struggle, exercised through actions and campaigns, are exclusively targeted towards the withdrawal of support that people provide to your opponent.
+
+In order to motivate people to withdraw their consent from your opponent, you should understand why people choose to obey in the first place. There are at least ten reasons why people choose to obey, even when they disagree with the existing system elaborated in the book:
+
+- Self-interest: People may actively support an oppressive regime due to the material benefits, jobs, or other privileges they receive in return for their obedience.
+
+- Habit: From childhood, individuals are conditioned to obey authority figures such as parents, teachers, and superiors. Obedience becomes a habit, and people tend to follow rules and those in uniform out of habit.
+
+- Fear of sanctions: Violating laws or rules can result in various punishments, including fines, harassment, job loss, imprisonment, or even execution. The fear of these consequences keeps people obedient.
+
+- Indifference: Some people obey simply because they believe the cost of non-compliance is not worth the trouble. They may also consider themselves "apolitical" or indifferent to politics.
+
+- Absence of self-confidence: Decades of authoritarian rule or oppression can lead to a lack of self-confidence in people's ability to bring about change. They may feel they lack the decision-making experience or leadership skills necessary to challenge the status quo.
+
+- Moral obligation: Some individuals feel a moral duty to obey the laws or respect authority, even if they disagree with the ruler or the system. They may believe that maintaining order or respecting the law is for the common good of society.
+
+- Psychological identification with the ruler: People may identify with the ruler as an extension of their family or feel loyal to the regime or system, similar to their loyalty to a favorite sports team. They may have shared historical experiences that foster this loyalty.
+
+- Superhuman factors: In some societies, rulers are attributed god-like or superhuman characteristics. Disobeying such figures is seen as sacrilegious or disrespectful. This can range from ancient beliefs in the "divine right of kings" to ideological leaders like Adolf Hitler or Mao Zedong.
+
+- Helplessness and hopelessness: After witnessing failed resistance attempts or living under harsh repression, people may feel a sense of helplessness and hopelessness. They may believe that change is impossible and that obedience is the only option.
+
+Following the majority: Some individuals conform to the behavior of the majority out of peer pressure or a desire to fit in. If they see that most people are obeying, they may follow suit.
+
+Understanding these factors is crucial for nonviolent movements seeking to challenge oppressive regimes or bring about social change. By addressing these reasons for obedience and providing alternative sources of loyalty and influence, nonviolent movements can shift people's loyalties and encourage them to withdraw their support from the opponent.
+
+### Activating nonviolent power
+
+Activating nonviolent power involves understanding the mechanisms of change that impact power dynamics between a nonviolent movement and its opponent. According to Dr. Gene Sharp, there are four mechanisms of change: conversion, accommodation, coercion, and disintegration. These mechanisms can be activated through nonviolent actions to challenge oppressive regimes or bring about social change.
+
+- Conversion occurs when an opponent willingly adopts the demands of the nonviolent movement due to practical, ethical, or ideological reasons. It involves a change in the opponent's views or a desire to improve their public standing.
+
+- Accommodation happens when the opponent makes a cost-benefit analysis and chooses to compromise rather than face continued resistance. The nonviolent movement gains power and builds a winning record, influencing the opponent's decision-making.
+
+- Coercion takes place when the opponent is forced, against their will, to meet the demands of the nonviolent movement. The opponent loses effective control as a result of widespread noncooperation and defiance. However, some or all of the opponent's officials may still retain their positions.
+
+- Disintegration occurs when the opponent's system of rule completely falls apart due to sustained and widespread noncooperation and nonviolent disruption. The nonviolent movement must maintain momentum during this process to prevent the opponent from re-establishing control.
+
+The choice of mechanism depends on the specific context and phase of the nonviolent struggle. Different mechanisms may be applied to different groups within the opponent's pillars of support. For example, conversion may work better for enlisted troops, accommodation for middle ranks, and coercion for the inner circle loyal to the regime.
+
+Understanding these mechanisms of change is crucial for strategic planning and decision-making in a nonviolent movement. By activating these mechanisms through nonviolent actions, movements can effectively challenge power structures and bring about positive social change.
 
 ## Why British Left India? | Reality of Mahatma Gandhi's Role | Quit India Movement | Dhruv Rathee
 
@@ -151,3 +194,9 @@ The general wanted the Zen master to submit to his will, and when the master wou
 </table>
 
 [Oxfam Report: India: extreme inequality in numbers](https://www.oxfam.org/en/india-extreme-inequality-numbers)
+
+
+## Why Is Democracy Worth Defending?
+
+[Here is the research-based case for majority rule and minority protections.](https://greatergood.berkeley.edu/article/item/why_democracy_is_worth_defending)
+

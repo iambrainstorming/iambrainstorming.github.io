@@ -15,7 +15,7 @@ Science, Technology, Engineering, and Mathematics should be given more importanc
 
 Social sciences should be an essential part of the high-school curriculum. Adding social sciences as a point in the curriculum can help students develop a deeper understanding of human behavior, social structures, and cultural practices.
 
-## Literature
+### Literature
 They not only help students develop their language and communication skills but also provide insights into human experiences, cultures, and values.
 
 ### Soft skills
