@@ -107,7 +107,7 @@ In order to motivate people to withdraw their consent from your opponent, you sh
 
 - Helplessness and hopelessness: After witnessing failed resistance attempts or living under harsh repression, people may feel a sense of helplessness and hopelessness. They may believe that change is impossible and that obedience is the only option.
 
-Following the majority: Some individuals conform to the behavior of the majority out of peer pressure or a desire to fit in. If they see that most people are obeying, they may follow suit.
+- Following the majority: Some individuals conform to the behavior of the majority out of peer pressure or a desire to fit in. If they see that most people are obeying, they may follow suit.
 
 Understanding these factors is crucial for nonviolent movements seeking to challenge oppressive regimes or bring about social change. By addressing these reasons for obedience and providing alternative sources of loyalty and influence, nonviolent movements can shift people's loyalties and encourage them to withdraw their support from the opponent.
 
