@@ -321,11 +321,9 @@ Fascist governments often employ various tactics to maintain control and manipul
 
 
 
-<a href="https://bafybeici56hpjpzodtrhp3jae2ikijpit4twvcumcpdmqf3habb3l3ijgq.ipfs.nectarnode.io/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaWQiOiJiYWZ5YmVpY2k1NmhwanB6b2R0cmhwM2phZTJpa2lqcGl0NHR3dmN1bWNwZG1xZjNoYWJiM2wzaWpncSIsInByb2plY3RfdXVpZCI6IjkyZjMzNzNmLTVhYzAtNGE2ZS04OWEwLTNlNGU4NjEwYzk4OSIsImlhdCI6MTcxMzgwNTk0NSwic3ViIjoiSVBGUy10b2tlbiJ9.JSKHDlhMZZalUC3Hb1D6leKGq6-JsmGqEUkQ15_EVY4" target="_blank">
   <video controls width="400" poster="../images/emily.png">
-    <source src="https://bafybeici56hpjpzodtrhp3jae2ikijpit4twvcumcpdmqf3habb3l3ijgq.ipfs.nectarnode.io/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaWQiOiJiYWZ5YmVpY2k1NmhwanB6b2R0cmhwM2phZTJpa2lqcGl0NHR3dmN1bWNwZG1xZjNoYWJiM2wzaWpncSIsInByb2plY3RfdXVpZCI6IjkyZjMzNzNmLTVhYzAtNGE2ZS04OWEwLTNlNGU4NjEwYzk4OSIsImlhdCI6MTcxMzgwNTk0NSwic3ViIjoiSVBGUy10b2tlbiJ9.JSKHDlhMZZalUC3Hb1D6leKGq6-JsmGqEUkQ15_EVY4" type="video/mp4">
+    <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeici56hpjpzodtrhp3jae2ikijpit4twvcumcpdmqf3habb3l3ijgq" type="video/mp4">
     <!-- Add additional source elements for different video formats if needed -->
     Your browser does not support the video tag.
   </video>
-</a>
 
