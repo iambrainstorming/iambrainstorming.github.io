@@ -93,6 +93,8 @@ Anxiety and Phobia Workbook - Edmund J. Bourne
 ### Social Sciences
 As already recommended, Openstax world history
 
+[Social Problems: Continuity and Change](https://saylordotorg.github.io/text_social-problems-continuity-and-change/index.html)
+
 [Economics MRU](https://mru.org/)
 
 
