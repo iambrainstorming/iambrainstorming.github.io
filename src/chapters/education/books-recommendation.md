@@ -97,6 +97,8 @@ As already recommended, Openstax world history
 
 [Economics MRU](https://mru.org/)
 
+[CANVAS Core Curriculum: A Guide to Effective Nonviolent Struggle](https://www.nonviolent-conflict.org/resource/guide-effective-nonviolent-struggle-2/)
+
 
 
 ## We follow slow and steady wins the race
