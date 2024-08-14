@@ -85,7 +85,8 @@ Chemistry A Molecular Approach by Nivaldo J. Tro
 ### Physics
 Conceptual Physics, Global Edition - Paul G. Hewitt
 
-Feynman Lectures On Physics
+[Feynman Lectures On Physics](https://www.feynmanlectures.caltech.edu/)
+
 
 ### Mental Health
 Anxiety and Phobia Workbook - Edmund J. Bourne
@@ -94,6 +95,8 @@ Anxiety and Phobia Workbook - Edmund J. Bourne
 As already recommended, Openstax world history
 
 [Social Problems: Continuity and Change](https://saylordotorg.github.io/text_social-problems-continuity-and-change/index.html)
+
+The Social Problems book, published in 2012, doesn't include research conducted after that year. It should be used as an outline and updated with the latest research. Since it has a Creative Commons license, anyone can contribute to its updates.
 
 [Economics MRU](https://mru.org/)
 

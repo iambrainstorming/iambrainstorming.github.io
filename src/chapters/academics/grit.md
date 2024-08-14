@@ -10,3 +10,8 @@ Learning strategies are undeniably crucial, but so is grit. The kinds of things 
 So far, the best idea I've heard about building grit in kids is something called "growth mindset." It is the belief that the ability to learn is not fixed, that it can change with your effort. Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition.
 
 [Growth Mindset: Clearing up Some Common Confusions](https://www.kqed.org/mindshift/42769/growth-mindset-clearing-up-some-common-confusions)
+
+## Intelligence and Grit
+
+Somewhat surprisingly, in four separate samples, grit was found to be either orthogonal to or slightly inversely correlated with intelligence.
+
