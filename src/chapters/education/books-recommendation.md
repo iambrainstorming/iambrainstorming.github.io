@@ -96,7 +96,7 @@ As already recommended, Openstax world history
 
 [Social Problems: Continuity and Change](https://saylordotorg.github.io/text_social-problems-continuity-and-change/index.html)
 
-The Social Problems book, published in 2012, doesn't include research conducted after that year. It should be used as an outline and updated with the latest research. Since it has a Creative Commons license, anyone can contribute to its updates.
+The Social Problems book, published in 2012, doesn't include research conducted after that year. It should serve as an outline and be updated with the latest research, incorporating data from international, local, and national sources.  Since it has a Creative Commons license, anyone can contribute to its updates.
 
 [Economics MRU](https://mru.org/)
 
