@@ -279,3 +279,6 @@ In this manner, different parties can unite in the FPTP system, significantly en
 A written agreement can be made public along with the signatures of those involved; it's not necessary for it to be legally binding. Based on this declaration, people will vote. Simply making a public declaration can reduce the chances of defection. Among the 3-5 nominees, award the MP seat to the individual with the highest approval votes. After MPs win, they can change the law accordingly.
 
 [Sketch to build a agreement or contract.](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafkreib3fws5fphrlmheutkicksi7g5ffwcuy5vsu4kf32zekqont3tjoq)
+
+> Overthrowing the government is only a good idea if there is a robust plan for what comes next, to ensure that history doesn't repeat itself. The new government should have approval voting and proportional representation, with 30-50% of seats reserved for women.
+> One shouldn't replace one evil with another.
