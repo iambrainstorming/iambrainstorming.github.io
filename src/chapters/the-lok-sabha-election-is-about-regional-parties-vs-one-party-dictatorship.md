@@ -1120,7 +1120,11 @@ It's not surprising when Wi-Fi is installed on EVMs and controlled by mobile pho
     <!-- Add additional source elements for different video formats if needed -->
     Your browser does not support the video tag.
 </video>
- 
+
+## General Elections 2024: Explosive Footage Reveals Troubling Reality 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2-50ivh_H2o?si=5uAt-FaHUscStWQf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Give missed call to 9667722062 to Ban EVM
 
