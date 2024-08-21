@@ -1,4 +1,4 @@
-# What will a boycott of the national currency give us?
+# What would we gain from eliminating the national fiat currency?
 
 ## date: "2022-10-16"
 
@@ -22,7 +22,7 @@ Also, take a look at the various governance issues here:
 
 [Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma](https://amiyatulu.github.io/blog/shivarthu/tyranny_of_the_majority.html)
 
-**No more debt economy**  
+**No more debt economy**
 Banks transfer wealth from people to capitalists by issuing debt or printing money. e.g. In India, Adani group has a debt of ₹2.2 trillion, which is near to the GDP of many big states in India. Many times, debt is issued for economic reasons that are detrimental to society. For example, the Adani group's primary source of income is fossil fuel, which contributes to climate change and pollution.
 
 > UN: 3.3 Billion People – almost half of humanity – Live in Countries Spending More on Debt Service Than Education, Health. The report revealed that Public debt has also spiked more than five-fold since 2000.
@@ -36,11 +36,11 @@ Here is simulation of [Yard-sale model](https://www.jstor.org/stable/27857715) t
 
 
 
-**UBI and decreasing income inequality**  
-Shivarthu governance may charge 1% - 20% of taxes per year of the total market cap. About 1%- 5% of taxes can be used to provide universal income.  
+**UBI and decreasing income inequality**
+Shivarthu governance may charge 1% - 20% of taxes per year of the total market cap. About 1%- 5% of taxes can be used to provide universal income.
 Here is a simulation where UBI will decrease the wealth inequality.
 
-[https://github.com/amiyatulu/randomised\_tax\_collect\_ubi/blob/main/tax\_collection\_ubi.py](https://github.com/amiyatulu/randomised_tax_collect_ubi/blob/main/tax_collection_ubi.py)  
+[https://github.com/amiyatulu/randomised\_tax\_collect\_ubi/blob/main/tax\_collection\_ubi.py](https://github.com/amiyatulu/randomised_tax_collect_ubi/blob/main/tax_collection_ubi.py)
 Calculation of the required market capitalization for a $125 (₹10,000) UBI per month.
 
 ```python
@@ -56,22 +56,22 @@ market_cap_of_bitcoin = 369_910_000_000
 print(f"{market_cap_of_bitcoin:_}") # 369_910_000_000
 # 2021 estimates show there are 64 million active wallets . A minuscule .01% of Bitcoin holders control nearly a third of the supply
 ratio = total_market_cap_needed / market_cap_of_bitcoin
-print(ratio) # 18.42 times 
+print(ratio) # 18.42 times
 ```
 
 > Though the example is given for a single currency, in the real world, we would have thousands or even lakhs of coins with many different supply chains. With each supply chain, one can earn at least $1-10 as UBI, resulting in a total of $100, $500, or even more per month.
 
-## **Implications of a deflationary currency**
+## **Implications of a deflationary and inflationary currency**
 
 You will spend less and hold money since deflationary currency increases in value over time. Natural resource depletion and environmental pollution are two drawbacks of consumerism. The consumer society is not sustainable in its current state. More than 70% of Earth's natural resources are currently being overused.
 
 It appears that businesses are more focused on generating new demands than filling old ones. They frequently prey on our vanity and insecurities during this process. "You will feel better about yourself if you get this" "Purchase this and people will respect you.", "Buy this and you will succeed". These are a few of the messages that sellers try to get across to us so that we will buy things we don't really need.
 
-But many economists criticize deflationary currency as it will slow down the economy and bring unemployed, hence poverty. Yes, it's true only when wealth is concentrated in a few hands, like in the current scenario, where 1% holds 90% of the wealth.
+But many economists criticize deflationary currency as it will slow down the economy and bring unemployed, hence poverty. Yes, it's true when wealth is concentrated in a few hands, like in the current scenario, where 1% holds 90% of the wealth.
 
-If income is allocated fairly, as in the Shivarthu protocol, your job—the one that uses the most natural resources possible and hence brings the greatest negative impact on society becomes unnecessary.
+> Money circulation is the fundamental principle for a thriving economy. It is true that a deflationary currency can reduce circulation, as people tend to hoard it, which in turn can lead to increased poverty and wealth concentration. On the other hand, inflationary currency can be beneficial if money is distributed fairly, ensuring continuous circulation. However, it is crucial that this distribution is managed in a way that does not create negative externalities. With smart contracts and decentralized ownership, we can achieve better control over fund distribution and ensure it is done more fairly.
 
-With the current advancement of technology, there is hardly any job left where automation can't be used.
+
 
 ### **No to Bullshit Jobs**
 
@@ -137,7 +137,7 @@ Some examples of negative externalities include:
 
 Demurrage is the cost associated with owning or holding currency over a given period. It is sometimes referred to as a carrying cost of money.
 
-Shivarthu is not a demurrage currency. Users are taxed at a certain percentage, but it doesn't depend on how long you hold the currency. The tax rate remains the same whether you hold it for a year or just a few months.
+Shivarthu is not a demurrage currency. Users are taxed at a certain percentage, but it doesn't depend on how long you hold the currency. The tax rate remains the same whether you hold it for a year or just a few months. A token can be inflationary, but you [receive rewards for staking or holding it](https://www.reddit.com/r/Polkadot/comments/ij5ect/comment/g3bhut1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), which cancels out the devaluation caused by inflation.
 
 **Problems with demurrage currency:**
 
@@ -186,7 +186,7 @@ e.g Govt causing hyperinflation, devaluing all your money:
 Or a dictator can demonetize 99% of the currency overnight:
 
 > The figures suggest prime minister Narendra Modi’s demonetisation policy, which likely wiped at least 1% from the country’s GDP and cost at least 1.5m jobs, failed to wipe significant hordes of unaccounted wealth from the Indian economy — a key rationale for the move.
-> 
+>
 > [https://www.theguardian.com/world/2018/aug/30/india-demonetisation-drive-fails-uncover-black-money](https://www.theguardian.com/world/2018/aug/30/india-demonetisation-drive-fails-uncover-black-money)
 
 Banks can also stop you to withdraw your own money when you need it.
@@ -211,7 +211,7 @@ More points to cover, treat it like a manifesto:
 
 - UBI with no income inequality
 
-- Implications of deflationary currency and minimalism
+- Implications of  minimalism
 
 - [Emotion and empathy rather than materialism](./relationships-emotions-and-happiness.md)
 

@@ -2,7 +2,7 @@
 
 # Democracy and supply chain
 
-- [Manifesto: What will a boycott of the national currency give us?](./chapters/what-will-a-boycott-of-the-national-currency-give-us.md)
+- [Manifesto: What would we gain from eliminating the national fiat currency?](./chapters/what-would-we-gain-from-eliminating-national-fiat-currency.md)
   - [Price discovery of decentralized supply chain](./chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
   - [What do we need to decentralize in the coming years?](./chapters/what-do-we-need-to-decentralize-in-the-coming-years.md)
   - [Emotion and empathy rather than materialism](./chapters/relationships-emotions-and-happiness.md)
@@ -12,10 +12,10 @@
   - [Banning single use plastic](./chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.md)
   - [Sustainable housing design](./chapters/building-better-cities.md)
   - [Decentralized Wifi](./chapters/broadband_share/broadband_share_idea.md)
-  - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)  
-  - [Car-free cities](./chapters/road-planning-of-cities.md) 
+  - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)
+  - [Car-free cities](./chapters/road-planning-of-cities.md)
   - [City Planning: Rain Water Harvesting](./chapters/city-planning/rain_water_harvesting.md)
-  - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md) 
+  - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)
   - [Love for USD pegged stable coin by the crypto community must end](./chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
   - [Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma](./chapters/democracy/tyranny_of_the_majority.md)
   - [Simple Majority vs Super Majority](./chapters/democracy/simple_majority_and_super_majority.md)
@@ -31,7 +31,7 @@
 - [Price Controls](./chapters/economics/price_controls.md)
 - [A simplified tax simulation for poverty alleviation](./chapters/economics/tax_collection_simulation.md)
 
-# Democracy 
+# Democracy
 
 - [Do we need a supreme leader? How can we share power between parties?](./chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.md)
   - [The Lok Sabha election is about regional parties, third parties and independent vs one-party dictatorship](./chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.md)
@@ -42,14 +42,14 @@
   - [What a fascist government does?](./chapters/democracy/fascism.md)
   - [Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism](./chapters/democracy/hinduism.md)
   - [Necessary sources of political power by dictator](./chapters/democracy/fascism_power.md)
-  - [What is free and fair elections?](./chapters/democracy/free-and-fair-election.md)  
+  - [What is free and fair elections?](./chapters/democracy/free-and-fair-election.md)
   - [Draconian and unconstitutional PMLA and UAPA provisions](./chapters/democracy/pmla.md)
   - [Upholding the Justice](./chapters/democracy/upholding-justice.md)
-   
-  
+
+
 
 # Cooperation
-  
+
 - [Cooperation for common good]()
   - [How to tackle disinformation?](./chapters/how-to-tackle-disinformation.md)
   - [Secrets of Cooperation](./chapters/cooperation/cooperation-secrets.md)
