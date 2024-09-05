@@ -7,11 +7,17 @@ categories:
   - "politics"
 ---
 
-### EVM Quiz
+### Quiz
 
-Quiz for India election
+#### Quiz for Indian election and EVM
 
 {{#quiz election/evm.toml}}
+
+#### Quiz on voting method
+
+{{#quiz election/election-science.toml}}
+
+
 
 What strategies has the BJP employed?
 
