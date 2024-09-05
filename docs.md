@@ -14,3 +14,25 @@ fleek sites init
 
 fleek sites deploy
 
+
+```toml
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+
+"""
+prompt.distractors = [
+    "",
+    "",
+    "",
+]
+answer.answer = ""
+context = """
+
+"""
+id = ""
+```
+
+```md
+{{#quiz ../quizzes/rust-variables.toml}}
+```

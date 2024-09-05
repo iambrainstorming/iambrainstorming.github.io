@@ -6,6 +6,10 @@ src = "src"
 title = "I am brainstorming"
 
 
+[preprocessor.quiz]
+
 [output.html]
 mathjax-support = true
 git-repository-url = "https://github.com/iambrainstorming/iambrainstorming.github.io"
+
+

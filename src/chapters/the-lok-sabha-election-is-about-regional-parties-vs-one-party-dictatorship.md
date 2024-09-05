@@ -3,9 +3,15 @@
 ## date: "2023-12-05"
 
 ---
-categories: 
+categories:
   - "politics"
 ---
+
+### EVM Quiz
+
+Quiz for India election
+
+{{#quiz election/evm.toml}}
 
 What strategies has the BJP employed?
 
@@ -135,12 +141,12 @@ So the case of other states:
 }
 ```
 
-**Why is there no other opposition in these states?**  
+**Why is there no other opposition in these states?**
 The First Past the Post (FPTP) voting method maintains a biparty political system. Even if Congress garners 30-40% of votes, it may end up with zero seats because only candidate with highest vote wins, and other votes get waste. What if these 30% seats would have gone only to few constituency? Manipulation of EVM is another variable. (Details about EVM below) A potential strategy for Congress could be targeting specific constituencies, especially those with weaker opponents, to secure a few seats. Winning a seat with just 1% of the vote is possible under FPTP, emphasizing the importance of strategic planning.
 
 ## States with Competitor
 
-States with more opposition include Maharashtra, Uttar Pradesh, Bihar, and Delhi.  
+States with more opposition include Maharashtra, Uttar Pradesh, Bihar, and Delhi.
 The INDIA bloc must address this challenge by avoiding vote splitting, fostering unity, and strategizing effectively. Leaders like Priyanka Chaturvedi in Shivsena, Akhilesh Yadav in Uttar Pradesh, and Arvind Kejriwal in Delhi play crucial roles.
 
 ```json
@@ -256,8 +262,8 @@ In Delhi, even if AAP wins the Assembly Election, people haven't traditionally v
 
 ## East India States
 
-East India states, including West Bengal and Odisha: 
-West Bengal has leaders like Mamata Banerjee and Mahua Moitra, who align with the INDIA bloc. Odisha has Naveen Patnaik, though he has no alliance with anyone, but he is a bit pro-BJP and anti-Congress. The BJD party is a bit more opportunistic toward the state rather than involving itself in national politics. As long as the center benefits them, they hardly care about who is in power at the center. 
+East India states, including West Bengal and Odisha:
+West Bengal has leaders like Mamata Banerjee and Mahua Moitra, who align with the INDIA bloc. Odisha has Naveen Patnaik, though he has no alliance with anyone, but he is a bit pro-BJP and anti-Congress. The BJD party is a bit more opportunistic toward the state rather than involving itself in national politics. As long as the center benefits them, they hardly care about who is in power at the center.
 Last Loksabha election in Odisha, the largest competitor was BJP, not Congress. So, if Naveen Patnaik wants to stop one-party dictatorship, they need to stop supporting BJP.
 
 > All regional parties need to understand what is at stake. They may support BJP, but ultimately, Modi will ditch them after advantage is taken. Their [intentions are clear](./democracy/fascism.md). All need to protest against EVM.
@@ -341,12 +347,12 @@ In [Telangana](https://github.com/amiyatulu/election_result/blob/main/2023_legis
 
 - [*Rajastan, No data available for [S203 Karanpur - 3](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/data/rajasthan)*]
 
-Update the repository with Karnapur data of Rajasthan, it became 120 out of 200. 
+Update the repository with Karnapur data of Rajasthan, it became 120 out of 200.
 
 
 ## Votes by Party in 2023 Legislative Assembly Election
 
-Here is the list of total votes in all constituency by party. 
+Here is the list of total votes in all constituency by party.
 
 [Data by Votes](https://github.com/amiyatulu/election_result/tree/main/2023_legislative_assembly_election/data_analysis/analysis_data/total_votes_by_party_data)
 
@@ -358,15 +364,15 @@ In Madhya Pradesh BJP got 48% votes, and INC got 40% of votes, where as BJP got 
 
 Difference in votes between BJP and INC = 8%
 
-Difference in seats between BJP and INC = 42% 
+Difference in seats between BJP and INC = 42%
 
 ### Rajasthan
 
-In Rajasthan BJP got 41% votes, and INC got 39% of votes, where as BJP got 115 seats, INC 69 seats (70 seats with karanpur), which means BJP got 57.50% seats where as INC got 35.00% seats. 
+In Rajasthan BJP got 41% votes, and INC got 39% of votes, where as BJP got 115 seats, INC 69 seats (70 seats with karanpur), which means BJP got 57.50% seats where as INC got 35.00% seats.
 
 Difference in votes between BJP and INC = 2%
 
-Difference in seats between BJP and INC = 22.5% 
+Difference in seats between BJP and INC = 22.5%
 
 ### Chattisgarh
 
@@ -374,7 +380,7 @@ In Chattisgarh BJP got 46% votes and INC got 42% of votes, where as BJP got 54 s
 
 Difference in votes between BJP and INC = 4%
 
-Difference in seats between BJP and INC = 22% 
+Difference in seats between BJP and INC = 22%
 
 ### Telangana
 
@@ -382,7 +388,7 @@ In Telangana INC got 39% votes, BHRS got 37% of votes and BJP got 13% of votes, 
 
 Difference in votes between INC and BHRS = 2%
 
-Difference in seats between INC and BHRS = 21% 
+Difference in seats between INC and BHRS = 21%
 
 
 ## Other Legislative Assembly Election
@@ -438,7 +444,7 @@ Here are some of the desirable attributes of a good candidate for an election:
 
 3) Perseverance: A person serious about politics should be willing to fight for years with steady persistence
 
-4) Rejecting Far-Right Ideologies:  
+4) Rejecting Far-Right Ideologies:
 Candidates should steer clear of divisive ideologies such as racism, bigotry, xenophobia, or Islamophobia, as well as authoritarianism. Rejecting charismatic or cult-like leaders, like god-men or women, is essential. True leadership should prioritize democratic principles and the well-being of the people.
 
 ## Tackling Vote Splitting
@@ -552,7 +558,7 @@ Also, voters, especially the uneducated ones, need to be trained to recheck thei
 
 EVM may decrease spoilt or invalid votes. Although I couldn't find data on the number of spoilt votes in India.
 
-The number of [spoilt votes](https://en.wikipedia.org/wiki/Spoilt_vote) in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design. The same problem also arises in EVMs, as they add unnecessary complexity. Voters may press the wrong button, may not check the VVPAT, and many other issues may arise. The more complicated the system is, the more ways it can be attacked. e.g. Have you thought before that ballot stuffing is possible with VVPAT? I don't think vote spoiling is a big issue until proper measures are taken. Some may intentionally spoil their votes as a form of protest. 
+The number of [spoilt votes](https://en.wikipedia.org/wiki/Spoilt_vote) in a First-Past-the-Post (FPTP) election using ink stamp paper ballots can vary widely based on factors such as voter education, clarity of instructions, and ballot design. The same problem also arises in EVMs, as they add unnecessary complexity. Voters may press the wrong button, may not check the VVPAT, and many other issues may arise. The more complicated the system is, the more ways it can be attacked. e.g. Have you thought before that ballot stuffing is possible with VVPAT? I don't think vote spoiling is a big issue until proper measures are taken. Some may intentionally spoil their votes as a form of protest.
 
 >If you are supposed to count all the VVPATs, what is the need for EVMs at all, adding unnecessary complexities, why not just paper ballot?
 The more complicated the system is, the more ways it can be attacked.
@@ -590,14 +596,14 @@ An advantage of this method is that vote spoiling is negligible, as the paper is
 > **A paper ballot, without relying on any technology or complications, appears to be the best option. To prevent vote spoiling, the paper can be made thicker to avoid ink spillage, and higher-quality ink can be used for the stamp. Furthermore, open-source machine learning models and algorithms can be employed for the accurate counting of votes, thereby reducing the cost of counting and faster result declaration.**
 >
 > Here is a demo and source code for recognizing numbers using machine learning. Similar classification training can be applied to vote counting.
-> 
+>
 > [MNIST Web Demo](https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html)
-> 
+>
 > [MNIST Web Demo Source code](https://github.com/tracel-ai/burn/tree/main/examples/mnist-inference-web)
 >
 
 > ### The paper ballot is the simplest solution.
-> 
+>
 > With paper ballots, every citizen, politician, or election nominee can understand what is actually happening. Everyone has the idea of how to secure the system without adding complexity that only technical experts can comprehend, making it difficult for the common citizen to identify the problems or technicalities of electronic voting machines.
 
 ## **EVM Hack Hypothesis**
@@ -653,14 +659,14 @@ The paradox lies in the fact that the only reliable way to determine the strengt
 ### Lesson from Cryptography
 
 > One important and counterintuitive fact in this situation is that both the encryption and decryption algorithms are publicly known. It seems that keeping the encryption algorithm secret should make the whole system harder to break. However, secret algorithms also mean untested algorithms: The only way to find out whether an encryption method is strong, i.e., cannot be broken by a determined attacker, is to make it public and have it analyzed by other cryptographers.
-> 
-> *[Book: Understanding Cryptography: Christof Paar, Jan Pelzl]*  
+>
+> *[Book: Understanding Cryptography: Christof Paar, Jan Pelzl]*
 
 ### Open source software are more secure
 
 It's not that opensource software is necessarily better engineered...it is that without the sourcecode it is impossible to see what a program does. So opensource software is seen as more secure as it is the only kind of software that can be checked for security at all without needing to blindly trust someone...everything not open-source can't be checked and by this has to be seen as insecure.
 
-> In a voting process, the ballot needs to be kept secret not the protocol or process. 
+> In a voting process, the ballot needs to be kept secret not the protocol or process.
 
 
 ## Securing Your Code
@@ -691,7 +697,7 @@ There are almost no countries that utilize electronic voting machines (EVMs). On
 
 The initial setup, including the appointment of volunteers to manage booths, remains the same for both methods. The primary difference lies in the vote counting process. Given India's large population, there is a need for a substantial number of counting centers. But there are also large number of volunters in a large populated country. A significant portion of the adult population in India is unemployed, resulting in lower labor costs. Counting is a low-skill labour, so anyone can do it at a very low cost. To contribute to saving the country, most people would be willing to work for free for a week or a month. It wouldn't take a week to finish counting votes. Additionally, there are maintenance and manufacturing costs associated with EVMs, which are absent in the case of paper ballots. **Consequently, paper ballots prove to be a more cost-effective option.**
 
-Counting with paper ballots can be conducted in a decentralized manner, constituency-wise, involving a large number of people. Moreover, the counting process can be automated using open-source machine learning, as demonstrated earlier. Anyone can develop the machine learning algorithm, and the validation and accuracy checks can be performed by the community. 
+Counting with paper ballots can be conducted in a decentralized manner, constituency-wise, involving a large number of people. Moreover, the counting process can be automated using open-source machine learning, as demonstrated earlier. Anyone can develop the machine learning algorithm, and the validation and accuracy checks can be performed by the community.
 
 ### How much time does it take to print a ballot paper?
 
@@ -723,7 +729,7 @@ The ballot paper is the gold standard of voting. Your votes don't disappear in t
 
 ### How can we achieve secure automated vote counting through open source machine learning software?
 
-One method involves utilizing a high-capacity auto-feed scanner to scan votes. 
+One method involves utilizing a high-capacity auto-feed scanner to scan votes.
 
 Scanned images need to be made public. This action promotes transparency and allows anyone to verify the count using various open-source machine learning programs.
 To mitigate reliance on a centralized scanner, opposition leaders or other stakeholders can independently verify the results using their own scanners. Since the process is automated, this verification task is not cumbersome.
@@ -748,7 +754,7 @@ Currently I am trying out [image classification](https://github.com/reaudito/cus
 
 #### False positives and false negatives in machine learning
 
-A false positive is an error in classification in which a test result incorrectly indicates the presence of a condition, while a false negative is the opposite error, where the test result incorrectly indicates the absence of a condition when it is actually present. 
+A false positive is an error in classification in which a test result incorrectly indicates the presence of a condition, while a false negative is the opposite error, where the test result incorrectly indicates the absence of a condition when it is actually present.
 
 In classification problems like vote counting or identifying handwritten numbers, there are chances of false positives. For example, [identifying a sketch as a number when it should be none of the numbers from 1 to 9](https://ufal.mff.cuni.cz/~straka/courses/npfl129/2223/demos/mnist_web.html). Machine learning doesn't work best when the given data is very different from the trained data, so it may fail to identify spoiled votes, which can occur in many different and unpredictable ways. Therefore, some human caution is required to check the probability values.
 
@@ -756,7 +762,7 @@ As scanned images can be made public, humans can check them later on, within a w
 
 > ECI cannot claim the cost of counting or the space or the time required for counting. If you make the scanned image public, we will count it for free.
 
-### How can we be sure that the scanner software is not hacked? 
+### How can we be sure that the scanner software is not hacked?
 
 The software installed on a laptop can be Linux-based, and the scanner software can be open source; for example, [HP drivers are open source](https://github.com/OpenPrinting/hplip-printer-app ). [We shouldn't trust Windows or other closed-source software](./programming/foss_philosophy.md). However, what about the software installed in the scanner hardware itself? It's usually proprietary. Therefore, it's advisable not to use a scanner that has firmware installed. Many scanners are just motors and some buttons; there is no CPU or memory chip for firmware to reside on. Only the driver is needed installed on computer, which can be open source. The Linux OS and driver software need to be installed on the laptop under proper surveillance, and the checksum of the Linux OS and driver software needs to be checked.
 
@@ -796,7 +802,7 @@ When there is so much control by the software maker and installer, the probabili
 
 ### Shooting the messenger
 
-A whistleblower is an individual who exposes information about wrongdoing, illegal activities, or unethical behavior within an organization. Unfortunately, whistleblowers may face backlash, retaliation, or legal consequences for bringing such information to light. 
+A whistleblower is an individual who exposes information about wrongdoing, illegal activities, or unethical behavior within an organization. Unfortunately, whistleblowers may face backlash, retaliation, or legal consequences for bringing such information to light.
 
 "Shooting the messenger" is a critical perspective on the unfair treatment that whistleblowers may experience for their courageous actions in exposing the truth.
 
@@ -808,7 +814,7 @@ A whistleblower is an individual who exposes information about wrongdoing, illeg
 
 ### The Supreme Court didn't give a judgment on 100% VVPAT counting.
 
-There's no bigger irony than the fact that they can't tally votes for 12 days. Counting is such a low-skilled job that even a 10th-grade student can do it, yet the Supreme Court rejected the counting, as predicted, as we don't trust the judge. 
+There's no bigger irony than the fact that they can't tally votes for 12 days. Counting is such a low-skilled job that even a 10th-grade student can do it, yet the Supreme Court rejected the counting, as predicted, as we don't trust the judge.
 
 Why can't counting be as decentralized as polling booths? Each polling booth typically serves [300 to 700 voters](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiej6x2jlkjar34t4ag7adsdvz3scewk34igwgiqbvbq3k2xin7mxy). Therefore, if we establish similar decentralized booths for counting, it would only take an hour or two to count the paper ballots.
 
@@ -820,7 +826,7 @@ People need to stand up collectively; it can't be done by individuals alone. If 
 
 Understand how a [fascist government operates](./democracy/fascism.md).
 
-### Voter turnout 
+### Voter turnout
 
 About [40% of voters are not voting](https://www.indiatoday.in/elections/lok-sabha/story/lok-sabha-elections-2024-phase-1-voting-bjp-congress-dmk-tamil-nadu-up-bengal-assembly-annamalai-2528964-2024-04-19). About [5-10% decrease in voter turnout](https://www.hindustantimes.com/india-news/64-turnout-in-lok-sabha-phase-1-elections-most-states-see-dip-from-2019-101713544427755.html) than 2019 election.
 
@@ -831,7 +837,7 @@ With such a low voter turnout, one can assume there is high distrust in election
 The population of India is increasing, so absolute voter turnout number is expected to increase. [However, it is showing the opposite trend, with absolute voter turnout number actually decreasing.](./images/voter_turn_out_analysis.jpeg)
 
 
-### Should we vote or not vote? 
+### Should we vote or not vote?
 
 EVMs have VVPATs installed even if VVPAT slips are not counted. People must check and also be trained to inspect what falls into the VVPAT. It's hard to say how many votes will be manipulated. It can range from 5% to even 30% of vote manipulation. But if mass manipulation occurs, it is likely to be caught if VVPATs are counted. One needs to also be aware of VVPAT ballot stuffing i.e. EVM printing the ballot when no one is watching. The Election Commission of India (ECI) is already changing or manipulating the voter turnout data and not providing the full details of actual numbers of voter turnout in each booth or constituency; instead, [they provide percentages](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeigcvw4psyce2kch7efv5lj3zgkkqb3zohqr6phofw3ks65bd72jxe). There's no transparency at all levels of voting, from the calculation of voter turnout to EVM black box. We can still request people to vote. We can still defeat the government with sufficient votes against them and VVPAT are counted. Don't press NOTA. We will see what happens next. The fight for 100% counting needs to continue, though the Supreme Court is unlikely to allow counting. We need to be ready for mass protests during and after the election for 100% counting of VVPAT.
 
@@ -858,11 +864,11 @@ There appears to be a significant anomaly in the voter turnout data for 02 Dhule
 [Turnout data dhule  after 24 hours](./images/dhule_2.jpeg)
 
 
-### ECI released voter turnout numbers 
+### ECI released voter turnout numbers
 
 After so much criticism, the ECI [released the actual voter turnout numbers](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeih6dqab6uiw5ol5rs4voj2zzwyzbgwanbs4jxivpxafo35tlbev6i) just a week before the election was to end.
 
- 
+
 ### About strong rooms of EVM and VVPAT storage
 
 [ECI Link](https://old.eci.gov.in/files/file/15143-arrangements-of-strong-rooms-for-safe-storage-of-evms-vvpats-and-other-election-papers-before-and-after-counting-of-votes-reg/)
@@ -884,14 +890,14 @@ Videography shall be made at the time of the opening and closing of Polled EVM S
 The video connected all the dots of EVM. However, I have a conflict with the solution given.
 
 ### EVMs demand protection for 365 days every year
- 
+
 > EVM is a useless machine, and there is no need for EVM at all. It adds extra unnecessary complexity, maintenance, and costs.
-> 
+>
 > Using paper ballots is more cost-effective, requires less maintenance than EVMs, and EVMs demand protection for 365 days every year, whereas ballot papers need protection for only about few months, hardly 3-6 months after the election. Any unprotected EVM at any time is susceptible to hackers manipulating it and installing malware. Manufacturing of new EVM is another additional cost associated with EVMs. Paper ballots have fewer steps to maintain and are also considered the gold standard.
-> 
+>
 > So, instead, we can just use paper ballots. Paper ballot counting can be automated in the future using an open-source machine-learning algorithm, as I have already said and demonstrated. If you want the results in one day, it can also be done with paper ballots.
 >
-> **Lets end the voting scam**. 
+> **Lets end the voting scam**.
 >
 > To be clear, parties at the center will always want EVMs to select their own government through a flawed and opaque voting system that they have full control over. It is the responsibility of people to protest and return to paper ballot-based voting.
 
@@ -927,15 +933,15 @@ If you consider the multiplication rule in probability, often used in quality co
 
 Some other assumptions can be made, such as hacking being done in a few constituencies rather than all constituencies as a whole.
 
-For example, if a [Parliamentary Constituency (PC)](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeih6dqab6uiw5ol5rs4voj2zzwyzbgwanbs4jxivpxafo35tlbev6i) has 1,200,000 voters, the total number of Electronic Voting Machines (EVMs) needed would be  1,200,000/ 2,000, resulting in a total of 600 EVMs. If you consider that 1% percent of the total EVMs are scrutinized, then 6 EVMs in the constituency fall under scrutiny. 
+For example, if a [Parliamentary Constituency (PC)](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeih6dqab6uiw5ol5rs4voj2zzwyzbgwanbs4jxivpxafo35tlbev6i) has 1,200,000 voters, the total number of Electronic Voting Machines (EVMs) needed would be  1,200,000/ 2,000, resulting in a total of 600 EVMs. If you consider that 1% percent of the total EVMs are scrutinized, then 6 EVMs in the constituency fall under scrutiny.
 
 ### An example of multiplication rule
 
 [Multiplication Rule Explanation](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeicpgfmasyo4nc7bwn4psnn4pr4jvpt7f6wga7hp2i4jyuprvfxjxa)
 
-An example of using the multiplication rule of probability: Suppose 200 EVMs are used for scrutiny. Remember, 200 is an assumption. Currently, between 0 to 6 EVM per constituency is falls for scrutiny if we take the percentage. 
+An example of using the multiplication rule of probability: Suppose 200 EVMs are used for scrutiny. Remember, 200 is an assumption. Currently, between 0 to 6 EVM per constituency is falls for scrutiny if we take the percentage.
 
-Also, in the following example, we consider a large sample, but in a constituency, the sample is as small as 600 EVMs. 
+Also, in the following example, we consider a large sample, but in a constituency, the sample is as small as 600 EVMs.
 
 The probability of no manipulation is the same as the probability of all 200 EVMs being good. Therefore, we want to find P(all 200 EVMs are good). Assuming the manipulation rate of EVMs is 1%, the probability of a good EVM is P(good EVM) = 0.99.
 
@@ -945,9 +951,9 @@ P(1st is good and 2nd is good and 3rd is good . . . and 200th is good)
 
 =  0.99 * 0.99 * . . . * 0.99
 
-Thus, P(all 200 EVMs are good) = (0.99)^200 = 0.13397. 
+Thus, P(all 200 EVMs are good) = (0.99)^200 = 0.13397.
 
-The probability is still high and not a rare outcome. There is still a high chance that all 200 EVMs are found to be good, even with 1% manipulation. 
+The probability is still high and not a rare outcome. There is still a high chance that all 200 EVMs are found to be good, even with 1% manipulation.
 
 
 ### Realistic Scenario Example
@@ -1008,7 +1014,7 @@ As you can see, just manipulating one EVM (2000 votes) in different constituenci
   "number_of_places_runner_up_less_than_40000_more_than_30000": 28,
   "number_of_places_runner_up_greate_than_40000": 31,
   "No of constituency": 230,
-}    
+}
 ```
 
 
@@ -1039,11 +1045,11 @@ Check [the video](https://www.youtube.com/watch?v=IrQVWmS3pj8) what to do when y
 
 ![Top contituencies with manipulation](images/top_contituencies.png)
 
-Here is the code and data for election analysis. 
+Here is the code and data for election analysis.
 
 [Analysis Data](https://github.com/silicology/election_data_analysis/tree/main/data)
 
-The data for EVM votes and Postal votes are here. 
+The data for EVM votes and Postal votes are here.
 
 [EVM & Postal Votes](https://github.com/silicology/election_data_analysis/blob/main/data/2024_loksabha_election_evm_postal_data.json)
 
@@ -1121,7 +1127,7 @@ It's not surprising when Wi-Fi is installed on EVMs and controlled by mobile pho
     Your browser does not support the video tag.
 </video>
 
-## General Elections 2024: Explosive Footage Reveals Troubling Reality 
+## General Elections 2024: Explosive Footage Reveals Troubling Reality
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2-50ivh_H2o?si=5uAt-FaHUscStWQf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -1154,10 +1160,10 @@ If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
 
 https://youtu.be/sHmpEv4dWDA?si=Zm1ISm6WOzhFPyB2
 
-#EVM_Hatao_Desh_Bachao 
+#EVM_Hatao_Desh_Bachao
 #BanEVM_Save_India
-#EVM_हटाओ_लोकतंतर_बचाओ 
-#EVM_Hatao_Loktantra_Bacho 
+#EVM_हटाओ_लोकतंतर_बचाओ
+#EVM_Hatao_Loktantra_Bacho
 
 ```
 
@@ -1170,10 +1176,10 @@ If you want to support Ban EVM Movement... Just give Miss Call- 9667722062
 
 https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeifofj2zgq5wnb2juvyj3nyf23wdizpqtsfmbmidoqsxau3js7biyq
 
-#EVM_Hatao_Desh_Bachao 
+#EVM_Hatao_Desh_Bachao
 #BanEVM_Save_India
-#EVM_हटाओ_लोकतंतर_बचाओ 
-#EVM_Hatao_Loktantra_Bacho 
+#EVM_हटाओ_लोकतंतर_बचाओ
+#EVM_Hatao_Loktantra_Bacho
 ```
 
 

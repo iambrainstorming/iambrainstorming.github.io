@@ -1,0 +1,80 @@
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Which of the following best describes ballot stuffing?
+"""
+prompt.distractors = [
+    "Ballot harvesting, where individuals collect and submit ballots on behalf of others without their consent.",
+    "Voter impersonation, where an individual votes using the identity of another eligible voter without their knowledge.",
+    "Ballot box tampering, where sealed ballot boxes are illegally accessed and ballots are altered or replaced. ",
+]
+answer.answer = "The practice of submitting multiple ballots by a single individual in an election where one ballot per person is allowed."
+id = "65448bbf-3caf-463a-8373-da96cea0c206"
+
+
+
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+How can ballot stuffing occur in an election that a compromised VVPAT system?
+"""
+prompt.distractors = [
+    "Voters themselves could engage in ballot stuffing by voting multiple times, through fake identity proof",
+    "Voters could exploit a vulnerability in the VVPAT system where it fails to record a vote on EVM but still prints a paper trail, allowing them to cast multiple votes without detection.",
+    "Election officials could replace legitimate VVPAT paper trails with fraudulent ones, inflating the vote count for a specific candidate.",
+]
+answer.answer = "VVPAT could print ballots while no voter is observing the paper trail."
+context = """
+VVPAT could print while no voter is observing the paper trail, a form of [ballot stuffing](https://en.wikipedia.org/wiki/Ballot_stuffing). Even if additional votes were discovered through matching to the voters list, it would be impossible to identify legitimate ballots from fraudulent ballots.
+"""
+id = "a1ae9861-25e2-49d4-88e2-2e283e4d0930"
+
+
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Are VVPAT (Voter-Verified Paper Audit Trail) and EVM (Electronic Voting Machine) votes tallied after an election to ensure accuracy?
+"""
+prompt.distractors = [
+    "Yes, all VVPAT and EVM votes are meticulously compared to identify any discrepancies.",
+    "Yes, but only in close elections where the margin of victory is narrow.",
+    "No, the VVPAT is solely for voter assurance and has no impact on the official count. ",
+]
+answer.answer = "No, only the votes from a random sample of VVPAT machines approximately 1% of VVPAT votes are compared with EVM results."
+id = "2114e89b-8c80-4547-a18e-27a9a9092db6"
+
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Which statement best describes the impact of secrecy on software security?
+"""
+prompt.distractors = [
+    "Secrecy enhances software security by preventing malicious actors from exploiting vulnerabilities.",
+    "Secrecy fosters an environment of trust, as users perceive hidden mechanisms as more secure.",
+    "Open-source software exposes code to a wider range of attackers, increasing the risk of exploitation.",
+]
+answer.answer = "Secrecy is a liability, as it hinders the identification and patching of security flaws by a wider community of experts."
+context = """
+Secrecy is a liability in software security. By keeping the software development process closed and secretive, it becomes more challenging to identify and address security vulnerabilities. A more effective approach is to embrace open-source development, where the source code is publicly available for review and contribution by a community of developers and security experts.
+"""
+id = "243aaeaa-4e7a-4187-a66e-f1153818a513"
+
+
+
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Is the EVM (Electronic Voting Machine) system, including its components and software, open source and available for public audit by independent experts?
+"""
+prompt.distractors = [
+    "Yes, the EVM system is entirely open source, allowing for full transparency and public scrutiny.",
+    "The hardware components are open source, but the software remains closed-source and proprietary.",
+    "While the software is open source, the hardware specifications are kept confidential. ",
+]
+answer.answer = "No, the EVM system is proprietary, and only authorized personnel have access to its inner workings."
+id = "2573f0c4-1669-4c6d-bbdf-6b42ece47a61"
+
