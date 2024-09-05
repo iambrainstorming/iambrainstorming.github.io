@@ -12,8 +12,6 @@ answer.answer = "The practice of submitting multiple ballots by a single individ
 id = "65448bbf-3caf-463a-8373-da96cea0c206"
 
 
-
-
 [[questions]]
 type = "MultipleChoice"
 prompt.prompt = """
@@ -29,7 +27,6 @@ context = """
 VVPAT could print while no voter is observing the paper trail, a form of [ballot stuffing](https://en.wikipedia.org/wiki/Ballot_stuffing). Even if additional votes were discovered through matching to the voters list, it would be impossible to identify legitimate ballots from fraudulent ballots.
 """
 id = "a1ae9861-25e2-49d4-88e2-2e283e4d0930"
-
 
 
 [[questions]]
@@ -63,8 +60,6 @@ Secrecy is a liability in software security. By keeping the software development
 id = "243aaeaa-4e7a-4187-a66e-f1153818a513"
 
 
-
-
 [[questions]]
 type = "MultipleChoice"
 prompt.prompt = """
@@ -78,3 +73,37 @@ prompt.distractors = [
 answer.answer = "No, the EVM system is proprietary, and only authorized personnel have access to its inner workings."
 id = "2573f0c4-1669-4c6d-bbdf-6b42ece47a61"
 
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+How many days of security does an EVM require?
+"""
+prompt.distractors = [
+    "60 days before and after election day",
+    "30 days before the election",
+    "365 days before the election",
+]
+answer.answer = "All the time"
+context = """
+EVMs demand protection for 365 days every year, whereas ballot papers need protection for only about few months, hardly 3-6 months after the election. Any unprotected EVM at any time is susceptible to hackers manipulating it and installing malware.It's unrealistic to have robust security for EVMs all the time.
+"""
+id = "48d771bd-143d-40fb-bead-1329f5d8d2f9"
+
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+In how many polling stations were discrepancies found between the number of voters polled on election day and the number of voters recorded in the EVMs during the vote-counting process in the 2024 Lok Sabha elections?
+"""
+prompt.distractors = [
+    "An insignificant number of polling stations",
+    "Less than half of the polling stations",
+    "More than three-quarters of the polling stations",
+]
+answer.answer = "Almost all polling stations"
+context = """
+Data of all discrepancies is here.
+
+[Discrepancies EVM votes during polling and evm votes during counting](https://github.com/silicology/election_data_analysis/blob/main/data/voter_turnout_data/evm_turnout_matching/evm_voter_turnout_comparison.json)
+"""
+id = "72c3b0f6-72f3-40ca-b930-dbe4ae799bff"
