@@ -4,11 +4,11 @@
 
 ## What is a Free Software
 
-“Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. 
+“Free software” means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software.
 
-> Thus, “free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer.” 
+> Thus, “free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer.”
 
-> When users don't control the program, we call it a “nonfree” or “proprietary” program. The nonfree program controls the users, and the developer controls the program; this makes the program an [instrument of unjust power](https://www.gnu.org/philosophy/free-software-even-more-important.html). 
+> When users don't control the program, we call it a “nonfree” or “proprietary” program. The nonfree program controls the users, and the developer controls the program; this makes the program an [instrument of unjust power](https://www.gnu.org/philosophy/free-software-even-more-important.html).
 
 
 ## The four essential freedoms
@@ -25,7 +25,7 @@ A program is free software if the program's users have the four essential freedo
 
 In order to the freedom to make changes and the freedom to publish the changed versions to be meaningful, you need to have access to the source code of the program. Therefore, accessibility of source code is a necessary condition for free software. Obfuscated “source code” is not real source code and does not count as source code.
 
-Source code is defined as the preferred form of the program for making changes in. Thus, whatever form a developer changes to develop the program is the source code of that developer's version. 
+Source code is defined as the preferred form of the program for making changes in. Thus, whatever form a developer changes to develop the program is the source code of that developer's version.
 
 ## Proprietary Software Is Often Malware
 
@@ -42,7 +42,7 @@ Yielding to that temptation has become ever more frequent; nowadays it is standa
 
 ## Free is not free access to closed source app
 
-The term "free" in FOSS does not mean that users have free access to api of closed-source applications. 
+The term "free" in FOSS does not mean that users have free access to api of closed-source applications.
 
 You have access to use the program for free, but in closed source software you have no control over the app; neither can you distribute it freely. For example, an ed tech company can provide some material within the app for free, but make it patented and illegal to share or modify it by others.
 
@@ -87,7 +87,7 @@ In conclusion, open source software offers a higher level of security compared t
 
 [Copyleft licenses](https://fossa.com/blog/all-about-copyleft-licenses/) generally require that any derivative work of the copyleft-licensed software be released under the same license as the original software. In other words, the modified code has to be exactly as “open” as the original. One of the practical ramifications of this requirement is that OSS users may be forced to publish their own changes or additions in source code form if they release a binary that includes a copyleft-licensed component.
 
-[GNU GPLv3 is a copyleft license](https://choosealicense.com/licenses/gpl-3.0/) 
+[GNU GPLv3 is a copyleft license](https://choosealicense.com/licenses/gpl-3.0/)
 
 Copyleft licenses play a crucial role in promoting fairness and countering the unjust power taken by proprietary software makers and companies that do not pay a fair share of profit to open source developers. By using copyleft licenses, developers can ensure that their work remains accessible and available for others to use, modify, and share, without fear of exploitation by proprietary interests. This approach helps to create a more equitable digital landscape where developers can collaborate and benefit from each other's work, while also protecting their rights and ensuring that their contributions are not unfairly appropriated.
 
@@ -105,7 +105,13 @@ Choosing the best open source license is one of the most important decisions you
 
 The GNU Affero General Public License version 3 (AGPLv3) is the most protective of computer user freedom, yet it remains the most misunderstood of the GNU family of licenses.
 
-The AGPLv3 traces its origins to a company called Affero, Inc., established in 2001 to provide a platform for interactive "Web applications" such as discussion forums, mailing lists, email, and blogs. To ensure that users could access the source code of these applications and that any derivatives would also be shared alike, Affero needed a copyleft license. At that time, the GNU General Public License version 2 (GPLv2) was the copyleft license of choice. **However, GPLv2 was written when the client/server paradigm was not widespread and could not guarantee the copyleft assurances desired for Affero's platform. Specifically, one could modify Affero’s source code and provide access to the program over a network without releasing its source code to the public.** To address this issue, with help from the Free Software Foundation (FSF), Affero published the Affero General Public License version one (AGPLv1) in March 2002. By November 2007, the AGPL joined the GNU family of licenses with version three, offering a copyleft license designed to protect user freedom in an increasingly networked world. 
+The AGPLv3 traces its origins to a company called Affero, Inc., established in 2001 to provide a platform for interactive "Web applications" such as discussion forums, mailing lists, email, and blogs. To ensure that users could access the source code of these applications and that any derivatives would also be shared alike, Affero needed a copyleft license. At that time, the GNU General Public License version 2 (GPLv2) was the copyleft license of choice. **However, GPLv2 was written when the client/server paradigm was not widespread and could not guarantee the copyleft assurances desired for Affero's platform. Specifically, one could modify Affero’s source code and provide access to the program over a network without releasing its source code to the public.** To address this issue, with help from the Free Software Foundation (FSF), Affero published the Affero General Public License version one (AGPLv1) in March 2002. By November 2007, the AGPL joined the GNU family of licenses with version three, offering a copyleft license designed to protect user freedom in an increasingly networked world.
+
+### We need a FOSS license to protect us from proprietary AI.
+
+GPLv2 was written before the widespread adoption of the client/server paradigm and thus could not guarantee copyleft assurances for servers. Similarly, the AGPL was drafted before the rise of generative AI and has similar limitations in providing copyleft assurances. Most AI models are trained using open-source code and open-access creative commons content, such as Wikipedia. Proprietary AI systems likely to collapse without the data contributions of open-source developers and Creative Commons content creators. However, the resulting AI models are often made proprietary, despite their heavy reliance on FOSS code and open-access content.
+
+This practice goes against the philosophy of the FOSS community, and most open-source developers and creative commons content creators wouldn't agree to it. A new license is needed to address this issue and ensure that the FOSS community's contributions are respected and protected.
 
 
 ## Blockchain-Powered Funding: Democratizing Open Source Software Development
