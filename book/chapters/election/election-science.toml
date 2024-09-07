@@ -54,7 +54,7 @@ prompt.distractors = [
     "Approval voting systems",
     "Direct democracy voting systems",
 ]
-answer.answer = "ordinal voting systems ones in which the voters rank candidates over other"
+answer.answer = "Ordinal voting systems ones in which the voters rank candidates over other"
 id = "b1cfc54c-40cd-465d-984d-9b1fb739a4cf"
 
 
@@ -73,3 +73,35 @@ context = """
 Arrow's Impossibility Theorem only applies to ordinal voting systems, ones in which the voters rank candidates over others. There is another way: rated voting systems. The simplest version is known as approval voting where instead of ranking the candidates, the voters just tick the candidates they approve of.
 """
 id = "38de6bcd-33a7-43a2-b966-6ac8fc28b0eb"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Which group of countries predominantly uses the First-Past-the-Post (FPTP) voting method?
+"""
+prompt.distractors = [
+    "European Union members",
+    "None of the above",
+    "Nordic Countries",
+]
+answer.answer = "Former British colonies"
+context = """
+Many countries that were formerly part of the British Empire have inherited and continue to use the FPTP system as a result of their colonial legacy. This includes countries like the United Kingdom itself, the United States, Canada, India, Australia, and many others.
+"""
+id = "1e9c55bd-f7f5-4caf-8424-c180cbb77ca2"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Why choose Approval Voting?
+"""
+prompt.distractors = [
+    "It avoids vote-splitting or the spoiler effect.",
+    "It decreases hyperpartisanship and polarization.",
+    "It's easier to tally or count.",
+]
+answer.answer = "All of the above. "
+context = """
+Approval Voting offers a solution to the "vote-splitting" or "spoiler effect," issues where similar candidates can divide support and lead to an outcome not representative of the majority's true preferences. It encourages voters to express support for multiple preferred candidates, reducing strategic voting that fuels hyperpartisanship and polarization. Lastly, it is indeed simpler to tally compared to some other voting methods.
+""""
+id = "64c59d0b-1693-4ca6-bc37-98c491300c2c"
