@@ -54,7 +54,7 @@ prompt.distractors = [
     "Approval voting systems",
     "Direct democracy voting systems",
 ]
-answer.answer = "ordinal voting systems ones in which the voters rank candidates over other"
+answer.answer = "Ordinal voting systems ones in which the voters rank candidates over other"
 id = "bd80fa5a-e06c-46bc-9632-9683fe7daad1"
 
 
