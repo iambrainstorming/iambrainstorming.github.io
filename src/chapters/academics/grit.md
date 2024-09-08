@@ -15,3 +15,14 @@ So far, the best idea I've heard about building grit in kids is something called
 
 Somewhat surprisingly, in four separate samples, grit was found to be either orthogonal to or slightly inversely correlated with intelligence.
 
+## Grit and Relationship
+
+### Building Grit by Being with Grittier People
+
+ Experiment after experiment has shown just how impactful our social relations are to our moral compass and our values.
+
+ Keeping [bad company is unhealthy to the soul](https://bigthink.com/thinking/stoicism-toxic-relationships/) (or our mental health, if you prefer a modern variant). This is because, when a relationship is toxic, or if our company is full of knaves who behave badly, we become knavish ourselves. As Epictetus wrote, “If a companion is dirty, his friends cannot help but get a little dirty too, no matter how clean they started out.”
+
+ And how true this is. If we spend an evening gossiping and being mean, we also become spiteful and cruel. If our friends have no ambition or mock the aspirational, we will never dare to dream. If our friends celebrate ignorance, we will give no weight to education or learning.
+
+> The friends you have and the company you keep will make you who you are, so we ought to weigh carefully who they are.
