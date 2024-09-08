@@ -60,6 +60,8 @@
 - [Smartphones: An Evil Device Stealing Children's Childhood](./chapters/philosophy/smartphones-evil-device.md)
 - [Curriculum Recommendation](./chapters/education/books-recommendation.md)
 - [Beyond the Numbers: The Complexities of Assessment](./chapters/education/beyond_numbers.md)
+- [A dystopian school: what does it look like?](./chapters/education/dystopian_school.md)
+ 
 
 
 # AI/ Machine Learning
