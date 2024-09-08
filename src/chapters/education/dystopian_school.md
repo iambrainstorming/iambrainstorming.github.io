@@ -34,7 +34,7 @@ It's crucial that students of all abilities learn together and from each other, 
 
 For example, if we surround ourselves with people who gossip and engage in mean-spirited behavior, we're more likely to become spiteful and cruel. On the other hand, if our friends are ambitious and supportive, we're more likely to dare to dream big. Similarly, if our friends value education and learning, we're more likely to prioritize these things as well.
 
-### Gifted Children and CRISPR-baby
+### Gifted Children and CRISPR-baby scandal
 
 Using terms like "gifted children" and separating them from others is a form of pseudoscience that bears an uncomfortable resemblance to eugenics and the notion of ["CRISPR-baby scandal"](https://www.nature.com/articles/d41586-019-00673-1). This approach can be seen as a form of racism, as it implies that some individuals are inherently superior to others based on their genetic makeup. However, human genetics is far more complex, and it operates on the principle of trade-offs. While an individual may excel in one area, this often comes at the expense of other important traits. In other words, being exceptionally good at one thing may be offset by weaknesses in other areas. By labeling children as "gifted," we are oversimplifying the complexities of human genetics and neglecting the fact that every individual has a unique set of strengths and weaknesses.
 
