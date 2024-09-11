@@ -66,3 +66,7 @@ Use Cases:
 - Authoritarian government censorship: LoRaWAN technology could be used in regions with strict internet censorship to establish decentralized and alternative networks, allowing citizens to communicate and access information without being monitored or restricted by the government.
 - Resilient connectivity: LoRaWAN can also act as a bridge between short-range decentralized local Wi-Fi networks and the global network, providing an alternative means of connectivity in the event that centralized high-speed corporate internet connections are disrupted or shut down by an authoritarian government. This can help maintain high-speed connectivity and facilitate the exchange of critical information locally, also spreading it to global network steadily.
 
+P.S.
+
+Satellite internet services like Starlink are not a solution; in fact, they would likely be the first to be censored due to their fully centralized nature.
+
