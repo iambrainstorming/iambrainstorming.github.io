@@ -109,3 +109,19 @@ Only three constituencies have no discrepancies. (Amreli from Gujarat, Attingal 
 [Discrepancies EVM votes during polling and evm votes during counting](https://github.com/silicology/election_data_analysis/blob/main/data/voter_turnout_data/evm_turnout_matching/evm_voter_turnout_comparison.json)
 """
 id = "72c3b0f6-72f3-40ca-b930-dbe4ae799bff"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Which of the following statements is true regarding the impact of manipulating a single to three Electronic Voting Machine (EVM) in a constituency?
+"""
+prompt.distractors = [
+    "It has little impact on the overall results as it is just one to three machine.",
+    "The margin of victory is always substantial, so altering a few votes has no real consequence.",
+    "The impact depends on the population density of the constituency, with urban areas being less affected.",
+]
+answer.answer = "It can be significant as many candidates win or lose by a narrow margin under the First Past the Post (FPTP) system."
+context = """
+In many democratic countries that employ the First Past the Post (FPTP) electoral system, elections are often decided by a small number of votes. Candidates frequently win or lose by margins of a few hundred or even fewer votes. In such scenarios, manipulating even a single EVM in a constituency can have a substantial impact. If an EVM is rigged to favor a particular candidate, it could potentially swing the result in their favor, especially in tightly contested races.
+"""
+id = "e263ddd2-7f06-46a9-a3c8-5003f6f86dac"
