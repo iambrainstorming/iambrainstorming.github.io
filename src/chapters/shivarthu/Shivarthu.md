@@ -106,6 +106,12 @@ No deductions will be made from your stake in the Schelling game if your accurac
 
 By ensuring there are fewer disincentives for staking and requiring at least 20 decisions to release the funds, we aim to increase voter participation.
 
+### Does the Schelling game force you to vote based on majority opinion? In other words, can't you vote according to your independent thoughts?
+
+First, money is not deducted from your stake; it's deducted from the incentives you're supposed to receive if you make many wrong choices. So, it’s fine to deviate from majority thinking. We can also have a platform for advocacy and discussion before the voting takes place, where you can present your arguments.
+
+Furthermore, it's experimental. One must review the decisions made in a real setting and adjust based on feedback from participants. If good decisions can be made without financial penalties, that approach can also be considered.
+
 
 ## Where Schelling Game implemented in the project?
 
