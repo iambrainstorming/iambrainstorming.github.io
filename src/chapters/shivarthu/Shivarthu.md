@@ -112,7 +112,7 @@ First, money is not deducted from your stake; it's deducted from the incentives 
 
 You don't know how the majority will vote during the commit period, you will know only during the reveal period. Putting some disincentives for going against the wisdom of the crowd is a good way to build pressure to vote truthfully.
 
-Who will be the jurors, or who will participate in the crowd, is further filtered out and has a higher weightage through a positive externality reputation system. As education is a positive externality, educated people will have more weightage for answering.
+Who will be the jurors, or who will participate in the crowd, is further filtered out and has a different weightage through a positive externality reputation system. As education is a positive externality, educated people will have more weightage for answering.
 
 Furthermore, it's experimental. One must review the decisions made in a real setting and adjust based on feedback from participants. If good decisions can be made without financial penalties, that approach can also be considered.
 
