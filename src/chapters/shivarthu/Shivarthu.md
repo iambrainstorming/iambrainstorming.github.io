@@ -22,7 +22,7 @@ The governance is divided into many departments like education, infrastructure, 
 
 ### Expertise evaluation of representatives :
 
-Voters and especially representatives need to have some experience or expertise in the department. Experience is required because education about the department leads to better decision making. 
+Voters and especially representatives need to have some experience or expertise in the department. Experience is required because education about the department leads to better decision making.
 Their kyc and experience is evaluated by schelling game.
 
 ### Vouching
@@ -32,12 +32,12 @@ If they know each other, friends and relatives will become guarantors for each o
 Moderators chosen through approval voting have the ability to invalidate the fake vouching by down voting the guarantor.
 
 
-Experience evaluation pallet 
+Experience evaluation pallet
 <https://github.com/reaudito/shivarthu/tree/main/custom-pallets/profile-validation>
 
 
 <img src="Portfolio.svg" alt="portfolio" height="600"/>
- 
+
 
 ## The Schelling Game:
 
@@ -60,7 +60,7 @@ The Schelling game of Shivarthu is designed to incentivize participants to revea
 In the Schelling game, participants are asked to vote on the outcome of a particular event or question. They are rewarded based on the accuracy of their vote and the overall consensus among the participants. The idea is that participants will have an incentive to vote honestly in order to maximize their potential rewards.
 
 > The effectiveness and accuracy of the Schelling game, like any decentralized system, depend on several factors:
-> 
+>
 > Participation: The accuracy of the results can improve with a larger number of participants. More participants increase the diversity of perspectives,reducing the potential for bias or manipulation.
 >
 > Token Staking: In the protocol, participants must stake tokens as collateral, which can be lost if they vote against the majority outcome. This mechanism provides an additional incentive for participants to vote honestly.
@@ -110,6 +110,8 @@ By ensuring there are fewer disincentives for staking and requiring at least 20 
 
 First, money is not deducted from your stake; it's deducted from the incentives you're supposed to receive if you make many wrong choices. So, it’s fine to deviate from majority thinking. We can also have a platform for advocacy and discussion before the voting takes place, where you can present your arguments.
 
+Furthermore, you don't know how the majority will vote during the commit period, you will know only during the reveal period. Putting some disincentives for going against the wisdom of the crowd is a good way to build pressure to vote truthfully.
+
 Furthermore, it's experimental. One must review the decisions made in a real setting and adjust based on feedback from participants. If good decisions can be made without financial penalties, that approach can also be considered.
 
 
@@ -122,8 +124,8 @@ In the Schelling game, individuals who wish to participate as jurors can apply t
 We will use the substrate randomness trait for generating a random number.
 <https://docs.substrate.io/reference/how-to-guides/pallet-design/incorporate-randomness/>
 
-Then jurors will vote for their decision using the commit and reveal scheme. In the commit phase, they submit the hash of the vote string. Then, in the reveal phase, they submit the hash and the vote string. If the vote string matches with the hash, then the vote is accepted. 
-If a juror's vote is coherent (more than 51% of other jurors agree) then they receive incentives, otherwise, incentives are deducted from the stake of the juror. 
+Then jurors will vote for their decision using the commit and reveal scheme. In the commit phase, they submit the hash of the vote string. Then, in the reveal phase, they submit the hash and the vote string. If the vote string matches with the hash, then the vote is accepted.
+If a juror's vote is coherent (more than 51% of other jurors agree) then they receive incentives, otherwise, incentives are deducted from the stake of the juror.
 
 Sortition Sum Game Algoritm:
 
@@ -140,43 +142,43 @@ The election will be conducted using a multi-winner approval system. To choose t
 
 <https://paritytech.github.io/substrate/master/sp_npos_elections/phragmen/fn.seq_phragmen.html>
 
-Approval Voting:   
-<img src="approval_voting.svg" alt="Approval Voting" height="600"/>   
-Winners:   
+Approval Voting:
+<img src="approval_voting.svg" alt="Approval Voting" height="600"/>
+Winners:
 <img src="Winners.svg" alt="Winner" height="600"/>
 
 Seq phragmen voting:
 <https://github.com/reaudito/shivarthu/tree/main/custom-pallets/election>
 
 
-#### Voting for selection of governors   
+#### Voting for selection of governors
 
 Governers will be selected again by seq phragmen, to form a fully decentralized governance they will have functions of setting different thresholds, like election timing, the number of elected representatives, and approving departments that can be formed.
 
 
 #### Project application and acceptance:
 
-The representatives are in charge of accepting the incoming projects for funding. 
+The representatives are in charge of accepting the incoming projects for funding.
 People will submit their problems, for example, waterlogging in the locality.
 Then experts all around the globe will submit the solution. The solution will be peer-reviewed to check its pros, cons, and suggest improvements that can be made. The review must meet the scientific guidelines. The solution can undergo revision through peer review feedback.
-The solution provider and peer reviewer have to stake some money to receive incentives for their work. The solution and peer review will again be approved and disapproved through the shelling game after checking whether the content meets the quality as recommended in scientific guidelines. The solutions provider and reviewer will get the incentives if it gets approved, otherwise, some money will be cut from the stake. It creates pressure on the reviewer to maintain quality without noise.   
+The solution provider and peer reviewer have to stake some money to receive incentives for their work. The solution and peer review will again be approved and disapproved through the shelling game after checking whether the content meets the quality as recommended in scientific guidelines. The solutions provider and reviewer will get the incentives if it gets approved, otherwise, some money will be cut from the stake. It creates pressure on the reviewer to maintain quality without noise.
 
-<img src="Problem_Solution.svg" alt="Problem Solution" height="600"/>   
+<img src="Problem_Solution.svg" alt="Problem Solution" height="600"/>
 
 The representatives of the department will select the most optimal solution.
-After that persons wanting to take the lead to implement the solution will apply. Again representatives will select the best project leader from the application.   
-  
-<img src="Leadership.svg" alt="Leadership" height="600"/>      
+After that persons wanting to take the lead to implement the solution will apply. Again representatives will select the best project leader from the application.
+
+<img src="Leadership.svg" alt="Leadership" height="600"/>
 
 
 
-## Money for department:   
+## Money for department:
 
-Form a department with a location with some min members, say 3000, and get it approved by the main governance.    
+Form a department with a location with some min members, say 3000, and get it approved by the main governance.
 
-### Department price discovery:   
+### Department price discovery:
 
-Say we have 1,000,000 departments with 3000 population each.    
+Say we have 1,000,000 departments with 3000 population each.
 
 Department funding operates on a tipping system where each department is categorized as either a SmallTipper, BigTipper, SmallSpender, MediumSpender, or BigSpender, each corresponding to an increased funding value.
 
@@ -207,7 +209,7 @@ Create guidelines for department formation, e.g. specifying which values are all
 ## Price discovery of positive externality through Score Schelling Game:
 
 1) When you submit a positive externality that you made, you need to provide details of your work.
-2) Here is how the score Schelling game works to calculate score. For example, you can have a score between -10 and +10. The range of -10 to +10 poses a problem because the mean works best without extreme values. If someone gives -10, and others give 1, the mean result can be skewed due to the -10 outlier. The trick is to remove outliers by computing the standard deviation and eliminating all values more than one standard deviation away from the mean. Subsequently, we calculate the new mean of the remaining values, which consist of atleast 68.27% of the dataset. This new mean becomes the score. If your given score is close to the new mean, you receive incentives. If it deviates from the new mean, a portion of your staking value is deducted. Commit and reveal scheme is used. 
+2) Here is how the score Schelling game works to calculate score. For example, you can have a score between -10 and +10. The range of -10 to +10 poses a problem because the mean works best without extreme values. If someone gives -10, and others give 1, the mean result can be skewed due to the -10 outlier. The trick is to remove outliers by computing the standard deviation and eliminating all values more than one standard deviation away from the mean. Subsequently, we calculate the new mean of the remaining values, which consist of atleast 68.27% of the dataset. This new mean becomes the score. If your given score is close to the new mean, you receive incentives. If it deviates from the new mean, a portion of your staking value is deducted. Commit and reveal scheme is used.
 
 
 Code to calculate new mean:
@@ -220,7 +222,7 @@ import statistics
 def calculate_new_mean(items):
     mean = statistics.mean(items)
     print(mean)
-    sd = statistics.stdev(items) 
+    sd = statistics.stdev(items)
     print(sd)
 
 
@@ -263,7 +265,7 @@ calculate_new_mean(items3)
 ```
 
 3) Then, we will do quality score voting Schelling game that checks the quality or impact of positive externality. The score range is 0-5
-4) A fixed amount of tokens is released for each score. The highest amount of tokens will be released for a score of 5, fewer tokens for a score of 1, and no tokens for a score of 0. 
+4) A fixed amount of tokens is released for each score. The highest amount of tokens will be released for a score of 5, fewer tokens for a score of 1, and no tokens for a score of 0.
 
 
 
