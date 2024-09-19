@@ -13,8 +13,8 @@ categories:
 
 > “The stock market is filled with individuals who know the price of everything, but the value of nothing.” — Phillip Fisher
 
-Scams involving cryptocurrency are extremely prevalent.  
-The majority of coins on the cryptocurrency market are worthless meme coins, but they nevertheless manage to dupe individuals into parting by enticing them to grow their money and making them rich in no time.  
+Scams involving cryptocurrency are extremely prevalent.
+The majority of coins on the cryptocurrency market are worthless meme coins, but they nevertheless manage to dupe individuals into parting by enticing them to grow their money and making them rich in no time.
 Crypto scams are currently not limited to big cities now they have even begun targeting underdeveloped villages in nations like India.
 
 The issue is caused by the price being determined by the supply and demand of tokens on exchanges without considering their utility. The prices of tokens depend on how many people you manage to fool, and the scammer's ability to make a sudden spike through pump and dump.
@@ -33,15 +33,15 @@ The algorithm is provided in the following link:
 
 [https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#price-discovery-of-projects-through-score-schelling-game](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#price-discovery-of-projects-through-score-schelling-game)
 
-But setting an exchange using score schelling game is not without challenges. One of the problem is arbitrage. If the AMM price is lower than the market price, then people will drain all the liquidity and sell it at a higher price in the market. The solution can be the ability to withdraw after a month or have a KYC so that you can't withdraw tokens after certain limits.  
+But setting an exchange using score schelling game is not without challenges. One of the problem is arbitrage. If the AMM price is lower than the market price, then people will drain all the liquidity and sell it at a higher price in the market. The solution can be the ability to withdraw after a month or have a KYC so that you can't withdraw tokens after certain limits.
 Similarly, if the demand and utility of the token are more and the price is set lower, it can create a shortage, and more people will not be benefited, so, prices need to be increased through consensus.
 
-> Another way is to tax the shit coins and subsidize the good coins based on the price discovery, and this won't impact the liquidity or create the problem of arbitrage, neither KYC is needed.  
+> Another way is to tax the shit coins and subsidize the good coins based on the price discovery, and this won't impact the liquidity or create the problem of arbitrage, neither KYC is needed.
 > Taxing can be done using market makers like Uniswap, and taxes collected are sold at lower discovered prices to buy or collect good coins and hence plummeting the shitcoin price and good coins collected are given as subsidies while exchanging the good coins . Liquidity providers can also be incentivized with tax collected.
 
 ## **Rationality, Disinformation and Nudge**
 
-Only a nudge while buying from an exchange can work to many extents.  
+Only a nudge while buying from an exchange can work to many extents.
 For example in real world, Adani stocks got plummeted by the Hindenburg report.
 
 A decentralized cryptoexchange with [a good governance](https://amiyatulu.github.io/blog/shivarthu/tyranny_of_the_majority.html) can provide a nudge for discovered prices, or provide research review and discussion about the advantages, disadvantages, security and application of the cryptocurrency.
@@ -56,20 +56,20 @@ We can slowly increase the complexity of exchange with passing year that include
 
 Discovering price in crypto exchange using score Schelling game based on coin utility.
 
-Bitcoin = 0.1  
-Ethereum = 0.4  
-Polkadot = 0.3  
+Bitcoin = 0.1
+Ethereum = 0.4
+Polkadot = 0.3
 Near = 0.2
 
 Exchange:
 
 2 Near = 1 Ethereum
 
-To calculate the price you need to take into account:  
+To calculate the price you need to take into account:
 
-1) Utility of the token (Most priority)  
-2) Total Supply of token  
-3) Inflation or deflation of token  
+1) Utility of the token (Most priority)
+2) Total Supply of token
+3) Inflation or deflation of token
 4) Demand for token
 
 KYC of user, with limits to how much they can withdraw every day.
@@ -88,39 +88,38 @@ Price discovery every day or weekly.
 
 Supply chains can use free market pricing derived from demand and supply where required rather than consensus pricing, or price derived by governance.
 
-1) No price ceiling or floor so that there are no shortage or wastage.  
-2) A large number of buyers and sellers  
-3) Subsidize positive externality and tax negative externality  
-4) Perfect information with all information of utilities available  
-5) No more than average 5 hours of working hours per day for employees and no [bullshit jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)  
-6) Sustainable production  
-7) Governance with expertise that takes care of the whole system like setting taxes or subsidies.  
+1) No price ceiling or floor so that there are no shortage or wastage.
+2) A large number of buyers and sellers
+3) Subsidize positive externality and tax negative externality
+4) Perfect information with all information of utilities available
+5) No more than average 5 hours of working hours per day for employees and no [bullshit jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
+6) Sustainable production
+7) Governance with expertise that takes care of the whole system like setting taxes or subsidies.
 6) Equitable token distribution, so that everyone can create a demand and rich doesn't get richer.
 
-## Food Delivery 
-**Take for example modified version of the cooked food supply chain such as Zomato.**  
+## Food Delivery
+**Take for example modified version of the cooked food supply chain such as Zomato.**
 
-1) Free monthly tokens can be given to kyc users collected from the randomized tax. It keeps the currency deflationary with a fixed supply. ([https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection))  
-2) Large number of buyers and sellers  
-3) Tax unhealthy food, which means a percentage of transaction cost is collected and added to a governance account.  
-4) Subsidize healthy food like fruits and vegetables which means the buyers or sellers are given a few additional tokens during the transaction.  
-5) Governance with expertise that takes care of the whole system like setting taxes or subsidies.  
+1) Free monthly tokens can be given to kyc users collected from the randomized tax. It keeps the currency deflationary with a fixed supply. ([https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection))
+2) Large number of buyers and sellers
+3) Tax unhealthy food, which means a percentage of transaction cost is collected and added to a governance account.
+4) Subsidize healthy food like fruits and vegetables which means the buyers or sellers are given a few additional tokens during the transaction.
+5) Governance with expertise that takes care of the whole system like setting taxes or subsidies.
 6) No commission by the trade maker or app provider
 
 Subsidies cause more trade and can be wasteful due to deadweight loss if it's not a positive externality.
 
-When the price is made fixed, randomized tax collected from deflationary currency can disincentivize buying or keeping the token, which results in less demand. So price of token needed to be slowly increased with time like 1-10% per year to compensate the 1-10% tax, also taking the account of the utility.
-
+To enhance the platform, it is necessary to develop a Decentralized Autonomous Organization (DAO) for shipment management, as well as a reputation system for both buyers and sellers. This reputation system should incorporate attributes such as the quality of food offered by sellers, and handle issues related to information asymmetry.
 
 ## Ride sharing
 
-**Now look at ride-sharing supply chain like ola:**  
+**Now look at ride-sharing supply chain like ola:**
 
-1) Free monthly tokens can be given to KYC user collected from the randomized tax. It keeps the currency deflationary with a fixed supply. ([https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection))  
-2) Large number of buyers and sellers  
-3) Tax fossil fuel bikes or cars  
-4) Subsidize electric bikes or bicycle ride  
-5) Governance with expertise that takes care of the whole system like setting taxes or subsidies and women's safety.  
+1) Free monthly tokens can be given to KYC user collected from the randomized tax. It keeps the currency deflationary with a fixed supply. ([https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection))
+2) Large number of buyers and sellers
+3) Tax fossil fuel bikes or cars
+4) Subsidize electric bikes or bicycle ride
+5) Governance with expertise that takes care of the whole system like setting taxes or subsidies and women's safety.
 6) No commission by the trade maker or app provider
 
 
@@ -130,10 +129,10 @@ When the price is made fixed, randomized tax collected from deflationary currenc
 
 [The Netherlands might be a small country, but it's the second-largest exporter of agriculture in the world.](https://www.weforum.org/agenda/2019/11/netherlands-dutch-farming-agriculture-sustainable/?utm_source=Facebook%20Videos&utm_medium=Facebook%20Videos&utm_campaign=Facebook%20Video%20Blogs)
 
-1) Governance to allocate money to farmers through algorithm like score schelling game for buying equipment for precision farming that can be paid through installment.  
-2) [Expertise governance](https://github.com/amiyatulu/shivarthu) for collecting data and analyzing data collected from precision farming and providing feedback to farmers.  
-3) Decentralized supply chain tracking system from production to consumers, so that both consumer and producers get fair prices, and there is no surplus/wastage or shortages.  
-4) Some UBI to consumers so that they can always create a demand.  
+1) Governance to allocate money to farmers through algorithm like score schelling game for buying equipment for precision farming that can be paid through installment.
+2) [Expertise governance](https://github.com/amiyatulu/shivarthu) for collecting data and analyzing data collected from precision farming and providing feedback to farmers.
+3) Decentralized supply chain tracking system from production to consumers, so that both consumer and producers get fair prices, and there is no surplus/wastage or shortages.
+4) Some UBI to consumers so that they can always create a demand.
 5) Incentivizing learning for precision farming.
 
 Vertical farming offers several benefits compared to traditional agricultural methods:
