@@ -100,7 +100,7 @@ Supply chains can use free market pricing derived from demand and supply where r
 ## Food Delivery
 **Take for example modified version of the cooked food supply chain such as Zomato.**
 
-1) Free monthly tokens can be given to kyc users collected from the randomized tax. It keeps the currency deflationary with a fixed supply. ([https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection))
+1) Free monthly tokens can be given to kyc users collected from the [randomized tax]([https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection). With monthly token you can make some purchases for free.
 2) Large number of buyers and sellers
 3) Tax unhealthy food, which means a percentage of transaction cost is collected and added to a governance account.
 4) Subsidize healthy food like fruits and vegetables which means the buyers or sellers are given a few additional tokens during the transaction.
