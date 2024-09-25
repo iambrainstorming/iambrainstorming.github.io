@@ -80,6 +80,8 @@ e.g. In geography
 David S. Jordan - Applied Geospatial Data Science with Python, Leverage geospatial data analysis and modeling to find unique solutions to environmental problems-Packt 
 Publishing
 
+[FOSS Philosophy](https://www.gnu.org/philosophy/philosophy.en.html)
+
 ### Chemistry
 Chemistry A Molecular Approach by Nivaldo J. Tro
 
