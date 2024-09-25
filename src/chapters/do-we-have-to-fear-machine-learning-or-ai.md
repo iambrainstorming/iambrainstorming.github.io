@@ -228,3 +228,7 @@ Moreover, opaque AI models can also threaten our privacy, as they may collect an
 In contrast, open sourcing AI models promotes collaboration and fosters a shared interest in developing safe, transparent, and fair AI systems. By making the code and algorithms publicly accessible, developers and researchers can work together to identify and address potential issues, ensuring that the technology benefits society as a whole rather than a select few.
 
 Preventing AI misuse requires a multifaceted approach involving technology, policy, education, and ethical considerations. It's an ongoing challenge that requires vigilance and adaptation as AI technology evolves.
+
+## Data detox kit
+
+[Explore guides about Artificial Intelligence, digital privacy, security, wellbeing, misinformation, health data, and tech and the environment](https://datadetoxkit.org/en/home) 

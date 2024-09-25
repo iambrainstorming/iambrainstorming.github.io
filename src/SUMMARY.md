@@ -90,6 +90,10 @@
 - [A Glimpse into a Coder's Experience](./chapters/programming/debugging_time.md)
 - [The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education](./chapters/programming/interdisciplinary.md)
 
+# Computer
+- [Is Moore's Law Finally Dead?](./chapters/computer/moore-law.md)
+
+
 
 # Science
 
