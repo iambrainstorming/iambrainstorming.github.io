@@ -44,7 +44,7 @@ with steps of problem-solving strategy: 1) sort 2)strategize 3) solve and 4) che
 5) Distributing practice  
 6) Assessing to boost retention
 
-Detailed explanation of the strategies is given here, NCTQ learning about learning   [https://drive.google.com/file/d/0B8x9dkicaW23bFMyeS1WZ1NYT2c/view?usp=sharing](https://drive.google.com/file/d/0B8x9dkicaW23bFMyeS1WZ1NYT2c/view?usp=sharing)  
+Detailed explanation of the strategies is given here, [NCTQ learning about learning](https://github.com/amiyatulu/teacher_resources/blob/master/NCTQ_Learning_About_Learning_1-16.pdf)     
 and [http://www.learningscientists.org/](http://www.learningscientists.org/)
 
 ![](../images/82964-six_strategies.jpg)
