@@ -53,6 +53,7 @@ Judy Owen, Jenni Punt, Sharon Stranford: Kuby Immunology
 
 
 ### Mathematics
+
 Gary L Musser, William F Burger, Blake E Peterson: Mathematics for elementary teachers a contemporary approach
 
 Openstax Mathematics and MOOCs from Edx or Coursera
@@ -99,6 +100,8 @@ As already recommended, Openstax world history
 The Social Problems book, published in 2012, doesn't include research conducted after that year. It should serve as an outline and be updated with the latest research, incorporating data from international, local, and national sources.  Since it has a Creative Commons license, anyone can contribute to its updates.
 
 [Economics MRU](https://mru.org/)
+
+[Sociology Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMJ-AfB_7J1538YKWkZAnGA)
 
 [CANVAS Core Curriculum: A Guide to Effective Nonviolent Struggle](https://www.nonviolent-conflict.org/resource/guide-effective-nonviolent-struggle-2/)
 
