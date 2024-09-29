@@ -24,6 +24,18 @@ Rather than punishing or humiliating students for mistakes, schools should focus
 
 Children are not miniature adults, and it's unrealistic to expect them to behave as such. Yet, we often punish them for not meeting our adult expectations, forgetting that they are still learning and growing. But what if we let go of these expectations and allowed children to simply be children? What if we gave them the space to explore, to make mistakes, and to learn at their own pace? By doing so, we would be acknowledging that childhood is a unique and valuable stage of life, one that deserves to be cherished and respected. Let us allow children to remain children, with all their curiosity, energy, and wonder, and not try to rush them into adulthood before their time.
 
+### Effective Behavior Management: Beyond Punishment
+
+Maintaining high expectations of behavior for students is essential, but it's equally crucial to ensure that these expectations are realistic.How do you maintain good behavior? Is it through punishment, threats, or humiliation, or insult? Or should we use [evidence-based psychology](../relationships-emotions-and-happiness.md), such as cognitive behavioral therapy, to change behavior rather than resorting to negative ways.
+
+This approach helps students develop the skills they need to manage their emotions and behaviors in a positive and constructive manner. By teaching children to be assertive, we empower them to express their feelings, ask for what they want, and say no to things they don't want. Assertiveness involves self-awareness, knowing what one wants, and communicating those wants in a respectful and clear manner. We shouldn't resort to mere obedience to authority, but rather about developing the skills to stand up for oneself and interact effectively with others.
+
+Maintaining good behavior in students is a complex issue, and there are different approaches to achieve this goal. While punishment, threats, and humiliation may sometimes prompt immediate compliance, these methods can have negative long-term consequences. They can lead to anxiety, fear, and a lack of self-esteem in students, ultimately undermining their ability to develop healthy relationships and make responsible decisions.
+
+On the other hand, incorporating evidence-based psychology like cognitive behavior therapy (CBT) into a behavioral management plan can be a more effective and sustainable approach. CBT helps students understand the underlying causes of their behavior and teaches them skills to manage their emotions and make better choices. By using this approach, educators can promote positive behavior, self-awareness, and self-regulation in students, ultimately fostering a more supportive and inclusive learning environment.
+
+In essence, while punishment and negative reinforcement may provide short-term compliance, they do not address the root causes of behavior and may ultimately do more harm than good. In contrast, evidence-based methods like CBT offer a more constructive and long-term solution to maintaining good behavior in students.
+
 ## Discrimination between Toppers and Low Scorers: A Form of Social Stratification
 
 Some schools perpetuate a form of social stratification by discriminating between high-achieving students (toppers) and low scorers. This can be seen in the practice of separating students into different classrooms based on their grades. However, it's essential to remember that success is not solely determined by intelligence quotient (IQ), but rather by grit and perseverance.
