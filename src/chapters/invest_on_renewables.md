@@ -65,6 +65,8 @@ Roof top solar panels have the potential to revolutionize the way we generate an
 
 [Storm damages world's biggest floating solar plant in Madhya Pradesh](https://timesofindia.indiatimes.com/city/indore/storm-damages-worlds-biggest-floating-solar-plant/articleshow/109231119.cms)
 
+The irony is that they want to [exert control over vast areas of land in Ladakh](https://scroll.in/article/1073644/in-ladakh-a-massive-energy-project-is-shrouded-in-mystery), while simultaneously failing to utilize or promote the widespread adoption of rooftop solar panels, which would decentralize power generation and transfer control from corporations and governments to the people - a scenario that seems to contradict their apparent desire for control.
+
 
 ## Zero electricity Bills
 
