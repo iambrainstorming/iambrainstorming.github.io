@@ -61,3 +61,8 @@ It's a different matter that some big tech companies want us to transform into t
 ## Book Review: Tackling the Riddle of Free Will
 
 [Two provocative books explore the question of whether humans have control over their personalities, actions, and fates.](https://undark.org/2023/11/17/book-review-free-will/)
+
+
+## You have no free will at all | Stanford professor Robert Sapolsky
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ke8oFS8-fBk?si=BQU7NuP9VZO2Tp3q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
