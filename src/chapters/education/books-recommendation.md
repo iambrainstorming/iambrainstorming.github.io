@@ -125,4 +125,16 @@ Moreover, slow and steady learning helps in building a strong foundation. Compli
 
 In contrast, attempting to rush through complicated material can lead to superficial learning. This approach often results in a fragile understanding that can easily collapse under the weight of more advanced topics. Procrastination and cramming might yield short-term results, such as passing an exam, but they do not foster long-term retention or the ability to apply knowledge effectively. Therefore, adopting a "slow and steady" approach is not only more sustainable but also more effective in achieving true mastery of complicated subjects.
 
+## Training and Neuroplasticity
+
+Neuroplasticity was once thought by neuroscientists to manifest only during childhood, but research in the latter half of the 20th century showed that many aspects of the brain can be altered (or are "plastic") even through adulthood. **However, the developing brain exhibits a higher degree of plasticity than the adult brain**. Activity-dependent plasticity can have significant implications for healthy development, learning, memory, and recovery from brain damage.
+
+- Wikipedia
+
+The available data suggest that gaining expertise in any domain requires at least four hours of training per day for approximately 10 years. Remarkably, there is also compelling evidence that motor imagery—that is, visualizing certain movements in the mind’s eye—can also enhance the learning and execution of certain skills.
+
+Training optimizes the brain areas and neural pathways involved in performing a given task; as a result, the individual’s performance on that task improves, and the task eventually becomes automatized and effortless.
+
+- Neuroplasticity (MIT Press Essential Knowledge Series)
+
 
