@@ -51,6 +51,8 @@ Judy Owen, Jenni Punt, Sharon Stranford: Kuby Immunology
 
 [IBiology online MOOC course](https://www.ibiology.org/educators-resources/online-course/)
 
+The MIT Press Essential Knowledge series, Moheb Costandi - Neuroplasticity
+
 
 ### Mathematics
 
