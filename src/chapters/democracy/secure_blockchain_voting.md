@@ -117,3 +117,11 @@ The notition that conducting election through blockchain and its hack will be th
 Consider the Ethereum DAO hack in its early days. [A hard fork was implemented](https://www.coindesk.com/consensus-magazine/2023/05/09/coindesk-turns-10-how-the-dao-hack-changed-ethereum-and-crypto/), allowing the developers to reclaim the stolen funds by rewriting the Ethereum ledger. This shows that blockchain technology can adapt to and recover from significant security breaches.
 
 Decisions made in blockchain can be reversed in the event of large-scale hacking. In fact, blockchain's inherent properties make it an ideal platform for reversible decision-making. For instance, if we were to hold low-stake 'mini-elections' every six months, the results could be reversed within that timeframe, minimizing the impact of any potential hacking. This level of accountability and reversibility is not possible with traditional systems, where election results are often set in stone for years to come. In contrast, first-past-the-post (FPTP) electoral systems, particularly those relying on electronic voting machines, are highly susceptible to manipulation and rigging, with irreversible consequences.
+
+### Why Blockchains Are Not Companies? Blockchains: Not Owned, Not Controlled, Not a Company
+
+One argument put forth is that we can't trust tech guys, and big tech companies can do more harm than good. However, blockchains don't fit this mold. They aren't companies, nor are they big tech corporations. Instead, they operate as a commons or public property, owned and maintained by the public at large.
+
+To understand the nature of blockchains, it's essential to learn about [free and open-source software](../programming/foss_philosophy.md). No single entity or individual owns a blockchain, not even the developer who created it. Once the developer loses `sudo` access to the blockchain, they have no control over it and cannot shut it down.
+
+In blockchain, the code is law, and all execution is based on the algorithm encoded in the blockchain itself. This decentralized and autonomous nature of blockchains is a key aspect of their design, which ensures that no single entity can manipulate or control the system.
