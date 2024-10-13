@@ -79,6 +79,12 @@ Desirable features for voters and for administrators who manage voting system:
 
 [Blockchain voting is overrated among uninformed people but underrated among informed people](https://vitalik.eth.limo/general/2021/05/25/voting2.html)
 
+### Simple Voting Machine on RISC Zero
+
+[A simple voting machine built on the RISC Zero platform](https://github.com/risc0/risc0/tree/main/examples/voting-machine) using zero knowledge proofs.
+
+This example is for educational purposes only. Not for use in actual elections.
+
 
 ### Blockchain beyond voting
 
