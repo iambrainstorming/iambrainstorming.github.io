@@ -82,6 +82,12 @@ Price discovery every day or weekly.
 
 [Details in the link.](https://amiyatulu.github.io/blog/shivarthu/consensus_price_discovery.html)
 
+## A better method that don't require KYC
+
+The problem lies in whether sufficient liquidity is available. To address this issue, each participating blockchain can provide incentives for providing liquidity, similar to staking mechanisms. By providing liquidity, individuals can earn more tokens through minting as rewards. This incentivizes the creation of a steady pool of liquidity.
+
+> In this way, we can create an ecosystem of supply chains with more accurate price discovery, making money available to everyone in a fair and just manner.
+
 ## Supply Chains
 
 **Different supply chains can be built with their own cryptocurrency.**
