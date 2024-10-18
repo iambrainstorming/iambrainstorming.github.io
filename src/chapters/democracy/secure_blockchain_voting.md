@@ -112,7 +112,7 @@ We can also create a low-stakes system by decentralizing various supply chains a
 #### Problem of high stake
 To add more nuances: Any electronic voting method, including blockchain, is a disaster in high-stakes elections where a single vote or a few votes can change the outcome of the election.
 
-Single-winner elections and First-Past-The-Post (FPTP) systems shouldn't be conducted using electronic voting systems or blockchain. Direct democracy work better with blockchain when all or most users (e.g. millions of representatives with specialization) participate in decision-making rather than a single or few representatives, where a decision can only be hacked when 51% of the computers are compromised.
+Single-winner elections and First-Past-The-Post (FPTP) systems shouldn't be conducted using electronic voting systems or blockchain. Direct democracy work better with blockchain because all or most users (e.g. millions of representatives with specialization) participate in decision-making rather than a single or few representatives, where a decision can only be hacked when 51% of the computers are compromised.
 
 ### The Resilience of Blockchain: Why Hacks Are Not the End of the World
 
