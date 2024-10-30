@@ -27,7 +27,7 @@ Examples of scholarly activities in the discovery category include:
 
 ### Integration: Synthesizing Knowledge
 
-Integration involves the synthesis of existing knowledge to create new perspectives, frameworks, or models. Scholars in this category engage in activities that combine different bodies of knowledge, identify patterns and relationships, and generate novel interpretations. This type of scholarly activity often results in the production of case studies, reports, or literature reviews.
+Integration involves the synthesis of existing knowledge to create new perspectives, frameworks, or models. Synthesizing knowledge refers to the process of combining and interpreting the findings of individual studies to provide a comprehensive understanding of a research question or topic. Scholars in this category engage in activities that combine different bodies of knowledge, identify patterns and relationships, and generate novel interpretations. This type of scholarly activity often results in the production of case studies, reports, or literature reviews.
 
 Examples of scholarly activities in the integration category include:
 
