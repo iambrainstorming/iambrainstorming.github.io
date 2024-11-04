@@ -67,6 +67,10 @@ Roof top solar panels have the potential to revolutionize the way we generate an
 
 The irony is that they want to [exert control over vast areas of land in Ladakh](https://scroll.in/article/1073644/in-ladakh-a-massive-energy-project-is-shrouded-in-mystery), while simultaneously failing to utilize or promote the widespread adoption of rooftop solar panels, which would decentralize power generation and transfer control from corporations and governments to the people - a scenario that seems to contradict their apparent desire for control.
 
+### Corporate Monopolies: A Threat to National Security
+
+Corporate monopolies pose threats to both national economic security and sovereignty, as they can wield immense control over essential resources and services. A recent example is the Adani Group, which reportedly [threatened to suspend power supply to Bangladesh](https://scroll.in/latest/1075198/adani-group-to-suspend-power-supply-to-bangladesh-if-dues-not-cleared-report) due to unpaid dues of around $850 million, even cutting the supply by half. Such actions highlight the vulnerabilities nations face when reliant on powerful corporate entities for critical infrastructure. To counteract this risk, decentralizing energy sources, such as installing solar panels on rooftops and maintaining community-based control, is essential. This approach not only reduces dependency on monopolistic corporations but also promotes energy resilience and self-sufficiency, strengthening the nation's ability to secure its own energy future.
+
 
 ## Zero electricity Bills
 
