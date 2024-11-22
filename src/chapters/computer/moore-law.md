@@ -16,7 +16,7 @@ The [end of Moore's Law is an inevitable reality that the semiconductor industry
 In the  past, each new chip tech wave has required roughly 10 to 20 billion dollars per factory. For major manufacturers like TSMC and Global Foundries, investing that much money has been tough.  For smaller companies, it’s been impossible. This is why fewer and fewer companies are left to  push forward with the miniaturization game. Back in 2001, 19 companies were manufacturing chips  with cutting-edge transistors. Fast forward to   today, and we’ve only got four left standing:  GlobalFoundries, Intel, Samsung, and TSMC.Those other 15 companies? They’ve made a strategic  shift to churn out older, so-called “legacy”   chips, that are still widely used but can be  produced more cost-effectively.
 
 
-## Hardware Time line
+## Hardware Timeline
 
 [List of semiconductor scale examples](https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples)
 
