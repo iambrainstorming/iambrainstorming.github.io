@@ -26,6 +26,8 @@ We attain intelligence through [experimentation and data](https://www.ibiology.o
 >
 > *[[The Era of Quantum Computing Is Here. Outlook: Cloudy](https://www.quantamagazine.org/the-era-of-quantum-computing-is-here-outlook-cloudy-20180124)]*
 
+[kyberlib: A Robust Rust Library for CRYSTALS-Kyber Post-Quantum Cryptography.](https://github.com/sebastienrousseau/kyberlib)
+
 Weather forecast still require huge amount of computation and data, AI can't predict weather by scratch.
 
 In the world of internet we can't know what is real and unreal, with emergence of deep fakes.
