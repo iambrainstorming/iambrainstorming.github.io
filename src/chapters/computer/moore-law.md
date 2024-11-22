@@ -14,3 +14,28 @@ The [end of Moore's Law is an inevitable reality that the semiconductor industry
 2023: 4 companies
 
 In the  past, each new chip tech wave has required roughly 10 to 20 billion dollars per factory. For major manufacturers like TSMC and Global Foundries, investing that much money has been tough.  For smaller companies, it’s been impossible. This is why fewer and fewer companies are left to  push forward with the miniaturization game. Back in 2001, 19 companies were manufacturing chips  with cutting-edge transistors. Fast forward to   today, and we’ve only got four left standing:  GlobalFoundries, Intel, Samsung, and TSMC.Those other 15 companies? They’ve made a strategic  shift to churn out older, so-called “legacy”   chips, that are still widely used but can be  produced more cost-effectively.
+
+
+## Hardware Time line
+
+[List of semiconductor scale examples](https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples)
+
+28 nm – 2010
+
+22 nm – 2012
+
+14 nm – 2014
+
+10 nm – 2016
+
+7 nm – 2018
+
+5 nm – 2020
+
+3 nm – 2022
+
+Future
+
+2 nm ~ 2025
+
+
