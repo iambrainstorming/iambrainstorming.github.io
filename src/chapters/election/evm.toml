@@ -125,3 +125,20 @@ context = """
 In many democratic countries that employ the First Past the Post (FPTP) electoral system, elections are often decided by a small number of votes. Candidates frequently win or lose by margins of a few hundred or even fewer votes. In such scenarios, manipulating even a single EVM in a constituency can have a substantial impact. If an EVM is rigged to favor a particular candidate, it could potentially swing the result in their favor, especially in tightly contested races.
 """
 id = "e263ddd2-7f06-46a9-a3c8-5003f6f86dac"
+
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Why is a paper ballot considered more secure than an Electronic Voting Machine (EVM) in terms of manipulation? Which of the statements is correct?
+"""
+prompt.distractors = [
+    "Paper ballots cannot be tampered with.",
+    "With paper ballots, poll hacking is not possible, whereas with EVMs, it is possible due to their digital nature.",
+    "Paper ballots can be destroyed, whereas EVMs are indestructible and resistant to fire and water",
+]
+answer.answer = "Evidence of paper ballot manipulation can be captured through CCTV or smartphone camera surveillance, while EVM manipulation occurs internally at the hardware and software levels, making it harder to detect."
+context = """
+Paper ballots allow for tangible evidence of manipulation, such as improper handling or ballot tampering, which can be documented through smartphone cameras, CCTV surveillance, or by physical inspection. This enables voters or observers to raise concerns and potentially call for a re-election. In contrast, EVMs operate digitally, and any manipulation within them typically involves hardware or software alterations inside the machine itself. This internal manipulation is not observable through external monitoring, making it much harder to detect and address potential fraud. Therefore, while both systems have vulnerabilities, paper ballots offer a transparent mechanism for identifying and addressing irregularities.
+"""
+id = ""
