@@ -83,7 +83,10 @@ When you protest against unemployment, and dictatorship (tanashahi nahi chalegi)
 
 ### Govt attack on climate activists
 
-[Disha Ravi’s Sedition Case Is Only Latest Without Evidence, Reason](https://www.article-14.com/post/disha-ravi-s-sedition-case-is-only-latest-without-evidence-reason)i
+[Disha Ravi’s Sedition Case Is Only Latest Without Evidence, Reason](https://www.article-14.com/post/disha-ravi-s-sedition-case-is-only-latest-without-evidence-reason)
+
+### Curfew when people protest peacefully against EVM
+[Maharashtra village plans a ‘re-election’ with ballot paper; police impose curfew](https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-village-plans-a-re-election-with-ballot-paper-police-impose-curfew/article68939405.ece)
 
 ## Militarization
 
