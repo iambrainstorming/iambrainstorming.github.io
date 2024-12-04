@@ -149,6 +149,10 @@ Fascist regimes may manipulate legal systems to legitimize their actions. They p
 
 [India court upholds Karnataka state’s ban on hijab in class](https://www.aljazeera.com/news/2022/3/15/india-court-upholds-karnataka-states-ban-on-hijab-in-class)
 
+[2024 Sambhal violence: On 24 November 2024, violence erupted during a court-ordered Archaeological Survey of India (ASI) survey of the Shahi Jama Masjid, a 500-year old mosque in Sambhal, protected by ASI, in the Indian state of Uttar Pradesh.](https://en.wikipedia.org/wiki/2024_Sambhal_violence)
+
+[The Supreme Court of India: Supreme Corruption Institution?](https://iambrainstorming.github.io/opinionated_observer/justice/supreme-court-corruption.html)
+
 ### The Indian Legal system
 
 [The Atlantic Article: “Today the court seems to be aiding, not arresting, India’s descent into authoritarianism](https://www.theatlantic.com/international/archive/2024/02/what-has-happened-rule-law-india/677337/)\
