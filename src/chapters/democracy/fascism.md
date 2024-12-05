@@ -88,6 +88,16 @@ When you protest against unemployment, and dictatorship (tanashahi nahi chalegi)
 ### Curfew when people protest peacefully against EVM
 [Maharashtra village plans a ‘re-election’ with ballot paper; police impose curfew](https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-village-plans-a-re-election-with-ballot-paper-police-impose-curfew/article68939405.ece)
 
+### State terrorism those who distrust evm
+
+<video controls width="500">
+    <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiauxrpwmv2lhvxsp65bknxbdpmsg73fbdjsnuoww5tjuegyk3bcym" type="video/mp4">
+    <!-- Add additional source elements for different video formats if needed -->
+    Your browser does not support the video tag.
+</video>
+
+[Video link](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiauxrpwmv2lhvxsp65bknxbdpmsg73fbdjsnuoww5tjuegyk3bcym)
+
 ## Militarization
 
 Fascist governments tend to heavily emphasize militarism and the expansion of their armed forces. This not only serves to strengthen their control over the population but also can be used to justify aggressive foreign policies and territorial expansion.
