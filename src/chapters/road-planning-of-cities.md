@@ -25,6 +25,41 @@ categories:
 > 
 > However, the presence of a cycle lane in the median poses a challenge when cyclists need to exit the lane to reach destinations such as markets or homes. To mitigate this issue, it is essential to construct suitable traffic signals and bridges that facilitate safe transitions for cyclists.
 
+
+### Few Problems and the Feasibility of Median Lanes vs. Side Lanes for Cycle Tracks
+
+#### 1. Conflict with Hawking Zones
+- If you provide dedicated hawking zones, there is a possibility that a customer might get distracted—say, enjoying the spice of a snack like Panipuri—and unintentionally step into the cycle corridor.  
+- While educating hawkers about the importance of keeping cycle lanes clear is possible, it is impractical to educate every customer not to stray into the lane. How can such conflicts be minimized?
+
+#### 2. On-Street Parking Hazards
+- On-street parking presents a risk: car users exiting their vehicles might inadvertently open doors into the path of cyclists, creating potential accidents.  
+- How does the design of cycle lanes address this hazard and ensure the safety of cyclists in such situations?
+
+#### 3. Shade and Retail Visibility Conflict
+- Segregated and dedicated cycle lanes alone are insufficient; shaded lanes are critical for usability, especially in hot climates.  
+- However, adding trees for shade might obstruct the visibility of retail outlets, leading to resistance from shopkeepers concerned about their livelihood.  
+- How can urban planners balance the need for shaded cycling lanes with the economic concerns of shopkeepers?
+
+#### 4. Challenges from Continuous Road Development
+- In India, the left side of roads is frequently dug up for utility work—electricity, water, or telecom installations—causing repeated disruptions.  
+- Median roads, in contrast, are rarely affected unless a major construction like a flyover is underway.  
+
+### Proposal: Median Cycle Lanes
+- Cycle lanes positioned at the road median may be a better solution to address these conflicts.  
+- Median lanes minimize disruptions from hawking zones, on-street parking conflicts, and ongoing utility work.  
+- To provide access to side zones, well-designed intersections or crossing points can be included.  
+
+Would this approach mitigate these challenges effectively?
+
+<video controls width="500">
+    <source src="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeielwy4dwhok3wjp5anrf3oaps47tilthie6depxnfpu5wm2r4oj4i" type="video/mp4">
+    <!-- Add additional source elements for different video formats if needed -->
+    Your browser does not support the video tag.
+  </video>
+
+[Video Link](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeielwy4dwhok3wjp5anrf3oaps47tilthie6depxnfpu5wm2r4oj4i)
+
 ## Cycle lanes on the sides and unauthorized parking
 
 ![Cycle lane on side](./images/cycle-lane-on-side-1.png)
