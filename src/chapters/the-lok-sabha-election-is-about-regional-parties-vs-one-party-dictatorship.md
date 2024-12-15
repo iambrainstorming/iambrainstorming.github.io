@@ -9,6 +9,12 @@ categories:
 
 ### Quiz
 
+## Interactive Quiz Link:
+
+You can use the quiz to spread awareness about EVM and test your knowledge of how much you know about EVM.
+
+[Click on the link](https://interactive.on-fleek.app/evm)
+
 #### Quiz for Indian election and EVM
 
 {{#quiz election/evm.toml}}
