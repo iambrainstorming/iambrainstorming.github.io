@@ -98,13 +98,13 @@ Avrit protocol has its own cryptocurrency token with robust token economics and 
 
 ## Is it experimental or lack evidence?
 
-Self-managed organizations are not experimental. You can go through the book about teal organizations in the book ([Link](https://cloudflare-ipfs.com/ipfs/bafykbzacecfk7ruyr2cyk4px5o4op6tzdfnkwfzah3t5drrwxrftznfahhn3c?filename=Laloux%2C%20Frederic%20-%20Reinventing%20Organizations_%20A%20Guide%20to%20Creating%20Organizations%20Inspired%20by%20the%20Next%20Stage%20of%20Human%20Consciousness-Nelson%20Parker%20%282014%29.epub)) for more details. 
+Self-managed organizations are not experimental. You can go through the book about teal organizations in the book ([Link](https://getfiles.4everland.link/ipfs/bafybeig42esblqefhpyf4ozx5uhwl7nosxaddrvih274zpttgev7xoplxu?filename=Laloux%2C%20Frederic%20-%20Reinventing%20Organizations_%20A%20Guide%20to%20Creating%20Organizations%20Inspired%20by%20the%20Next%20Stage%20of%20Human%20Consciousness-Nelson%20Parker%20%282014%29.epub)) for more details. 
 
 "The Avrit protocol is based on already existing evidence. The platform can also help in running experiments and demonstrating its validation. It's still in active development, and there is always scope for improvement. Designing governance in blockchain has its own challenges. One needs to codify the governance design into a computer program so that it can be scaled.
 
 ## Does it mean deregulation of the education system?
 
-It will limit the power of centralized governments and bureaucracy. Being on crypto or blockchain doesn't mean there are no rules and regulations. It will function under the purview of [decentralized governance](./what-will-a-boycott-of-the-national-currency-give-us.md) and rules of the smart contract.
+It will limit the power of centralized governments and bureaucracy. Being on crypto or blockchain doesn't mean there are no rules and regulations. It will function under the purview of [decentralized governance](./chapters/what-would-we-gain-from-eliminating-national-fiat-currency.md) and rules of the smart contract.
 
 ## Is India a homeschooling country?
 
@@ -152,6 +152,10 @@ The concern that homeschooling might lead to a lack of socialization often stems
 #### Volunteering and Community Service:  
    Many homeschoolers engage in community service projects, such as volunteering at animal shelters, food banks, or environmental cleanup efforts. These activities provide valuable lessons in empathy and social responsibility while fostering connections with others.
 
+
+## Socialization in Indian Schools
+
+In India, it’s actually the opposite—school-going students often lack the socialization they need due to the immense pressure to achieve high marks. Most schools allocate only one game period per week, leaving little opportunity for the playtime essential for their development. Students spend the majority of their time memorizing content and attending lectures, one after another, with hardly any breaks. Neither teachers nor children are given the rest they deserve, leading to a monotonous and overly stressful routine.
 
 
 
