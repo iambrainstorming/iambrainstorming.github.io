@@ -98,13 +98,13 @@ Avrit protocol has its own cryptocurrency token with robust token economics and 
 
 ## Is it experimental or lack evidence?
 
-Self-managed organizations are not experimental. You can go through the book about teal organizations in the book ([Link](https://getfiles.4everland.link/ipfs/bafybeig42esblqefhpyf4ozx5uhwl7nosxaddrvih274zpttgev7xoplxu?filename=Laloux%2C%20Frederic%20-%20Reinventing%20Organizations_%20A%20Guide%20to%20Creating%20Organizations%20Inspired%20by%20the%20Next%20Stage%20of%20Human%20Consciousness-Nelson%20Parker%20%282014%29.epub)) for more details. 
+Self-managed organizations are not experimental. You can go through the book about teal organizations in the book ([Link](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeig42esblqefhpyf4ozx5uhwl7nosxaddrvih274zpttgev7xoplxu?filename=Laloux%2C%20Frederic%20-%20Reinventing%20Organizations_%20A%20Guide%20to%20Creating%20Organizations%20Inspired%20by%20the%20Next%20Stage%20of%20Human%20Consciousness-Nelson%20Parker%20%282014%29.epub)) for more details. 
 
 "The Avrit protocol is based on already existing evidence. The platform can also help in running experiments and demonstrating its validation. It's still in active development, and there is always scope for improvement. Designing governance in blockchain has its own challenges. One needs to codify the governance design into a computer program so that it can be scaled.
 
 ## Does it mean deregulation of the education system?
 
-It will limit the power of centralized governments and bureaucracy. Being on crypto or blockchain doesn't mean there are no rules and regulations. It will function under the purview of [decentralized governance](./chapters/what-would-we-gain-from-eliminating-national-fiat-currency.md) and rules of the smart contract.
+It will limit the power of centralized governments and bureaucracy. Being on crypto or blockchain doesn't mean there are no rules and regulations. It will function under the purview of [decentralized governance](../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.md) and rules of the smart contract.
 
 ## Is India a homeschooling country?
 
@@ -187,5 +187,48 @@ As a tuition teacher for few years with a unique professional background in inte
 Managing and coordinating such a labor force adds another layer of complexity to the challenge of scaling education. It is important to acknowledge that addressing these challenges requires a multi-faceted approach involving technological innovation, financial resources, and the active participation of educators and stakeholders.
 
 The goal is to start small, with a few teachers at the table, and establish a suitable governance model built on smart contracts. We will iterate, improve, and scale as we go. Experiments in education tend to take longer, as learning is a years-long process. Completing a single book or course can take several months or even years of time.
+
+## Homeschooling means flexibility
+
+Homeschooling offers unparalleled flexibility, both in terms of subjects and timing, allowing children to learn at their own pace without the pressure often associated with traditional schooling. Unlike conventional schools, where students are bound by rigid schedules and standardized curricula, homeschooling enables families to choose from a wide range of high-quality online resources. This approach allows for the use of effective learning strategies, such as pairing graphics with words to enhance understanding or linking abstract concepts with concrete representations to make ideas more tangible. By integrating these methods, children can engage with material in a way that deepens comprehension and retention, all while avoiding the stress of high-stakes exams and rigid timetables.
+
+For homeschooling to be truly effective, however, it requires a shift in the role of teachers and the support systems around them. Instead of acting as the primary source of knowledge, teachers must evolve into mentors and guides. With the advent of technology and AI, the traditional model of transferring information from teacher to student is becoming obsolete. What children need now are educators who can employ strategies like posing probing questions to stimulate critical thinking or repeatedly alternating between problems with provided solutions and problems that students must solve independently. These techniques encourage active engagement and help students develop problem-solving skills. Teachers should act as co-learners, walking alongside students, offering guidance, and helping them navigate challenges, while providing the structure needed to keep them on track.
+
+To support this new role for teachers, decentralized governance and proper training are essential. Teachers need access to resources, professional development, and a network of support to effectively mentor homeschooled students. Decentralized systems can empower local communities to tailor educational approaches to their specific needs, ensuring that teachers have the tools and flexibility to adapt to each child’s learning journey. By reimagining the role of educators and investing in their training, we can create a homeschooling ecosystem that combines the best of technology, mentorship, and effective learning strategies, ultimately preparing children for a rapidly changing world.
+
+## Are you scared of the certificate? Is NIOS Equivalent to CBSE or ICSE?
+
+If you are scared of certificates, you can opt for NIOS. The curriculum is not that heavy, and children can pass it in less than a year if their foundation is made strong during childhood with a [rigorous international standard curriculum](../chapters/education/books-recommendation.md).
+
+The **National Institute of Open Schooling (NIOS)** is equivalent to other national boards like **CBSE (Central Board of Secondary Education)** and **ICSE (Indian Certificate of Secondary Education)** in terms of recognition, but there are some key differences:
+
+### **Similarities**
+1. **Recognition**:
+   - NIOS is recognized by the Government of India and holds the same value as CBSE and ICSE for admissions into colleges, universities, and competitive exams.
+   - Certificates issued by NIOS are valid for jobs, higher studies, and public/private sector employment.
+
+2. **Syllabus**:
+   - NIOS covers a similar syllabus in many subjects compared to CBSE and ICSE but allows for greater flexibility.
+
+3. **Examinations**:
+   - NIOS offers education up to the secondary (Class 10) and senior secondary (Class 12) levels, just like CBSE and ICSE.
+
+---
+
+### **Differences**
+1. **Mode of Learning**:
+   - CBSE and ICSE follow a classroom-based, structured school system.
+   - NIOS is an open schooling system designed for students who cannot attend regular schools. It provides flexibility in learning schedules.
+
+2. **Flexibility**:
+   - NIOS allows students to choose subjects, set their pace, and decide when to take exams, offering more flexibility compared to CBSE and ICSE.
+
+3. **Difficulty Level**:
+   - ICSE is considered more comprehensive and academically rigorous than CBSE, whereas NIOS is seen as more lenient and flexible in terms of curriculum and grading.
+
+---
+
+### **Conclusion**
+While NIOS is equivalent to CBSE and ICSE in terms of recognition and acceptance, it is better suited for students who need flexibility due to personal, professional, or other reasons.
 
 
