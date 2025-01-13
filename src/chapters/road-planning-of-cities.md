@@ -228,3 +228,56 @@ Car-centric infrastructure, such as broad roads and flyovers, demands extensive 
 In the long run, car-centric infrastructure fails to solve the traffic problem and can exacerbate other issues. The vast expanses of concrete impede water percolation, leading to flooding during heavy rainfall. Additionally, this infrastructure primarily benefits car owners, who predominantly belong to the higher-income bracket, while neglecting the needs of the majority of the population.
 
 A more sustainable and equitable approach to transportation infrastructure would be to invest in public transport systems, such as efficient and affordable buses, trains, and metro systems. By doing so, the government can provide a reliable, cost-effective, and environmentally-friendly means of transportation for all citizens. This would not only alleviate traffic congestion but also contribute to a cleaner and healthier urban environment.
+
+## Metro Trains vs. Buses: Where Should Government Invest for Better Urban Mobility?
+
+
+#### How Indian Cities Failed Public Transport | A Quint Deep Dive
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JkNLUZa5INk?si=NbjS8SAGzd3Pc0J7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The hesitance to adopt metro systems in many Indian cities can be attributed to several intertwined factors:
+
+#### Short Trip Distances
+
+The majority of commutes in Indian cities are under 10 km. For such distances, using a metro, which often involves multiple mode changes (e.g., taking an auto or bus to and from metro stations), becomes cumbersome.
+
+For trips shorter than 15 km, the time and energy saved by the metro don't outweigh the convenience of direct door-to-door options like bikes, autos, or personal vehicles.
+
+#### First and Last Mile Connectivity Issues
+
+Commuters often face challenges in reaching the metro station and then traveling from the station to their final destination.
+
+This adds extra time, cost, and effort, reducing the attractiveness of using the metro.
+
+#### Radial and Distributed Urban Layouts
+
+Unlike linear cities like Mumbai, which have concentrated travel corridors, most Indian cities have a radial and distributed structure.
+
+This results in diverse travel patterns, with people commuting in various directions over shorter distances, making metro systems less efficient.
+
+#### Preference for Private Vehicles
+
+Rising incomes and an aspirational middle class have fueled private vehicle ownership. Cars and two-wheelers offer unmatched convenience and flexibility for short commutes.
+
+Congestion exacerbates the problem, as even though roads are crowded, the number of passengers per vehicle remains low.
+
+#### Metro's Limited Applicability
+
+Metro systems excel in scenarios with long trip distances (15 km or more) and extremely high demand corridors (20,000–30,000 commuters in one direction during peak hours).
+
+For cities with low trip distances and dispersed demand, metros aren't the optimal solution.
+
+#### Public Transport Decline
+
+Historically, many Indian cities had robust bus networks and other public transport systems. Over time, the rise of private vehicles and lack of investment in public transport infrastructure led to its decline.
+
+As cities grew, public transport options failed to keep pace, pushing commuters towards personal vehicles.
+
+#### Perceived Complexity
+
+For many, the thought of switching between multiple modes—autos, metros, buses, and walking—is seen as time-consuming and exhausting compared to the simplicity of direct modes like personal vehicles or app-based bike rides.
+
+#### Cost vs. Value
+
+While metro rides might seem cost-effective, the overall journey cost increases when first and last-mile expenses are added. This, coupled with the effort involved, makes alternatives more appealing.
