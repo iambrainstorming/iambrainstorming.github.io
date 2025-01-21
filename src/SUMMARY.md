@@ -24,6 +24,8 @@
   - [Shivarthu: A governance Protocol](./chapters/shivarthu/Shivarthu.md)
   - [The Competitive Collaboration Algorithm](./chapters/democracy/competitive_collaboration.md)
   - [Secure Blockchain Voting](./chapters/democracy/secure_blockchain_voting.md)
+  - [Shift in Capitalistic Culture: From Independence to Corporate Dependency](./chapters/capitalism/capitalistic_culture.md)
+
 
 # Economics
 - [Why income inequality exits? Yard-Sale-Model](./chapters/economics/yard-sale-model.md)
