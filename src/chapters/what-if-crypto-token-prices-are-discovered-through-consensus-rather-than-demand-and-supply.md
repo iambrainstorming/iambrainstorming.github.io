@@ -30,8 +30,7 @@ Can we discover prices through consensus and using human rationality rather than
 The score schelling game can assist in determining cryptocurrency prices in decentralized exchanges by consensus and human reason.
 
 The algorithm is provided in the following link:
-
-[https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#price-discovery-of-projects-through-score-schelling-game](https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#price-discovery-of-projects-through-score-schelling-game)
+[Score schelling game](./shivarthu/Shivarthu.md#price-discovery-of-positive-externality-through-score-schelling-game)
 
 But setting an exchange using score schelling game is not without challenges. One of the problem is arbitrage. If the AMM price is lower than the market price, then people will drain all the liquidity and sell it at a higher price in the market. The solution can be the ability to withdraw after a month or have a KYC so that you can't withdraw tokens after certain limits.
 Similarly, if the demand and utility of the token are more and the price is set lower, it can create a shortage, and more people will not be benefited, so, prices need to be increased through consensus.
@@ -95,6 +94,8 @@ Some work thats already done on prediction market:
 [Docs](https://docs.zeitgeist.pm/docs/category/learn)
 
 ## Prototype code:
+
+[Code](https://github.com/reaudito/uniswap-tax)
 
 A * B = constant_product
 
