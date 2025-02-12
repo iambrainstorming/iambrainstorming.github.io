@@ -1162,6 +1162,13 @@ Why can't they provide the data on a hard disk?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDrhK7TIdDo?si=Dr0JF2mOlhwGEl1f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Automated counting of VVPAT
+
+If parties find it too hard to bring paper ballots, they may request a 100% automated counting of VVPAT slips, with the slips handed to voters and placed in the ballot box. Automated counting through OCR is possible, and with parallel counting, it can be completed in a few hours.
+
+Such a request is even more effective, as opponents will have no argument to make. The purpose of VVPAT is for counting and matching with the EVM results, right? So why aren't they counting it? Just make the paper slips compatible with OCR machines so they can be counted through them.
+
+
 ### Give missed call to 9667722062 to Ban EVM
 
 If you want to support Ban EVM Movement... Just give Miss Call- 9667722062- Adv. Rajendra Pal Gautam
