@@ -281,3 +281,27 @@ For many, the thought of switching between multiple modes—autos, metros, buses
 #### Cost vs. Value
 
 While metro rides might seem cost-effective, the overall journey cost increases when first and last-mile expenses are added. This, coupled with the effort involved, makes alternatives more appealing.
+
+## Congestion pricing is a novel idea to fix traffic and encourage people to use public transport.
+
+
+**Congestion pricing** is a system that charges drivers a fee for using certain roads during peak times. The goal is to reduce traffic congestion, improve air quality, and encourage the use of public transportation. 
+
+[What Is Congestion Pricing?](https://www.nrdc.org/stories/what-is-congestion-pricing)
+
+Here are some key benefits:  
+1. **Reduced Traffic Congestion:** By charging drivers during peak hours, congestion pricing encourages people to travel at off-peak times or use alternative modes of transportation. This leads to faster travel times and less gridlock.  
+
+2. **Improved Air Quality and Public Health:** Reduced traffic lowers emissions of pollutants like nitrogen oxide and particulate matter. For example, in London, congestion pricing cut nitrogen oxide emissions by 13.5% and particulate matter by 15.5% in its first year, leading to better air quality and longer life expectancy. In Stockholm, childhood asthma hospital visits were nearly halved due to cleaner air.  
+
+3. **Economic and Social Equity:** Lower-income households, especially those near highways, are disproportionately affected by pollution-related health issues like asthma. Reducing traffic and emissions can improve health outcomes in these communities.  
+
+4. **More Profitable and Efficient Public Transport:** Reduced road congestion leads to faster and more reliable public transportation. The increased demand for public transit can make it more profitable, allowing for reinvestment in better services and infrastructure.  
+
+5. **Revenue Generation for Infrastructure:** The funds collected from congestion pricing can be used to improve public transportation, maintain roads, and invest in sustainable urban infrastructure.  
+
+In New York, congestion pricing is expected to deliver these benefits while also addressing health disparities in low-income neighborhoods, improving the overall quality of life.
+
+![Congestion Tax](roadplan/congestion-tax-3.png)
+
+![Congestion Tax](roadplan/congestion-tax-4.png)
