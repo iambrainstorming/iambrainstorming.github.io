@@ -77,6 +77,7 @@
 - [Understanding feedback loop](./chapters/philosophy/understanding_feedback_loop.md)
 - [Important fallacies, paradox and biases](./chapters/reasoning/fallacies.md)
 - [Open Source or Free Software or FOSS Philosophy](./chapters/programming/foss_philosophy.md)
+- [Fostering Responsibility in the Digital Age through Free and Open-Source Software](./chapters/philosophy/teach-about-foss.md)
 - [Modern-Day Bread and Circus](./chapters/philosophy/bread_and_circus.md)
 - [Key points – How to know who’s trustworthy](./chapters/philosophy/how_to_know_who_trustworthy.md)
 - [Grit: The power of passion and perseverance](./chapters/academics/grit.md)
