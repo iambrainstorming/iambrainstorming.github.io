@@ -13,6 +13,8 @@ Proprietary software, also called nonfree software, means software that doesn't 
 
 Power corrupts; the proprietary program's developer is tempted to design the program to mistreat its users. (Software designed to function in a way that mistreats the user is called malware.) Of course, the developer usually does not do this out of malice, but rather to profit more at the users' expense. That does not make it any less nasty or more legitimate.
 
+[Foss Philosophy](../programming/foss_philosophy.md)
+
 
 ## Building a Secure and Ethical Digital Toolkit
 
@@ -36,7 +38,6 @@ Linux, with distributions like [Ubuntu](https://ubuntu.com/), offers a robust, s
 ## Messaging: Secure and Sovereign Communication
 
 [Signal](https://signal.org/) and [Element](https://element.io/features) provide secure, end-to-end encrypted messaging services. Element, with its federated architecture, allows users to host their own servers, ensuring sovereignty over their communication.
-
 
 ## Artificial Intelligence: Ethical AI with Hugging Face
 
