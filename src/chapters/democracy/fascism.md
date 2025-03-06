@@ -98,6 +98,12 @@ When you protest against unemployment, and dictatorship (tanashahi nahi chalegi)
 
 [Video link](https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeiauxrpwmv2lhvxsp65bknxbdpmsg73fbdjsnuoww5tjuegyk3bcym)
 
+### Hiding Data and building Surveillance State
+
+Our government is trying its best to hide information by introducing bills like the [Digital Personal Data Protection Act (DPDP Act)](https://filestorage.4everland.store/RTI-DPDP.mp4) to dilute the RTI and control online media by tabling bills like the [Broadcast Bill](https://iambrainstorming.github.io/opinionated_observer/information/broadcast_bill.html). Or amending income tax laws to transform India into a surveillance state, infringing on your right to privacy by [enabling the scrutiny of every person’s social media accounts, personal emails, bank accounts, online investment accounts, trading accounts](https://thewire.in/government/income-tax-officials-will-be-able-to-access-your-emails-and-social-media-accounts-from-april-2026), and more.
+
+
+
 ## Militarization
 
 Fascist governments tend to heavily emphasize militarism and the expansion of their armed forces. This not only serves to strengthen their control over the population but also can be used to justify aggressive foreign policies and territorial expansion.
