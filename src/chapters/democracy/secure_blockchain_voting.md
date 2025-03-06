@@ -129,3 +129,8 @@ One argument put forth is that we can't trust tech guys, and big tech companies 
 To understand the nature of blockchains, it's essential to learn about [free and open-source software](../programming/foss_philosophy.md). No single entity or individual owns a blockchain, not even the developer who created it. Once the developer loses `sudo` access to the blockchain, they have no control over it and cannot shut it down.
 
 In blockchain, the code is law, and all execution is based on the algorithm encoded in the blockchain itself. This decentralized and autonomous nature of blockchains is a key aspect of their design, which ensures that no single entity can manipulate or control the system.
+
+
+### Sometimes KYC can be inaccurate, but do we need 100% accuracy in blockchain?
+
+Inaccurate KYC is also rampant in today's elections. Furthermore, only 50-60% of voters actually vote. With better voting methods like Approval Voting and multi-winner voting methods, 70-80% KYC accuracy could be sufficient. In a decentralized system, power doesn’t reside with a few, so some inaccuracy in KYC votes would hardly matter. Additionally, governance can be designed to remove inaccurate KYC if detected.
