@@ -1,0 +1,388 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma - I am brainstorming</title>
+
+
+    <!-- Custom HTML head -->
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="icon" href="../../favicon.svg">
+    <link rel="shortcut icon" href="../../favicon.png">
+    <link rel="stylesheet" href="../../css/variables.css">
+    <link rel="stylesheet" href="../../css/general.css">
+    <link rel="stylesheet" href="../../css/chrome.css">
+    <link rel="stylesheet" href="../../css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="../../fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="../../highlight.css">
+    <link rel="stylesheet" href="../../tomorrow-night.css">
+    <link rel="stylesheet" href="../../ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+
+    <!-- MathJax -->
+    <script async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-537XSSGF4P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-537XSSGF4P');
+</script>
+
+</head>
+
+<body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Democracy and supply chain</li><li class="chapter-item expanded "><a href="../../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.html"><strong aria-hidden="true">1.</strong> Manifesto: What would we gain from eliminating the national fiat currency?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html"><strong aria-hidden="true">1.1.</strong> Price discovery of decentralized supply chain</a></li><li class="chapter-item expanded "><a href="../../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html"><strong aria-hidden="true">1.2.</strong> What do we need to decentralize in the coming years?</a></li><li class="chapter-item expanded "><a href="../../chapters/relationships-emotions-and-happiness.html"><strong aria-hidden="true">1.3.</strong> Emotion and empathy rather than materialism</a></li><li class="chapter-item expanded "><a href="../../chapters/education_system.html"><strong aria-hidden="true">1.4.</strong> Decentralized education system</a></li><li class="chapter-item expanded "><a href="../../chapters/rethinking-work-culture.html"><strong aria-hidden="true">1.5.</strong> Remote jobs or work from home with less working hours</a></li><li class="chapter-item expanded "><a href="../../chapters/invest_on_renewables.html"><strong aria-hidden="true">1.6.</strong> Clean energy like roof top solar and wind energy</a></li><li class="chapter-item expanded "><a href="../../chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.html"><strong aria-hidden="true">1.7.</strong> Banning single use plastic</a></li><li class="chapter-item expanded "><a href="../../chapters/building-better-cities.html"><strong aria-hidden="true">1.8.</strong> Sustainable housing design</a></li><li class="chapter-item expanded "><a href="../../chapters/broadband_share/broadband_share_idea.html"><strong aria-hidden="true">1.9.</strong> Decentralized Wifi</a></li><li class="chapter-item expanded "><a href="../../chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.html"><strong aria-hidden="true">1.10.</strong> Decentralized house building</a></li><li class="chapter-item expanded "><a href="../../chapters/road-planning-of-cities.html"><strong aria-hidden="true">1.11.</strong> Car-free cities</a></li><li class="chapter-item expanded "><a href="../../chapters/public_transport/comfortable_public_transport.html"><strong aria-hidden="true">1.12.</strong> How Can We Make Public Transport More Comfortable for People?</a></li><li class="chapter-item expanded "><a href="../../chapters/city-planning/rain_water_harvesting.html"><strong aria-hidden="true">1.13.</strong> City Planning: Rain Water Harvesting</a></li><li class="chapter-item expanded "><a href="../../chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html"><strong aria-hidden="true">1.14.</strong> Decentralizing Supermarkets Through Public Ownership and Control</a></li><li class="chapter-item expanded "><a href="../../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html"><strong aria-hidden="true">1.15.</strong> Love for USD pegged stable coin by the crypto community must end</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/tyranny_of_the_majority.html" class="active"><strong aria-hidden="true">1.16.</strong> Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/simple_majority_and_super_majority.html"><strong aria-hidden="true">1.17.</strong> Simple Majority vs Super Majority</a></li><li class="chapter-item expanded "><a href="../../chapters/capitalism-vs-socialism-which-one-is-working.html"><strong aria-hidden="true">1.18.</strong> Socialism vs Capitalism</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/dismissing_return.html"><strong aria-hidden="true">1.19.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../../chapters/shivarthu/Shivarthu.html"><strong aria-hidden="true">1.20.</strong> Shivarthu: A governance Protocol</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/competitive_collaboration.html"><strong aria-hidden="true">1.21.</strong> The Competitive Collaboration Algorithm</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/secure_blockchain_voting.html"><strong aria-hidden="true">1.22.</strong> Secure Blockchain Voting</a></li><li class="chapter-item expanded "><a href="../../chapters/capitalism/capitalistic_culture.html"><strong aria-hidden="true">1.23.</strong> Shift in Capitalistic Culture: From Independence to Corporate Dependency</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Economics</li><li class="chapter-item expanded "><a href="../../chapters/economics/yard-sale-model.html"><strong aria-hidden="true">2.</strong> Why income inequality exits? Yard-Sale-Model</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/dismissing_return.html"><strong aria-hidden="true">3.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/price_controls.html"><strong aria-hidden="true">4.</strong> Price Controls</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/tax_collection_simulation.html"><strong aria-hidden="true">5.</strong> A simplified tax simulation for poverty alleviation</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/what_is_govt.html"><strong aria-hidden="true">6.</strong> Government’s Monopoly on Money and Violence: A Double-Edged Sword</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/are-tariffs-good.html"><strong aria-hidden="true">7.</strong> Do not reduce the tariff without ensuring technology transfer</a></li><li class="chapter-item expanded affix "><li class="part-title">Democracy</li><li class="chapter-item expanded "><a href="../../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html"><strong aria-hidden="true">8.</strong> Do we need a supreme leader? How can we share power between parties?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">8.1.</strong> How EVM works and Why it should be banned to save the democracy</a></li><li class="chapter-item expanded "><a href="../../chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.html"><strong aria-hidden="true">8.2.</strong> Open-list proportional representation vs. Mixed-member proportional representation</a></li><li class="chapter-item expanded "><a href="../../chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.html"><strong aria-hidden="true">8.3.</strong> Parliamentary or Presidential form of government? What's in the name?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/govt_controlling_information.html"><strong aria-hidden="true">8.4.</strong> How to share information under fascism or dictatorship?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/fascism.html"><strong aria-hidden="true">8.5.</strong> What a fascist government does?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/hinduism.html"><strong aria-hidden="true">8.6.</strong> Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/fascism_power.html"><strong aria-hidden="true">8.7.</strong> Necessary sources of political power by dictator</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/free-and-fair-election.html"><strong aria-hidden="true">8.8.</strong> What is free and fair elections?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/pmla.html"><strong aria-hidden="true">8.9.</strong> Draconian and unconstitutional PMLA and UAPA provisions</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/upholding-justice.html"><strong aria-hidden="true">8.10.</strong> Upholding the Justice</a></li><li class="chapter-item expanded "><a href="../../chapters/election-science/election-science.html"><strong aria-hidden="true">8.11.</strong> Election Science</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Cooperation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">9.</strong> Cooperation for common good</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/how-to-tackle-disinformation.html"><strong aria-hidden="true">9.1.</strong> How to tackle disinformation?</a></li><li class="chapter-item expanded "><a href="../../chapters/cooperation/cooperation-secrets.html"><strong aria-hidden="true">9.2.</strong> Secrets of Cooperation</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Education</li><li class="chapter-item expanded "><a href="../../chapters/education/features-of-good-books-or-curriculum.html"><strong aria-hidden="true">10.</strong> Features of good books or curriculum</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/smartphones-evil-device.html"><strong aria-hidden="true">11.</strong> Smartphones: An Evil Device Stealing Children's Childhood</a></li><li class="chapter-item expanded "><a href="../../chapters/education/books-recommendation.html"><strong aria-hidden="true">12.</strong> Curriculum Recommendation</a></li><li class="chapter-item expanded "><a href="../../chapters/education/beyond_numbers.html"><strong aria-hidden="true">13.</strong> Beyond the Numbers: The Complexities of Assessment</a></li><li class="chapter-item expanded "><a href="../../chapters/education/dystopian_school.html"><strong aria-hidden="true">14.</strong> A dystopian school: what does it look like?</a></li><li class="chapter-item expanded affix "><li class="part-title">AI/ Machine Learning</li><li class="chapter-item expanded "><a href="../../chapters/do-we-have-to-fear-machine-learning-or-ai.html"><strong aria-hidden="true">15.</strong> Do we have to fear machine learning or AI?</a></li><li class="chapter-item expanded affix "><li class="part-title">Philosophy</li><li class="chapter-item expanded "><a href="../../chapters/understanding-free-will-and-how-it-can-impact-our-behavior.html"><strong aria-hidden="true">16.</strong> Understanding free will and how it can impact our behavior</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/understanding_feedback_loop.html"><strong aria-hidden="true">17.</strong> Understanding feedback loop</a></li><li class="chapter-item expanded "><a href="../../chapters/reasoning/fallacies.html"><strong aria-hidden="true">18.</strong> Important fallacies, paradox and biases</a></li><li class="chapter-item expanded "><a href="../../chapters/programming/foss_philosophy.html"><strong aria-hidden="true">19.</strong> Open Source or Free Software or FOSS Philosophy</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/teach-about-foss.html"><strong aria-hidden="true">20.</strong> Fostering Responsibility in the Digital Age through Free and Open-Source Software</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/bread_and_circus.html"><strong aria-hidden="true">21.</strong> Modern-Day Bread and Circus</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/how_to_know_who_trustworthy.html"><strong aria-hidden="true">22.</strong> Key points – How to know who’s trustworthy</a></li><li class="chapter-item expanded "><a href="../../chapters/academics/grit.html"><strong aria-hidden="true">23.</strong> Grit: The power of passion and perseverance</a></li><li class="chapter-item expanded affix "><li class="part-title">India Employment</li><li class="chapter-item expanded "><a href="../../data/india_employment_data.html"><strong aria-hidden="true">24.</strong> India Employment Data</a></li><li class="chapter-item expanded affix "><li class="part-title">Programming</li><li class="chapter-item expanded "><a href="../../chapters/programming/debugging_time.html"><strong aria-hidden="true">25.</strong> A Glimpse into a Coder's Experience</a></li><li class="chapter-item expanded "><a href="../../chapters/programming/interdisciplinary.html"><strong aria-hidden="true">26.</strong> The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education</a></li><li class="chapter-item expanded affix "><li class="part-title">Computer</li><li class="chapter-item expanded "><a href="../../chapters/computer/moore-law.html"><strong aria-hidden="true">27.</strong> Is Moore's Law Finally Dead?</a></li><li class="chapter-item expanded affix "><li class="part-title">Science</li><li class="chapter-item expanded "><a href="../../chapters/reasoning/pseudoscience.html"><strong aria-hidden="true">28.</strong> Pseudoscience</a></li><li class="chapter-item expanded "><a href="../../chapters/academics/academician.html"><strong aria-hidden="true">29.</strong> What are Scholarly Activities?</a></li><li class="chapter-item expanded "><a href="../../chapters/reasoning/evidence-based_medicine.html"><strong aria-hidden="true">30.</strong> Evidence Based Medicine vs Alternative Medicine</a></li><li class="chapter-item expanded affix "><li class="part-title">Organization</li><li class="chapter-item expanded "><a href="../../chapters/self-managed-institutes.html"><strong aria-hidden="true">31.</strong> When do self-managed institutes work?</a></li><li class="chapter-item expanded "><a href="../../chapters/moonlighting-in-a-remote-work-world.html"><strong aria-hidden="true">32.</strong> Moonlighting</a></li><li class="chapter-item expanded "><a href="../../chapters/micromanagement.html"><strong aria-hidden="true">33.</strong> Micromanagement</a></li><li class="chapter-item expanded affix "><li class="part-title">Biology</li><li class="chapter-item expanded "><a href="../../chapters/complicatedness-of-sexuality.html"><strong aria-hidden="true">34.</strong> Complicatedness of Sexuality</a></li><li class="chapter-item expanded affix "><li class="part-title">Parenting</li><li class="chapter-item expanded "><a href="../../chapters/parenting/baby_parenting.html"><strong aria-hidden="true">35.</strong> Baby Parenting</a></li><li class="chapter-item expanded affix "><li class="part-title">Drafts</li><li class="chapter-item expanded "><a href="../../chapters/city-planning/pollution_construction.html"><strong aria-hidden="true">36.</strong> Pollution due to contruction</a></li><li class="chapter-item expanded affix "><li class="part-title">Links</li><li class="chapter-item expanded "><a href="../../home.html"><strong aria-hidden="true">37.</strong> Page Links</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function (e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor"
+                            title="Toggle Table of Contents" aria-label="Toggle Table of Contents"
+                            aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                            aria-label="Change theme" aria-haspopup="true" aria-expanded="false"
+                            aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                            aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                            aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+
+                        <div id="google_translate_element"></div>
+
+                    </div>
+
+                    <h1 class="menu-title">I am brainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                            aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="tyranny-of-the-majority"><a class="header" href="#tyranny-of-the-majority">Tyranny of the Majority</a></h1>
+<p>Tyranny of the majority is a concept that highlights a potential flaw in democratic systems, where the majority, in pursuit of its own interests, oppresses or neglects the rights and interests of minority groups. John Stuart Mill, in his 1859 book "On Liberty," argued that this kind of tyranny could be as oppressive as the rule of a despot. To overcome tyranny of the majority, various strategies and mechanisms can be employed, as illustrated in the provided examples:</p>
+<ol>
+<li><strong>Centralization Excess:</strong>
+<ul>
+<li><strong>Scenario:</strong> In a federal system, the centralized power of a federation makes decisions that should be handled at the local level. This goes against the principle of subsidiarity, which advocates that decisions should be made at the most local level possible.</li>
+<li><strong>Solution:</strong> To overcome this tyranny of the majority, several measures can be taken.
+<ul>
+<li><strong>Concurrent Majority:</strong> Implement a concurrent majority mechanism where both the federal and local authorities must agree on certain matters to ensure that local interests are adequately represented.</li>
+<li><strong>Supermajority Rules:</strong> Require a supermajority vote for decisions that significantly affect local jurisdictions, making it harder for the majority to impose their will without considering minority interests.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p><strong>Example:</strong> Consider a federal system where the majority at the federal level wants to impose a uniform policy on education for all states. This decision might neglect the unique needs and preferences of individual states. To overcome the tyranny of the majority, a concurrent majority mechanism could be established, requiring both the federal government and individual states to agree on significant education policy changes, ensuring that local interests are protected.</p>
+<ol start="2">
+<li><strong>Abandonment of Rationality:</strong></li>
+</ol>
+<ul>
+<li><strong>Scenario:</strong> When decisions are based solely on numerical majorities without considering their correctness or excellence. In such cases, decisions may be arbitrary and not necessarily in the best interests of the society as a whole.</li>
+<li><strong>Solution:</strong> To avoid the tyranny of the majority based on irrational decisions, several steps can be taken:
+<ul>
+<li><strong>Public Consultation:</strong> Involve the public in the decision-making process by seeking their input, which can help ensure a more rational decision-making process.</li>
+<li><strong>Technical Consulting Bodies:</strong> Establish expert panels or consulting bodies to provide informed and unbiased advice on complex issues.</li>
+<li><strong>Judicial Review:</strong> After a decision is made, it can be subjected to judicial review to ensure it complies with the rule of law and constitutional principles. Courts can declare decisions null and void if they are found to be irrational or unconstitutional.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Example:</strong> Imagine a scenario where a majority of voters support a policy that goes against scientific evidence, such as denying climate change. To overcome the tyranny of this majority, public consultations involving scientists and experts can be held to present the facts. Additionally, a legal system that allows judicial review can act as a safeguard, ensuring that decisions are rational and constitutional.</p>
+<p>In both scenarios, the key is to introduce checks and balances that prevent the majority from imposing its will in a way that harms minority rights or results in irrational or arbitrary decisions. These mechanisms aim to strike a balance between majority rule and the protection of minority interests and the principles of rationality and fairness.</p>
+<h1 id="tyranny-of-the-minority"><a class="header" href="#tyranny-of-the-minority">Tyranny of the Minority</a></h1>
+<p>The tyranny of the minority occurs when a supermajority consensus is required for a decision, and a minority, in pursuit of its own interests, oppresses or neglects the rights and interests of the majority groups.</p>
+<p><strong>Example:</strong> Creating an Ultra Low Emission Zone (ULEZ) area or controlling traffic where cars are not allowed, but a minority group of car owners opposes it. Though it is difficult to pass such a bill with a supermajority decision, the minority can create a blockage. Once the bill is passed, it becomes challenging to reverse.</p>
+<h1 id="tyranny-of-representatives"><a class="header" href="#tyranny-of-representatives">Tyranny of Representatives</a></h1>
+<p>The "Tyranny of Representatives" refers to a situation in which a small percentage of elected representatives gain unchecked control over the legislative process and no longer truly represent the interests or wishes of their constituents. This phenomenon can occur in democratic systems when a combination of factors allows a minority of elected officials to wield disproportionate power.</p>
+<p>Here's an elaboration of this concept:</p>
+<p>In a well-functioning democracy, representatives are elected to serve the best interests of their constituents. They are expected to listen to the concerns and desires of the people they represent and make decisions that reflect the will of the majority. However, the tyranny of representatives occurs when a select group of politicians, often from a particular party or faction, consolidates power to such an extent that they can disregard the needs and preferences of their constituents.</p>
+<p>Several factors can contribute to this situation:</p>
+<ol>
+<li>
+<p>Gerrymandering: Manipulative drawing of electoral districts can favor one political party over others. By creating safe districts for a particular party, a minority of voters can ensure the election of their chosen representatives, leading to unaccountable officials who don't need to cater to the broader electorate.</p>
+</li>
+<li>
+<p>Party Polarization: When political parties become highly polarized, representatives may prioritize party loyalty over the concerns of their constituents. This can lead to policies that reflect extreme ideologies rather than the nuanced views of the population.</p>
+</li>
+<li>
+<p>Campaign Financing: Representatives who rely heavily on special interest groups or large donors may become beholden to these interests rather than the needs of their constituents, further undermining representation.</p>
+</li>
+<li>
+<p>Lack of Accountability: In some cases, representatives may face limited accountability due to factors like low voter turnout, lack of competition in elections (e.g., due to the use of terrible voting methods like FPTP), or insufficient checks and balances within the political system.</p>
+</li>
+<li>
+<p>Authoritarian Governance: In some instances, representatives may develop an insatiable hunger to remain in power, which can lead them to employ authoritarian methods to consolidate and maintain their control. This can involve tactics such as surveillance, disinformation campaigns, propaganda, controlling and manipulating the media to further their interests, eroding the independence of institutions and the misuse of laws to harass dissent and opposition. By manipulating information, stifling criticism, and undermining the democratic process, these representatives prioritize their own political longevity over the well-being and rights of their constituents.</p>
+</li>
+</ol>
+<p>When this tyranny of representatives occurs, it erodes the fundamental principles of democracy. The elected officials cease to be true representatives of the people and instead act in their own interests or those of a select few. To combat this, it is essential to implement measures such as redistricting reform, campaign finance regulations, and fostering a culture of political accountability to ensure that representatives genuinely serve the wishes of their constituents and maintain a healthy democratic system.</p>
+<h2 id="eg-pollution-paradox-because-of-tyranny-of-representatives"><a class="header" href="#eg-pollution-paradox-because-of-tyranny-of-representatives">e.g. Pollution Paradox because of Tyranny of Representatives</a></h2>
+<p>The "pollution paradox" is a term used to describe a situation where special interest groups or large donors from the fossil fuel industry, who often contribute to political campaigns and lobby for their interests, may have a counterintuitive impact on environmental policy. It points to a scenario in which the very industries responsible for environmental pollution, such as the fossil fuel industry, can influence political decisions in a way that appears to run counter to environmental conservation efforts.</p>
+<p>Here's how the pollution paradox can be connected to the tyranny of representatives:</p>
+<ol>
+<li>
+<p>Concentration of Power: Special interest groups and large donors from the fossil fuel industry often concentrate their financial and lobbying efforts on a select group of elected officials who are sympathetic to their interests. These representatives may receive significant campaign contributions and support from these groups, which can lead to the concentration of power in the hands of a few politicians.</p>
+</li>
+<li>
+<p>Influence Over Decision-Making: The influence of fossil fuel interests can lead to a situation where a small group of representatives gain disproportionate control over energy and environmental policies. These representatives may prioritize the interests of the fossil fuel industry over the broader concerns of their constituents or the environment. This can result in a lack of responsiveness to the will of the people they represent.</p>
+</li>
+<li>
+<p>Suppression of Environmental Action: The tyranny of representatives in this context can manifest as a suppression of environmental action. Elected officials heavily influenced by fossil fuel interests may resist or delay policies aimed at reducing pollution, transitioning to clean energy sources, or addressing climate change, even when there is a broad public desire for such actions.</p>
+</li>
+<li>
+<p>Disconnect from Constituent Interests: In the pollution paradox, representatives may no longer serve the best interests of their constituents, who may desire cleaner and more sustainable energy solutions to combat pollution and environmental degradation. Instead, these representatives may prioritize the interests of the fossil fuel industry and their campaign donors.</p>
+</li>
+</ol>
+<p>The connection between the pollution paradox and the tyranny of representatives underscores the challenges that arise when powerful interest groups exert undue influence over elected officials and policy decisions.</p>
+<h1 id="tyranny-of-shareholders"><a class="header" href="#tyranny-of-shareholders">Tyranny of Shareholders</a></h1>
+<p>The concept of the "tyranny of shareholders" refers to a situation in which corporations prioritize the interests of their shareholders above all other stakeholders, such as workers, suppliers, consumers, and communities. This approach to corporate governance is often associated with the doctrine of "shareholder primacy," which asserts that the primary purpose of a corporation is to generate profits and maximize shareholder value. While maximizing shareholder value is a critical aspect of corporate governance, the exclusive focus on it can lead to negative consequences for other stakeholders.</p>
+<p>Here's an explanation of how the tyranny of shareholders works and its impact on various stakeholders:</p>
+<ol>
+<li>
+<p>Workers: Shareholder primacy often leads to a relentless pursuit of cost-cutting measures to boost short-term profits. This can result in reduced wages, fewer benefits, job insecurity, and diminished job quality for workers. Companies may prioritize shareholder returns over fair compensation, job stability, and employee well-being, adversely affecting the livelihoods of their workforce.</p>
+</li>
+<li>
+<p>Suppliers: Under the pressure to maximize shareholder value, corporations may push suppliers for lower prices, sometimes to the point of unsustainability. This can harm smaller suppliers and reduce the quality of goods or services provided, ultimately impacting the supply chain's stability.</p>
+</li>
+<li>
+<p>Consumers: An excessive focus on shareholder value can lead to practices that prioritize short-term profit over product quality and safety. Consumers may be exposed to unsafe products or services, misleading marketing, or inadequate customer support, as the corporation prioritizes cost-cutting and profit maximization.</p>
+</li>
+<li>
+<p>Communities: Corporations have a significant impact on the communities where they operate. When they prioritize shareholder returns at the expense of other stakeholders, it can result in adverse consequences for communities. This may include environmental degradation, reduced corporate social responsibility initiatives, or a lack of investment in local infrastructure and economic development.</p>
+</li>
+<li>
+<p>Long-Term Growth and Innovation: Shareholder primacy can encourage a short-term mindset, as executives and boards focus on meeting quarterly earnings targets. This can hinder long-term investments in research, development, and innovation, which are essential for a company's sustained success and competitiveness in the global market.</p>
+</li>
+</ol>
+<p>An example of the tyranny of shareholders can be seen in cases where companies engage in share buybacks, which involve using corporate funds to repurchase their own shares in the stock market. While this can boost the company's stock price, it may divert resources that could have been invested in research, employee training, infrastructure improvements, or other long-term strategies.</p>
+<p>A more balanced approach to corporate governance, considering the interests of all stakeholders, can lead to sustainable and responsible business practices that benefit society as a whole rather than just a narrow group of shareholders.</p>
+<h2 id="democratic-reform-trilemma-or-trade-offs"><a class="header" href="#democratic-reform-trilemma-or-trade-offs">Democratic reform trilemma or trade-offs</a></h2>
+<blockquote>
+<p>Trade-off: a balancing of factors all of which are not attainable at the same time.</p>
+</blockquote>
+<p>Democratic theorists have identified a trilemma due to the presence of three desirable characteristics of an ideal system of direct democracy, which are challenging to deliver all at once. These three characteristics are participation – widespread participation in the decision making process by the people affected; deliberation – a rational discussion where all major points of view are weighted according to evidence; and equality – all members of the population on whose behalf decisions are taken have an equal chance of having their views taken into account. Empirical evidence from dozens of studies suggests deliberation leads to better decision making.</p>
+<h2 id="how-will-shivarthus-direct-democracy-solve-the-tyranny-of-the-majorityminority"><a class="header" href="#how-will-shivarthus-direct-democracy-solve-the-tyranny-of-the-majorityminority">How will Shivarthu's direct democracy solve the tyranny of the majority/minority?</a></h2>
+<p><a href="https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md">Shivarthu</a></p>
+<p>Suggestion:</p>
+<p>Some of the voting or feedback sytem.</p>
+<ol>
+<li><strong>Direct Voting by Local Citizens:</strong> This method involves directly polling local citizens.</li>
+<li><strong>Schelling Game Decision by Users:</strong> Users make decisions using the Schelling game.</li>
+<li><strong>Voting by Representatives Elected via Proportional Approval Voting</strong>: Representatives are elected by the people through a proportional approval voting system (<a href="https://wiki.polkadot.network/docs/learn-phragmen">Sequential Phragmén</a>)</li>
+<li><strong>Voting by Department Representatives with Specialized and Multidisciplinary Knowledge:</strong> Department representatives with specialized and multidisciplinary knowledge participate in the voting process.</li>
+<li><strong>Providing More Voting Weight to Individuals Creating Positive Externalities:</strong> This approach assigns greater voting weight to individuals who generate <a href="https://github.com/amiyatulu/shivarthu/tree/main/pallets/positive-externality-validation">positive externalities</a>.</li>
+</ol>
+<p>These different methods can enhance rationality and reduce centralization excess. Double approval can be implemented using these voting methods. Additionally, a <a href="../what-do-we-need-to-decentralize-in-the-coming-years.html#desirable-social-media-features">discussion forum can be created</a> where different voters can articulate the reasons for their approval or disapproval of a decision without <a href="https://en.wikipedia.org/wiki/Sybil_attack">sybil attacks</a> or spamming.</p>
+<p>Further consideration is needed to determine when to employ a simple majority or a supermajority.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        <a rel="prev" href="../../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html" class="mobile-nav-chapters previous"
+                            title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+
+                        <a rel="next prefetch" href="../../chapters/democracy/simple_majority_and_super_majority.html" class="mobile-nav-chapters next"
+                            title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                <a rel="prev" href="../../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html" class="nav-chapters previous" title="Previous chapter"
+                    aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+
+                <a rel="next prefetch" href="../../chapters/democracy/simple_majority_and_super_majority.html" class="nav-chapters next" title="Next chapter"
+                    aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+
+
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+            }
+        </script>
+
+        <script type="text/javascript"
+            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+    </div>
+
+</body>
+
+</html>

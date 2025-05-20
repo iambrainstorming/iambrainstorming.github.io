@@ -1,0 +1,335 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>Price Controls - I am brainstorming</title>
+
+
+    <!-- Custom HTML head -->
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="icon" href="../../favicon.svg">
+    <link rel="shortcut icon" href="../../favicon.png">
+    <link rel="stylesheet" href="../../css/variables.css">
+    <link rel="stylesheet" href="../../css/general.css">
+    <link rel="stylesheet" href="../../css/chrome.css">
+    <link rel="stylesheet" href="../../css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="../../fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="../../highlight.css">
+    <link rel="stylesheet" href="../../tomorrow-night.css">
+    <link rel="stylesheet" href="../../ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+
+    <!-- MathJax -->
+    <script async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-537XSSGF4P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-537XSSGF4P');
+</script>
+
+</head>
+
+<body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Democracy and supply chain</li><li class="chapter-item expanded "><a href="../../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.html"><strong aria-hidden="true">1.</strong> Manifesto: What would we gain from eliminating the national fiat currency?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html"><strong aria-hidden="true">1.1.</strong> Price discovery of decentralized supply chain</a></li><li class="chapter-item expanded "><a href="../../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html"><strong aria-hidden="true">1.2.</strong> What do we need to decentralize in the coming years?</a></li><li class="chapter-item expanded "><a href="../../chapters/relationships-emotions-and-happiness.html"><strong aria-hidden="true">1.3.</strong> Emotion and empathy rather than materialism</a></li><li class="chapter-item expanded "><a href="../../chapters/education_system.html"><strong aria-hidden="true">1.4.</strong> Decentralized education system</a></li><li class="chapter-item expanded "><a href="../../chapters/rethinking-work-culture.html"><strong aria-hidden="true">1.5.</strong> Remote jobs or work from home with less working hours</a></li><li class="chapter-item expanded "><a href="../../chapters/invest_on_renewables.html"><strong aria-hidden="true">1.6.</strong> Clean energy like roof top solar and wind energy</a></li><li class="chapter-item expanded "><a href="../../chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.html"><strong aria-hidden="true">1.7.</strong> Banning single use plastic</a></li><li class="chapter-item expanded "><a href="../../chapters/building-better-cities.html"><strong aria-hidden="true">1.8.</strong> Sustainable housing design</a></li><li class="chapter-item expanded "><a href="../../chapters/broadband_share/broadband_share_idea.html"><strong aria-hidden="true">1.9.</strong> Decentralized Wifi</a></li><li class="chapter-item expanded "><a href="../../chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.html"><strong aria-hidden="true">1.10.</strong> Decentralized house building</a></li><li class="chapter-item expanded "><a href="../../chapters/road-planning-of-cities.html"><strong aria-hidden="true">1.11.</strong> Car-free cities</a></li><li class="chapter-item expanded "><a href="../../chapters/public_transport/comfortable_public_transport.html"><strong aria-hidden="true">1.12.</strong> How Can We Make Public Transport More Comfortable for People?</a></li><li class="chapter-item expanded "><a href="../../chapters/city-planning/rain_water_harvesting.html"><strong aria-hidden="true">1.13.</strong> City Planning: Rain Water Harvesting</a></li><li class="chapter-item expanded "><a href="../../chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html"><strong aria-hidden="true">1.14.</strong> Decentralizing Supermarkets Through Public Ownership and Control</a></li><li class="chapter-item expanded "><a href="../../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html"><strong aria-hidden="true">1.15.</strong> Love for USD pegged stable coin by the crypto community must end</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/tyranny_of_the_majority.html"><strong aria-hidden="true">1.16.</strong> Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/simple_majority_and_super_majority.html"><strong aria-hidden="true">1.17.</strong> Simple Majority vs Super Majority</a></li><li class="chapter-item expanded "><a href="../../chapters/capitalism-vs-socialism-which-one-is-working.html"><strong aria-hidden="true">1.18.</strong> Socialism vs Capitalism</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/dismissing_return.html"><strong aria-hidden="true">1.19.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../../chapters/shivarthu/Shivarthu.html"><strong aria-hidden="true">1.20.</strong> Shivarthu: A governance Protocol</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/competitive_collaboration.html"><strong aria-hidden="true">1.21.</strong> The Competitive Collaboration Algorithm</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/secure_blockchain_voting.html"><strong aria-hidden="true">1.22.</strong> Secure Blockchain Voting</a></li><li class="chapter-item expanded "><a href="../../chapters/capitalism/capitalistic_culture.html"><strong aria-hidden="true">1.23.</strong> Shift in Capitalistic Culture: From Independence to Corporate Dependency</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Economics</li><li class="chapter-item expanded "><a href="../../chapters/economics/yard-sale-model.html"><strong aria-hidden="true">2.</strong> Why income inequality exits? Yard-Sale-Model</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/dismissing_return.html"><strong aria-hidden="true">3.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/price_controls.html" class="active"><strong aria-hidden="true">4.</strong> Price Controls</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/tax_collection_simulation.html"><strong aria-hidden="true">5.</strong> A simplified tax simulation for poverty alleviation</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/what_is_govt.html"><strong aria-hidden="true">6.</strong> Government’s Monopoly on Money and Violence: A Double-Edged Sword</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/are-tariffs-good.html"><strong aria-hidden="true">7.</strong> Do not reduce the tariff without ensuring technology transfer</a></li><li class="chapter-item expanded affix "><li class="part-title">Democracy</li><li class="chapter-item expanded "><a href="../../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html"><strong aria-hidden="true">8.</strong> Do we need a supreme leader? How can we share power between parties?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">8.1.</strong> How EVM works and Why it should be banned to save the democracy</a></li><li class="chapter-item expanded "><a href="../../chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.html"><strong aria-hidden="true">8.2.</strong> Open-list proportional representation vs. Mixed-member proportional representation</a></li><li class="chapter-item expanded "><a href="../../chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.html"><strong aria-hidden="true">8.3.</strong> Parliamentary or Presidential form of government? What's in the name?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/govt_controlling_information.html"><strong aria-hidden="true">8.4.</strong> How to share information under fascism or dictatorship?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/fascism.html"><strong aria-hidden="true">8.5.</strong> What a fascist government does?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/hinduism.html"><strong aria-hidden="true">8.6.</strong> Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/fascism_power.html"><strong aria-hidden="true">8.7.</strong> Necessary sources of political power by dictator</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/free-and-fair-election.html"><strong aria-hidden="true">8.8.</strong> What is free and fair elections?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/pmla.html"><strong aria-hidden="true">8.9.</strong> Draconian and unconstitutional PMLA and UAPA provisions</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/upholding-justice.html"><strong aria-hidden="true">8.10.</strong> Upholding the Justice</a></li><li class="chapter-item expanded "><a href="../../chapters/election-science/election-science.html"><strong aria-hidden="true">8.11.</strong> Election Science</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Cooperation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">9.</strong> Cooperation for common good</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/how-to-tackle-disinformation.html"><strong aria-hidden="true">9.1.</strong> How to tackle disinformation?</a></li><li class="chapter-item expanded "><a href="../../chapters/cooperation/cooperation-secrets.html"><strong aria-hidden="true">9.2.</strong> Secrets of Cooperation</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Education</li><li class="chapter-item expanded "><a href="../../chapters/education/features-of-good-books-or-curriculum.html"><strong aria-hidden="true">10.</strong> Features of good books or curriculum</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/smartphones-evil-device.html"><strong aria-hidden="true">11.</strong> Smartphones: An Evil Device Stealing Children's Childhood</a></li><li class="chapter-item expanded "><a href="../../chapters/education/books-recommendation.html"><strong aria-hidden="true">12.</strong> Curriculum Recommendation</a></li><li class="chapter-item expanded "><a href="../../chapters/education/beyond_numbers.html"><strong aria-hidden="true">13.</strong> Beyond the Numbers: The Complexities of Assessment</a></li><li class="chapter-item expanded "><a href="../../chapters/education/dystopian_school.html"><strong aria-hidden="true">14.</strong> A dystopian school: what does it look like?</a></li><li class="chapter-item expanded affix "><li class="part-title">AI/ Machine Learning</li><li class="chapter-item expanded "><a href="../../chapters/do-we-have-to-fear-machine-learning-or-ai.html"><strong aria-hidden="true">15.</strong> Do we have to fear machine learning or AI?</a></li><li class="chapter-item expanded affix "><li class="part-title">Philosophy</li><li class="chapter-item expanded "><a href="../../chapters/understanding-free-will-and-how-it-can-impact-our-behavior.html"><strong aria-hidden="true">16.</strong> Understanding free will and how it can impact our behavior</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/understanding_feedback_loop.html"><strong aria-hidden="true">17.</strong> Understanding feedback loop</a></li><li class="chapter-item expanded "><a href="../../chapters/reasoning/fallacies.html"><strong aria-hidden="true">18.</strong> Important fallacies, paradox and biases</a></li><li class="chapter-item expanded "><a href="../../chapters/programming/foss_philosophy.html"><strong aria-hidden="true">19.</strong> Open Source or Free Software or FOSS Philosophy</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/teach-about-foss.html"><strong aria-hidden="true">20.</strong> Fostering Responsibility in the Digital Age through Free and Open-Source Software</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/bread_and_circus.html"><strong aria-hidden="true">21.</strong> Modern-Day Bread and Circus</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/how_to_know_who_trustworthy.html"><strong aria-hidden="true">22.</strong> Key points – How to know who’s trustworthy</a></li><li class="chapter-item expanded "><a href="../../chapters/academics/grit.html"><strong aria-hidden="true">23.</strong> Grit: The power of passion and perseverance</a></li><li class="chapter-item expanded affix "><li class="part-title">India Employment</li><li class="chapter-item expanded "><a href="../../data/india_employment_data.html"><strong aria-hidden="true">24.</strong> India Employment Data</a></li><li class="chapter-item expanded affix "><li class="part-title">Programming</li><li class="chapter-item expanded "><a href="../../chapters/programming/debugging_time.html"><strong aria-hidden="true">25.</strong> A Glimpse into a Coder's Experience</a></li><li class="chapter-item expanded "><a href="../../chapters/programming/interdisciplinary.html"><strong aria-hidden="true">26.</strong> The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education</a></li><li class="chapter-item expanded affix "><li class="part-title">Computer</li><li class="chapter-item expanded "><a href="../../chapters/computer/moore-law.html"><strong aria-hidden="true">27.</strong> Is Moore's Law Finally Dead?</a></li><li class="chapter-item expanded affix "><li class="part-title">Science</li><li class="chapter-item expanded "><a href="../../chapters/reasoning/pseudoscience.html"><strong aria-hidden="true">28.</strong> Pseudoscience</a></li><li class="chapter-item expanded "><a href="../../chapters/academics/academician.html"><strong aria-hidden="true">29.</strong> What are Scholarly Activities?</a></li><li class="chapter-item expanded "><a href="../../chapters/reasoning/evidence-based_medicine.html"><strong aria-hidden="true">30.</strong> Evidence Based Medicine vs Alternative Medicine</a></li><li class="chapter-item expanded affix "><li class="part-title">Organization</li><li class="chapter-item expanded "><a href="../../chapters/self-managed-institutes.html"><strong aria-hidden="true">31.</strong> When do self-managed institutes work?</a></li><li class="chapter-item expanded "><a href="../../chapters/moonlighting-in-a-remote-work-world.html"><strong aria-hidden="true">32.</strong> Moonlighting</a></li><li class="chapter-item expanded "><a href="../../chapters/micromanagement.html"><strong aria-hidden="true">33.</strong> Micromanagement</a></li><li class="chapter-item expanded affix "><li class="part-title">Biology</li><li class="chapter-item expanded "><a href="../../chapters/complicatedness-of-sexuality.html"><strong aria-hidden="true">34.</strong> Complicatedness of Sexuality</a></li><li class="chapter-item expanded affix "><li class="part-title">Parenting</li><li class="chapter-item expanded "><a href="../../chapters/parenting/baby_parenting.html"><strong aria-hidden="true">35.</strong> Baby Parenting</a></li><li class="chapter-item expanded affix "><li class="part-title">Drafts</li><li class="chapter-item expanded "><a href="../../chapters/city-planning/pollution_construction.html"><strong aria-hidden="true">36.</strong> Pollution due to contruction</a></li><li class="chapter-item expanded affix "><li class="part-title">Links</li><li class="chapter-item expanded "><a href="../../home.html"><strong aria-hidden="true">37.</strong> Page Links</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function (e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor"
+                            title="Toggle Table of Contents" aria-label="Toggle Table of Contents"
+                            aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                            aria-label="Change theme" aria-haspopup="true" aria-expanded="false"
+                            aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                            aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                            aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+
+                        <div id="google_translate_element"></div>
+
+                    </div>
+
+                    <h1 class="menu-title">I am brainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                            aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="does-price-floor-works"><a class="header" href="#does-price-floor-works">Does price floor works?</a></h1>
+<p>A price floor is a minimum price allowed by law. That is, it is a price below which it is illegal to buy or sell, called a price floor because you cannot go below the floor. We're going to show that price floors create four significant effects: surpluses, lost gains from trade, wasteful increases in quality, and a misallocation of resources.</p>
+<h2 id="what-is-surplus-of-labor-with-mininum-wage-unemployment"><a class="header" href="#what-is-surplus-of-labor-with-mininum-wage-unemployment">What is surplus of labor with mininum wage? Unemployment</a></h2>
+<p>The minimum wage is a price floor, so it's going to create a surplus. A surplus of labor, we call what? A surplus of labor is called unemployment.</p>
+<p><img src="image/unemployment.png" alt="Price Floor" /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65kfAswiHLk?si=OHAGZA5EB5T6TzEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p><a href="https://mru.org/courses/principles-economics-microeconomics/price-floor-example-minimum-wage">Course Link mru.org</a></p>
+<h2 id="now-who-will-the-minimum-wage-affect"><a class="header" href="#now-who-will-the-minimum-wage-affect">Now, who will the minimum wage affect?</a></h2>
+<p>Now, who will the minimum wage affect? Workers with very high productivity who are already earning more than the minimum wage – they are not going to be affected by the minimum wage perhaps at all. Instead, it will affect the least experienced, least educated, least trained workers. Low-skilled teenagers, for example, are most likely to be affected by the minimum wage.</p>
+<h2 id="modest-increase-in-minimum-wage"><a class="header" href="#modest-increase-in-minimum-wage">Modest increase in minimum wage</a></h2>
+<p>Now the minimum wage is a controversial and hotly debated issue. Some academic results indicate that the unemployment effect of a modest increase in the minimum wage would not be substantial. At the same time, however, we also have to recognize that a modest increase in the minimum wage would not have big benefits either. First, only a small percentage of workers are going to be affected by the minimum wage. 97% or so of workers already earn more than the minimum wage.</p>
+<h2 id="large-increase-in-the-minimum-wage"><a class="header" href="#large-increase-in-the-minimum-wage">Large increase in the minimum wage</a></h2>
+<p>So a large increase in the minimum wage is going to cause serious unemployment, and the good example of this is Puerto Rico in 1938. Congress actually set the first minimum wage at this time at 25 cents an hour. Now that may seem low, but that's at a time when the average wage in the United States was still less than a dollar an hour, was 62 and a half cents an hour. Congress, however, forgot to exempt Puerto Rico, when the average wages in Puerto Rico at that time were much lower than in the rest of the United States, only three cents to four cents an hour.
+And lots of Puerto Rican firms went bankrupt, it created devastating unemployment. In fact, Puerto Rican politicians came to Washington to beg for an exemption to get them out of the minimum wage. So, a large increase in the minimum wage would certainly cause substantial and serious unemployment.</p>
+<p>We do see higher minimum wages in other countries. The minimum wage in France is higher than the U.S., relative to average wages in those two countries. In addition, labor laws in France make it very difficult to fire workers once they have been hired. As a result, firms in France are very reluctant to hire new workers.</p>
+<p>Younger workers are especially affected because they are less productive, and also they are less known commodities. So, the risk of hiring them is greater. As a result, unemployment among young workers is very high in France. It was 23% in 2005, and that was long before the economic crisis, the financial crisis affecting the entire world. So even during good times, unemployment in France among young workers is very high, because the minimum wage is high, and because firms don't want to hire, given how difficult it is to fire workers.</p>
+<h2 id="why-do-governments-enact-price-controls"><a class="header" href="#why-do-governments-enact-price-controls">Why do governments enact price controls?</a></h2>
+<p>So far, we've looked at a number of the consequences of price controls, both price ceilings and price floors. And most of the consequences, they're not very good.i</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1GviwAknP08?si=EzG7pP25OhwX-LzW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h2 id="public-simply-did-not-connect-wage-and-price-controls-with-their-consequences"><a class="header" href="#public-simply-did-not-connect-wage-and-price-controls-with-their-consequences">Public simply did not connect wage and price controls with their consequences</a></h2>
+<p>In November of 1972, Nixon won re-election in a landslide. So, wage and price controls were popular. Nixon was re-elected with this policy as well as with others. Now, why is this? I think in many cases, in a majority of cases, the public simply did not connect wage and price controls with their consequences. So, looking around and the shortages, the long line-ups for gasoline, they didn't say the cause of that is the price control.</p>
+<h2 id="price-floor-in-agriculture"><a class="header" href="#price-floor-in-agriculture">Price floor in agriculture</a></h2>
+<p><a href="http://economics.fundamentalfinance.com/micro_price-floor.php">Price floors are also used often in agriculture to try to protect farmers</a>.</p>
+<p>As you might have guessed, this creates a problem. There is less quantity demanded (consumed) than quantity supplied (produced). This is called a surplus. If the surplus is allowed to be in the market then the price would actually drop below the equilibrium. In order to prevent this the government must step in. The government has a few options:</p>
+<ol>
+<li>
+<p>They can buy up all the surplus. For a while the US government bought grain surpluses in the US and then gave all the grain to Africa. This might have been nice for African consumers, but it destroyed African farmers.</p>
+</li>
+<li>
+<p>They can strictly enforce the price floor and let the surplus go to waste. This means that the suppliers that are able to sell their goods are better off while those who can't sell theirs (because of lack of demand) will be worse off. Minimum wage laws, for example, mean that some workers who are willing to work at a lower wage don't get to work at all. Such workers make up a portion of the unemployed (this is called "structural unemployment").</p>
+</li>
+<li>
+<p>The government can control how much is produced. To prevent too many suppliers from producing, the government can give out production rights or pay people not to produce. Giving out production rights will lead to lobbying for the lucrative rights or even bribery. If the government pays people not to produce, then suddenly more producers will show up and ask to be payed.</p>
+</li>
+<li>
+<p>They can also subsidize consumption. To get demanders to purchase more of the surplus, the government can pay part of the costs. This would obviously get expensive really fast.</p>
+</li>
+</ol>
+<h2 id="price-floor-surplus-minimum-support-price-msp-and-poverty"><a class="header" href="#price-floor-surplus-minimum-support-price-msp-and-poverty">Price floor surplus, Minimum Support Price (MSP) and poverty</a></h2>
+<p><a href="https://www.indiatoday.in/health/story/india-has-67-million-zero-food-children-going-without-food-harvard-study-2513449-2024-03-11">In India, 6.7 million children are going without food</a>, and the question is whether a price floor can still create a surplus. Surplus occurs not because there are not enough people who need the product, but because enough people fail to purchase it at a particular price. At a price floor, there will be far more people who fail to purchase it as the quantity supplied exceeds the quantity demanded, as shown in the diagram.</p>
+<p>This can be one reason why poverty persists even after two to three centuries of free market trade, despite our technological efficiency being sufficient to produce all the necessary goods to serve the entire human population.</p>
+<p>Furthermore, the free market also facilitates wealth transfer or benefits to the rich. Shortages lead to price increases, and it is only the rich who can afford goods in cases of scarce resources.</p>
+<p>Related:</p>
+<p><a href="../economics/yard-sale-model.html">Yard Sale Model</a></p>
+<p><a href="../capitalism-vs-socialism-which-one-is-working.html#it-assumes-capitalism--free-market">Socialism</a></p>
+<h2 id="so-price-floor-is-a-bad-idea-in-what-way-we-can-protect-farmers"><a class="header" href="#so-price-floor-is-a-bad-idea-in-what-way-we-can-protect-farmers">So price floor is a bad idea. In what way we can protect farmers?</a></h2>
+<p>Todo!</p>
+<h2 id="when-to-control-prices-does-it-have-any-advantages"><a class="header" href="#when-to-control-prices-does-it-have-any-advantages">When to control prices? Does it have any advantages?</a></h2>
+<p><a href="https://www.economicshelp.org/blog/621/economics/price-controls-advantages-and-disadvantages/">Price controls – advantages and disadvantages</a></p>
+<h2 id="price-gouging"><a class="header" href="#price-gouging">Price Gouging</a></h2>
+<p>Price gouging is the practice of increasing the prices of goods, services, or commodities to a level much higher than is considered reasonable or fair. Usually, this event occurs after a demand or supply shock.</p>
+<p><a href="https://www.economicshelp.org/blog/162072/economics/price-gouging-definition-and-examples/">Price Gouging</a></p>
+<h2 id="hoarding"><a class="header" href="#hoarding">Hoarding</a></h2>
+<p><a href="https://www.investopedia.com/terms/h/hoarding.asp">Hoarding: Definition, How It Works with Commodities, and Examples</a></p>
+<p>Hoarding is the purchase and warehousing of large quantities of a commodity by a speculator with the intent of benefiting from future price increases.</p>
+<p>Hoarding is commonly criticized for creating shortages of goods in the real economy. It is possible for hoarding to create a cycle of speculation, self-fulfilling prophecies, and inflation.</p>
+<p>If several wealthy individuals start hoarding wheat, the price will begin to increase. Middle-class merchants will notice, and then they might hold back wheat supplies in anticipation of future price increases. That is enough to raise prices again. Panicked buying may create real shortages of wheat in some locations. The poorest in some countries could even be at risk of starvation if the cycle continues beyond that point.</p>
+<h2 id="maximum-retail-price-mrp-to-tackle-price-gouging-of-retailers"><a class="header" href="#maximum-retail-price-mrp-to-tackle-price-gouging-of-retailers">Maximum Retail Price (MRP) to tackle price gouging of retailers</a></h2>
+<p><a href="https://en.wikipedia.org/wiki/Maximum_retail_price">Maximum Retail Price</a></p>
+<p><a href="https://www.hindustantimes.com/punjab/not-mrp-retailer-s-price-the-new-norm/story-CA5QechyAkGwMK4XbsdPMN.html">Retailers charging more than MRP</a></p>
+<p>On being asked, a shopkeeper blatantly said, “I sell a chilled bottle of soft drink for `35 as I need to recover the cost of electricity used by the refrigerator. Everyone is selling cold drinks for more than the MRP. If we don't do that, we will face losses.”</p>
+<p>However, according to sources, bottles of soft drinks and mineral water are purchased by retailers at wholesale prices, which help them make profit even after adjusting cost of electricity. Besides, the companies also provide them several schemes.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        <a rel="prev" href="../../chapters/economics/dismissing_return.html" class="mobile-nav-chapters previous"
+                            title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+
+                        <a rel="next prefetch" href="../../chapters/economics/tax_collection_simulation.html" class="mobile-nav-chapters next"
+                            title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                <a rel="prev" href="../../chapters/economics/dismissing_return.html" class="nav-chapters previous" title="Previous chapter"
+                    aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+
+                <a rel="next prefetch" href="../../chapters/economics/tax_collection_simulation.html" class="nav-chapters next" title="Next chapter"
+                    aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+
+
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+            }
+        </script>
+
+        <script type="text/javascript"
+            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+    </div>
+
+</body>
+
+</html>

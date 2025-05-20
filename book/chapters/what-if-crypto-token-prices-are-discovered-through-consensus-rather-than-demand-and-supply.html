@@ -1,0 +1,891 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>Price discovery of decentralized supply chain - I am brainstorming</title>
+
+
+    <!-- Custom HTML head -->
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="icon" href="../favicon.svg">
+    <link rel="shortcut icon" href="../favicon.png">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/general.css">
+    <link rel="stylesheet" href="../css/chrome.css">
+    <link rel="stylesheet" href="../css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="../fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="../highlight.css">
+    <link rel="stylesheet" href="../tomorrow-night.css">
+    <link rel="stylesheet" href="../ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+
+    <!-- MathJax -->
+    <script async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-537XSSGF4P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-537XSSGF4P');
+</script>
+
+</head>
+
+<body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Democracy and supply chain</li><li class="chapter-item expanded "><a href="../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.html"><strong aria-hidden="true">1.</strong> Manifesto: What would we gain from eliminating the national fiat currency?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html" class="active"><strong aria-hidden="true">1.1.</strong> Price discovery of decentralized supply chain</a></li><li class="chapter-item expanded "><a href="../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html"><strong aria-hidden="true">1.2.</strong> What do we need to decentralize in the coming years?</a></li><li class="chapter-item expanded "><a href="../chapters/relationships-emotions-and-happiness.html"><strong aria-hidden="true">1.3.</strong> Emotion and empathy rather than materialism</a></li><li class="chapter-item expanded "><a href="../chapters/education_system.html"><strong aria-hidden="true">1.4.</strong> Decentralized education system</a></li><li class="chapter-item expanded "><a href="../chapters/rethinking-work-culture.html"><strong aria-hidden="true">1.5.</strong> Remote jobs or work from home with less working hours</a></li><li class="chapter-item expanded "><a href="../chapters/invest_on_renewables.html"><strong aria-hidden="true">1.6.</strong> Clean energy like roof top solar and wind energy</a></li><li class="chapter-item expanded "><a href="../chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.html"><strong aria-hidden="true">1.7.</strong> Banning single use plastic</a></li><li class="chapter-item expanded "><a href="../chapters/building-better-cities.html"><strong aria-hidden="true">1.8.</strong> Sustainable housing design</a></li><li class="chapter-item expanded "><a href="../chapters/broadband_share/broadband_share_idea.html"><strong aria-hidden="true">1.9.</strong> Decentralized Wifi</a></li><li class="chapter-item expanded "><a href="../chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.html"><strong aria-hidden="true">1.10.</strong> Decentralized house building</a></li><li class="chapter-item expanded "><a href="../chapters/road-planning-of-cities.html"><strong aria-hidden="true">1.11.</strong> Car-free cities</a></li><li class="chapter-item expanded "><a href="../chapters/public_transport/comfortable_public_transport.html"><strong aria-hidden="true">1.12.</strong> How Can We Make Public Transport More Comfortable for People?</a></li><li class="chapter-item expanded "><a href="../chapters/city-planning/rain_water_harvesting.html"><strong aria-hidden="true">1.13.</strong> City Planning: Rain Water Harvesting</a></li><li class="chapter-item expanded "><a href="../chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html"><strong aria-hidden="true">1.14.</strong> Decentralizing Supermarkets Through Public Ownership and Control</a></li><li class="chapter-item expanded "><a href="../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html"><strong aria-hidden="true">1.15.</strong> Love for USD pegged stable coin by the crypto community must end</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/tyranny_of_the_majority.html"><strong aria-hidden="true">1.16.</strong> Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/simple_majority_and_super_majority.html"><strong aria-hidden="true">1.17.</strong> Simple Majority vs Super Majority</a></li><li class="chapter-item expanded "><a href="../chapters/capitalism-vs-socialism-which-one-is-working.html"><strong aria-hidden="true">1.18.</strong> Socialism vs Capitalism</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">1.19.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/shivarthu/Shivarthu.html"><strong aria-hidden="true">1.20.</strong> Shivarthu: A governance Protocol</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/competitive_collaboration.html"><strong aria-hidden="true">1.21.</strong> The Competitive Collaboration Algorithm</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/secure_blockchain_voting.html"><strong aria-hidden="true">1.22.</strong> Secure Blockchain Voting</a></li><li class="chapter-item expanded "><a href="../chapters/capitalism/capitalistic_culture.html"><strong aria-hidden="true">1.23.</strong> Shift in Capitalistic Culture: From Independence to Corporate Dependency</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Economics</li><li class="chapter-item expanded "><a href="../chapters/economics/yard-sale-model.html"><strong aria-hidden="true">2.</strong> Why income inequality exits? Yard-Sale-Model</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">3.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/economics/price_controls.html"><strong aria-hidden="true">4.</strong> Price Controls</a></li><li class="chapter-item expanded "><a href="../chapters/economics/tax_collection_simulation.html"><strong aria-hidden="true">5.</strong> A simplified tax simulation for poverty alleviation</a></li><li class="chapter-item expanded "><a href="../chapters/economics/what_is_govt.html"><strong aria-hidden="true">6.</strong> Government’s Monopoly on Money and Violence: A Double-Edged Sword</a></li><li class="chapter-item expanded "><a href="../chapters/economics/are-tariffs-good.html"><strong aria-hidden="true">7.</strong> Do not reduce the tariff without ensuring technology transfer</a></li><li class="chapter-item expanded affix "><li class="part-title">Democracy</li><li class="chapter-item expanded "><a href="../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html"><strong aria-hidden="true">8.</strong> Do we need a supreme leader? How can we share power between parties?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">8.1.</strong> How EVM works and Why it should be banned to save the democracy</a></li><li class="chapter-item expanded "><a href="../chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.html"><strong aria-hidden="true">8.2.</strong> Open-list proportional representation vs. Mixed-member proportional representation</a></li><li class="chapter-item expanded "><a href="../chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.html"><strong aria-hidden="true">8.3.</strong> Parliamentary or Presidential form of government? What's in the name?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/govt_controlling_information.html"><strong aria-hidden="true">8.4.</strong> How to share information under fascism or dictatorship?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism.html"><strong aria-hidden="true">8.5.</strong> What a fascist government does?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/hinduism.html"><strong aria-hidden="true">8.6.</strong> Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism_power.html"><strong aria-hidden="true">8.7.</strong> Necessary sources of political power by dictator</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/free-and-fair-election.html"><strong aria-hidden="true">8.8.</strong> What is free and fair elections?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/pmla.html"><strong aria-hidden="true">8.9.</strong> Draconian and unconstitutional PMLA and UAPA provisions</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/upholding-justice.html"><strong aria-hidden="true">8.10.</strong> Upholding the Justice</a></li><li class="chapter-item expanded "><a href="../chapters/election-science/election-science.html"><strong aria-hidden="true">8.11.</strong> Election Science</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Cooperation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">9.</strong> Cooperation for common good</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/how-to-tackle-disinformation.html"><strong aria-hidden="true">9.1.</strong> How to tackle disinformation?</a></li><li class="chapter-item expanded "><a href="../chapters/cooperation/cooperation-secrets.html"><strong aria-hidden="true">9.2.</strong> Secrets of Cooperation</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Education</li><li class="chapter-item expanded "><a href="../chapters/education/features-of-good-books-or-curriculum.html"><strong aria-hidden="true">10.</strong> Features of good books or curriculum</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/smartphones-evil-device.html"><strong aria-hidden="true">11.</strong> Smartphones: An Evil Device Stealing Children's Childhood</a></li><li class="chapter-item expanded "><a href="../chapters/education/books-recommendation.html"><strong aria-hidden="true">12.</strong> Curriculum Recommendation</a></li><li class="chapter-item expanded "><a href="../chapters/education/beyond_numbers.html"><strong aria-hidden="true">13.</strong> Beyond the Numbers: The Complexities of Assessment</a></li><li class="chapter-item expanded "><a href="../chapters/education/dystopian_school.html"><strong aria-hidden="true">14.</strong> A dystopian school: what does it look like?</a></li><li class="chapter-item expanded affix "><li class="part-title">AI/ Machine Learning</li><li class="chapter-item expanded "><a href="../chapters/do-we-have-to-fear-machine-learning-or-ai.html"><strong aria-hidden="true">15.</strong> Do we have to fear machine learning or AI?</a></li><li class="chapter-item expanded affix "><li class="part-title">Philosophy</li><li class="chapter-item expanded "><a href="../chapters/understanding-free-will-and-how-it-can-impact-our-behavior.html"><strong aria-hidden="true">16.</strong> Understanding free will and how it can impact our behavior</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/understanding_feedback_loop.html"><strong aria-hidden="true">17.</strong> Understanding feedback loop</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/fallacies.html"><strong aria-hidden="true">18.</strong> Important fallacies, paradox and biases</a></li><li class="chapter-item expanded "><a href="../chapters/programming/foss_philosophy.html"><strong aria-hidden="true">19.</strong> Open Source or Free Software or FOSS Philosophy</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/teach-about-foss.html"><strong aria-hidden="true">20.</strong> Fostering Responsibility in the Digital Age through Free and Open-Source Software</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/bread_and_circus.html"><strong aria-hidden="true">21.</strong> Modern-Day Bread and Circus</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/how_to_know_who_trustworthy.html"><strong aria-hidden="true">22.</strong> Key points – How to know who’s trustworthy</a></li><li class="chapter-item expanded "><a href="../chapters/academics/grit.html"><strong aria-hidden="true">23.</strong> Grit: The power of passion and perseverance</a></li><li class="chapter-item expanded affix "><li class="part-title">India Employment</li><li class="chapter-item expanded "><a href="../data/india_employment_data.html"><strong aria-hidden="true">24.</strong> India Employment Data</a></li><li class="chapter-item expanded affix "><li class="part-title">Programming</li><li class="chapter-item expanded "><a href="../chapters/programming/debugging_time.html"><strong aria-hidden="true">25.</strong> A Glimpse into a Coder's Experience</a></li><li class="chapter-item expanded "><a href="../chapters/programming/interdisciplinary.html"><strong aria-hidden="true">26.</strong> The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education</a></li><li class="chapter-item expanded affix "><li class="part-title">Computer</li><li class="chapter-item expanded "><a href="../chapters/computer/moore-law.html"><strong aria-hidden="true">27.</strong> Is Moore's Law Finally Dead?</a></li><li class="chapter-item expanded affix "><li class="part-title">Science</li><li class="chapter-item expanded "><a href="../chapters/reasoning/pseudoscience.html"><strong aria-hidden="true">28.</strong> Pseudoscience</a></li><li class="chapter-item expanded "><a href="../chapters/academics/academician.html"><strong aria-hidden="true">29.</strong> What are Scholarly Activities?</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/evidence-based_medicine.html"><strong aria-hidden="true">30.</strong> Evidence Based Medicine vs Alternative Medicine</a></li><li class="chapter-item expanded affix "><li class="part-title">Organization</li><li class="chapter-item expanded "><a href="../chapters/self-managed-institutes.html"><strong aria-hidden="true">31.</strong> When do self-managed institutes work?</a></li><li class="chapter-item expanded "><a href="../chapters/moonlighting-in-a-remote-work-world.html"><strong aria-hidden="true">32.</strong> Moonlighting</a></li><li class="chapter-item expanded "><a href="../chapters/micromanagement.html"><strong aria-hidden="true">33.</strong> Micromanagement</a></li><li class="chapter-item expanded affix "><li class="part-title">Biology</li><li class="chapter-item expanded "><a href="../chapters/complicatedness-of-sexuality.html"><strong aria-hidden="true">34.</strong> Complicatedness of Sexuality</a></li><li class="chapter-item expanded affix "><li class="part-title">Parenting</li><li class="chapter-item expanded "><a href="../chapters/parenting/baby_parenting.html"><strong aria-hidden="true">35.</strong> Baby Parenting</a></li><li class="chapter-item expanded affix "><li class="part-title">Drafts</li><li class="chapter-item expanded "><a href="../chapters/city-planning/pollution_construction.html"><strong aria-hidden="true">36.</strong> Pollution due to contruction</a></li><li class="chapter-item expanded affix "><li class="part-title">Links</li><li class="chapter-item expanded "><a href="../home.html"><strong aria-hidden="true">37.</strong> Page Links</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function (e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor"
+                            title="Toggle Table of Contents" aria-label="Toggle Table of Contents"
+                            aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                            aria-label="Change theme" aria-haspopup="true" aria-expanded="false"
+                            aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                            aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                            aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+
+                        <div id="google_translate_element"></div>
+
+                    </div>
+
+                    <h1 class="menu-title">I am brainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                            aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="what-if-crypto-token-prices-are-discovered-through-consensus-of-utility-rather-than-demand-and-supply"><a class="header" href="#what-if-crypto-token-prices-are-discovered-through-consensus-of-utility-rather-than-demand-and-supply">What if crypto token prices are discovered through consensus of utility rather than demand and supply?</a></h1>
+<h2 id="date-2022-12-19"><a class="header" href="#date-2022-12-19">date: "2022-12-19"</a></h2>
+<hr />
+<p>categories:</p>
+<ul>
+<li>"blockchain"</li>
+<li>"cryptocurrency"</li>
+<li>"dex"</li>
+</ul>
+<hr />
+<blockquote>
+<p>“The stock market is filled with individuals who know the price of everything, but the value of nothing.” — Phillip Fisher</p>
+</blockquote>
+<p>Scams involving cryptocurrency are extremely prevalent.
+The majority of coins on the cryptocurrency market are worthless meme coins, but they nevertheless manage to dupe individuals into parting by enticing them to grow their money and making them rich in no time.
+Crypto scams are currently not limited to big cities now they have even begun targeting underdeveloped villages in nations like India.</p>
+<p>The issue is caused by the price being determined by the supply and demand of tokens on exchanges without considering their utility. The prices of tokens depend on how many people you manage to fool, and the scammer's ability to make a sudden spike through pump and dump.</p>
+<p>Crypto scams, also negatively impact useful coins, and all currency prices move in sync, both good coins, and bad coins get dumped in a beer market.</p>
+<h2 id="bad-money-drives-out-good-so-we-need-to-eliminate-the-bad-money"><a class="header" href="#bad-money-drives-out-good-so-we-need-to-eliminate-the-bad-money">Bad money drives out good, so we need to eliminate the bad money</a></h2>
+<p>The price of tokens derived through demand and supply is suboptimal. It doesn't include a consensus from <a href="https://amiyatulu.github.io/blog/shivarthu/tyranny_of_the_majority.html">everyone or stakeholders</a>, but just the interacting party. So, they are free to produce as much as negative externality they like without any consequences.</p>
+<p>Can we discover prices through consensus and using human rationality rather than speculation, increase stability of coins prices and curtail <a href="https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt">FUD</a>? There may be some way out.</p>
+<p>The score schelling game can assist in determining cryptocurrency prices in decentralized exchanges by consensus and human reason.</p>
+<p>The algorithm is provided in the following link:
+<a href="./shivarthu/Shivarthu.html#price-discovery-of-positive-externality-through-score-schelling-game">Score schelling game</a></p>
+<p>But setting an exchange using score schelling game is not without challenges. One of the problem is arbitrage. If the AMM price is lower than the market price, then people will drain all the liquidity and sell it at a higher price in the market. The solution can be the ability to withdraw after a month or have a KYC so that you can't withdraw tokens after certain limits.
+Similarly, if the demand and utility of the token are more and the price is set lower, it can create a shortage, and more people will not be benefited, so, prices need to be increased through consensus.</p>
+<blockquote>
+<p>Another way is to tax the shit coins and subsidize the good coins based on the price discovery, and this won't impact the liquidity or create the problem of arbitrage, neither KYC is needed.
+Taxing can be done using market makers like Uniswap, and taxes collected are sold at lower discovered prices to buy or collect good coins and hence plummeting the shitcoin price and good coins collected are given as subsidies while exchanging the good coins . Liquidity providers can also be incentivized with tax collected.</p>
+</blockquote>
+<h2 id="rationality-disinformation-and-nudge"><a class="header" href="#rationality-disinformation-and-nudge"><strong>Rationality, Disinformation and Nudge</strong></a></h2>
+<p>Only a nudge while buying from an exchange can work to many extents.
+For example in real world, Adani stocks got plummeted by the Hindenburg report.</p>
+<p>A decentralized cryptoexchange with <a href="https://amiyatulu.github.io/blog/shivarthu/tyranny_of_the_majority.html">a good governance</a> can provide a nudge for discovered prices, or provide research review and discussion about the advantages, disadvantages, security and application of the cryptocurrency.</p>
+<p>An example nudge: "The price of the coin derived by decentralized experts is this. Do you want to buy the token at this price?"</p>
+<p>We also need to have good institutes to stop disinformation by scammers. <a href="./what-do-we-need-to-decentralize-in-the-coming-years.html">Social media</a> are usually a good target for online fraud.</p>
+<p>We can slowly increase the complexity of exchange with passing year that includes providing liquidity at predicted prices.</p>
+<p><strong>An example exchange:</strong></p>
+<p>Discovering price in crypto exchange using score Schelling game based on coin utility.</p>
+<p>Bitcoin = 0.1
+Ethereum = 0.4
+Polkadot = 0.3
+Near = 0.2</p>
+<p>Exchange:</p>
+<p>2 Near = 1 Ethereum</p>
+<p>To calculate the price you need to take into account:</p>
+<ol>
+<li>Utility of the token (Most priority)</li>
+<li>Total Supply of token</li>
+<li>Inflation or deflation of token</li>
+<li>Demand for token</li>
+</ol>
+<p>KYC of user, with limits to how much they can withdraw every day.</p>
+<p>There can be incentives for providing liquidity, and the ability sale your token at the discovered price during the initial coin offering.</p>
+<p>Price discovery every day or weekly.</p>
+<h2 id="what-will-be-impact-of-other-exchanges"><a class="header" href="#what-will-be-impact-of-other-exchanges">What will be impact of other exchanges?</a></h2>
+<p><a href="https://amiyatulu.github.io/blog/shivarthu/consensus_price_discovery.html">Details in the link.</a></p>
+<h2 id="a-better-method-that-dont-require-kyc"><a class="header" href="#a-better-method-that-dont-require-kyc">A better method that don't require KYC</a></h2>
+<p>The problem lies in whether sufficient liquidity is available. To address this issue, each participating blockchain can provide incentives for providing liquidity, similar to staking mechanisms. By providing liquidity, individuals can earn more tokens through minting as rewards. This incentivizes the creation of a steady pool of liquidity.</p>
+<blockquote>
+<p>In this way, we can create an ecosystem of supply chains with more accurate price discovery, making money available to everyone in a fair and just manner. No more FUD (fear, uncertainty, and doubt) or trading based on speculation rather than utility.</p>
+</blockquote>
+<p>Some work thats already done on prediction market:</p>
+<p><a href="https://github.com/zeitgeistpm/zeitgeist/tree/main">Zeitgeist</a></p>
+<p><a href="https://docs.zeitgeist.pm/docs/category/learn">Docs</a></p>
+<h2 id="prototype-code"><a class="header" href="#prototype-code">Prototype code:</a></h2>
+<p><a href="https://github.com/reaudito/uniswap-tax">Code</a></p>
+<p>A * B = constant_product</p>
+<p>Predict bad token:</p>
+<p>If B is bad token
+If swap A {{
+Substract from constant product
+}}</p>
+<p>If swap B {{
+Add to constant product
+}}</p>
+<pre><pre class="playground"><code class="language-rust">struct UniswapSimulator {
+    reserve_a: f64,
+    reserve_b: f64,
+    constant_product: f64,
+}
+
+impl UniswapSimulator {
+    fn new(reserve_a: f64, reserve_b: f64) -&gt; Self {
+        let constant_product = reserve_a * reserve_b;
+        UniswapSimulator {
+            reserve_a,
+            reserve_b,
+            constant_product,
+        }
+    }
+
+    fn get_price(&amp;self) -&gt; f64 {
+        self.reserve_b / self.reserve_a
+    }
+
+    fn swap(&amp;mut self, amount_in: f64, token_in: &amp;str) -&gt; f64 {
+        match token_in {
+            "A" =&gt; {
+                let new_reserve_a = self.reserve_a + amount_in;
+                let new_reserve_b = self.constant_product / new_reserve_a;
+                let amount_out = self.reserve_b - new_reserve_b;
+                self.reserve_a = new_reserve_a;
+                self.reserve_b = new_reserve_b;
+                amount_out
+            }
+            "B" =&gt; {
+                let new_reserve_b = self.reserve_b + amount_in;
+                let new_reserve_a = self.constant_product / new_reserve_b;
+                let amount_out = self.reserve_a - new_reserve_a;
+                self.reserve_a = new_reserve_a;
+                self.reserve_b = new_reserve_b;
+                amount_out
+            }
+            _ =&gt; panic!("Invalid token type. Use 'A' or 'B'."),
+        }
+    }
+
+    fn add_liquidity(&amp;mut self, amount_a: f64, amount_b: f64) {
+        self.reserve_a += amount_a;
+        self.reserve_b += amount_b;
+        self.constant_product = self.reserve_a * self.reserve_b;
+    }
+
+    fn remove_liquidity(&amp;mut self, liquidity_fraction: f64) -&gt; (f64, f64) {
+        let amount_a = self.reserve_a * liquidity_fraction;
+        let amount_b = self.reserve_b * liquidity_fraction;
+        self.reserve_a -= amount_a;
+        self.reserve_b -= amount_b;
+        self.constant_product = self.reserve_a * self.reserve_b;
+        (amount_a, amount_b)
+    }
+
+    fn change_constant_product(&amp;mut self, value: f64) {
+        self.constant_product += value;
+    }
+}
+
+fn pool_swap_a() {
+    let mut pool = UniswapSimulator::new(5000.0, 1000.0);
+
+    println!("Initial price of A in terms of B: {:.2}", pool.get_price());
+
+    let amount_b_received = pool.swap(10.0, "A");
+    println!("Swapped 10 A for {:.2} B", amount_b_received);
+
+    pool.add_liquidity(500.0, 500.0);
+    println!("Added 500 A and 500 B to the pool.");
+
+    let (amount_a_removed, amount_b_removed) = pool.remove_liquidity(0.5);
+    println!(
+        "Removed {:.2} A and {:.2} B from the pool.",
+        amount_a_removed, amount_b_removed
+    );
+}
+
+fn pool_plus_constant_product_swap_a() {
+    let mut pool = UniswapSimulator::new(5000.0, 1000.0);
+
+    pool.change_constant_product(50.0);
+
+    println!("Initial price of A in terms of B: {:.2}", pool.get_price());
+
+    let amount_b_received = pool.swap(10.0, "A");
+    println!("Swapped 10 A for {:.2} B", amount_b_received);
+
+    pool.add_liquidity(500.0, 500.0);
+    println!("Added 500 A and 500 B to the pool.");
+
+    let (amount_a_removed, amount_b_removed) = pool.remove_liquidity(0.5);
+    println!(
+        "Removed {:.2} A and {:.2} B from the pool.",
+        amount_a_removed, amount_b_removed
+    );
+}
+
+fn pool_minus_constant_product_swap_a() {
+    let mut pool = UniswapSimulator::new(5000.0, 1000.0);
+
+    pool.change_constant_product(-50.0);
+
+    println!("Initial price of A in terms of B: {:.2}", pool.get_price());
+
+    let amount_b_received = pool.swap(10.0, "A");
+    println!("Swapped 10 A for {:.2} B", amount_b_received);
+
+    pool.add_liquidity(500.0, 500.0);
+    println!("Added 500 A and 500 B to the pool.");
+
+    let (amount_a_removed, amount_b_removed) = pool.remove_liquidity(0.5);
+    println!(
+        "Removed {:.2} A and {:.2} B from the pool.",
+        amount_a_removed, amount_b_removed
+    );
+}
+
+fn pool_plus_constant_product_swap_b() {
+    let mut pool = UniswapSimulator::new(5000.0, 1000.0);
+
+    pool.change_constant_product(50.0);
+
+    println!("Initial price of A in terms of B: {:.2}", pool.get_price());
+
+    let amount_a_received = pool.swap(10.0, "B");
+    println!("Swapped 10 B for {:.2} A", amount_a_received);
+
+    pool.add_liquidity(500.0, 500.0);
+    println!("Added 500 A and 500 B to the pool.");
+
+    let (amount_a_removed, amount_b_removed) = pool.remove_liquidity(0.5);
+    println!(
+        "Removed {:.2} A and {:.2} B from the pool.",
+        amount_a_removed, amount_b_removed
+    );
+}
+
+fn pool_minus_constant_product_swap_b() {
+    let mut pool = UniswapSimulator::new(5000.0, 1000.0);
+
+    pool.change_constant_product(-50.0);
+
+    println!("Initial price of A in terms of B: {:.2}", pool.get_price());
+
+    let amount_a_received = pool.swap(10.0, "B");
+    println!("Swapped 10 B for {:.2} A", amount_a_received);
+
+    pool.add_liquidity(500.0, 500.0);
+    println!("Added 500 A and 500 B to the pool.");
+
+    let (amount_a_removed, amount_b_removed) = pool.remove_liquidity(0.5);
+    println!(
+        "Removed {:.2} A and {:.2} B from the pool.",
+        amount_a_removed, amount_b_removed
+    );
+}
+
+fn main() {
+    pool_swap_a();
+    println!("\n\n\nSwap A, add to constant factor");
+    pool_plus_constant_product_swap_a();
+    println!("\n\n\nSwap A, substract from constant factor");
+    pool_minus_constant_product_swap_a();
+    println!("\n\n\nSwap B, add to constant factor");
+    pool_plus_constant_product_swap_b();
+    println!("\n\n\nSwap B, substract from constant factor");
+    pool_minus_constant_product_swap_b();
+
+    println!(r#"
+        If B is bad token:
+
+        If swap A {{
+            Substract from constant product
+        }}
+
+        If swap B {{
+            Add to constant product
+        }}
+    "#);
+
+    pool_minus_constant_product_swap_a();
+    pool_plus_constant_product_swap_b();
+
+}</code></pre></pre>
+<h2 id="memecoins-drain-liquidity-from-the-broader-altcoin-market"><a class="header" href="#memecoins-drain-liquidity-from-the-broader-altcoin-market">Memecoins Drain Liquidity from the Broader Altcoin Market</a></h2>
+<p><a href="https://cointelegraph.com/news/waiting-for-altcoin-season-data-suggests-it-s-already-here">Waiting for altcoin season? Data suggests it’s already here</a></p>
+<p>Every time Bitcoin dominance drops, analysts say altcoin season is coming. But data suggests that the altseason already came and went.</p>
+<h3 id="1-concentration-of-capital-in-memecoins"><a class="header" href="#1-concentration-of-capital-in-memecoins">1. <strong>Concentration of Capital in Memecoins</strong></a></h3>
+<p>Memecoins, such as Dogecoin (DOGE), Shiba Inu (SHIB), and newer iterations like PEPE or WIF, often attract significant attention due to their viral nature, community-driven hype, and low entry costs. These coins can experience massive price surges in short periods, drawing in both retail and institutional investors looking for quick profits.</p>
+<ul>
+<li><strong>Liquidity Shift</strong>: When investors allocate funds to memecoins, they are effectively pulling capital away from other altcoins. This reduces the available liquidity in the broader altcoin market, as money that could have been invested in more established projects or innovative blockchain solutions is instead concentrated in memecoins.</li>
+<li><strong>Opportunity Cost</strong>: The opportunity cost of investing in memecoins is high. Funds locked into speculative memecoins are not available to support other projects, potentially stifling innovation and growth in the broader crypto ecosystem.</li>
+</ul>
+<h3 id="2-speculative-behavior-and-market-sentiment"><a class="header" href="#2-speculative-behavior-and-market-sentiment">2. <strong>Speculative Behavior and Market Sentiment</strong></a></h3>
+<p>Memecoins thrive on speculation and social media-driven FOMO (fear of missing out). This creates a feedback loop where investors prioritize short-term gains over long-term value creation.</p>
+<ul>
+<li><strong>Diversion of Attention</strong>: Memecoins often dominate headlines and social media discussions, overshadowing meaningful developments in the broader altcoin space. Investors may focus disproportionately on memecoins, neglecting projects with stronger fundamentals or real-world use cases.</li>
+<li><strong>Volatility and Risk</strong>: The highly volatile nature of memecoins can lead to rapid inflows and outflows of liquidity. When memecoins crash, investors may withdraw entirely from the crypto market rather than reallocating funds to other altcoins, further reducing overall liquidity.</li>
+</ul>
+<h3 id="3-market-fragmentation"><a class="header" href="#3-market-fragmentation">3. <strong>Market Fragmentation</strong></a></h3>
+<p>The proliferation of memecoins contributes to market fragmentation, where liquidity is spread thinly across thousands of tokens. This fragmentation has several implications:</p>
+<ul>
+<li><strong>Dilution of Liquidity</strong>: Instead of concentrating liquidity in a smaller number of high-quality projects, the crypto market becomes fragmented, with liquidity dispersed across countless memecoins. This makes it harder for individual altcoins to maintain sufficient trading volume and price stability.</li>
+<li><strong>Barriers for New Projects</strong>: Established altcoins and emerging projects face increased competition for funding and attention. With so many memecoins vying for investor interest, legitimate projects may struggle to attract the liquidity needed to grow and innovate.</li>
+</ul>
+<h3 id="4-retail-investor-dominance"><a class="header" href="#4-retail-investor-dominance">4. <strong>Retail Investor Dominance</strong></a></h3>
+<p>Memecoins tend to attract a large number of retail investors who may lack the sophistication or knowledge to evaluate the broader altcoin market. This demographic shift can have several effects:</p>
+<ul>
+<li><strong>Short-Term Focus</strong>: Retail investors are often more interested in quick profits than long-term investment strategies. This mindset encourages frequent trading and speculative behavior, which can destabilize the broader market.</li>
+<li><strong>Reduced Institutional Participation</strong>: Institutional investors, who typically seek stable and predictable markets, may be deterred by the volatility and unpredictability caused by memecoins. Their reduced participation can further erode liquidity in the broader altcoin market.</li>
+</ul>
+<h3 id="5-regulatory-and-reputational-risks"><a class="header" href="#5-regulatory-and-reputational-risks">5. <strong>Regulatory and Reputational Risks</strong></a></h3>
+<p>The rise of memecoins has drawn scrutiny from regulators and critics, who often view them as speculative bubbles or even scams. This negative perception can have ripple effects on the broader crypto market:</p>
+<ul>
+<li><strong>Loss of Credibility</strong>: The association of cryptocurrencies with memecoins can damage the reputation of the entire industry, making it harder for legitimate projects to gain trust and attract investment.</li>
+<li><strong>Regulatory Crackdowns</strong>: If regulators target memecoins due to concerns about fraud or market manipulation, the resulting uncertainty can lead to a liquidity crunch across the crypto market.</li>
+</ul>
+<h3 id="conclusion"><a class="header" href="#conclusion">Conclusion</a></h3>
+<p>In summary, memecoins can drain liquidity from the broader altcoin market by concentrating capital in speculative assets, diverting attention from meaningful projects, fragmenting the market, encouraging short-term behavior, and creating reputational risks. While memecoins can provide entertainment and opportunities for profit, their dominance may hinder the development of a more mature and sustainable crypto ecosystem.</p>
+<p><strong>Memecoins drain liquidity from the broader altcoin market by concentrating capital in speculative assets, diverting attention from meaningful projects, fragmenting the market, encouraging short-term behavior, and creating reputational risks.</strong></p>
+<h3 id="key-idea-median-price-discovery-with-commit-and-reveal-scheme"><a class="header" href="#key-idea-median-price-discovery-with-commit-and-reveal-scheme"><strong>Key Idea: Median Price Discovery with Commit-and-Reveal Scheme</strong></a></h3>
+<p>The core concept here is to use a <strong>median price discovery mechanism</strong> to determine the price of a token based on rational participants' inputs (e.g., bids and asks). A <strong>commit-and-reveal scheme</strong> ensures that participants cannot manipulate the process by observing others' actions before committing their own. Additionally, <strong>time locks</strong> and <strong>circuit breakers</strong> are used to prevent bulk arbitrage and drastic price changes.</p>
+<p>Let’s examine each component:</p>
+<hr />
+<h3 id="1-median-price-discovery"><a class="header" href="#1-median-price-discovery"><strong>1. Median Price Discovery</strong></a></h3>
+<h4 id="how-it-works"><a class="header" href="#how-it-works"><strong>How It Works</strong></a></h4>
+<ul>
+<li>Participants submit their proposed prices for the token.</li>
+<li>The system calculates the <strong>median price</strong> from these submissions, which becomes the reference price for trades.</li>
+<li>This approach minimizes the influence of outliers (e.g., manipulative bids or asks) because the median is less sensitive to extreme values than the mean.</li>
+</ul>
+<h4 id="strengths"><a class="header" href="#strengths"><strong>Strengths</strong></a></h4>
+<ul>
+<li><strong>Resilience to Manipulation</strong>: The median reduces the impact of malicious actors submitting artificially high or low prices.</li>
+<li><strong>Decentralized Price Discovery</strong>: Multiple participants contribute to price determination, avoiding reliance on a single source.</li>
+</ul>
+<h4 id="weaknesses"><a class="header" href="#weaknesses"><strong>Weaknesses</strong></a></h4>
+<ul>
+<li><strong>Rationality Assumption</strong>: The system assumes that participants are rational and aim to provide accurate price estimates. However, irrational or malicious actors could still submit skewed prices.</li>
+<li><strong>Low Participation Risk</strong>: If participation is low, the median may not reflect true market demand, leading to inefficiencies.</li>
+</ul>
+<hr />
+<h3 id="2-commit-and-reveal-scheme"><a class="header" href="#2-commit-and-reveal-scheme"><strong>2. Commit-and-Reveal Scheme</strong></a></h3>
+<h4 id="how-it-works-1"><a class="header" href="#how-it-works-1"><strong>How It Works</strong></a></h4>
+<ul>
+<li>Participants commit to their price submissions without revealing them publicly.</li>
+<li>After a predefined period, participants reveal their committed prices.</li>
+<li>The system then calculates the median price based on the revealed submissions.</li>
+</ul>
+<h4 id="strengths-1"><a class="header" href="#strengths-1"><strong>Strengths</strong></a></h4>
+<ul>
+<li><strong>Prevents Front-Running</strong>: Since participants cannot see others' submissions during the commit phase, they cannot adjust their own submissions to manipulate the outcome.</li>
+<li><strong>Fairness</strong>: All participants have an equal opportunity to influence the price discovery process.</li>
+</ul>
+<h4 id="weaknesses-1"><a class="header" href="#weaknesses-1"><strong>Weaknesses</strong></a></h4>
+<ul>
+<li><strong>Complexity</strong>: The commit-and-reveal process introduces additional steps, which may deter casual users.</li>
+<li><strong>Coordination Overhead</strong>: Ensuring timely commitment and revelation requires coordination and trust in the system.</li>
+<li><strong>Revelation Risks</strong>: If some participants fail to reveal their commitments, the process may become incomplete or biased.</li>
+</ul>
+<hr />
+<h3 id="3-time-locks"><a class="header" href="#3-time-locks"><strong>3. Time Locks</strong></a></h3>
+<h4 id="how-it-works-2"><a class="header" href="#how-it-works-2"><strong>How It Works</strong></a></h4>
+<ul>
+<li>Trades or price updates are locked for a specific time period (e.g., 5 minutes, 1 hour).</li>
+<li>During this period, no new trades or price adjustments can occur.</li>
+</ul>
+<h4 id="strengths-2"><a class="header" href="#strengths-2"><strong>Strengths</strong></a></h4>
+<ul>
+<li><strong>Reduces Arbitrage Opportunities</strong>: By locking prices, you prevent rapid price swings caused by arbitrageurs exploiting discrepancies between your platform and external markets.</li>
+<li><strong>Stabilizes Prices</strong>: Time locks give the market time to absorb information and stabilize.</li>
+</ul>
+<h4 id="weaknesses-2"><a class="header" href="#weaknesses-2"><strong>Weaknesses</strong></a></h4>
+<ul>
+<li><strong>Reduced Liquidity</strong>: Time locks limit trading activity, which can reduce liquidity and increase slippage.</li>
+<li><strong>User Frustration</strong>: Traders may find the delays inconvenient, especially if they need to react quickly to market conditions.</li>
+</ul>
+<hr />
+<h3 id="4-circuit-breakers"><a class="header" href="#4-circuit-breakers"><strong>4. Circuit Breakers</strong></a></h3>
+<h4 id="how-it-works-3"><a class="header" href="#how-it-works-3"><strong>How It Works</strong></a></h4>
+<ul>
+<li>If the price moves beyond a predefined threshold (e.g., ±10% within a short period), trading is paused temporarily.</li>
+<li>Once the circuit breaker is triggered, the system evaluates whether to resume trading or implement additional measures (e.g., recalculating the median price).</li>
+</ul>
+<h4 id="strengths-3"><a class="header" href="#strengths-3"><strong>Strengths</strong></a></h4>
+<ul>
+<li><strong>Prevents Flash Crashes</strong>: Circuit breakers protect against extreme price swings caused by large trades or arbitrage attacks.</li>
+<li><strong>Promotes Stability</strong>: They give the market time to recover and reassess the situation.</li>
+</ul>
+<h4 id="weaknesses-3"><a class="header" href="#weaknesses-3"><strong>Weaknesses</strong></a></h4>
+<ul>
+<li><strong>Disruption</strong>: Frequent circuit breaker activations can disrupt trading and erode confidence in the platform.</li>
+<li><strong>Threshold Sensitivity</strong>: Setting the right threshold is challenging. Too tight, and the circuit breaker triggers unnecessarily; too loose, and it fails to prevent significant price swings.</li>
+</ul>
+<hr />
+<h3 id="5-simple-order-book"><a class="header" href="#5-simple-order-book"><strong>5. Simple Order Book</strong></a></h3>
+<h4 id="how-it-works-4"><a class="header" href="#how-it-works-4"><strong>How It Works</strong></a></h4>
+<ul>
+<li>A traditional order book is used to match buy and sell orders.</li>
+<li>The order book operates based on the median price determined by the commit-and-reveal scheme.</li>
+</ul>
+<h4 id="strengths-4"><a class="header" href="#strengths-4"><strong>Strengths</strong></a></h4>
+<ul>
+<li><strong>Familiarity</strong>: Order books are widely understood and trusted by traders.</li>
+<li><strong>Transparency</strong>: Participants can see the state of the order book, fostering trust.</li>
+</ul>
+<h4 id="weaknesses-4"><a class="header" href="#weaknesses-4"><strong>Weaknesses</strong></a></h4>
+<ul>
+<li><strong>Liquidity Dependency</strong>: An order book requires sufficient liquidity to function effectively. Low liquidity can lead to wide spreads and poor price discovery.</li>
+<li><strong>Arbitrage Risks</strong>: Without additional safeguards, arbitrageurs can exploit price differences between your order book and external markets.</li>
+</ul>
+<hr />
+<h3 id="6-rational-price-discoverers"><a class="header" href="#6-rational-price-discoverers"><strong>6. Rational Price Discoverers</strong></a></h3>
+<h4 id="assumption"><a class="header" href="#assumption"><strong>Assumption</strong></a></h4>
+<ul>
+<li>The system relies on "rational price discoverers" who submit accurate price estimates based on market conditions.</li>
+</ul>
+<h4 id="challenges"><a class="header" href="#challenges"><strong>Challenges</strong></a></h4>
+<ul>
+<li><strong>Incentives</strong>: How do you incentivize participants to act rationally? Without proper incentives, participants may submit arbitrary or manipulative prices.</li>
+<li><strong>Participation</strong>: Attracting enough rational participants to ensure accurate price discovery is non-trivial.</li>
+</ul>
+<hr />
+<h3 id="evaluation-of-the-overall-idea"><a class="header" href="#evaluation-of-the-overall-idea"><strong>Evaluation of the Overall Idea</strong></a></h3>
+<h4 id="strengths-5"><a class="header" href="#strengths-5"><strong>Strengths</strong></a></h4>
+<ol>
+<li><strong>Mitigates Arbitrage</strong>: The combination of time locks, circuit breakers, and a median price discovery mechanism reduces opportunities for arbitrage.</li>
+<li><strong>Fair Price Discovery</strong>: The commit-and-reveal scheme ensures fairness and minimizes manipulation risks.</li>
+<li><strong>Stability</strong>: Circuit breakers and time locks promote price stability, reducing volatility.</li>
+</ol>
+<h4 id="weaknesses-5"><a class="header" href="#weaknesses-5"><strong>Weaknesses</strong></a></h4>
+<ol>
+<li><strong>Complexity</strong>: The multi-layered approach (median price, commit-and-reveal, time locks, circuit breakers) introduces significant complexity, which may deter users.</li>
+<li><strong>Liquidity Concerns</strong>: Time locks and circuit breakers reduce liquidity, making the platform less attractive to traders.</li>
+<li><strong>Adoption Challenges</strong>: Convincing users to adopt a new system (especially one requiring KYC or other restrictions) is difficult, particularly in decentralized ecosystems.</li>
+</ol>
+<hr />
+<h3 id="practical-implementation-considerations"><a class="header" href="#practical-implementation-considerations"><strong>Practical Implementation Considerations</strong></a></h3>
+<ol>
+<li>
+<p><strong>Incentivizing Rational Participants</strong></p>
+<ul>
+<li>Offer rewards (e.g., tokens, discounts on fees) to participants who consistently submit accurate prices.</li>
+<li>Penalize malicious behavior (e.g., skewing prices) by slashing deposits or banning accounts.</li>
+</ul>
+</li>
+<li>
+<p><strong>Hybrid Approach</strong></p>
+<ul>
+<li>Combine the median price discovery mechanism with a traditional AMM (Automated Market Maker) to balance fairness and liquidity.</li>
+</ul>
+</li>
+<li>
+<p><strong>Community Governance</strong></p>
+<ul>
+<li>Allow the community to vote on parameters like circuit breaker thresholds, time lock durations, and incentives for price discoverers.</li>
+</ul>
+</li>
+<li>
+<p><strong>Testing and Iteration</strong></p>
+<ul>
+<li>Pilot the system on a small scale to identify and address potential issues before full deployment.</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="conclusion-1"><a class="header" href="#conclusion-1"><strong>Conclusion</strong></a></h3>
+<p>Your idea of using a <strong>median price discovery mechanism</strong> with a <strong>commit-and-reveal scheme</strong>, <strong>time locks</strong>, and <strong>circuit breakers</strong> is a creative and theoretically sound approach to mitigate arbitrage and promote fair price discovery. However, its success depends on overcoming challenges related to complexity, liquidity, and user adoption.</p>
+<p>By carefully designing incentives, testing the system iteratively, and combining it with existing mechanisms (e.g., order books or AMMs), you can create a robust framework that balances fairness, stability, and usability.</p>
+<p><strong>This idea has potential but requires careful design and implementation to address challenges like complexity, liquidity, and user adoption. Combining it with incentives, community governance, and hybrid mechanisms can enhance its effectiveness.</strong></p>
+<h2 id="challenges-in-eliminating-shitcoins"><a class="header" href="#challenges-in-eliminating-shitcoins"><strong>Challenges in Eliminating Shitcoins</strong></a></h2>
+<h4 id="a-human-psychology-and-speculation"><a class="header" href="#a-human-psychology-and-speculation"><strong>a. Human Psychology and Speculation</strong></a></h4>
+<ul>
+<li><strong>Meme Coins Thrive on Hype</strong>: Meme coins often gain popularity due to viral marketing, celebrity endorsements, or community-driven narratives. These factors are difficult to quantify or regulate through voting or price discovery mechanisms.</li>
+<li><strong>Speculative Behavior</strong>: Many investors buy meme coins not because they believe in their utility but because they hope for quick profits. This behavior persists even if the token is flagged as low-quality.</li>
+</ul>
+<h4 id="b-decentralization-and-forking"><a class="header" href="#b-decentralization-and-forking"><strong>b. Decentralization and Forking</strong></a></h4>
+<ul>
+<li><strong>Forking</strong>: If a token is delisted or flagged as low-quality, its creators or supporters can fork it into a new version. This undermines the effectiveness of any filtering mechanism.</li>
+<li><strong>Off-Chain Trading</strong>: Even if a token is removed from your platform, users can trade it off-chain or on other platforms, bypassing your restrictions.</li>
+</ul>
+<h4 id="c-community-resistance"><a class="header" href="#c-community-resistance"><strong>c. Community Resistance</strong></a></h4>
+<ul>
+<li><strong>Token Communities</strong>: Meme coins often have strong, vocal communities that resist attempts to delist or devalue their tokens. These communities may retaliate (e.g., by creating forks or migrating to other platforms).</li>
+</ul>
+<h4 id="d-lack-of-objective-criteria"><a class="header" href="#d-lack-of-objective-criteria"><strong>d. Lack of Objective Criteria</strong></a></h4>
+<ul>
+<li>Defining what constitutes a "shitcoin" is subjective. Some tokens may appear low-quality initially but gain utility later. Overly restrictive criteria could stifle innovation.</li>
+</ul>
+<hr />
+<h3 id="potential-benefits-of-commit-and-reveal-voting"><a class="header" href="#potential-benefits-of-commit-and-reveal-voting"><strong>Potential Benefits of Commit and Reveal voting</strong></a></h3>
+<p>Despite the challenges, commit-and-reveal voting and rational price discovery can offer some benefits in reducing the prevalence of shitcoins:</p>
+<h4 id="a-improved-token-quality"><a class="header" href="#a-improved-token-quality"><strong>a. Improved Token Quality</strong></a></h4>
+<ul>
+<li>By requiring tokens to pass a voting or price discovery process, you can filter out tokens with no utility, clear signs of manipulation, or fraudulent intent.</li>
+</ul>
+<h4 id="b-community-engagement"><a class="header" href="#b-community-engagement"><strong>b. Community Engagement</strong></a></h4>
+<ul>
+<li>Involving the community in decision-making fosters trust and transparency. Users are more likely to support a platform where they have a say in governance.</li>
+</ul>
+<h4 id="c-reduced-manipulation"><a class="header" href="#c-reduced-manipulation"><strong>c. Reduced Manipulation</strong></a></h4>
+<ul>
+<li>Commit-and-reveal voting and median price discovery reduce the ability of bad actors to manipulate token listings or prices.</li>
+</ul>
+<hr />
+<h3 id="limitations-in-practice"><a class="header" href="#limitations-in-practice"><strong>Limitations in Practice</strong></a></h3>
+<h4 id="a-cannot-fully-eliminate-shitcoins"><a class="header" href="#a-cannot-fully-eliminate-shitcoins"><strong>a. Cannot Fully Eliminate Shitcoins</strong></a></h4>
+<ul>
+<li>Shitcoins and meme coins thrive on decentralized ecosystems where barriers to entry are low. Even if you eliminate them from your platform, they can exist elsewhere.</li>
+</ul>
+<h4 id="b-speculative-behavior-persists"><a class="header" href="#b-speculative-behavior-persists"><strong>b. Speculative Behavior Persists</strong></a></h4>
+<ul>
+<li>The root cause of meme coin popularity—human psychology and the allure of quick profits—cannot be eliminated by technical or governance mechanisms alone.</li>
+</ul>
+<h4 id="c-regulatory-risks"><a class="header" href="#c-regulatory-risks"><strong>c. Regulatory Risks</strong></a></h4>
+<ul>
+<li>Enforcing strict token listing criteria or voting mechanisms may attract regulatory scrutiny, especially if perceived as censorship or centralization.</li>
+</ul>
+<hr />
+<h3 id="recommendations-for-implementation"><a class="header" href="#recommendations-for-implementation"><strong>Recommendations for Implementation</strong></a></h3>
+<p>If you want to use commit-and-reveal voting and rational price discovery to reduce the prevalence of shitcoins, consider the following recommendations:</p>
+<h4 id="a-hybrid-approach"><a class="header" href="#a-hybrid-approach"><strong>a. Hybrid Approach</strong></a></h4>
+<ul>
+<li>Combine voting mechanisms with other filters, such as:
+<ul>
+<li>Minimum trading volume requirements.</li>
+<li>Proof of utility or development activity.</li>
+<li>Reputation systems for token creators.</li>
+</ul>
+</li>
+</ul>
+<h4 id="b-incentivize-rational-participation"><a class="header" href="#b-incentivize-rational-participation"><strong>b. Incentivize Rational Participation</strong></a></h4>
+<ul>
+<li>Reward participants who consistently provide accurate votes or price estimates.</li>
+<li>Penalize malicious behavior (e.g., submitting false votes or skewed prices).</li>
+</ul>
+<h4 id="c-educate-the-community"><a class="header" href="#c-educate-the-community"><strong>c. Educate the Community</strong></a></h4>
+<ul>
+<li>Educate users about the risks of investing in low-quality tokens and promote transparency in token issuance.</li>
+</ul>
+<h4 id="d-allow-appeals"><a class="header" href="#d-allow-appeals"><strong>d. Allow Appeals</strong></a></h4>
+<ul>
+<li>Provide a mechanism for token creators to appeal delisting decisions, ensuring fairness and reducing backlash.</li>
+</ul>
+<h4 id="e-focus-on-utility"><a class="header" href="#e-focus-on-utility"><strong>e. Focus on Utility</strong></a></h4>
+<ul>
+<li>Prioritize tokens with clear use cases, active development teams, and real-world applications. This shifts the focus away from speculative assets.</li>
+</ul>
+<hr />
+<h3 id="conclusion-2"><a class="header" href="#conclusion-2"><strong>Conclusion</strong></a></h3>
+<p>Commit-and-reveal voting and rational price discovery can help <strong>reduce the prevalence of shitcoins or meme coins</strong> by introducing objective criteria and community-driven governance. However, these mechanisms cannot fully eliminate shitcoins due to the decentralized nature of cryptocurrencies, human psychology, and the ease of forking or trading elsewhere.</p>
+<p>To maximize effectiveness, combine these mechanisms with other filters, incentives, and educational efforts. Ultimately, the goal should be to promote high-quality tokens while maintaining the principles of decentralization and user empowerment.</p>
+<p><strong>Final Answer</strong>: <strong>Commit-and-reveal voting and rational price discovery can help reduce shitcoins but cannot fully eliminate them due to human psychology, decentralization, and speculative behavior. A hybrid approach combining these mechanisms with additional filters and incentives is more effective.</strong></p>
+<h2 id="supply-chains"><a class="header" href="#supply-chains">Supply Chains</a></h2>
+<p><strong>Different supply chains can be built with their own cryptocurrency.</strong></p>
+<p>Supply chains can use free market pricing derived from demand and supply where required rather than consensus pricing, or price derived by governance.</p>
+<ol>
+<li>No price ceiling or floor so that there are no shortage or wastage.</li>
+<li>A large number of buyers and sellers</li>
+<li>Subsidize positive externality and tax negative externality</li>
+<li>Perfect information with all information of utilities available</li>
+<li>No more than average 5 hours of working hours per day for employees and no <a href="https://en.wikipedia.org/wiki/Bullshit_Jobs">bullshit jobs</a></li>
+<li>Sustainable production</li>
+<li>Governance with expertise that takes care of the whole system like setting taxes or subsidies.</li>
+<li>Equitable token distribution, so that everyone can create a demand and rich doesn't get richer.</li>
+</ol>
+<h2 id="food-delivery"><a class="header" href="#food-delivery">Food Delivery</a></h2>
+<p><strong>Take for example modified version of the cooked food supply chain such as Zomato.</strong></p>
+<ol>
+<li>Free monthly tokens can be given to kyc users collected from the <a href="%5Bhttps://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.html#randomized-tax-collection">randomized tax</a>. With monthly token you can make some purchases for free.</li>
+<li>Large number of buyers and sellers</li>
+<li>Tax unhealthy food, which means a percentage of transaction cost is collected and added to a governance account.</li>
+<li>Subsidize healthy food like fruits and vegetables which means the buyers or sellers are given a few additional tokens during the transaction.</li>
+<li>Governance with expertise that takes care of the whole system like setting taxes or subsidies.</li>
+<li>No commission by the trade maker or app provider</li>
+</ol>
+<p>Subsidies cause more trade and can be wasteful due to deadweight loss if it's not a positive externality.</p>
+<p>To enhance the platform, it is necessary to develop a Decentralized Autonomous Organization (DAO) for shipment management, as well as a reputation system for both buyers and sellers. This reputation system should incorporate attributes such as the quality of food offered by sellers, and handle issues related to information asymmetry.</p>
+<h2 id="ride-sharing"><a class="header" href="#ride-sharing">Ride sharing</a></h2>
+<p><strong>Now look at ride-sharing supply chain like ola:</strong></p>
+<ol>
+<li>Free monthly tokens can be given to KYC user collected from the randomized tax. It keeps the currency deflationary with a fixed supply. (<a href="https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection">https://github.com/amiyatulu/shivarthu/blob/main/docs/Shivarthu.md#randomized-tax-collection</a>)</li>
+<li>Large number of buyers and sellers</li>
+<li>Tax fossil fuel bikes or cars</li>
+<li>Subsidize electric bikes or bicycle ride</li>
+<li>Governance with expertise that takes care of the whole system like setting taxes or subsidies and women's safety.</li>
+<li>No commission by the trade maker or app provider</li>
+</ol>
+<h2 id="agriculture"><a class="header" href="#agriculture">Agriculture</a></h2>
+<p><strong>Another example can be the supply chain of precision farming</strong> (like hydroponics agriculture, biofloc fish farming, <a href="https://agricultureguruji.com/hydroponic-fodder/">hydroponics livestock feed</a>) :</p>
+<p><a href="https://www.weforum.org/agenda/2019/11/netherlands-dutch-farming-agriculture-sustainable/?utm_source=Facebook%20Videos&amp;utm_medium=Facebook%20Videos&amp;utm_campaign=Facebook%20Video%20Blogs">The Netherlands might be a small country, but it's the second-largest exporter of agriculture in the world.</a></p>
+<ol>
+<li>Governance to allocate money to farmers through algorithm like score schelling game for buying equipment for precision farming that can be paid through installment.</li>
+<li><a href="https://github.com/amiyatulu/shivarthu">Expertise governance</a> for collecting data and analyzing data collected from precision farming and providing feedback to farmers.</li>
+<li>Decentralized supply chain tracking system from production to consumers, so that both consumer and producers get fair prices, and there is no surplus/wastage or shortages.</li>
+<li>Some UBI to consumers so that they can always create a demand.</li>
+<li>Incentivizing learning for precision farming.</li>
+</ol>
+<p>Vertical farming offers several benefits compared to traditional agricultural methods:</p>
+<ol>
+<li>
+<p>Increased crop yield: Vertical farming maximizes the use of space by stacking plants vertically, allowing for multiple layers of cultivation. This approach can significantly increase crop yields per square meter of land compared to traditional farming methods.</p>
+</li>
+<li>
+<p>Efficient land use: Vertical farms can be built in urban areas, unused buildings, or even indoors, making them independent of arable land availability. This enables farming in densely populated areas, reducing the need for long-distance transportation of produce.</p>
+</li>
+<li>
+<p>Year-round cultivation: Vertical farming utilizes controlled environments, such as indoor facilities or greenhouses, which enable year-round cultivation regardless of external weather conditions. This leads to consistent crop production and reduces the risks associated with seasonal variations.</p>
+</li>
+<li>
+<p>Water conservation: Vertical farming employs hydroponic or aeroponic systems that recycle and conserve water. These methods use significantly less water than conventional farming, as water is efficiently delivered directly to the roots of plants, minimizing wastage through evaporation or runoff.</p>
+</li>
+<li>
+<p>Reduction in pesticide use: The controlled environment of vertical farms reduces the risk of pest infestations, decreasing the need for chemical pesticides. Additionally, vertical farming systems often incorporate integrated pest management techniques and can employ natural predators to control pests effectively.</p>
+</li>
+<li>
+<p>Energy efficiency: Although vertical farms require energy for lighting, heating, and cooling, advancements in LED technology and energy management systems have made them more energy-efficient over time. Furthermore, renewable energy sources, such as solar panels or wind turbines, can be integrated into vertical farming systems, further reducing the carbon footprint. The photosynthesis process has an upper limit of around 11% in terms of its maximum theoretical efficiency. Consequently, LED lights utilized in vertical farming exhibit inefficiency. However, it remains possible to employ natural light/sunlight for vertical farming purposes.</p>
+</li>
+<li>
+<p>Reduced transportation and logistics: By establishing vertical farms close to urban centers or directly within them, the distance between the farm and consumer is significantly reduced. This reduces the time and energy required for transportation, leading to fresher produce and lower carbon emissions associated with food transportation.</p>
+</li>
+<li>
+<p>Enhanced food security: Vertical farming can contribute to local food production, reducing dependence on long-distance imports and enhancing food security. It provides the opportunity to cultivate a wide variety of crops, including specialty or exotic produce, that may not be locally available through conventional farming.</p>
+</li>
+<li>
+<p>GMOs in Controlled Environments: The possibility of using GMOs exists in precision agriculture, such as precision vertical farming or hydroponics, where cultivation occurs in controlled environments without <a href="https://cban.ca/gmos/issues/environmental-impacts/">leakage into the surrounding environment</a>. GMOs with high yields and nutritional benefits can be considered, but their use requires appropriate regulations and rigorous testing (e.g. <a href="http://natureinstitute.org/nontarget/">Nontarget Effects of Genetic Manipulation</a>) to ensure their safety for human health. Additionally, the crops are not patented, which prevents the creation of monopolies and protects farmers. One example of GMOs involves producing genetically modified sugarcane or corn using aeroponics or hydroponics, and then utilizing them to <a href="https://grist.org/food/cooking-oil-deforestation-startup-sugarcane-solution/">produce vegetable oil with yeast</a>. This approach can help address the deforestation problem and reduce environmental impact, making it conducive to positive outcomes in life cycle assessments (LCAs).</p>
+</li>
+<li>
+<p>Mitigation of environmental impact: By minimizing land use, conserving water, reducing pesticide usage, and optimizing energy consumption, vertical farming has the potential to mitigate some of the negative environmental impacts associated with conventional agriculture, such as deforestation, water pollution, and greenhouse gas emissions.</p>
+</li>
+<li>
+<p>Educational and research opportunities: Vertical farming serves as a platform for education, research, and innovation in agriculture and sustainable food production. It allows for experimentation with new techniques, crop varieties, and cultivation methods, fostering advancements in agricultural practices and knowledge.</p>
+</li>
+</ol>
+<p>While vertical farming has numerous benefits, it also faces challenges related to initial investment costs, energy consumption, and scalability. However, ongoing technological advancements and increasing interest in sustainable food production are expected to address these challenges over time.</p>
+<blockquote>
+<p>The high upfront costs of precision vertical farming, which amount to crores, pose a significant barrier for individuals to establish such operations. However, through the power of collective funding and governance, vertical farming can become both accessible and practical. One possible approach is to consider community investment, with each person contributing around $25 (which <a href="./empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html">can be paid back in form of UBI or agricultural outputs</a>), to establish community-run vertical farming ventures.</p>
+</blockquote>
+<p>Privacy and large-scale computation are an important requirements for building decentralized supply chains. <a href="https://fleek.network/">New blockchains</a> and <a href="https://www.risczero.com/">zero knowledge proofs</a> are do made to solve these issues.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        <a rel="prev" href="../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.html" class="mobile-nav-chapters previous"
+                            title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+
+                        <a rel="next prefetch" href="../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html" class="mobile-nav-chapters next"
+                            title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                <a rel="prev" href="../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.html" class="nav-chapters previous" title="Previous chapter"
+                    aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+
+                <a rel="next prefetch" href="../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html" class="nav-chapters next" title="Next chapter"
+                    aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+
+
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+            }
+        </script>
+
+        <script type="text/javascript"
+            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+    </div>
+
+</body>
+
+</html>

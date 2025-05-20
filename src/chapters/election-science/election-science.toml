@@ -1,0 +1,107 @@
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+What is the spoiler effect in the context of social choice theory and politics?
+"""
+prompt.distractors = [
+    "When a large group of voters strategically vote for a single candidate to ensure their victory.",
+    "The impact of a charismatic candidate who attracts votes away from their party's traditional base.",
+    "The phenomenon where voters change their preference due to the influence of social media.",
+]
+answer.answer = "When a large group of like-minded voters split their votes among multiple candidates"
+context = """
+In social choice theory and politics, the spoiler effect refers to a situation where a large group of like-minded voters split their votes among multiple candidates, which can affect the result of an election by allowing a candidate with a smaller base of support to win with a plurality.
+"""
+id = "8a122e82-310f-40ea-adc6-0df9b6834714"
+
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+How does the spoiler effect influence election outcomes?
+"""
+prompt.distractors = [
+    "It ensures that only candidates with broad appeal across different voter groups win.",
+    "It encourages candidates to focus their campaigns on appealing to a broad range of voters to avoid vote splitting.",
+    "The spoiler effect increases voter turnout, as more people are motivated to participate to support their preferred candidate.",
+]
+answer.answer = " It can result in the victory of a candidate with a smaller base of support, even if they are not the first choice of most voters."
+context = """
+In elections, there is a phenomenon known as the "spoiler effect," where a minor candidate can impact the outcome by pulling votes away from a major candidate. This happens when voters who might otherwise support the major candidate are drawn to the minor candidate, resulting in a split of votes between them. As a consequence, the major candidate may lose the election, even though they had a higher initial support base. In such cases, the minor candidate is referred to as a "spoiler candidate," and the major candidate is said to have been "spoiled." This situation is also commonly known as "vote splitting," highlighting how the distribution of votes among similar or allied candidates can unintentionally benefit another candidate or party.
+"""
+id = "27c150d3-e767-4b22-83b8-96a713acca8e"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+What is Arrow's Impossibility Theorem?
+"""
+prompt.distractors = [
+    "It proves that the spoiler effect can be eliminated through the use of advanced voting mechanisms.",
+    "It assumes that all voters participate and have equal influence in the election outcome.",
+    "It provides a theoretical basis for advocating for proportional representation or ranked-choice voting systems.",
+]
+answer.answer = "Arrow's theorem states that all rank-based voting systems are inherently vulnerable to the spoiler effect."
+id = "9ef90ae5-737d-4975-908b-2395439b5211"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Arrow's Impossibility Theorem applies to which type of voting systems?
+"""
+prompt.distractors = [
+    "Rated voting systems",
+    "Approval voting systems",
+    "Direct democracy voting systems",
+]
+answer.answer = "Ordinal voting systems ones in which the voters rank candidates over other"
+id = "bd80fa5a-e06c-46bc-9632-9683fe7daad1"
+
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Which voting system can help avoid vote splitting, according to alternatives to Arrow's Impossibility Theorem?
+"""
+prompt.distractors = [
+    "Majority rule voting",
+    "Ordinal voting",
+    "Plurality voting",
+]
+answer.answer = "Approval voting"
+context = """
+Arrow's Impossibility Theorem only applies to ordinal voting systems, ones in which the voters rank candidates over others. There is another way: rated voting systems. The simplest version is known as approval voting where instead of ranking the candidates, the voters just tick the candidates they approve of.
+"""
+id = "9692ea22-5654-4227-b796-61eab0e49519"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Which group of countries predominantly uses the First-Past-the-Post (FPTP) voting method?
+"""
+prompt.distractors = [
+    "European Union members",
+    "None of the above",
+    "Nordic Countries",
+]
+answer.answer = "Former British colonies"
+context = """
+Many countries that were formerly part of the British Empire have inherited and continue to use the FPTP system as a result of their colonial legacy. This includes countries like the United Kingdom itself, the United States, Canada, India, Australia, and many others.
+"""
+id = "6bf57569-8dd1-4c74-84f8-55094b66a87e"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Why choose Approval Voting?
+"""
+prompt.distractors = [
+    "It avoids vote-splitting or the spoiler effect.",
+    "It decreases hyperpartisanship and polarization.",
+    "It's easier to tally or count.",
+]
+answer.answer = "All of the above. "
+context = """
+Approval Voting offers a solution to the "vote-splitting" or "spoiler effect," issues where similar candidates can divide support and lead to an outcome not representative of the majority's true preferences. It encourages voters to express support for multiple preferred candidates, reducing strategic voting that fuels hyperpartisanship and polarization. Lastly, it is indeed simpler to tally compared to some other voting methods.
+""""
+id = "0542c846-a4a5-4dde-9783-9d37a88ee4ea"

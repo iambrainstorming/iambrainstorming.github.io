@@ -1,0 +1,552 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>Features of good books or curriculum - I am brainstorming</title>
+
+
+    <!-- Custom HTML head -->
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="icon" href="../../favicon.svg">
+    <link rel="shortcut icon" href="../../favicon.png">
+    <link rel="stylesheet" href="../../css/variables.css">
+    <link rel="stylesheet" href="../../css/general.css">
+    <link rel="stylesheet" href="../../css/chrome.css">
+    <link rel="stylesheet" href="../../css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="../../fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="../../highlight.css">
+    <link rel="stylesheet" href="../../tomorrow-night.css">
+    <link rel="stylesheet" href="../../ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+
+    <!-- MathJax -->
+    <script async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-537XSSGF4P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-537XSSGF4P');
+</script>
+
+</head>
+
+<body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Democracy and supply chain</li><li class="chapter-item expanded "><a href="../../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.html"><strong aria-hidden="true">1.</strong> Manifesto: What would we gain from eliminating the national fiat currency?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html"><strong aria-hidden="true">1.1.</strong> Price discovery of decentralized supply chain</a></li><li class="chapter-item expanded "><a href="../../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html"><strong aria-hidden="true">1.2.</strong> What do we need to decentralize in the coming years?</a></li><li class="chapter-item expanded "><a href="../../chapters/relationships-emotions-and-happiness.html"><strong aria-hidden="true">1.3.</strong> Emotion and empathy rather than materialism</a></li><li class="chapter-item expanded "><a href="../../chapters/education_system.html"><strong aria-hidden="true">1.4.</strong> Decentralized education system</a></li><li class="chapter-item expanded "><a href="../../chapters/rethinking-work-culture.html"><strong aria-hidden="true">1.5.</strong> Remote jobs or work from home with less working hours</a></li><li class="chapter-item expanded "><a href="../../chapters/invest_on_renewables.html"><strong aria-hidden="true">1.6.</strong> Clean energy like roof top solar and wind energy</a></li><li class="chapter-item expanded "><a href="../../chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.html"><strong aria-hidden="true">1.7.</strong> Banning single use plastic</a></li><li class="chapter-item expanded "><a href="../../chapters/building-better-cities.html"><strong aria-hidden="true">1.8.</strong> Sustainable housing design</a></li><li class="chapter-item expanded "><a href="../../chapters/broadband_share/broadband_share_idea.html"><strong aria-hidden="true">1.9.</strong> Decentralized Wifi</a></li><li class="chapter-item expanded "><a href="../../chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.html"><strong aria-hidden="true">1.10.</strong> Decentralized house building</a></li><li class="chapter-item expanded "><a href="../../chapters/road-planning-of-cities.html"><strong aria-hidden="true">1.11.</strong> Car-free cities</a></li><li class="chapter-item expanded "><a href="../../chapters/public_transport/comfortable_public_transport.html"><strong aria-hidden="true">1.12.</strong> How Can We Make Public Transport More Comfortable for People?</a></li><li class="chapter-item expanded "><a href="../../chapters/city-planning/rain_water_harvesting.html"><strong aria-hidden="true">1.13.</strong> City Planning: Rain Water Harvesting</a></li><li class="chapter-item expanded "><a href="../../chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html"><strong aria-hidden="true">1.14.</strong> Decentralizing Supermarkets Through Public Ownership and Control</a></li><li class="chapter-item expanded "><a href="../../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html"><strong aria-hidden="true">1.15.</strong> Love for USD pegged stable coin by the crypto community must end</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/tyranny_of_the_majority.html"><strong aria-hidden="true">1.16.</strong> Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/simple_majority_and_super_majority.html"><strong aria-hidden="true">1.17.</strong> Simple Majority vs Super Majority</a></li><li class="chapter-item expanded "><a href="../../chapters/capitalism-vs-socialism-which-one-is-working.html"><strong aria-hidden="true">1.18.</strong> Socialism vs Capitalism</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/dismissing_return.html"><strong aria-hidden="true">1.19.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../../chapters/shivarthu/Shivarthu.html"><strong aria-hidden="true">1.20.</strong> Shivarthu: A governance Protocol</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/competitive_collaboration.html"><strong aria-hidden="true">1.21.</strong> The Competitive Collaboration Algorithm</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/secure_blockchain_voting.html"><strong aria-hidden="true">1.22.</strong> Secure Blockchain Voting</a></li><li class="chapter-item expanded "><a href="../../chapters/capitalism/capitalistic_culture.html"><strong aria-hidden="true">1.23.</strong> Shift in Capitalistic Culture: From Independence to Corporate Dependency</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Economics</li><li class="chapter-item expanded "><a href="../../chapters/economics/yard-sale-model.html"><strong aria-hidden="true">2.</strong> Why income inequality exits? Yard-Sale-Model</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/dismissing_return.html"><strong aria-hidden="true">3.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/price_controls.html"><strong aria-hidden="true">4.</strong> Price Controls</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/tax_collection_simulation.html"><strong aria-hidden="true">5.</strong> A simplified tax simulation for poverty alleviation</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/what_is_govt.html"><strong aria-hidden="true">6.</strong> Government’s Monopoly on Money and Violence: A Double-Edged Sword</a></li><li class="chapter-item expanded "><a href="../../chapters/economics/are-tariffs-good.html"><strong aria-hidden="true">7.</strong> Do not reduce the tariff without ensuring technology transfer</a></li><li class="chapter-item expanded affix "><li class="part-title">Democracy</li><li class="chapter-item expanded "><a href="../../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html"><strong aria-hidden="true">8.</strong> Do we need a supreme leader? How can we share power between parties?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">8.1.</strong> How EVM works and Why it should be banned to save the democracy</a></li><li class="chapter-item expanded "><a href="../../chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.html"><strong aria-hidden="true">8.2.</strong> Open-list proportional representation vs. Mixed-member proportional representation</a></li><li class="chapter-item expanded "><a href="../../chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.html"><strong aria-hidden="true">8.3.</strong> Parliamentary or Presidential form of government? What's in the name?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/govt_controlling_information.html"><strong aria-hidden="true">8.4.</strong> How to share information under fascism or dictatorship?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/fascism.html"><strong aria-hidden="true">8.5.</strong> What a fascist government does?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/hinduism.html"><strong aria-hidden="true">8.6.</strong> Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/fascism_power.html"><strong aria-hidden="true">8.7.</strong> Necessary sources of political power by dictator</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/free-and-fair-election.html"><strong aria-hidden="true">8.8.</strong> What is free and fair elections?</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/pmla.html"><strong aria-hidden="true">8.9.</strong> Draconian and unconstitutional PMLA and UAPA provisions</a></li><li class="chapter-item expanded "><a href="../../chapters/democracy/upholding-justice.html"><strong aria-hidden="true">8.10.</strong> Upholding the Justice</a></li><li class="chapter-item expanded "><a href="../../chapters/election-science/election-science.html"><strong aria-hidden="true">8.11.</strong> Election Science</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Cooperation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">9.</strong> Cooperation for common good</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../chapters/how-to-tackle-disinformation.html"><strong aria-hidden="true">9.1.</strong> How to tackle disinformation?</a></li><li class="chapter-item expanded "><a href="../../chapters/cooperation/cooperation-secrets.html"><strong aria-hidden="true">9.2.</strong> Secrets of Cooperation</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Education</li><li class="chapter-item expanded "><a href="../../chapters/education/features-of-good-books-or-curriculum.html" class="active"><strong aria-hidden="true">10.</strong> Features of good books or curriculum</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/smartphones-evil-device.html"><strong aria-hidden="true">11.</strong> Smartphones: An Evil Device Stealing Children's Childhood</a></li><li class="chapter-item expanded "><a href="../../chapters/education/books-recommendation.html"><strong aria-hidden="true">12.</strong> Curriculum Recommendation</a></li><li class="chapter-item expanded "><a href="../../chapters/education/beyond_numbers.html"><strong aria-hidden="true">13.</strong> Beyond the Numbers: The Complexities of Assessment</a></li><li class="chapter-item expanded "><a href="../../chapters/education/dystopian_school.html"><strong aria-hidden="true">14.</strong> A dystopian school: what does it look like?</a></li><li class="chapter-item expanded affix "><li class="part-title">AI/ Machine Learning</li><li class="chapter-item expanded "><a href="../../chapters/do-we-have-to-fear-machine-learning-or-ai.html"><strong aria-hidden="true">15.</strong> Do we have to fear machine learning or AI?</a></li><li class="chapter-item expanded affix "><li class="part-title">Philosophy</li><li class="chapter-item expanded "><a href="../../chapters/understanding-free-will-and-how-it-can-impact-our-behavior.html"><strong aria-hidden="true">16.</strong> Understanding free will and how it can impact our behavior</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/understanding_feedback_loop.html"><strong aria-hidden="true">17.</strong> Understanding feedback loop</a></li><li class="chapter-item expanded "><a href="../../chapters/reasoning/fallacies.html"><strong aria-hidden="true">18.</strong> Important fallacies, paradox and biases</a></li><li class="chapter-item expanded "><a href="../../chapters/programming/foss_philosophy.html"><strong aria-hidden="true">19.</strong> Open Source or Free Software or FOSS Philosophy</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/teach-about-foss.html"><strong aria-hidden="true">20.</strong> Fostering Responsibility in the Digital Age through Free and Open-Source Software</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/bread_and_circus.html"><strong aria-hidden="true">21.</strong> Modern-Day Bread and Circus</a></li><li class="chapter-item expanded "><a href="../../chapters/philosophy/how_to_know_who_trustworthy.html"><strong aria-hidden="true">22.</strong> Key points – How to know who’s trustworthy</a></li><li class="chapter-item expanded "><a href="../../chapters/academics/grit.html"><strong aria-hidden="true">23.</strong> Grit: The power of passion and perseverance</a></li><li class="chapter-item expanded affix "><li class="part-title">India Employment</li><li class="chapter-item expanded "><a href="../../data/india_employment_data.html"><strong aria-hidden="true">24.</strong> India Employment Data</a></li><li class="chapter-item expanded affix "><li class="part-title">Programming</li><li class="chapter-item expanded "><a href="../../chapters/programming/debugging_time.html"><strong aria-hidden="true">25.</strong> A Glimpse into a Coder's Experience</a></li><li class="chapter-item expanded "><a href="../../chapters/programming/interdisciplinary.html"><strong aria-hidden="true">26.</strong> The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education</a></li><li class="chapter-item expanded affix "><li class="part-title">Computer</li><li class="chapter-item expanded "><a href="../../chapters/computer/moore-law.html"><strong aria-hidden="true">27.</strong> Is Moore's Law Finally Dead?</a></li><li class="chapter-item expanded affix "><li class="part-title">Science</li><li class="chapter-item expanded "><a href="../../chapters/reasoning/pseudoscience.html"><strong aria-hidden="true">28.</strong> Pseudoscience</a></li><li class="chapter-item expanded "><a href="../../chapters/academics/academician.html"><strong aria-hidden="true">29.</strong> What are Scholarly Activities?</a></li><li class="chapter-item expanded "><a href="../../chapters/reasoning/evidence-based_medicine.html"><strong aria-hidden="true">30.</strong> Evidence Based Medicine vs Alternative Medicine</a></li><li class="chapter-item expanded affix "><li class="part-title">Organization</li><li class="chapter-item expanded "><a href="../../chapters/self-managed-institutes.html"><strong aria-hidden="true">31.</strong> When do self-managed institutes work?</a></li><li class="chapter-item expanded "><a href="../../chapters/moonlighting-in-a-remote-work-world.html"><strong aria-hidden="true">32.</strong> Moonlighting</a></li><li class="chapter-item expanded "><a href="../../chapters/micromanagement.html"><strong aria-hidden="true">33.</strong> Micromanagement</a></li><li class="chapter-item expanded affix "><li class="part-title">Biology</li><li class="chapter-item expanded "><a href="../../chapters/complicatedness-of-sexuality.html"><strong aria-hidden="true">34.</strong> Complicatedness of Sexuality</a></li><li class="chapter-item expanded affix "><li class="part-title">Parenting</li><li class="chapter-item expanded "><a href="../../chapters/parenting/baby_parenting.html"><strong aria-hidden="true">35.</strong> Baby Parenting</a></li><li class="chapter-item expanded affix "><li class="part-title">Drafts</li><li class="chapter-item expanded "><a href="../../chapters/city-planning/pollution_construction.html"><strong aria-hidden="true">36.</strong> Pollution due to contruction</a></li><li class="chapter-item expanded affix "><li class="part-title">Links</li><li class="chapter-item expanded "><a href="../../home.html"><strong aria-hidden="true">37.</strong> Page Links</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function (e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor"
+                            title="Toggle Table of Contents" aria-label="Toggle Table of Contents"
+                            aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                            aria-label="Change theme" aria-haspopup="true" aria-expanded="false"
+                            aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                            aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                            aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+
+                        <div id="google_translate_element"></div>
+
+                    </div>
+
+                    <h1 class="menu-title">I am brainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                            aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="features-of-good-books-or-curriculum"><a class="header" href="#features-of-good-books-or-curriculum">Features of good books or curriculum</a></h1>
+<p><strong>Learning About Learning Resources</strong><br />
+<strong><a href="https://github.com/amiyatulu/teacher_resources">https://github.com/amiyatulu/teacher_resources</a></strong></p>
+<p>Textbook must cover six fundamental instructional strategies while presenting the information, defined by rigorous research.</p>
+<ol>
+<li><a href="http://www.learningscientists.org/blog/2016/9/1-1">Pairing graphics with words</a></li>
+<li><a href="http://www.learningscientists.org/blog/2016/8/25-1">Linking abstract concepts with concrete representations</a></li>
+</ol>
+<p><img src="../images/f77bb-abstract.jpg" alt="" /></p>
+<p><img src="../images/21c5c-concrete.png" alt="" /></p>
+<p>Why we face difficulty to remember abstract concepts?</p>
+<p><a href="https://iambrainstorming.wordpress.com/2017/03/08/why-we-face-difficulty-to-remember-non-concrete-information/">https://iambrainstorming.wordpress.com/2017/03/08/why-we-face-difficulty-to-remember-non-concrete-information/</a></p>
+<p>3) <a href="http://www.learningscientists.org/blog/2016/7/7-1">Posing probing questions</a></p>
+<p><img src="../images/screenshot-from-2019-04-07-19-58-55.png" alt="" /></p>
+<p><a href="http://mrkempnz.com/2014/06/questioning-the-most-powerful-tool-in-the-classroom-an-action-research.html">http://mrkempnz.com/2014/06/questioning-the-most-powerful-tool-in-the-classroom-an-action-research.html</a></p>
+<p>"What Makes a Great Question?" rubric<br />
+Why, how, what if, how do you know, what are the evidences</p>
+<p><img src="../images/08cc9-inquiry.png" alt="" /></p>
+<p><strong>What if and why not<br />
+helps you to find alternatives to a solution</strong></p>
+<ol start="4">
+<li>Repeatedly alternating problems with their solutions provided and problems that students must solve.</li>
+</ol>
+<p><img src="../images/solved_unsolved.png" alt="" /></p>
+<p>Solved example and unsolved problem <br />
+with steps of problem-solving strategy: 1) sort 2)strategize 3) solve and 4) check. <br />
+- Chemistry, A Molecular Approach by Nivaldo J. Tro</p>
+<p><a href="https://3starlearningexperiences.wordpress.com/2018/09/18/interleaving-variety-is-the-spice-of-learning/">Interleaving</a> and <a href="https://iambrainstorming.blogspot.in/2017/10/practicing-one-component-in-one-time-to.html">Component Practice</a> can be used for better transfer of learning with appropriate cognitive load.</p>
+<ol start="5">
+<li>Distributing practice</li>
+<li>Assessing to boost retention</li>
+</ol>
+<p>Detailed explanation of the strategies is given here, <a href="https://github.com/amiyatulu/teacher_resources/blob/master/NCTQ_Learning_About_Learning_1-16.pdf">NCTQ learning about learning</a>  <br />
+and <a href="http://www.learningscientists.org/">http://www.learningscientists.org/</a></p>
+<p><img src="../images/82964-six_strategies.jpg" alt="" /></p>
+<p>The problem with our education system:<br />
+<strong>Most (99%) books referred by our teachers (whether its schools or higher education), not even meet a single criterion, most importantly posing probing questions and linking abstract concepts with concrete representations, which are the foundation for learning and comprehension/understanding.</strong><br />
+The result is the student just try to score marks by repeating facts without being critical about it.<br />
+The bad books are the main reason why we have bad teachers and bad students. It's not that teacher doesn't work hard, they just don't teach which meet the criteria, so that learning happens.<br />
+It's not even fault of the <strong>administration</strong>, they <strong>put the books in the library what teacher recommend to them</strong>, and also naive students prefer books recommended by teachers.</p>
+<h4 id="some-of-the-books-that-meets-all-the-criteria-and-can-be-used-as-a-reference-to-identify-the-patterns-of-good-books"><a class="header" href="#some-of-the-books-that-meets-all-the-criteria-and-can-be-used-as-a-reference-to-identify-the-patterns-of-good-books"><strong>Some of the books that meets all the criteria and can be used as a reference to identify the patterns of good books:</strong></a></h4>
+<p><em>(You can skip this section for later analysis and jump to the patterns and features of good books)</em></p>
+<p>Conceptual Physics, by Paul G. Hewitt<br />
+The book is very well written, the book almost unraveling everything in physics with real-world examples. You will understand physics with concrete examples rather than just with abstract formulas and equations. Also, it has a practice book equally important. This book is right for understanding physics at the undergraduate and high school level.</p>
+<p>Chemistry a Molecular Approach,  Nivaldo J Tro<br />
+Books with lots of diagrams, probing questions, all abstract concepts are represented with concrete examples and analogy, repeatedly alternating problems with their solutions provided and problems that students must solve, regular assessments with right questions.</p>
+<p>Organic Chemistry as a Second Language, David Klein (First and Second Semester)<br />
+Author has terrifically written the book on organic chemistry. You will understand organic chemistry like never before, and no need to memorize just the equations and reactions day and night which are just a junk for students.</p>
+<p>Campbell Biology, Reece, Urry, Cain et. al.<br />
+In India, biology is taught in most horrible manner. Biology means how much memory you have, how much memorization you can do, not how much you understand the subject.<br />
+This book addresses the problem. You will understand biology and connect it to the real world. The diagrams in it are also wonderful. The questions in it promote inquiry and critical thinking.</p>
+<p>Genetics A Conceptual Approach, Benjamin Pierce<br />
+Even though it's not for high school students, but a must for undergraduate teachers. Teachers should follow the book and come for an inquiry-based lecture.</p>
+<p>Molecular Biology of the Cell, Alberts<br />
+A must for undergraduate and high school teachers. It has also got a problems book which contains gem like questions, which needs to be discussed among the students at the undergraduate and higher secondary level.</p>
+<p>Lehninger Principles of Biochemistry<br />
+It's another book, which lazy teachers are scared of. But without making an effort to understand biology, how will a teacher promote understanding among students?</p>
+<p>Fundamentals of Anatomy and Physiology, Martinin, Nath<br />
+Meticulously well-written book of anatomy and physiology, which an undergraduate teacher must follow.</p>
+<h2 id="here-are-some-of-the-more-features-and-patterns-that-a-good-book-should-contain"><a class="header" href="#here-are-some-of-the-more-features-and-patterns-that-a-good-book-should-contain"><strong>Here are some of the more features and patterns that a good book should contain:</strong></a></h2>
+<p>1) Statements or ideas or concepts should be <strong>backed by adequate examples and research data as evidence</strong>. Formulas should be provided with its implementation examples in physical situations.<br />
+e.g.<br />
+Have you ever heard the phrase “form follows function?” It’s a philosophy practiced in many industries. In architecture, this means that buildings should be constructed to support the activities that will be carried out inside them. For example, a skyscraper should be built with several elevator banks; a hospital should be built so that its emergency room is easily accessible.</p>
+<blockquote>
+<p><strong>One example is not enough, provide as many as you can to explain its use in a different context and situations</strong></p>
+</blockquote>
+<p><img src="../images/example.png" alt="example" /></p>
+<p>Function and Limits from book Essential Calculus by James Stewart</p>
+<p><strong>Give example questions to classify from several antagonistic observations.</strong></p>
+<p>e.g. In probability, a simple event is an outcome that cannot be further broken down into simple components. So its example can be:<br />
+Roll one die: 5 <strong>(simple event</strong>)<br />
+Rolling one die has 6 simple events: 1, 2, … 6<br />
+Roll two dice: 7 <strong>(not a simple event)</strong><br />
+Rolling two dice have 36 simple events: 1-1, 1-2,….., 6-6, and 7 is NOT a simple event because it CAN BE broken down into simpler events, such as 3-4 or 6-1.</p>
+<p><img src="../images/classification.png" alt="" /></p>
+<p>A classification Problem</p>
+<p>2) <strong>Diagrammatic representation of text</strong> with proper labeling and caption containing enough description should be provided.<br />
+e.g.</p>
+<p><img src="../images/2a284-feedforwad_loop.png" alt="" /></p>
+<p>Molecular Biology of the Cell, Alberts</p>
+<ol start="3">
+<li>Books should have <strong>analogies with the diagram</strong> in <strong>abundance</strong> to convert all abstract, new and tough concepts into concrete. It's an important feature, that makes a book exceptionally great and boosts learning</li>
+</ol>
+<blockquote>
+<p>Analogies can be misleading if it's not too close to the model you are explaining. Always provide contrasting characters of analogy in comparison to the real model.</p>
+</blockquote>
+<p>Example of an analogy: Converting AC to DC</p>
+<p>The converter uses a diode, a tiny electronic device that acts as a one-way valve to allow electron flow in one direction only. Since alternating current changes its direction each half-cycle, current passes through a diode only half of each period. The output is a rough dc, and it is off half the time. To maintain continuous current while smoothing the bumps, a capacitor is used. The capacitor acts as a storage reservoir for a charge.<br />
+Diagram with <strong>analogies</strong>:</p>
+<p><img src="../images/0f1c5-analogy1.png" alt="" /></p>
+<p><img src="../images/4d302-analogy2.png" alt="" /></p>
+<p>Conceptual Physics, by Paul G. Hewitt</p>
+<p>4)After the text has explained a concept, it must give few questions on the particular concept in the same place. The questions should be prepared in a manner that, it checks the understanding of the concept, not just recall of the concept.<br />
+5) Questions should be <strong>probing</strong>, also many questions should be <strong>graphics/diagrams with texts</strong>. Most books that are recommended usually don't contain visual questions. For example, if you look our books of biology, very less visual, and almost no probing questions are present, do compare with questions of Campbell Biology, Molecular Biology of the Cell, how they bring probing questions with visuals in them.</p>
+<p><img src="../images/91370-family.jpg" alt="" /></p>
+<p><img src="../images/e96a9-synthesize_questions.jpg" alt="" /></p>
+<p>Question from Campbell Biology</p>
+<ol start="6">
+<li>Length of the book should respect the time of students. It doesn't mean book can't be long or elaborative. Being elaborative is not about giving lots of different concepts or topics, it means explaining a few topics elaborately so that it requires least effort to grasp. A narrow but precise statement can take more time to comprehend than elaborative explanations with examples, images, and analogies.  Each sentence should have a purpose of being in the book.</li>
+</ol>
+<blockquote>
+<p>Don't make it (the content) simple, teach the complexity by simplifying it. The curriculum should cover the depth of a concept and breadth of the subject without the clutter.</p>
+</blockquote>
+<p><img src="../images/c7c75-book.jpg" alt="" /></p>
+<ol start="7">
+<li>Books should be written in a manner that they talk with the students, not throwing information like short notes.</li>
+</ol>
+<p><img src="../images/4ce43-trigonometry.jpg" alt="" /></p>
+<ol start="8">
+<li>A book should also provide memory assistance for hard to remember information.</li>
+</ol>
+<p>“<strong>K</strong>araoke <strong>p</strong>layers <strong>c</strong>an <strong>o</strong>rder <strong>f</strong>ree <strong>g</strong>rape <strong>s</strong>oda” </p>
+<p>Kingdom–phylum–class–order–family–genus–species</p>
+<p>9)Questions should have relevance to real problems, concrete situations, application based, not all hypothetical questions detached from reality.</p>
+<p><img src="../images/28ac0-c3eyufiwgaak3hn.jpg" alt="" /></p>
+<ol start="10">
+<li>Questions and distractor in the case of MQCs should be very clear, that checks the comprehension, without creating confusion. Many times questions are written in a way that is just difficult to understand, you can't even know what the question is actually asking, so how can you even try to solve it even if you understood the concepts.</li>
+<li>Each question in the textbook should have its purpose, <strong>problems shouldn't be designed just for the sake of doing it</strong>, it should <strong>improve</strong> the understanding of the concept at a deeper level, eliminate <strong>misconceptions</strong> and fix concept into memory.</li>
+</ol>
+<p><img src="../images/b52f4-rote.png" alt="" /></p>
+<p>A formula from NCERT Book</p>
+<blockquote>
+<p><strong>Why are our books filled with unnecessary short cut formulas?</strong></p>
+<p><a href="https://iambrainstorming.wordpress.com/2017/06/01/why-are-our-books-filled-with-unnecessary-short-cut-formulas/">https://iambrainstorming.wordpress.com/2017/06/01/why-are-our-books-filled-with-unnecessary-short-cut-formulas/</a></p>
+</blockquote>
+<ol start="12">
+<li>Real photograph and funny cartoons with explanations and questions (e.g. in case of representing resistance as zigzag wire, it can be represented as bulbs)</li>
+</ol>
+<p><img src="../images/4118b-photograph.png" alt="" /></p>
+<p><em>Conceptual Physics, by Paul G. Hewitt</em></p>
+<ol start="13">
+<li>Scientists interview or how they discovered a particular phenomenon along with their real photographs</li>
+</ol>
+<p><em>Venkatraman Ramakrishnan interview: Nobel prize for chemistry for work on <strong>ribosome</strong> structure</em></p>
+<p><img src="../images/8896d-venki.jpg" alt="" /></p>
+<p><em>Venkatraman Ramakrishnan</em></p>
+<p><em>"I remember reading a Scientific American article about the use of new physical techniques – including neutron scattering – as a method for unraveling the structure of the ribosome. I was fascinated. I knew ribosomes were a big fundamental problem in science and this was a method for chipping away at it."</em></p>
+<p><em>Proteins carry oxygen in our blood, form antibodies that fight microbes, and even sense light inside our eyes – and each protein that makes up a human is manufactured in a ribosome inside our cells. Each of our genes codes for a particular protein and the ribosome takes that piece of DNA code and uses it to assemble chains of amino acids until a protein is formed. "That is the central dogma which explains how information stored in our DNA is transformed into the proteins that make up a living being," says Venki.</em></p>
+<ol start="14">
+<li>Posing a probing question before explaining the topic.</li>
+</ol>
+<p><img src="../images/scientific-methods.png" alt="" /></p>
+<p><em>Conceptual Physical Science by Hewitt, Suchocki, Hewitt</em></p>
+<p>15) Books should include questions that address life skills like collaboration, and 21st-century skills like the ability to analyze and interpret data. It must have questions with a <strong>section for data interpretation and analysis and questions for group work</strong> along with conceptual, mathematical and review questions. </p>
+<p><img src="../images/237fc-scientific2bskills.png" alt="" /></p>
+<p>Chemistry a Molecular Approach,  Nivaldo J Tro</p>
+<p>An example of question that promotes critical thinking. Critical thinking questions are hard to develop and require a lot of time for research and effort:</p>
+<p><img src="../images/plusminus.jpg" alt="" /></p>
+<blockquote>
+<p>Questions should be brain friendly. Memory is reconstructive not reproductive.</p>
+</blockquote>
+<p><a href="https://iambrainstorming.wordpress.com/2018/02/17/question-designing-should-be-brain-friendly-cue-based/">https://iambrainstorming.wordpress.com/2018/02/17/question-designing-should-be-brain-friendly-cue-based/</a></p>
+<ol start="16">
+<li>Each section should give a <strong>message or lesson about big ideas</strong> that help to make a judgment or <strong>transfer of learning</strong> in different situations.  The essence of the message should be in the title that is descriptive and a further descriptive subtitle. </li>
+</ol>
+<p><img src="../images/ffb58-message2.png" alt="" /></p>
+<p>A descriptive title<br />
+from book Molecular Biology of the Cell, Alberts</p>
+<p><img src="../images/2fca5-message1.png" alt="" /></p>
+<p>A descriptive subtitle<br />
+from book Inorganic Chemistry<br />
+by Shriver, Weller, Overton, Rourke and Armstrong</p>
+<blockquote>
+<p>Is the content clever?<br />
+It's not adequate to have a comprehending content, its more to do with smart content (big ideas, learning it to apply in the real world thinking, building connections to link ideas to get the complete picture, encourage critical thinking and inquiry) for smart teaching and smart learning. </p>
+</blockquote>
+<p>17)Engaging style of telling is essential in scientific writing. A chapter may begin with a narrative/storytelling of scientific experiences of researchers and their comments, history and progression in the discussed field or example events relevant to the subject matter. Even narratives can be used in a separate text box to discuss example events or how researchers reach their conclusions.</p>
+<blockquote>
+<p>The narrative technique provides a deeper meaning for the reader and helps the reader to use imagination to visualize situations.</p>
+</blockquote>
+<p><img src="../images/d9c17-plant_colonization.png" alt="" /></p>
+<p>Colonization of Plants in the barren landscape<br />
+Campbell Biology, Reece, Urry, Cain et. al.</p>
+<blockquote>
+<p>But narratives should be used with caution as "the plural of anecdote is not data"</p>
+<p><a href="http://www.pnas.org/content/111/Supplement_4/13614.full">http://www.pnas.org/content/111/Supplement_4/13614.full</a></p>
+</blockquote>
+<p>Anecdotal evidence (evidence collected in a casual or informal manner and relying heavily or entirely on personal testimony) are not reliable evidences.</p>
+<p><strong>How to make stories with ABT (And, But, Therefore)?</strong></p>
+<blockquote>
+<p>There are three main forces involved in creating a story — agreement, contradiction, consequence.</p>
+<p>ABT: All you need to know to tell stories</p>
+<p>I WONDER Magazine <a href="http://www.azimpremjiuniversity.edu.in/SitePages/resources-iwonder-issue4.aspx">http://www.azimpremjiuniversity.edu.in</a><br />
+<a href="https://github.com/amiyatulu/teacher_resources/raw/master/Stories:AndButTherefore.pdf">https://github.com/amiyatulu/teacher_resources/raw/master/Stories:AndButTherefore.pdf</a></p>
+</blockquote>
+<p><img src="../images/abt.png" alt="" /></p>
+<p>ABT: All You need to know to tell stories by Randy Olson<br />
+i wonder</p>
+<blockquote>
+<p><strong>The conclusion should be supported by the premises and the arguments with contradictions, inconsistencies, and exceptions mentioned in the arguments.</strong></p>
+</blockquote>
+<blockquote>
+<p>Extremely simplified models are useful to anyone who understands the assumptions, understands how the assumptions drive outcomes, understands how violation of assumptions affects outcomes, and understands how this defines the scope of the original model and its extensions.</p>
+</blockquote>
+<p>There are three parts to any <a href="http://www.yitsplace.com/Programming/prop_parts.htm">proposition</a>:</p>
+<p>  The premises – i.e. facts which are already known or assumed.<br />
+  The argument – i.e. the logical chain of reasoning that leads from the premises to the conclusion.<br />
+  The conclusion - i.e. that which must be true if the premises are true and the argument is valid.</p>
+<blockquote>
+<p>The conclusion must be true IF the premises are true AND the argument is valid.</p>
+<p><a href="http://www.yitsplace.com/Programming/prop_parts.htm">http://www.yitsplace.com/Programming/prop_parts.htm</a></p>
+</blockquote>
+<p><img src="../images/logic.png" alt="" /></p>
+<p>A concise Introduction to Logic<br />
+by Patrick J. Hurley, Lori Watson</p>
+<p><img src="../images/logic2.png" alt="" /></p>
+<p>Without logic, your working long hours will make things even worse</p>
+<p><strong>18) Topics can have connection boxes containing discussion about situations that are surprising, nonintuitive or widely-held false ideas.</strong></p>
+<p><img src="../images/why-sex.png" alt="" /></p>
+<p>Why do males exits? Why bdelloids have completely abandoned sex?<br />
+Biology, the unity and diversity of life, by Starr, Taggart, Evers et al.</p>
+<p><strong>19)</strong> <strong>The author should have the liberty to include new relevant chapters, innovate in their subjects and shouldn't be hitched by the syllabus of the board. Students learning according to recent technology is most important. The author should only take that into consideration, not preparing them for syllabus or entrance.</strong></p>
+<p><em>e.g. Writing mathematics book linking with programming.</em><br />
+Students should be taught according to the availability of quality material not according to the syllabus. A syllabus without quality material is meaningless.</p>
+<ol start="20">
+<li>Content must be designed to accord with <strong>cognitive load theory</strong>. Cognitive load theory is built upon two commonly accepted ideas. The first is that there is a limit to how much new information the human brain can process at one time. The second is that there are no known limits to how much-stored information can be processed at one time.</li>
+</ol>
+<p>Cognitive overload occurs when the total cognitive load exceeds the working memory capacity of the learner.</p>
+<p>e.g. This material creates a <strong>high</strong> intrinsic <strong>cognitive load</strong> because of use of too many technical terminologies (many times hard to imagine and comprehend)  in a single sentence or paragraph.</p>
+<p><img src="../images/18d54-screenshot2bfrom2b2017-12-122b14-16-30.png" alt="" /></p>
+<p>NCERT Biology</p>
+<p>Cognitive load theory in detail:<br />
+<a href="https://github.com/amiyatulu/teacher_resources/raw/master/cognitive_load_theory_report_AA1.pdf">https://github.com/amiyatulu/teacher_resources/raw/master/cognitive_load_theory_report_AA1.pdf</a></p>
+<p><img src="../images/cognitive-load.png" alt="" /></p>
+<p>Education Centre for Education Statistics &amp; Evaluation</p>
+<blockquote>
+<p>New information should be presented slowly after the previous one is mastered by elaboration and practice.</p>
+<p><a href="https://iambrainstorming.blogspot.in/2017/10/practicing-one-component-in-one-time-to.html">https://iambrainstorming.blogspot.in/2017/10/practicing-one-component-in-one-time-to.html</a></p>
+</blockquote>
+<ol start="21">
+<li>Books should have learning outcomes or objectives at the beginning or end of each chapter. Examples, practice, and exercises that test your confidence and expertise in each learning objectives must be provided.</li>
+</ol>
+<p>An example of learning outcomes design in the textbooks:</p>
+<p>Learning outcomes can have checkboxes, for pre-check, post-check.<br />
+Students may mark the checkboxes with the following symbols<br />
+❌ : Novice<br />
+⭕: Developing<br />
+►: Forgotten<br />
+▣ : Expert</p>
+<p>It checks the level of confidence in the topics before and after learning. Students can use a pencil to mark the checkboxes, erase and reuse the checkboxes.<br />
+The preface of the book can have guidelines about "How to use the learning outcomes?" Learning outcomes can include <strong><em>each small components</em></strong> of learning in the checklist.</p>
+<p><img src="../images/d989f-learning_objectives.png" alt="" /></p>
+<p>Key Learning Outcomes from Book: Chemistry A Molecular Approach, Nivaldo J. Tro</p>
+<p>Blog on the importance of sharing learning outcomes:<br />
+<a href="http://www.learningscientists.org/blog/2017/10/4-1">Should I share my learning outcomes with students?</a></p>
+<ol start="22">
+<li>End of the chapter can provide references to the texts. <a href="https://student.unsw.edu.au/why-referencing-important">Referencing is a way to provide evidence to support the assertions and claims in the content.</a> It also helps the reader to dig deeper into the scientific methodology that validates the assertions and claims.</li>
+</ol>
+<p><img src="../images/80a0c-screenshot2bfrom2b2018-09-042b12-05-59.png" alt="" /></p>
+<p>The Psychology of Human Sexuality by Justin J. Lehmiller</p>
+<ol start="23">
+<li>Test what you write with students.</li>
+</ol>
+<blockquote>
+<p>Test the comprehension of every paragraph or section you write with a diverse group of students without previous knowledge about the subject. Ask students to explain the content you write and check whether they understand the text. Obtain feedback from them and improve the writing that answers their confusions and questions.</p>
+</blockquote>
+<blockquote>
+<p><strong>the curse of knowledge bias</strong></p>
+<p>Once you understand something you presume it to be obvious to everyone.</p>
+<p><a href="https://en.wikipedia.org/wiki/Curse_of_knowledge">https://en.wikipedia.org/wiki/Curse_of_knowledge</a></p>
+</blockquote>
+<ol start="24">
+<li>And last, books should have least mistakes, in texts as well as questions.</li>
+</ol>
+<p><em><strong>Lecture of the teacher reflects the book they follow.</strong></em> So it's most important they know which criteria a book should meet, and how learning happens.<br />
+Students should also be made aware of it, how learning happens.</p>
+<blockquote>
+<p><em><strong>Books should be concise (giving a lot of information clearly and in a few words; brief but comprehensive) with precise, specific and explicit (no room for confusion or doubt) wording without unnecessary repetition yet elaborative to assist students in learning and should also be a guide for teachers that instruct them how they will explain the concepts to students in the class.</strong></em></p>
+</blockquote>
+<p>The guidelines are biased towards science, not all points are applicable to arts and literature.</p>
+<p><em>One can identify such books with 15 mins of reading and turning pages.<br />
+But after you have learned all these attributes, and investigated these patterns by reading a few chapters of the given reference books.</em></p>
+<p><strong>The best, urgent and topmost thing our education ministry can do is take away and stop referring all the books and resources that don't meet these criteria.</strong></p>
+<p><strong>Why NCERT and other state board books are just toxic junk for our students?</strong><br />
+<a href="http://technoperiod.blogspot.in/2016/04/critical-analysis-of-12th-chemistry.html">http://technoperiod.blogspot.in/2016/04/critical-analysis-of-12th-chemistry.html</a></p>
+<p><a href="https://iambrainstorming.wordpress.com/2017/06/08/comparative-analysis-of-openstax-biology-and-ncert-biology/">https://iambrainstorming.wordpress.com/2017/06/08/comparative-analysis-of-openstax-biology-and-ncert-biology/</a></p>
+<p><strong>International books are expensive, what the solution?</strong><br />
+There are open access books such as <a href="https://openstax.org/">https://openstax.org/</a> that are written with effective learning standards. All pdf of the books are freely available under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> in which you are free to Share — copy and redistribute the material in any medium or format or Adapt — remix, transform, and build upon the material for any purpose, even commercially as long as you are providing attribution.<br />
+Also, the author of other international books can be asked for low price edition.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        <a rel="prev" href="../../chapters/cooperation/cooperation-secrets.html" class="mobile-nav-chapters previous"
+                            title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+
+                        <a rel="next prefetch" href="../../chapters/philosophy/smartphones-evil-device.html" class="mobile-nav-chapters next"
+                            title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                <a rel="prev" href="../../chapters/cooperation/cooperation-secrets.html" class="nav-chapters previous" title="Previous chapter"
+                    aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+
+                <a rel="next prefetch" href="../../chapters/philosophy/smartphones-evil-device.html" class="nav-chapters next" title="Next chapter"
+                    aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+
+
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+            }
+        </script>
+
+        <script type="text/javascript"
+            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+    </div>
+
+</body>
+
+</html>

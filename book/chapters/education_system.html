@@ -1,0 +1,426 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>Decentralized education system - I am brainstorming</title>
+
+
+    <!-- Custom HTML head -->
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="icon" href="../favicon.svg">
+    <link rel="shortcut icon" href="../favicon.png">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/general.css">
+    <link rel="stylesheet" href="../css/chrome.css">
+    <link rel="stylesheet" href="../css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="../fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="../highlight.css">
+    <link rel="stylesheet" href="../tomorrow-night.css">
+    <link rel="stylesheet" href="../ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+
+    <!-- MathJax -->
+    <script async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-537XSSGF4P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-537XSSGF4P');
+</script>
+
+</head>
+
+<body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Democracy and supply chain</li><li class="chapter-item expanded "><a href="../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.html"><strong aria-hidden="true">1.</strong> Manifesto: What would we gain from eliminating the national fiat currency?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html"><strong aria-hidden="true">1.1.</strong> Price discovery of decentralized supply chain</a></li><li class="chapter-item expanded "><a href="../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html"><strong aria-hidden="true">1.2.</strong> What do we need to decentralize in the coming years?</a></li><li class="chapter-item expanded "><a href="../chapters/relationships-emotions-and-happiness.html"><strong aria-hidden="true">1.3.</strong> Emotion and empathy rather than materialism</a></li><li class="chapter-item expanded "><a href="../chapters/education_system.html" class="active"><strong aria-hidden="true">1.4.</strong> Decentralized education system</a></li><li class="chapter-item expanded "><a href="../chapters/rethinking-work-culture.html"><strong aria-hidden="true">1.5.</strong> Remote jobs or work from home with less working hours</a></li><li class="chapter-item expanded "><a href="../chapters/invest_on_renewables.html"><strong aria-hidden="true">1.6.</strong> Clean energy like roof top solar and wind energy</a></li><li class="chapter-item expanded "><a href="../chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.html"><strong aria-hidden="true">1.7.</strong> Banning single use plastic</a></li><li class="chapter-item expanded "><a href="../chapters/building-better-cities.html"><strong aria-hidden="true">1.8.</strong> Sustainable housing design</a></li><li class="chapter-item expanded "><a href="../chapters/broadband_share/broadband_share_idea.html"><strong aria-hidden="true">1.9.</strong> Decentralized Wifi</a></li><li class="chapter-item expanded "><a href="../chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.html"><strong aria-hidden="true">1.10.</strong> Decentralized house building</a></li><li class="chapter-item expanded "><a href="../chapters/road-planning-of-cities.html"><strong aria-hidden="true">1.11.</strong> Car-free cities</a></li><li class="chapter-item expanded "><a href="../chapters/public_transport/comfortable_public_transport.html"><strong aria-hidden="true">1.12.</strong> How Can We Make Public Transport More Comfortable for People?</a></li><li class="chapter-item expanded "><a href="../chapters/city-planning/rain_water_harvesting.html"><strong aria-hidden="true">1.13.</strong> City Planning: Rain Water Harvesting</a></li><li class="chapter-item expanded "><a href="../chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html"><strong aria-hidden="true">1.14.</strong> Decentralizing Supermarkets Through Public Ownership and Control</a></li><li class="chapter-item expanded "><a href="../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html"><strong aria-hidden="true">1.15.</strong> Love for USD pegged stable coin by the crypto community must end</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/tyranny_of_the_majority.html"><strong aria-hidden="true">1.16.</strong> Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/simple_majority_and_super_majority.html"><strong aria-hidden="true">1.17.</strong> Simple Majority vs Super Majority</a></li><li class="chapter-item expanded "><a href="../chapters/capitalism-vs-socialism-which-one-is-working.html"><strong aria-hidden="true">1.18.</strong> Socialism vs Capitalism</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">1.19.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/shivarthu/Shivarthu.html"><strong aria-hidden="true">1.20.</strong> Shivarthu: A governance Protocol</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/competitive_collaboration.html"><strong aria-hidden="true">1.21.</strong> The Competitive Collaboration Algorithm</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/secure_blockchain_voting.html"><strong aria-hidden="true">1.22.</strong> Secure Blockchain Voting</a></li><li class="chapter-item expanded "><a href="../chapters/capitalism/capitalistic_culture.html"><strong aria-hidden="true">1.23.</strong> Shift in Capitalistic Culture: From Independence to Corporate Dependency</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Economics</li><li class="chapter-item expanded "><a href="../chapters/economics/yard-sale-model.html"><strong aria-hidden="true">2.</strong> Why income inequality exits? Yard-Sale-Model</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">3.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/economics/price_controls.html"><strong aria-hidden="true">4.</strong> Price Controls</a></li><li class="chapter-item expanded "><a href="../chapters/economics/tax_collection_simulation.html"><strong aria-hidden="true">5.</strong> A simplified tax simulation for poverty alleviation</a></li><li class="chapter-item expanded "><a href="../chapters/economics/what_is_govt.html"><strong aria-hidden="true">6.</strong> Government’s Monopoly on Money and Violence: A Double-Edged Sword</a></li><li class="chapter-item expanded "><a href="../chapters/economics/are-tariffs-good.html"><strong aria-hidden="true">7.</strong> Do not reduce the tariff without ensuring technology transfer</a></li><li class="chapter-item expanded affix "><li class="part-title">Democracy</li><li class="chapter-item expanded "><a href="../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html"><strong aria-hidden="true">8.</strong> Do we need a supreme leader? How can we share power between parties?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">8.1.</strong> How EVM works and Why it should be banned to save the democracy</a></li><li class="chapter-item expanded "><a href="../chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.html"><strong aria-hidden="true">8.2.</strong> Open-list proportional representation vs. Mixed-member proportional representation</a></li><li class="chapter-item expanded "><a href="../chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.html"><strong aria-hidden="true">8.3.</strong> Parliamentary or Presidential form of government? What's in the name?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/govt_controlling_information.html"><strong aria-hidden="true">8.4.</strong> How to share information under fascism or dictatorship?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism.html"><strong aria-hidden="true">8.5.</strong> What a fascist government does?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/hinduism.html"><strong aria-hidden="true">8.6.</strong> Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism_power.html"><strong aria-hidden="true">8.7.</strong> Necessary sources of political power by dictator</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/free-and-fair-election.html"><strong aria-hidden="true">8.8.</strong> What is free and fair elections?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/pmla.html"><strong aria-hidden="true">8.9.</strong> Draconian and unconstitutional PMLA and UAPA provisions</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/upholding-justice.html"><strong aria-hidden="true">8.10.</strong> Upholding the Justice</a></li><li class="chapter-item expanded "><a href="../chapters/election-science/election-science.html"><strong aria-hidden="true">8.11.</strong> Election Science</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Cooperation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">9.</strong> Cooperation for common good</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/how-to-tackle-disinformation.html"><strong aria-hidden="true">9.1.</strong> How to tackle disinformation?</a></li><li class="chapter-item expanded "><a href="../chapters/cooperation/cooperation-secrets.html"><strong aria-hidden="true">9.2.</strong> Secrets of Cooperation</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Education</li><li class="chapter-item expanded "><a href="../chapters/education/features-of-good-books-or-curriculum.html"><strong aria-hidden="true">10.</strong> Features of good books or curriculum</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/smartphones-evil-device.html"><strong aria-hidden="true">11.</strong> Smartphones: An Evil Device Stealing Children's Childhood</a></li><li class="chapter-item expanded "><a href="../chapters/education/books-recommendation.html"><strong aria-hidden="true">12.</strong> Curriculum Recommendation</a></li><li class="chapter-item expanded "><a href="../chapters/education/beyond_numbers.html"><strong aria-hidden="true">13.</strong> Beyond the Numbers: The Complexities of Assessment</a></li><li class="chapter-item expanded "><a href="../chapters/education/dystopian_school.html"><strong aria-hidden="true">14.</strong> A dystopian school: what does it look like?</a></li><li class="chapter-item expanded affix "><li class="part-title">AI/ Machine Learning</li><li class="chapter-item expanded "><a href="../chapters/do-we-have-to-fear-machine-learning-or-ai.html"><strong aria-hidden="true">15.</strong> Do we have to fear machine learning or AI?</a></li><li class="chapter-item expanded affix "><li class="part-title">Philosophy</li><li class="chapter-item expanded "><a href="../chapters/understanding-free-will-and-how-it-can-impact-our-behavior.html"><strong aria-hidden="true">16.</strong> Understanding free will and how it can impact our behavior</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/understanding_feedback_loop.html"><strong aria-hidden="true">17.</strong> Understanding feedback loop</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/fallacies.html"><strong aria-hidden="true">18.</strong> Important fallacies, paradox and biases</a></li><li class="chapter-item expanded "><a href="../chapters/programming/foss_philosophy.html"><strong aria-hidden="true">19.</strong> Open Source or Free Software or FOSS Philosophy</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/teach-about-foss.html"><strong aria-hidden="true">20.</strong> Fostering Responsibility in the Digital Age through Free and Open-Source Software</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/bread_and_circus.html"><strong aria-hidden="true">21.</strong> Modern-Day Bread and Circus</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/how_to_know_who_trustworthy.html"><strong aria-hidden="true">22.</strong> Key points – How to know who’s trustworthy</a></li><li class="chapter-item expanded "><a href="../chapters/academics/grit.html"><strong aria-hidden="true">23.</strong> Grit: The power of passion and perseverance</a></li><li class="chapter-item expanded affix "><li class="part-title">India Employment</li><li class="chapter-item expanded "><a href="../data/india_employment_data.html"><strong aria-hidden="true">24.</strong> India Employment Data</a></li><li class="chapter-item expanded affix "><li class="part-title">Programming</li><li class="chapter-item expanded "><a href="../chapters/programming/debugging_time.html"><strong aria-hidden="true">25.</strong> A Glimpse into a Coder's Experience</a></li><li class="chapter-item expanded "><a href="../chapters/programming/interdisciplinary.html"><strong aria-hidden="true">26.</strong> The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education</a></li><li class="chapter-item expanded affix "><li class="part-title">Computer</li><li class="chapter-item expanded "><a href="../chapters/computer/moore-law.html"><strong aria-hidden="true">27.</strong> Is Moore's Law Finally Dead?</a></li><li class="chapter-item expanded affix "><li class="part-title">Science</li><li class="chapter-item expanded "><a href="../chapters/reasoning/pseudoscience.html"><strong aria-hidden="true">28.</strong> Pseudoscience</a></li><li class="chapter-item expanded "><a href="../chapters/academics/academician.html"><strong aria-hidden="true">29.</strong> What are Scholarly Activities?</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/evidence-based_medicine.html"><strong aria-hidden="true">30.</strong> Evidence Based Medicine vs Alternative Medicine</a></li><li class="chapter-item expanded affix "><li class="part-title">Organization</li><li class="chapter-item expanded "><a href="../chapters/self-managed-institutes.html"><strong aria-hidden="true">31.</strong> When do self-managed institutes work?</a></li><li class="chapter-item expanded "><a href="../chapters/moonlighting-in-a-remote-work-world.html"><strong aria-hidden="true">32.</strong> Moonlighting</a></li><li class="chapter-item expanded "><a href="../chapters/micromanagement.html"><strong aria-hidden="true">33.</strong> Micromanagement</a></li><li class="chapter-item expanded affix "><li class="part-title">Biology</li><li class="chapter-item expanded "><a href="../chapters/complicatedness-of-sexuality.html"><strong aria-hidden="true">34.</strong> Complicatedness of Sexuality</a></li><li class="chapter-item expanded affix "><li class="part-title">Parenting</li><li class="chapter-item expanded "><a href="../chapters/parenting/baby_parenting.html"><strong aria-hidden="true">35.</strong> Baby Parenting</a></li><li class="chapter-item expanded affix "><li class="part-title">Drafts</li><li class="chapter-item expanded "><a href="../chapters/city-planning/pollution_construction.html"><strong aria-hidden="true">36.</strong> Pollution due to contruction</a></li><li class="chapter-item expanded affix "><li class="part-title">Links</li><li class="chapter-item expanded "><a href="../home.html"><strong aria-hidden="true">37.</strong> Page Links</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function (e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor"
+                            title="Toggle Table of Contents" aria-label="Toggle Table of Contents"
+                            aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                            aria-label="Change theme" aria-haspopup="true" aria-expanded="false"
+                            aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                            aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                            aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+
+                        <div id="google_translate_element"></div>
+
+                    </div>
+
+                    <h1 class="menu-title">I am brainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                            aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="how-to-solve-our-education-puzzzle"><a class="header" href="#how-to-solve-our-education-puzzzle">How to solve our education puzzzle?</a></h1>
+<h2 id="girls-education"><a class="header" href="#girls-education">Girls education</a></h2>
+<h3 id="when-we-invest-in-girls-education"><a class="header" href="#when-we-invest-in-girls-education">When we invest in girls’ education</a></h3>
+<p>Investing in girls' secondary education has far-reaching benefits that extend beyond individual gains. When girls are provided with equal opportunities to pursue education, their lifetime earnings significantly increase, breaking the cycle of poverty and empowering them to contribute to their communities and nations. National growth rates rise as a result of a more educated and skilled workforce. Additionally, social issues such as child marriage, child mortality, maternal mortality, and child stunting decline, leading to healthier and more prosperous communities. Despite these proven advantages, girls' education is often undervalued, especially in poorer families, due to societal norms and the misconception that girls will not contribute financially to their parents. By investing in girls' secondary education, we not only empower individual girls but also create a ripple effect of positive change that transforms societies and drives global progress.</p>
+<h2 id="bullying"><a class="header" href="#bullying">Bullying</a></h2>
+<p>In India, the concern is not just about bullying by classmates or seniors, but sometimes teachers act like a bully. This issue transcends verbal or emotional abuse, as instances have been reported where teachers resort to extreme measures for punishment.  e.g. In some alarming instances, teachers in India have resorted to extreme measures such as hanging students upside down from buildings, imposing a punishment of performing squats a hundred times, or even resorting to physical beatings with sticks.
+Children can suffer emotionally due to the power game of the management and teacher.</p>
+<h2 id="emotional-intelligence"><a class="header" href="#emotional-intelligence">Emotional Intelligence</a></h2>
+<p>Metal health has become a pandemic. Children with high emotional intelligence reduce stress, take responsibility for their actions, treat friends and family members with empathy and compassion.  </p>
+<h2 id="poverty"><a class="header" href="#poverty">Poverty</a></h2>
+<p>Education develops skills and abilities to earn a living. Not everyone who is uneducated is in extreme poverty, but those living in extreme poverty do lack basic education. </p>
+<h2 id="biases-and-stereotypes"><a class="header" href="#biases-and-stereotypes">Biases and stereotypes</a></h2>
+<p>For example, Girls are good at biology and boys are good at maths. We always have a tendency or prejudice toward or against something or someone. With proper scientific education, we can make better decisions and fall less towards biases. </p>
+<h2 id="reservation"><a class="header" href="#reservation">Reservation</a></h2>
+<p>Our education system is designed as a scarce resource. Quality education doesn't scale, as a result, we have limited seats, which leads to the reservation for lower caste to give them a chance for upliftment. </p>
+<h2 id="costly-education"><a class="header" href="#costly-education">Costly education</a></h2>
+<p>Privatization of schools and colleges has made education costly and inaccessible to a significant portion of the population. The shift towards privatization has resulted in a growing disparity between those who can afford quality education and those who cannot. This has led to a two-tiered system where the wealthy have access to superior resources and opportunities, while the less fortunate are left behind. The high cost of private education often forces families to make difficult choices, such as taking on significant debt or sacrificing other necessities to afford tuition fees. Furthermore, privatization can lead to a focus on profit over educational quality, with schools and colleges becoming businesses that prioritize financial gain over the well-being and success of their students</p>
+<h2 id="grades"><a class="header" href="#grades">Grades</a></h2>
+<p>Though competition keeps our focus on our goal, many times it turns toxic for grades that leads to <a href="https://en.wikipedia.org/wiki/Teaching_to_the_test">"teaching to test"</a> type of education. Thousands of students end their lives every year in India due to the toxic competition culture. </p>
+<h2 id="outdated-syllabus"><a class="header" href="#outdated-syllabus">Outdated syllabus</a></h2>
+<p>Due to the centralized and bureaucratic nature of education, it's so difficult to update the curriculum as no one is accountable for it and the curriculum is not updated for many decades. </p>
+<h2 id="unemployment"><a class="header" href="#unemployment">Unemployment</a></h2>
+<p>We have an education where 80% of engineers are unemployable in India. They lack the knowledge of new-edge technology that is needed for jobs.</p>
+<h2 id="child-labour"><a class="header" href="#child-labour">Child Labour</a></h2>
+<p>A total of 152 million children – 64 million girls and 88 million boys – are estimated to be in child labour globally, accounting for almost one in ten of all children worldwide. In India Census 2011, the total child population in India in the age group (5-14) years is 259.6 million. Of these, 10.1 million (3.9% of total child population) are working, either as ‘main worker’ or as ‘marginal worker’.<br />
+We can eliminate child labor providing income for learning.</p>
+<h2 id="so-how-can-avrit-solve-these-problems"><a class="header" href="#so-how-can-avrit-solve-these-problems">So, how can Avrit solve these problems?</a></h2>
+<h3 id="work-in-progress-currently-busy-in-builiding-an-experimental-governance"><a class="header" href="#work-in-progress-currently-busy-in-builiding-an-experimental-governance">Work in progress, currently busy in builiding an experimental governance</a></h3>
+<p><a href="https://avrit.reaudito.com">https://avrit.reaudito.com</a></p>
+<p><strong>A decentralized platform for earning by designing and reviewing the study material or content, assignments, projects, practicals, and assessments.</strong></p>
+<p>Avrit has evidence of learning as explainer videos. Instead of the teacher, the student will explain. The explainer script can be prepared by the teacher with the student's collaboration. Explainer script must meet the review guidelines and can be in both English and the native language, making sure the student has understood whatever they are saying. As students do the work, they participate in active learning and there is an increase in engagement. Making explainer videos has so many benefits, it works on multiple skills like critical thinking, improving their vocabulary, communication skills, and comprehension.</p>
+<p>Making explainer videos can be hectic for both teachers and students because it causes repetition of work and slows down the process. But repetition and slowing down causes brain to exercise which is key to comprehension and learning. Students engage actively rather than becoming passive listeners of lecture and don't get bored by learning. But it's a one time work for teacher, because explainer script can be used again and again among the students.</p>
+<p>Evidence of learning is not limited to explainer videos, it can be anything like practice assignments, real-world projects, or volunteering work like making the neighborhood garbage free.</p>
+<p>All are validated by Schelling game, so there is minimal chance of corruption.</p>
+<p>It's based on the competition collaboration algorithm:</p>
+<p><a href="./democracy/competitive_collaboration.html">The Competitive Collaboration Algorithm</a></p>
+<p>When you upload your evidence of learning based on meeting the guidelines of avrit learning by staking, and no one challenges it, you earn 1 AVRIT token. </p>
+<p>The apps like <a href="https://www.proofofhumanity.id/">proof of humanity</a> have proved that you can earn passive income just by validating that you are a real human.</p>
+<blockquote>
+<p>Here, in Avrit learning, your evidence of learning is validated and you earn an income. </p>
+<p>As it's decentralized in nature and you earn for learning, girls' education will not be a problem. It will be run by the local community with few students in a group, so chances of bullying are rare. The curriculum will be up to date due to the evidence-based learning strategy guidelines and due to the competition collaboration algorithm. Here teachers have the responsibility to update the curriculum by learning from other teachers rather than any central bureaucratic authority. We can also have teachers' governance that will provide recommendations for curriculum, learning content, and best practices. </p>
+<p>Quality education is no more a scarce resource and is scalable, so reservation is unnecessary, students are evaluated by evidence of learning, which also makes grades unnecessary. </p>
+<p>It's all <a href="https://github.com/amiyatulu/avrit_ui">open-source</a> and as it's on the blockchain, it's not owned by anybody, so no predatory practices by some private ed-tech company.  Currently, governance system is <a href="https://github.com/reaudito/shivarthu">build here</a>.</p>
+<p>The only problem we need the execution, where govts, NGOs and edupreneurs can come together for building learning hubs.</p>
+</blockquote>
+<h2 id="can-avrit-protocol-be-called-homeschooling"><a class="header" href="#can-avrit-protocol-be-called-homeschooling">Can Avrit protocol be called homeschooling?</a></h2>
+<p>Homeschooling is the education of school-aged children at home or a variety of places other than a school. Its depends on definition of homeschooling. You can set up avrit centers or avrit learning hubs at your home, or neighbor's homes, but also in school like building, or in school itself. We do require an educated tutor for educating the children. It's about <a href="https://en.wikipedia.org/wiki/Reinventing_Organizations">self-managed</a>, decentralized schooling without power games, private or government ownership of schools, but rather, public ownership. Avrit protocol is not limited to school-aged children but also for college going adults.</p>
+<h2 id="can-avrit-schooling-be-misused-to-provide-religious-teaching-to-children-by-parents"><a class="header" href="#can-avrit-schooling-be-misused-to-provide-religious-teaching-to-children-by-parents">Can Avrit schooling be misused to provide religious teaching to children by parents?</a></h2>
+<p>Avrit protocol can be run by <a href="./shivarthu/Shivarthu.html">decentralized governance</a>, and evidence of learning is evaluated collectively, and protected by game theory. So, it's hardly possible to do such things.</p>
+<h2 id="will-it-disadvantage-the-poor-is-it-sustainable"><a class="header" href="#will-it-disadvantage-the-poor-is-it-sustainable">Will it disadvantage the poor? Is it sustainable?</a></h2>
+<p>Avrit protocol has its own cryptocurrency token with robust token economics and can be further improved. With the increase in popularity, the market cap of the token will rise, a market cap of $1 Billion can provide about 10-100 Million funds per year for students and teachers.</p>
+<h2 id="is-it-experimental-or-lack-evidence"><a class="header" href="#is-it-experimental-or-lack-evidence">Is it experimental or lack evidence?</a></h2>
+<p>Self-managed organizations are not experimental. You can go through the book about teal organizations in the book (<a href="https://42683ff2b1a2ac5ad2fef0ee01995d78.ipfs.4everland.link/ipfs/bafybeig42esblqefhpyf4ozx5uhwl7nosxaddrvih274zpttgev7xoplxu?filename=Laloux%2C%20Frederic%20-%20Reinventing%20Organizations_%20A%20Guide%20to%20Creating%20Organizations%20Inspired%20by%20the%20Next%20Stage%20of%20Human%20Consciousness-Nelson%20Parker%20%282014%29.epub">Link</a>) for more details.</p>
+<p>"The Avrit protocol is based on already existing evidence. The platform can also help in running experiments and demonstrating its validation. It's still in active development, and there is always scope for improvement. Designing governance in blockchain has its own challenges. One needs to codify the governance design into a computer program so that it can be scaled.</p>
+<h2 id="does-it-mean-deregulation-of-the-education-system"><a class="header" href="#does-it-mean-deregulation-of-the-education-system">Does it mean deregulation of the education system?</a></h2>
+<p>It will limit the power of centralized governments and bureaucracy. Being on crypto or blockchain doesn't mean there are no rules and regulations. It will function under the purview of <a href="../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.html">decentralized governance</a> and rules of the smart contract.</p>
+<h2 id="is-india-a-homeschooling-country"><a class="header" href="#is-india-a-homeschooling-country">Is India a homeschooling country?</a></h2>
+<p>India, by its educational practices, can be considered a quasi-homeschooling country, as a significant majority of children spend more than 50% of their study time in home tuition classes. They are still in school because it provides the curriculum, systemization, and guidance on what to study and what not to study. Schools put children in a feedback loop of study, with homework assigned every day to be completed in tuition, and they also conduct exams.</p>
+<p>Although the practices of schools are questionable and not optimal, it can be chaotic without them. It's not optimal because the rigid structure and focus on rote learning may hinder a more holistic development of students, raising concerns about the overall quality of education in school. It's chaotic without it because homeschooling is unlikely to provide a systematic, structured, and evidence-based education that truly works.</p>
+<p>Parents and tuition teachers, although dedicated, are not necessarily experts in curriculum design. This gap in expertise underscores the need for a centralized board or governance structure to provide comprehensive recommendations and guidelines.  What we need is a redesign of the curriculum framework and governance to keep students in the feedback loop.</p>
+<h2 id="homeschooling-during-covid-19-times-was-a-dystopian-chaos"><a class="header" href="#homeschooling-during-covid-19-times-was-a-dystopian-chaos">Homeschooling during COVID-19 times was a dystopian chaos</a></h2>
+<p>Homeschooling during the COVID-19 pandemic brought about a dystopian chaos for many families. The conventional school experience, characterized by lively classrooms and face-to-face interactions, underwent a stark transformation. With children confined to their homes, a significant portion of their daily lives revolved around staring at screens, primarily mobile devices, for extended periods. This shift not only altered the nature of education but also disrupted the fundamental aspects of childhood.</p>
+<p>Gone were the days of personal communication with friends during breaks or in the hallways. Socialization became a virtual affair, limited to online interactions that lacked the spontaneity and authenticity of in-person connections. The absence of physical presence meant missing out on the subtleties of non-verbal communication and the shared experiences that contribute to the richness of friendships.</p>
+<p>Outdoor activities and games, once an integral part of a child's routine, took a back seat during this period. The lack of physical engagement and exposure to nature not only impacted physical health but also contributed to a sense of confinement and monotony. The inability to enjoy the simple pleasures of outdoor playtime added to the challenges of this unique homeschooling experience.</p>
+<p>Moreover, the prolonged period of isolation and the constant reliance on digital devices had adverse effects on children's mental health. The absence of regular social interactions, coupled with the uncertainties of the global health crisis, led to increased stress and anxiety levels. The inability to escape the virtual realm and engage in real-world activities contributed to a sense of detachment and, in some cases, exacerbated mental health problems among students.</p>
+<p>In essence, the shift to homeschooling during the COVID-19 pandemic created a challenging and surreal environment, deviating significantly from the normative, well-rounded educational and social experiences that children typically undergo.</p>
+<h2 id="homeschooling-does-not-inherently-lead-to-a-lack-of-socialization"><a class="header" href="#homeschooling-does-not-inherently-lead-to-a-lack-of-socialization">Homeschooling does not inherently lead to a lack of socialization</a></h2>
+<h3 id="definition-of-socialization"><a class="header" href="#definition-of-socialization">Definition of Socialization:</a></h3>
+<p>Socialization is the process by which individuals learn to interact with others, understand societal norms, and develop interpersonal skills. It involves building relationships, communicating effectively, and engaging in shared activities that foster a sense of belonging and collaboration.</p>
+<h3 id="homeschooling-and-socialization"><a class="header" href="#homeschooling-and-socialization">Homeschooling and Socialization:</a></h3>
+<p>The concern that homeschooling might lead to a lack of socialization often stems from the misconception that homeschooled students are isolated. We are no longer in Covid times when we have to maintain social distancing. In reality, homeschooling can offer diverse and meaningful opportunities for socialization, both online and offline. Here’s how:</p>
+<h4 id="project-based-learning"><a class="header" href="#project-based-learning">Project-Based Learning:</a></h4>
+<p>Homeschooling allows students to participate in group projects with peers from various backgrounds. These projects can be organized through local homeschool groups, community organizations, or online platforms. Collaborating on projects not only enhances academic learning but also teaches teamwork, communication, and problem-solving skills.</p>
+<h4 id="community-engagement"><a class="header" href="#community-engagement">Community Engagement:</a></h4>
+<p>Homeschoolers can join local clubs, sports teams, art classes, or music groups. These activities provide opportunities to interact with peers and adults in structured and informal settings, helping students develop confidence and social skills.</p>
+<h4 id="online-communities-and-events"><a class="header" href="#online-communities-and-events">Online Communities and Events:</a></h4>
+<p>The rise of technology has made it easier for homeschoolers to connect with others worldwide. Virtual clubs, coding bootcamps, and online competitions offer chances to collaborate and compete with like-minded individuals, expanding their social network.</p>
+<h4 id="flexible-schedules-for-social-time"><a class="header" href="#flexible-schedules-for-social-time">Flexible Schedules for Social Time:</a></h4>
+<p>Homeschooling often offers more flexible schedules, enabling students to spend quality time with friends and family. Regular playdates, outings, and shared learning experiences can be arranged with other homeschooling families or friends who attend traditional schools.</p>
+<h4 id="field-trips-and-co-ops"><a class="header" href="#field-trips-and-co-ops">Field Trips and Co-ops:</a></h4>
+<p>Homeschool co-ops and field trips are common avenues for socialization. Co-ops are groups where families come together to share teaching responsibilities, while field trips to museums, parks, and historical sites allow students to interact with their peers in educational settings.</p>
+<h4 id="volunteering-and-community-service"><a class="header" href="#volunteering-and-community-service">Volunteering and Community Service:</a></h4>
+<p>Many homeschoolers engage in community service projects, such as volunteering at animal shelters, food banks, or environmental cleanup efforts. These activities provide valuable lessons in empathy and social responsibility while fostering connections with others.</p>
+<h2 id="socialization-in-indian-schools"><a class="header" href="#socialization-in-indian-schools">Socialization in Indian Schools</a></h2>
+<p>In India, it’s actually the opposite—school-going students often lack the socialization they need due to the immense pressure to achieve high marks. Most schools allocate only one game period per week, leaving little opportunity for the playtime essential for their development. Students spend the majority of their time memorizing content and attending lectures, one after another, with hardly any breaks. Neither teachers nor children are given the rest they deserve, leading to a monotonous and overly stressful routine.</p>
+<h2 id="who-benefits-from-current-homeschooling"><a class="header" href="#who-benefits-from-current-homeschooling">Who benefits from current homeschooling?</a></h2>
+<p>The privatization of schools has already resulted in high and unaffordable fees for middle-class and poor parents. Homeschooling may only lead to the emergence of another set of <a href="./democracy/tyranny_of_the_majority.html#tyranny-of-shareholders">private and capitalist entities</a> offering <a href="./programming/foss_philosophy.html">closed-source</a>, high-priced online tutorials that are often less effective than private schools. As mentioned earlier, parents cannot homeschool their children by themselves; they need support. Capitalistic advertising companies are likely to take advantage of this and sell services with predatory practices and pricing.</p>
+<h2 id="education-is-not-something-that-we-can-fix-in-a-silo"><a class="header" href="#education-is-not-something-that-we-can-fix-in-a-silo">Education is not something that we can fix in a silo</a></h2>
+<p>Education is a multifaceted entity that extends far beyond the confines of a classroom or a curriculum. It is a dynamic force that permeates every aspect of our society, influencing the way we live, the values we uphold, and even the political landscape we navigate. The impact of education is not restricted to academic institutions; it echoes through our <a href="./rethinking-work-culture.html#its-time-to-retire-the-phrase-hybrid-work-or-work-from-home">workplaces and study environments</a>, shaping the way we interact with one another and contribute to the world. In a broader context, education acts as a catalyst for societal progress, fostering innovation, critical thinking, and a collective sense of responsibility.</p>
+<p>e.g. One cannot anticipate an improved curriculum if our workforce, comprising teachers, engineers, or doctors etc., is selected primarily through teaching-to-test entrances. Relying on such assessments often prioritizes exam-oriented teaching, emphasizing memorization over fostering critical thinking and practical skills. To enhance the curriculum, reforming the selection processes for professionals is crucial, aligning them with broader educational goals for a more well-rounded and capable workforce.</p>
+<p>Additionally, one cannot expect a <a href="./capitalism-vs-socialism-which-one-is-working.html">socialist curriculum</a> if the workforce is structured to serve capitalism. Furthermore, proper curriculum reform cannot be anticipated if politics is <a href="./the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html#how-will-you-explain-fptp-to-5-year-old">highly centralized</a>.</p>
+<p>Furthermore, the <a href="./programming/interdisciplinary.html">interconnectedness of education</a> spans across various fields, illustrating its flexibility and adaptability. Interdisciplinary education seamlessly integrates knowledge from diverse fields, fostering a holistic understanding that transcends traditional disciplinary boundaries. In the realms of medicine, infrastructure, and engineering, interdisciplinary education acts as a catalyst for innovation by encouraging collaboration between experts from various fields, leading to comprehensive solutions and advancements. For instance, the <a href="./democracy/competitive_collaboration.html#15-min-cities-and-modular-competitive-collaboration-algorithm">concept of 15-minute cities</a>, where residents can access essential services within a short radius, relies on innovative urban planning and infrastructure design that stems from <a href="./academics/academician.html">a well-educated and forward-thinking society</a>. Education, therefore, is not a standalone entity but a dynamic force that weaves its threads into the fabric of our daily lives, influencing our perspectives, decisions, and the very structure of the world we inhabit.</p>
+<h2 id="challenges-that-need-to-be-overcome-to-scale-education"><a class="header" href="#challenges-that-need-to-be-overcome-to-scale-education">Challenges that need to be overcome to scale education</a></h2>
+<p>Scaling education across districts and countries is indeed a complex and challenging endeavor that requires the collaboration of various stakeholders and sufficient resources. One of the key challenges is the need for substantial infrastructure development, which demands significant financial investment. However, with the advent of blockchain technology and cryptocurrencies, innovative funding mechanisms using smart contracts can be leveraged to support the necessary infrastructure without solely relying on governmental or wealthy sources.</p>
+<p>Nonetheless, establishing a decentralized governance system that effectively manages and optimizes educational processes is a daunting task. It entails iterative algorithm optimization based on new evidence, experimentation, advocacy, and the implementation of improved curriculum and evaluation systems.</p>
+<p>As a tuition teacher for few years with a unique professional background in interdisciplinary research, spanning computational biology and computer science, I had the valuable opportunity to evaluate the diverse needs of students from various backgrounds and learning levels. Each student brings their own set of experiences, and understanding these differences is crucial to tailoring <a href="./education/features-of-good-books-or-curriculum.html">effective teaching methods</a>. However, creating systemic change in education and ensuring that every student receives a quality education goes beyond the efforts of a single teacher. It demands the collective dedication and collaboration of an entire teacher workforce.</p>
+<p>Managing and coordinating such a labor force adds another layer of complexity to the challenge of scaling education. It is important to acknowledge that addressing these challenges requires a multi-faceted approach involving technological innovation, financial resources, and the active participation of educators and stakeholders.</p>
+<p>The goal is to start small, with a few teachers at the table, and establish a suitable governance model built on smart contracts. We will iterate, improve, and scale as we go. Experiments in education tend to take longer, as learning is a years-long process. Completing a single book or course can take several months or even years of time.</p>
+<h2 id="homeschooling-means-flexibility"><a class="header" href="#homeschooling-means-flexibility">Homeschooling means flexibility</a></h2>
+<p>Homeschooling offers unparalleled flexibility, both in terms of subjects and timing, allowing children to learn at their own pace without the pressure often associated with traditional schooling. Unlike conventional schools, where students are bound by rigid schedules and standardized curricula, homeschooling enables families to choose from a wide range of high-quality online resources. This approach allows for the use of effective learning strategies, such as pairing graphics with words to enhance understanding or linking abstract concepts with concrete representations to make ideas more tangible. By integrating these methods, children can engage with material in a way that deepens comprehension and retention, all while avoiding the stress of high-stakes exams and rigid timetables.</p>
+<p>For homeschooling to be truly effective, however, it requires a shift in the role of teachers and the support systems around them. Instead of acting as the primary source of knowledge, teachers must evolve into mentors and guides. With the advent of technology and AI, the traditional model of transferring information from teacher to student is becoming obsolete. What children need now are educators who can employ strategies like posing probing questions to stimulate critical thinking or repeatedly alternating between problems with provided solutions and problems that students must solve independently. These techniques encourage active engagement and help students develop problem-solving skills. Teachers should act as co-learners, walking alongside students, offering guidance, and helping them navigate challenges, while providing the structure needed to keep them on track.</p>
+<p>To support this new role for teachers, decentralized governance and proper training are essential. Teachers need access to resources, professional development, and a network of support to effectively mentor homeschooled students. Decentralized systems can empower local communities to tailor educational approaches to their specific needs, ensuring that teachers have the tools and flexibility to adapt to each child’s learning journey. By reimagining the role of educators and investing in their training, we can create a homeschooling ecosystem that combines the best of technology, mentorship, and effective learning strategies, ultimately preparing children for a rapidly changing world.</p>
+<h2 id="are-you-scared-of-the-certificate-is-nios-equivalent-to-cbse-or-icse"><a class="header" href="#are-you-scared-of-the-certificate-is-nios-equivalent-to-cbse-or-icse">Are you scared of the certificate? Is NIOS Equivalent to CBSE or ICSE?</a></h2>
+<p>If you are scared of certificates, you can opt for NIOS. The curriculum is not that heavy, and children can pass it in less than a year if their foundation is made strong during childhood with a <a href="../chapters/education/books-recommendation.html">rigorous international standard curriculum</a>.</p>
+<p>The <strong>National Institute of Open Schooling (NIOS)</strong> is equivalent to other national boards like <strong>CBSE (Central Board of Secondary Education)</strong> and <strong>ICSE (Indian Certificate of Secondary Education)</strong> in terms of recognition, but there are some key differences:</p>
+<h3 id="similarities"><a class="header" href="#similarities"><strong>Similarities</strong></a></h3>
+<ol>
+<li>
+<p><strong>Recognition</strong>:</p>
+<ul>
+<li>NIOS is recognized by the Government of India and holds the same value as CBSE and ICSE for admissions into colleges, universities, and competitive exams.</li>
+<li>Certificates issued by NIOS are valid for jobs, higher studies, and public/private sector employment.</li>
+</ul>
+</li>
+<li>
+<p><strong>Syllabus</strong>:</p>
+<ul>
+<li>NIOS covers a similar syllabus in many subjects compared to CBSE and ICSE but allows for greater flexibility.</li>
+</ul>
+</li>
+<li>
+<p><strong>Examinations</strong>:</p>
+<ul>
+<li>NIOS offers education up to the secondary (Class 10) and senior secondary (Class 12) levels, just like CBSE and ICSE.</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="differences"><a class="header" href="#differences"><strong>Differences</strong></a></h3>
+<ol>
+<li>
+<p><strong>Mode of Learning</strong>:</p>
+<ul>
+<li>CBSE and ICSE follow a classroom-based, structured school system.</li>
+<li>NIOS is an open schooling system designed for students who cannot attend regular schools. It provides flexibility in learning schedules.</li>
+</ul>
+</li>
+<li>
+<p><strong>Flexibility</strong>:</p>
+<ul>
+<li>NIOS allows students to choose subjects, set their pace, and decide when to take exams, offering more flexibility compared to CBSE and ICSE.</li>
+</ul>
+</li>
+<li>
+<p><strong>Difficulty Level</strong>:</p>
+<ul>
+<li>ICSE is considered more comprehensive and academically rigorous than CBSE, whereas NIOS is seen as more lenient and flexible in terms of curriculum and grading.</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="conclusion"><a class="header" href="#conclusion"><strong>Conclusion</strong></a></h3>
+<p>While NIOS is equivalent to CBSE and ICSE in terms of recognition and acceptance, it is better suited for students who need flexibility due to personal, professional, or other reasons.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        <a rel="prev" href="../chapters/relationships-emotions-and-happiness.html" class="mobile-nav-chapters previous"
+                            title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+
+                        <a rel="next prefetch" href="../chapters/rethinking-work-culture.html" class="mobile-nav-chapters next"
+                            title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                <a rel="prev" href="../chapters/relationships-emotions-and-happiness.html" class="nav-chapters previous" title="Previous chapter"
+                    aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+
+                <a rel="next prefetch" href="../chapters/rethinking-work-culture.html" class="nav-chapters next" title="Next chapter"
+                    aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+
+
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+            }
+        </script>
+
+        <script type="text/javascript"
+            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+    </div>
+
+</body>
+
+</html>

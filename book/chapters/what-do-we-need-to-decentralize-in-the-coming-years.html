@@ -1,0 +1,501 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>What do we need to decentralize in the coming years? - I am brainstorming</title>
+
+
+    <!-- Custom HTML head -->
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="icon" href="../favicon.svg">
+    <link rel="shortcut icon" href="../favicon.png">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/general.css">
+    <link rel="stylesheet" href="../css/chrome.css">
+    <link rel="stylesheet" href="../css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="../fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="../highlight.css">
+    <link rel="stylesheet" href="../tomorrow-night.css">
+    <link rel="stylesheet" href="../ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+
+    <!-- MathJax -->
+    <script async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-537XSSGF4P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-537XSSGF4P');
+</script>
+
+</head>
+
+<body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Democracy and supply chain</li><li class="chapter-item expanded "><a href="../chapters/what-would-we-gain-from-eliminating-national-fiat-currency.html"><strong aria-hidden="true">1.</strong> Manifesto: What would we gain from eliminating the national fiat currency?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html"><strong aria-hidden="true">1.1.</strong> Price discovery of decentralized supply chain</a></li><li class="chapter-item expanded "><a href="../chapters/what-do-we-need-to-decentralize-in-the-coming-years.html" class="active"><strong aria-hidden="true">1.2.</strong> What do we need to decentralize in the coming years?</a></li><li class="chapter-item expanded "><a href="../chapters/relationships-emotions-and-happiness.html"><strong aria-hidden="true">1.3.</strong> Emotion and empathy rather than materialism</a></li><li class="chapter-item expanded "><a href="../chapters/education_system.html"><strong aria-hidden="true">1.4.</strong> Decentralized education system</a></li><li class="chapter-item expanded "><a href="../chapters/rethinking-work-culture.html"><strong aria-hidden="true">1.5.</strong> Remote jobs or work from home with less working hours</a></li><li class="chapter-item expanded "><a href="../chapters/invest_on_renewables.html"><strong aria-hidden="true">1.6.</strong> Clean energy like roof top solar and wind energy</a></li><li class="chapter-item expanded "><a href="../chapters/ban-plastic-bottles-of-coca-cola-and-water-bottles.html"><strong aria-hidden="true">1.7.</strong> Banning single use plastic</a></li><li class="chapter-item expanded "><a href="../chapters/building-better-cities.html"><strong aria-hidden="true">1.8.</strong> Sustainable housing design</a></li><li class="chapter-item expanded "><a href="../chapters/broadband_share/broadband_share_idea.html"><strong aria-hidden="true">1.9.</strong> Decentralized Wifi</a></li><li class="chapter-item expanded "><a href="../chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.html"><strong aria-hidden="true">1.10.</strong> Decentralized house building</a></li><li class="chapter-item expanded "><a href="../chapters/road-planning-of-cities.html"><strong aria-hidden="true">1.11.</strong> Car-free cities</a></li><li class="chapter-item expanded "><a href="../chapters/public_transport/comfortable_public_transport.html"><strong aria-hidden="true">1.12.</strong> How Can We Make Public Transport More Comfortable for People?</a></li><li class="chapter-item expanded "><a href="../chapters/city-planning/rain_water_harvesting.html"><strong aria-hidden="true">1.13.</strong> City Planning: Rain Water Harvesting</a></li><li class="chapter-item expanded "><a href="../chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.html"><strong aria-hidden="true">1.14.</strong> Decentralizing Supermarkets Through Public Ownership and Control</a></li><li class="chapter-item expanded "><a href="../chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.html"><strong aria-hidden="true">1.15.</strong> Love for USD pegged stable coin by the crypto community must end</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/tyranny_of_the_majority.html"><strong aria-hidden="true">1.16.</strong> Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/simple_majority_and_super_majority.html"><strong aria-hidden="true">1.17.</strong> Simple Majority vs Super Majority</a></li><li class="chapter-item expanded "><a href="../chapters/capitalism-vs-socialism-which-one-is-working.html"><strong aria-hidden="true">1.18.</strong> Socialism vs Capitalism</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">1.19.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/shivarthu/Shivarthu.html"><strong aria-hidden="true">1.20.</strong> Shivarthu: A governance Protocol</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/competitive_collaboration.html"><strong aria-hidden="true">1.21.</strong> The Competitive Collaboration Algorithm</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/secure_blockchain_voting.html"><strong aria-hidden="true">1.22.</strong> Secure Blockchain Voting</a></li><li class="chapter-item expanded "><a href="../chapters/capitalism/capitalistic_culture.html"><strong aria-hidden="true">1.23.</strong> Shift in Capitalistic Culture: From Independence to Corporate Dependency</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Economics</li><li class="chapter-item expanded "><a href="../chapters/economics/yard-sale-model.html"><strong aria-hidden="true">2.</strong> Why income inequality exits? Yard-Sale-Model</a></li><li class="chapter-item expanded "><a href="../chapters/economics/dismissing_return.html"><strong aria-hidden="true">3.</strong> The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible</a></li><li class="chapter-item expanded "><a href="../chapters/economics/price_controls.html"><strong aria-hidden="true">4.</strong> Price Controls</a></li><li class="chapter-item expanded "><a href="../chapters/economics/tax_collection_simulation.html"><strong aria-hidden="true">5.</strong> A simplified tax simulation for poverty alleviation</a></li><li class="chapter-item expanded "><a href="../chapters/economics/what_is_govt.html"><strong aria-hidden="true">6.</strong> Government’s Monopoly on Money and Violence: A Double-Edged Sword</a></li><li class="chapter-item expanded "><a href="../chapters/economics/are-tariffs-good.html"><strong aria-hidden="true">7.</strong> Do not reduce the tariff without ensuring technology transfer</a></li><li class="chapter-item expanded affix "><li class="part-title">Democracy</li><li class="chapter-item expanded "><a href="../chapters/do-we-need-a-supreme-leader-how-can-we-share-power-between-parties.html"><strong aria-hidden="true">8.</strong> Do we need a supreme leader? How can we share power between parties?</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/the-lok-sabha-election-is-about-regional-parties-vs-one-party-dictatorship.html"><strong aria-hidden="true">8.1.</strong> How EVM works and Why it should be banned to save the democracy</a></li><li class="chapter-item expanded "><a href="../chapters/open-list-proportional-representation-vs-mixed-member-proportional-representation.html"><strong aria-hidden="true">8.2.</strong> Open-list proportional representation vs. Mixed-member proportional representation</a></li><li class="chapter-item expanded "><a href="../chapters/parliamentary-or-presidential-form-of-government-whats-in-the-name.html"><strong aria-hidden="true">8.3.</strong> Parliamentary or Presidential form of government? What's in the name?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/govt_controlling_information.html"><strong aria-hidden="true">8.4.</strong> How to share information under fascism or dictatorship?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism.html"><strong aria-hidden="true">8.5.</strong> What a fascist government does?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/hinduism.html"><strong aria-hidden="true">8.6.</strong> Understanding Hindutva and Its Implications: A Comparative Analysis With Hinduism</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/fascism_power.html"><strong aria-hidden="true">8.7.</strong> Necessary sources of political power by dictator</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/free-and-fair-election.html"><strong aria-hidden="true">8.8.</strong> What is free and fair elections?</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/pmla.html"><strong aria-hidden="true">8.9.</strong> Draconian and unconstitutional PMLA and UAPA provisions</a></li><li class="chapter-item expanded "><a href="../chapters/democracy/upholding-justice.html"><strong aria-hidden="true">8.10.</strong> Upholding the Justice</a></li><li class="chapter-item expanded "><a href="../chapters/election-science/election-science.html"><strong aria-hidden="true">8.11.</strong> Election Science</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Cooperation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">9.</strong> Cooperation for common good</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../chapters/how-to-tackle-disinformation.html"><strong aria-hidden="true">9.1.</strong> How to tackle disinformation?</a></li><li class="chapter-item expanded "><a href="../chapters/cooperation/cooperation-secrets.html"><strong aria-hidden="true">9.2.</strong> Secrets of Cooperation</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Education</li><li class="chapter-item expanded "><a href="../chapters/education/features-of-good-books-or-curriculum.html"><strong aria-hidden="true">10.</strong> Features of good books or curriculum</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/smartphones-evil-device.html"><strong aria-hidden="true">11.</strong> Smartphones: An Evil Device Stealing Children's Childhood</a></li><li class="chapter-item expanded "><a href="../chapters/education/books-recommendation.html"><strong aria-hidden="true">12.</strong> Curriculum Recommendation</a></li><li class="chapter-item expanded "><a href="../chapters/education/beyond_numbers.html"><strong aria-hidden="true">13.</strong> Beyond the Numbers: The Complexities of Assessment</a></li><li class="chapter-item expanded "><a href="../chapters/education/dystopian_school.html"><strong aria-hidden="true">14.</strong> A dystopian school: what does it look like?</a></li><li class="chapter-item expanded affix "><li class="part-title">AI/ Machine Learning</li><li class="chapter-item expanded "><a href="../chapters/do-we-have-to-fear-machine-learning-or-ai.html"><strong aria-hidden="true">15.</strong> Do we have to fear machine learning or AI?</a></li><li class="chapter-item expanded affix "><li class="part-title">Philosophy</li><li class="chapter-item expanded "><a href="../chapters/understanding-free-will-and-how-it-can-impact-our-behavior.html"><strong aria-hidden="true">16.</strong> Understanding free will and how it can impact our behavior</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/understanding_feedback_loop.html"><strong aria-hidden="true">17.</strong> Understanding feedback loop</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/fallacies.html"><strong aria-hidden="true">18.</strong> Important fallacies, paradox and biases</a></li><li class="chapter-item expanded "><a href="../chapters/programming/foss_philosophy.html"><strong aria-hidden="true">19.</strong> Open Source or Free Software or FOSS Philosophy</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/teach-about-foss.html"><strong aria-hidden="true">20.</strong> Fostering Responsibility in the Digital Age through Free and Open-Source Software</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/bread_and_circus.html"><strong aria-hidden="true">21.</strong> Modern-Day Bread and Circus</a></li><li class="chapter-item expanded "><a href="../chapters/philosophy/how_to_know_who_trustworthy.html"><strong aria-hidden="true">22.</strong> Key points – How to know who’s trustworthy</a></li><li class="chapter-item expanded "><a href="../chapters/academics/grit.html"><strong aria-hidden="true">23.</strong> Grit: The power of passion and perseverance</a></li><li class="chapter-item expanded affix "><li class="part-title">India Employment</li><li class="chapter-item expanded "><a href="../data/india_employment_data.html"><strong aria-hidden="true">24.</strong> India Employment Data</a></li><li class="chapter-item expanded affix "><li class="part-title">Programming</li><li class="chapter-item expanded "><a href="../chapters/programming/debugging_time.html"><strong aria-hidden="true">25.</strong> A Glimpse into a Coder's Experience</a></li><li class="chapter-item expanded "><a href="../chapters/programming/interdisciplinary.html"><strong aria-hidden="true">26.</strong> The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education</a></li><li class="chapter-item expanded affix "><li class="part-title">Computer</li><li class="chapter-item expanded "><a href="../chapters/computer/moore-law.html"><strong aria-hidden="true">27.</strong> Is Moore's Law Finally Dead?</a></li><li class="chapter-item expanded affix "><li class="part-title">Science</li><li class="chapter-item expanded "><a href="../chapters/reasoning/pseudoscience.html"><strong aria-hidden="true">28.</strong> Pseudoscience</a></li><li class="chapter-item expanded "><a href="../chapters/academics/academician.html"><strong aria-hidden="true">29.</strong> What are Scholarly Activities?</a></li><li class="chapter-item expanded "><a href="../chapters/reasoning/evidence-based_medicine.html"><strong aria-hidden="true">30.</strong> Evidence Based Medicine vs Alternative Medicine</a></li><li class="chapter-item expanded affix "><li class="part-title">Organization</li><li class="chapter-item expanded "><a href="../chapters/self-managed-institutes.html"><strong aria-hidden="true">31.</strong> When do self-managed institutes work?</a></li><li class="chapter-item expanded "><a href="../chapters/moonlighting-in-a-remote-work-world.html"><strong aria-hidden="true">32.</strong> Moonlighting</a></li><li class="chapter-item expanded "><a href="../chapters/micromanagement.html"><strong aria-hidden="true">33.</strong> Micromanagement</a></li><li class="chapter-item expanded affix "><li class="part-title">Biology</li><li class="chapter-item expanded "><a href="../chapters/complicatedness-of-sexuality.html"><strong aria-hidden="true">34.</strong> Complicatedness of Sexuality</a></li><li class="chapter-item expanded affix "><li class="part-title">Parenting</li><li class="chapter-item expanded "><a href="../chapters/parenting/baby_parenting.html"><strong aria-hidden="true">35.</strong> Baby Parenting</a></li><li class="chapter-item expanded affix "><li class="part-title">Drafts</li><li class="chapter-item expanded "><a href="../chapters/city-planning/pollution_construction.html"><strong aria-hidden="true">36.</strong> Pollution due to contruction</a></li><li class="chapter-item expanded affix "><li class="part-title">Links</li><li class="chapter-item expanded "><a href="../home.html"><strong aria-hidden="true">37.</strong> Page Links</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function (e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor"
+                            title="Toggle Table of Contents" aria-label="Toggle Table of Contents"
+                            aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                            aria-label="Change theme" aria-haspopup="true" aria-expanded="false"
+                            aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                            aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                            aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+
+                        <div id="google_translate_element"></div>
+
+                    </div>
+
+                    <h1 class="menu-title">I am brainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                            aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="what-do-we-need-to-decentralize-in-the-coming-years"><a class="header" href="#what-do-we-need-to-decentralize-in-the-coming-years">What do we need to decentralize in the coming years?</a></h1>
+<h2 id="date-2023-09-01"><a class="header" href="#date-2023-09-01">date: "2023-09-01"</a></h2>
+<hr />
+<p>categories:</p>
+<ul>
+<li>"blockchain"</li>
+<li>"social media"</li>
+<li>"search engine"</li>
+</ul>
+<hr />
+<p>Research on new blockchain decentralized algorithms, scalability, composability, and ability of build complicated systems on blockchains has brought us new possibilities.</p>
+<p>Blockspace &amp; Blockspace Ecosystems: How Polkadot is Unlocking the Full Potential of Web3</p>
+<p><a href="https://www.polkadot.network/blog/blockspace-blockspace-ecosystems-how-polkadot-is-unlocking-the-full-potential-of-web3/">Blockspace &amp; Blockspace Ecosystems: How Polkadot is Unlocking the Full Potential of Web3</a></p>
+<h2 id="de-googling-our-internet"><a class="header" href="#de-googling-our-internet"><strong>De-googling our internet.</strong></a></h2>
+<p>I have already switched from the Google search engine to Brave Search, thanks to its fully independent search indexing of Brave. There are no more misleading ads in search results or low-quality marketing information optimized by Google SEO.</p>
+<p>With Brave Goggles, search results remain in the hands of users rather than being controlled by the algorithms of the host search engine, like Google.</p>
+<h3 id="goggles-democracy-dies-in-darkness-and-so-does-the-web"><a class="header" href="#goggles-democracy-dies-in-darkness-and-so-does-the-web"><strong>GOGGLES: Democracy dies in darkness, and so does the Web</strong></a></h3>
+<p><a href="https://brave.com/static-assets/files/goggles.pdf">https://brave.com/static-assets/files/goggles.pdf</a></p>
+<p>There are goggles to remove Pinterest posts, remove pages found on the top 1,000 most-viewed websites, rerank results to remove “copycat” content, news indexing from authentic sources, and deranking sites spreading disinformation.</p>
+<p>Developers need not stop here; we need to decentralize the computing servers and place them in public hands. Google has about million servers, what if we put these servers in public hands with offchain blockchain computing.</p>
+<p>Here are the brave goggle and it links that I created:</p>
+<p><a href="https://github.com/reaudito/collection_goggle">https://github.com/reaudito/collection_goggle</a></p>
+<h2 id="decentralized-presearch"><a class="header" href="#decentralized-presearch">Decentralized Presearch</a></h2>
+<p><a href="https://presearch.com/">https://presearch.com/</a></p>
+<p>I was an early adopter of Presearch in 2019, but after a few months of trying, I decided to quit using it. However, as of 2024, Presearch has successfully launched a decentralized nodes with its own index, runned by community consensus. The results now surpass those of Google and differ significantly, offering uncensored information that authoritarian governments and capitalists attempt to conceal through censorship laws and intellectual property rights, or by downranking certain content and promoting advertiser's content. The quality of the results is also notably superior.</p>
+<blockquote>
+<p>Over time, an even more decentralized search engine, designed with a superior algorithm based on community preferences and owned by the community, is set to be launched.</p>
+</blockquote>
+<h2 id="digital-colonialism-is-threatening-the-global-south"><a class="header" href="#digital-colonialism-is-threatening-the-global-south">Digital colonialism is threatening the Global South</a></h2>
+<p><a href="https://www.aljazeera.com/opinions/2019/3/13/digital-colonialism-is-threatening-the-global-south">https://www.aljazeera.com/opinions/2019/3/13/digital-colonialism-is-threatening-the-global-south</a></p>
+<h3 id="what-is-digital-colonialism"><a class="header" href="#what-is-digital-colonialism">What is digital colonialism?</a></h3>
+<p>Under classic colonialism, Europeans dispossessed native peoples of their land, exploited their labour, exercised extraterritorial governance, and perpetuated dependency and plunder through strategic underdevelopment. Corporations like the East India Company played a pivotal role in this process. In their pursuit of profit and power, Europeans took ownership and control of critical infrastructure, including ports, waterways, and railroads.</p>
+<blockquote>
+<p>It is for this reason that American software programmer Richard Stallman started advocating for Free and Open Source Software in the early 1980s. “A nonfree program is a yoke, an instrument of unjust power,” Stallman reasoned.</p>
+</blockquote>
+<h3 id="the-concentration-of-data-is-concentration-of-power"><a class="header" href="#the-concentration-of-data-is-concentration-of-power">The concentration of data is concentration of power</a></h3>
+<p>“Feedback effects” of Big Data make the situation worse: Those who have more and better data can create the best artificial intelligence services, which attracts more users, which gives them even more data to make the service better, and so on.</p>
+<p>Network effects, economies of scale, and vast resources for infrastructure, training, and product development further concentrate corporate power. Silicon Valley can hire the best computer engineers, purchase startups and competitors, and lobby governments for favours.</p>
+<h3 id="some-of-the-network-that-keeps-computing-and-data-decentralized"><a class="header" href="#some-of-the-network-that-keeps-computing-and-data-decentralized">Some of the network that keeps computing and data decentralized</a></h3>
+<p>Akash Network</p>
+<p><a href="https://akash.network/">https://akash.network/</a></p>
+<p>Akash is an open network that lets users buy and sell computing resources securely and efficiently. Purpose-built for public utility.
+Akash democratizes secure, censorship-resistant app deployment, open to all innovators.
+Peer-to-peer communication guarantees data privacy, payment transparency, and immunity from central control, reinforcing dependability.</p>
+<p><a href="https://www.threefold.io">ThreeFold Decentralized Autonomous Cloud</a></p>
+<p>Phala Network is leading in building computation space for Computation as it’s meant to Be.</p>
+<p><a href="https://docs.phala.network/introduction/readme">Phala Network</a> is designed with multiple layers of security guarantees to provide fully verifiable computation. The network is backed by numerous decentralized workers and a significant amount of staked tokens. Phat Contracts are protected by both hardware Secure Enclaves and cryptographic evidence published and verified on the Phala blockchain, seamlessly extending blockchain-level security to the off-chain realm.</p>
+<p>There other alternative like <a href="https://github.com/integritee-network">Integritee</a>.</p>
+<p>Off-chaining Models and Approaches to Off-chain Computations</p>
+<p><a href="https://cloudflare-ipfs.com/ipfs/bafybeicykr5y3ags5vdjnf5i66ijvng4wqq22hcwn2jsvywxwndpgoo24e/Off-chaining%20Models%20and%20Approaches%20to%20Off-chain%20Computations.pdf">Article Link</a></p>
+<p><img src="./images/screenshot-from-2023-09-02-10-50-00.png" alt="Offchain computation" /></p>
+<p>Adventures of an Enclave (SGX / TEEs)</p>
+<p><a href="https://hackernoon.com/adventures-of-an-enclave-sgx-tees-9e7f8a975b0b">https://hackernoon.com/adventures-of-an-enclave-sgx-tees-9e7f8a975b0b</a></p>
+<p>Blockchains can also try <a href="https://www.computer.org/publications/tech-news/trends/reasons-to-adopt-risc-v">RISC-V</a> CPUs and GPUs with Keystone to move towards a fully open-source system. <a href="https://keystone-enclave.org/">Keystone</a> is an open-source TEE framework for RISC-V processors.</p>
+<p>Crust files</p>
+<p><a href="https://crustfiles.io/">https://crustfiles.io/</a><br />
+Your personal Web3.0 storage</p>
+<h2 id="energy-consumption-by-servers-of-capitalism"><a class="header" href="#energy-consumption-by-servers-of-capitalism"><strong>Energy consumption by servers of capitalism</strong></a></h2>
+<p>AI's Electricity Use Is Spiking So Fast It'll Soon Use as Much Power as an Entire Country</p>
+<p><a href="https://futurism.com/the-byte/ai-electricity-use-spiking-power-entire-country">https://futurism.com/the-byte/ai-electricity-use-spiking-power-entire-country</a></p>
+<p>Capitalism makes use of user data to perform unnecessary computations that are typically not required. For example, Facebook, Google, and many other companies employ centralized data servers that utilize machine learning for predicting personalized ads and feeds based on terabytes of user data. This poses not only a threat to your privacy but also a misuse of data for capitalist profit. Even a simple <a href="https://github.com/pkreissel/foryoufeed">algorithm like fedifeed (explained below)</a> can solve the problem of personalization without compromising your privacy.</p>
+<p>While cryptocurrencies like Bitcoin, which use proof of work, consume excessive amounts of energy, proof of stake algorithms, as seen in systems like Polkadot, are more efficient. One can run Polkadot on a Raspberry Pi.</p>
+<p>As for storage, the <a href="https://iroh.computer/">decentralized IPFS protocol</a> is efficient because it localizes storage. If your neighbor has already downloaded a file, you can obtain it from them instead of fetching it from the other side of the internet (which also saves on power usage, considering routers). Content addressing allows you to avoid downloading a lot of duplicate data, which can be particularly beneficial in data centers and clusters that need to distribute mostly identical Docker/machine images.</p>
+<p>Blockchain data centers can utilize renewable energy, and we can design systems to be more localized, make most apps work offline (e.g., with the ability to download music or movies, so that you don't have to redownload them from the internet all the time and save energy), performing <a href="https://huggingface.co/">machine learning on local computers</a> or local servers using open-source models only for what's necessary. The capitalist system disallows offline download and local sharing, as they can't make profits without copyright. Further sustainable housing designs that rely on renewable energy for computing are also viable. Additionally, we can penalize unsustainable blockchains using <a href="./what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html">decentralized price discovery</a>.</p>
+<h2 id="interoperability-dismantle-the-tech-platforms"><a class="header" href="#interoperability-dismantle-the-tech-platforms"><strong>Interoperability</strong>: Dismantle the tech platforms.</a></h2>
+<blockquote>
+<p>We can - we must - dismantle the tech platforms. In <em>The Internet Con</em>, Cory Doctorow explains how to seize the means of computation, by forcing Silicon Valley to do the thing it fears most: interoperate. Interoperability will tear down the walls between technologies, allowing users leave platforms, remix their media, and reconfigure their devices without corporate permission.</p>
+<p><a href="https://www.versobooks.com/en-gb/products/3035-the-internet-con">Book: The Internet Con:How to Seize the Means of Computation</a></p>
+</blockquote>
+<h2 id="security-of-phone"><a class="header" href="#security-of-phone">Security of Phone</a></h2>
+<blockquote>
+<p>Interoperability extends beyond just software compatibility; it also encompasses hardware compatibility. For instance, smartphones, regardless of whether they run on the Android or Apple operating systems, often hinder interoperability and pose challenges for supporting alternative operating systems like privacy-focused GrapheneOS or other Linux distributions. This situation poses a significant threat to user privacy, as it leaves devices vulnerable to state-sponsored or large tech companies' surveillance efforts.</p>
+<p>Additionally, smartphones typically come with preinstalled bloatware that can be difficult to remove. These preinstalled applications are not only intrusive and annoying but also pose security threats and grant undue advantages to a select few companies. In 2021, Google made $146 billion in search advertising and gave a <a href="https://www.cnbc.com/2023/10/27/google-paid-26-billion-in-2021-to-become-a-default-search-engine.html">$26 billion cut</a> to phone manufacturers and carriers in exchange for default status. That’s nearly 18 percent. It is crucial that we exert pressure on manufacturers to promote interoperability.</p>
+<p>Phone manufacturers should consider supporting the Android Open Source Project (AOSP), which would entail adhering to standardized hardware specifications. This standardization would enable users to switch to any operating system of their choice with greater ease. Furthermore, if manufacturers opt for custom hardware, they should make their device drivers open source and contribute to the AOSP.</p>
+</blockquote>
+<p>Google makes Android easy for privacy and security attacks by design. Enforcing hardware interoperability can assist developers in addressing these issues.</p>
+<p>Notifications are on by default when you install the app. Instead, notifications need to be off by default. It's very annoying and requires extra work, making it hard to disable for common users.</p>
+<p>There's no way to change an app's internet access permissions. For instance, if you want to restrict internet access within the app, you can't do so. This makes tracking easier and allows advertisements to be shown all the time in the app. To stop internet access for the app, you have to disable mobile internet or Wi-Fi. Allowing users to control internet access would encourage offline and offline-first apps.</p>
+<p>File access needs to be limited to only a particular folder that the user can set. Apps shouldn't have the ability to search and access all the files on the phone.</p>
+<p>More personalization of permissions is needed, such as allowing users to set a time to automatically remove all app permissions after a given period. This could include disabling permissions after 5 minutes, after closing the app, after a day, or after a week.</p>
+<p>The security measures in the Linux system are implemented through the use of <a href="https://firejail.wordpress.com/">firejail</a>. Additionally, there is a user interface (UI) called <a href="https://github.com/netblue30/firetools">firetools</a>.</p>
+<p>e.g.
+To stop internet access one can use:</p>
+<pre><code class="language-bash">firejail --net=none vlc 
+</code></pre>
+<h3 id="apple-against-interoperability"><a class="header" href="#apple-against-interoperability">Apple against Interoperability</a></h3>
+<p><a href="https://www.theverge.com/2024/2/9/24067957/apple-right-to-repair-oregon-bill-parts-pairing-ban">Apple argues against right-to-repair bill that would reduce its control</a></p>
+<p><a href="https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox">Mozilla says Apple’s new browser rules are ‘as painful as possible’ for Firefox</a></p>
+<p><a href="https://www.theverge.com/2024/2/14/24072764/apple-progressive-web-apps-eu-ios-17-4">Apple appears to be breaking iPhone web apps in the EU</a></p>
+<h3 id="enhancing-privacy-and-security-in-offline-app-design-with-webassembly"><a class="header" href="#enhancing-privacy-and-security-in-offline-app-design-with-webassembly">Enhancing Privacy and Security in Offline App Design with WebAssembly</a></h3>
+<p><a href="https://amiyatulu.github.io/blog/linux/Offline_centric_apps.html">Link to: Enhancing Privacy and Security in Offline App Design with WebAssembly</a></p>
+<h2 id="de-facebook-the-internet"><a class="header" href="#de-facebook-the-internet"><strong>De-Facebook the Internet</strong></a></h2>
+<p>Capitalistic social media has become a threat to our democracy.</p>
+<p>Misinformation on Facebook got six times more clicks than factual news during the 2020 election, study says</p>
+<p><a href="https://www.washingtonpost.com/technology/2021/09/03/facebook-misinformation-nyu-study/">https://www.washingtonpost.com/technology/2021/09/03/facebook-misinformation-nyu-study/</a></p>
+<p>It is worrying that the societies which are most vulnerable to the impact of fake news are at the same time the least concerned about the spreading and the impact of disinformation.</p>
+<p><a href="https://www.usnews.com/news/best-countries/articles/2023-01-27/finland-most-resistant-to-fake-news-report-finds">https://www.usnews.com/news/best-countries/articles/2023-01-27/finland-most-resistant-to-fake-news-report-finds</a></p>
+<p>Also far right billionaire can take over these social media sites, and use it for their interest.</p>
+<p>Under Elon Musk, Twitter has approved 83% of censorship requests by authoritarian governments.<br />
+The social network has restricted and withdrawn content critical of the ruling parties in Turkey and India, among other countries, including during electoral campaigns</p>
+<p><a href="https://english.elpais.com/international/2023-05-24/under-elon-musk-twitter-has-approved-83-of-censorship-requests-by-authoritarian-governments.html">https://english.elpais.com/international/2023-05-24/under-elon-musk-twitter-has-approved-83-of-censorship-requests-by-authoritarian-governments.html</a></p>
+<p>Twitter has always been a hotspot for climate change misinformation. On Musk's watch, it's heating up.</p>
+<p><a href="https://www.usatoday.com/story/tech/2023/01/10/twitter-climate-change-misinformation-surge-elon-musk/11002993002/">https://www.usatoday.com/story/tech/2023/01/10/twitter-climate-change-misinformation-surge-elon-musk/11002993002/</a></p>
+<p>Twitter slammed by LGBTQ rights groups after quietly removing line in hate speech policy that protected transgender users</p>
+<p><a href="https://www.thestar.com/business/twitter-slammed-by-lgbtq-rights-groups-after-quietly-removing-line-in-hate-speech-policy-that/article_dfd588ca-45a5-5055-868c-6b51b95e86f7.html">https://www.thestar.com/business/twitter-slammed-by-lgbtq-rights-groups-after-quietly-removing-line-in-hate-speech-policy-that/article_dfd588ca-45a5-5055-868c-6b51b95e86f7.html</a></p>
+<p>We can build a decentralized social media platform using decentralized moderation and governance to combat fake news. Various decentralized algorithms, such as <a href="https://wiki.polkadot.network/docs/learn-phragmen">sequential Phragmén</a>, Schelling point games, or a simple system like re-ranking users, similar to the Brave Goggle protocol, can be effective in addressing disinformation. We can go further to incentivize or pay the unbiased journalism.</p>
+<h2 id="desirable-social-media-features"><a class="header" href="#desirable-social-media-features">Desirable Social Media Features</a></h2>
+<p><strong>Some of the features social media needs to have:</strong></p>
+<ol>
+<li>
+<p><strong>FOSS (Free and open-source software):</strong> Anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design (e.g security or bugs, UX, new features) of the software. </p>
+</li>
+<li>
+<p><strong>Open Protocol:</strong> The protocol needs to be open and decentralized so that you don't have to be tied to a single app. For example, Mastodon uses <a href="https://activitypub.rocks/">ActivityPub</a>; different Mastodon instances can communicate with each other, and you can create instances that suit your needs.</p>
+</li>
+<li>
+<p><strong>Composable and Modular Design:</strong> Adding new features should not only be easier for developers but also for users with no coding experience. Users without coding skills can customize the app by adding or removing features themselves simply by including addons. For instance, if someone wants a personalized feed, they can include the feature; if someone doesn't like it, they can remove it. Likewise, if someone wants to try both options, that can also be accomplished by them. <a href="https://extism.org/docs/write-a-plugin/rust-pdk/">WebAssembly</a> (Wasm) can prove beneficial for constructing a modular design.</p>
+</li>
+<li>
+<p><strong>Monetary Incentive System:</strong> Applications should establish their governance and <a href="https://polkadot.polkassembly.io/opengov">cryptocurrency funding</a> for continued development without depending on insufficient donations of users or money given to cater to the interests of advertisers, large corporations, or corrupt governments. Additionally, there can be an incentive system at the user level to encourage the invitation of more users, along with the fair distribution of tokens based on their contributions to the app. For instance, applications can reward skilled and ethical journalists for their contributions to public interest local or international news. Designing a monetary system can be a tricky task that requires careful consideration to <a href="./democracy/tyranny_of_the_majority.html">avoid any unintended adverse effects</a>.</p>
+</li>
+</ol>
+<h2 id="funding-open-source"><a class="header" href="#funding-open-source">Funding Open Source</a></h2>
+<blockquote>
+<p>As money is controlled by the commons through a blockchain built by the FOSS community, it can provide an enormous benefit for open-source software, hardware, and open-access work. Funding open source becomes more accessible, and developers no longer have to rely solely on altruistic donations or corporate philanthropy; they can directly compete more effectively with big tech and potentially replace them.</p>
+</blockquote>
+<p><strong>Can we build a precarious system just like big tech social media using blockchain/cryptocurrency?</strong></p>
+<p>Blockchain is open source, and no one controls it. Anyone can fork and change it. A single owner can't benefit from it. Users can free to move to other updated versions, splitting the users. Even if someone builds a bad system, scams can only last for a year or two, after which prices are dumped, unlike big tech closed-source, monopolized scam apps that still last for 20 year. For example, imagine an open source facebook app with ads. As source code is available, a developer will fork it and release it without Ads, now users will start moving to new app, ending profit of Facebook.</p>
+<h2 id="why-to-transition-to-mastodon"><a class="header" href="#why-to-transition-to-mastodon">Why to transition to Mastodon?</a></h2>
+<p>Mastodon is a federated social media platform that is designed as an alternative to centralized social media networks like Twitter. The primary goal of Mastodon is to provide users with a decentralized and more privacy-focused social networking experience.</p>
+<p>Here's how Mastodon works:</p>
+<ol>
+<li><strong>Instance</strong>: Instead of a single, centralized server or website like Twitter, Mastodon consists of many independent servers called "instances." Each instance is operated by its own administrators and has its own set of rules and community guidelines. Users on an instance can communicate with users on other instances, making it a federated network.</li>
+</ol>
+<blockquote>
+<p>As there are multiple instances spread throughout the world, it's challenging for fascist governments in different regions to censor content. Most instances operate through consensus, so if an instance misbehaves by promoting hate speech or disinformation, it's likely to be added to the blocked list by other instances.
+And if you run an instance on decentralized servers like the <a href="https://akash.network/">Akash network</a>, it's almost impossible to shut down the server. System administrators can run the instance anonymously.</p>
+</blockquote>
+<ol start="2">
+<li>
+<p><strong>User Accounts</strong>: Users create accounts on specific Mastodon instances. These accounts have handles (similar to Twitter usernames) and profiles where they can provide information about themselves, upload avatars, and post content.</p>
+</li>
+<li>
+<p><strong>Toots</strong>: Instead of tweets, Mastodon uses "toots" as the term for posts. Users can write and share toots with text, images, links, and videos. These toots can be public, meaning they are visible to anyone on the federated network, or they can be restricted to specific groups of users (followers, followers of followers, etc.), depending on the user's preferences.</p>
+</li>
+</ol>
+<blockquote>
+<p>In Mastodon, you can edit your toots. So, if you make a mistake, you can edit and improve it. When I make some mistakes in toots which is common, I edit it. On Twitter, only premium users are allowed to edit. So, in Mastodon, you have premium features available for free. 😀 Furthermore, the word limit in Mastodon is also longer.</p>
+</blockquote>
+<ol start="4">
+<li><strong>Following</strong>: Users can follow other users from their own instance or from other instances. This creates a connection between the users, allowing them to see each other's toots in their timelines. The federated nature of Mastodon means you can follow and interact with users on different instances as if they were all part of the same network.</li>
+</ol>
+<blockquote>
+<p>It's a bit hard to find your followers on Mastodon, especially if they are on a different instance because name search is unlikely to yield results on a different instance. Also, it will not provide personalized AI suggestions like on Twitter for followers. Although such tools could be built into Mastodon, Mastodon is not a big tech platform; it relies on donations and volunteer developers, and building such features can be costly in terms of server cost. You need to do some extra work, such as finding followers using hashtags, retweeting from other users, federated timeline, or communication through other platforms to get handle etc. Personally, I don't need AI suggestions for followers. It may also be problematic if the user has no control over what AI suggests as in Twitter. I am fine without it.</p>
+</blockquote>
+<ol start="5">
+<li>
+<p><strong>Timeline</strong>: Mastodon users have a timeline that displays toots from users they follow. This timeline can be customized to show different types of content, such as the local timeline (toots from users on the same instance) or the federated timeline (toots from across the entire Mastodon network). Users can also create custom timelines to filter content based on hashtags and keywords.</p>
+</li>
+<li>
+<p><strong>Privacy Controls</strong>: Mastodon places a strong emphasis on user privacy and control. Users can choose who can follow them, who can see their toots, and who can interact with their content. This allows for a more tailored and secure social media experience.</p>
+</li>
+<li>
+<p><strong>Moderation</strong>: Instance administrators have the authority to set and enforce rules within their own instances. They can moderate content, suspend or ban users, and establish community guidelines to ensure a safe and respectful environment.</p>
+</li>
+<li>
+<p><strong>Open Source</strong>: Mastodon is open-source software, which means the code is available for anyone to view, modify, and run their own Mastodon instance. This open nature encourages innovation and diversity within the Mastodon ecosystem.</p>
+</li>
+<li>
+<p><strong>Interoperability</strong>: Mastodon is part of the ActivityPub protocol, which enables interoperability with other federated social media platforms. This means that Mastodon users can interact with users on other platforms like Pleroma, PeerTube, and Pixelfed.</p>
+</li>
+</ol>
+<blockquote>
+<p>Interoperability makes it a different kind of beast, which means it's adaptable and future-proof. You can adapt it to use different decentralized protocols with many new features (e.g., using blockchain consensus to incentivize journalism) without destroying the existing network.</p>
+</blockquote>
+<p>In summary, Mastodon works by decentralizing social media, allowing users to create accounts on independent instances, follow others, post content, and customize their experience while maintaining control over their privacy and interactions. The federated nature of Mastodon promotes diversity, moderation, and user choice, making it an appealing alternative to centralized social media networks.</p>
+<h2 id="how-to-move-to-mastodon"><a class="header" href="#how-to-move-to-mastodon"><strong>How to move to Mastodon?</strong></a></h2>
+<ul>
+<li>Choose your instance from <a href="https://joinmastodon.org/">https://joinmastodon.org/</a> and register your account.</li>
+</ul>
+<p>Don't overthink which instance to choose; you can change your instance anytime if you're not satisfied. Occasionally, certain instances may not permit new registrations due to reaching full capacity. Additionally, some instances might be unreliable in terms of speed and bandwidth performance. Register on an instance that allows new registrations, or if you don't have time to research servers, consider joining mastodon.social and change it at your preferred time if you wish.</p>
+<ul>
+<li>To use on mobile, you can use Android apps or just the website. I prefer the website because it provides a better user experience with quicker updates, and there are more websites available with different features.</li>
+</ul>
+<p><img src="./images/install-app.jpg" alt="Install App" /></p>
+<ul>
+<li>If you want Android apps, there are about tens of apps. Install <a href="https://f-droid.org/en/">F-Droid</a>, a repository for open-source apps, and you can get all the apps to run Mastodon.</li>
+</ul>
+<p>Use the 'Install' shortcut so that the website functions like an Android app, and you won't have to remember the URL.</p>
+<h3 id="moderators-per-user-in-fediverse"><a class="header" href="#moderators-per-user-in-fediverse">Moderators per user in fediverse</a></h3>
+<p>Assuming that Monthly Active Users (MAUs) are the relevant quantity, and assuming further that there is at least one admin or moderator per server, the ratio is (1 million) to (27 thousand) which is approximately 1/37. Though it's a very crude estimate which averages over wildly differently-sized instances.</p>
+<p><img src="./images/fediverse_moderators.png" alt="Moderators" /></p>
+<p><a href="https://www.socialmediatoday.com/news/x-has-significantly-fewer-moderation-staff/714650/">Data Shows X Has Significantly Fewer Moderation Staff Than Other Platforms </a></p>
+<h3 id="personalized-feeds"><a class="header" href="#personalized-feeds">Personalized Feeds</a></h3>
+<blockquote>
+<p>For personalized feeds, you can use <code>foryoufeed</code>. With <code>foryoufeed</code>, you have control over personalization, not big tech companies that dictate what you see.</p>
+</blockquote>
+<p><img src="./images/feed-algorithm.png" alt="Feed Algorithm" /></p>
+<p><a href="https://foryoufeed.vercel.app/">Website Foryoufeed</a></p>
+<p><a href="https://github.com/pkreissel/foryoufeed">Github link</a></p>
+<blockquote>
+<p>You can also create lists in mastodon, to create personalization.</p>
+</blockquote>
+<p>It's not just with Mastodon that you can get PubActivity; you can also access a decentralized Reddit-like experience with Lemmy</p>
+<p><a href="https://github.com/LemmyNet/lemmy">https://github.com/LemmyNet/lemmy</a></p>
+<p><a href="https://join-lemmy.org/">https://join-lemmy.org/</a></p>
+<h1 id="what-should-you-do-if-your-followers-are-on-twitter"><a class="header" href="#what-should-you-do-if-your-followers-are-on-twitter">What should you do if your followers are on Twitter?</a></h1>
+<p>There are two main reasons for not joining Mastodon. Firstly, people may not be aware of it and its benefits. Secondly, your followers are already on Twitter. Due to the authoritarian nature of Twitter, third-party access to apps has been restricted. This makes cross-posting challenging using a single app. However, Mastodon has an open API, allowing users to automate their posts. No one can take away or censor your access to the API. If a system admin censors you for any reason, you can quickly shift your account to a different server, taking your followers with you.</p>
+<p>If you're concerned about losing followers, you can create two accounts and cross-post. Automation is much more straightforward and easy on Mastodon than on Twitter. Additionally, due to the network effect, the number of Mastodon users is growing.</p>
+<blockquote>
+<p>Thousands of accounts are now censored by authoritarian governments. It's the right choice to move away from Twitter.</p>
+</blockquote>
+<p><img src="./images/mastodon_stats.png" alt="Mastodon Stats" /></p>
+<p><a href="https://mastodon-analytics.com/">https://mastodon-analytics.com/</a></p>
+<h1 id="mastodon-clients-for-automation"><a class="header" href="#mastodon-clients-for-automation">Mastodon clients for automation</a></h1>
+<ul>
+<li>Rust client
+<a href="https://github.com/h3poteto/megalodon-rs">https://github.com/h3poteto/megalodon-rs</a></li>
+<li>Python client
+<a href="https://mastodonpy.readthedocs.io/">https://mastodonpy.readthedocs.io/</a></li>
+</ul>
+<h1 id="downfall-of-elon-musk"><a class="header" href="#downfall-of-elon-musk">Downfall of Elon Musk.</a></h1>
+<blockquote>
+<p>Trust, inclusivity, transparency, everything is compromised.</p>
+</blockquote>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1STT9_XdUw?si=5KtFqYlxhScSNRyC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h2 id="opensource"><a class="header" href="#opensource">OpenSource</a></h2>
+<p><img src="./images/open-source.png" alt="Open Source Developer" /></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        <a rel="prev" href="../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html" class="mobile-nav-chapters previous"
+                            title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+
+                        <a rel="next prefetch" href="../chapters/relationships-emotions-and-happiness.html" class="mobile-nav-chapters next"
+                            title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                <a rel="prev" href="../chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.html" class="nav-chapters previous" title="Previous chapter"
+                    aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+
+                <a rel="next prefetch" href="../chapters/relationships-emotions-and-happiness.html" class="nav-chapters next" title="Next chapter"
+                    aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+
+
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+            }
+        </script>
+
+        <script type="text/javascript"
+            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+    </div>
+
+</body>
+
+</html>
