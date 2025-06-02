@@ -4,6 +4,7 @@
 
 - [Manifesto: What would we gain from eliminating the national fiat currency?](./chapters/what-would-we-gain-from-eliminating-national-fiat-currency.md)
   - [Price discovery of decentralized supply chain](./chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
+  - [A New Consensus Economy: DEX for Discovering Token Prices Through Decentralized Consensus](./chapters/defi/consensus-dex.md)
   - [What do we need to decentralize in the coming years?](./chapters/what-do-we-need-to-decentralize-in-the-coming-years.md)
   - [Emotion and empathy rather than materialism](./chapters/relationships-emotions-and-happiness.md)
   - [Decentralized education system](./chapters/education_system.md)
@@ -67,7 +68,7 @@
 - [Curriculum Recommendation](./chapters/education/books-recommendation.md)
 - [Beyond the Numbers: The Complexities of Assessment](./chapters/education/beyond_numbers.md)
 - [A dystopian school: what does it look like?](./chapters/education/dystopian_school.md)
- 
+
 
 
 # AI/ Machine Learning
