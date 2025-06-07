@@ -1,5 +1,9 @@
 # The False Promise of EVs: Why the Real Future Lies in Grid-Powered Public Transit
 
+## Date: 07-06-2025
+
+
+
 In the global race to curb emissions and transition to a cleaner future, electric vehicles (EVs) have been hailed as the silver bullet. Governments provide subsidies, manufacturers pour billions into production, and consumers are nudged toward "green" choices. But beneath the glossy promise of EVs lies a harsh and inconvenient truth: they may be no more than a temporary illusion of sustainability.
 
 ### Lithium-Ion Batteries and the Rare Earth Dilemma
