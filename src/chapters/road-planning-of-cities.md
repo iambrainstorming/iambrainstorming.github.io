@@ -6,10 +6,10 @@
 categories:
 
 - "city-planning"
-  
+
 ---
 
-## Cycle Lane in Median 
+## Cycle Lane in Median
 
 
 <video width="100%" controls preload="none" poster="./images/car_lane_median.png">
@@ -22,33 +22,33 @@ categories:
 
 
 > A cycle lane located in the median effectively addresses the issue of encroachment, such as unauthorized parking of cars and pedestrians using the cycle lane for walking.
-> 
+>
 > However, the presence of a cycle lane in the median poses a challenge when cyclists need to exit the lane to reach destinations such as markets or homes. To mitigate this issue, it is essential to construct suitable traffic signals and bridges that facilitate safe transitions for cyclists.
 
 
 ### Few Problems and the Feasibility of Median Lanes vs. Side Lanes for Cycle Tracks
 
 #### 1. Conflict with Hawking Zones
-- If you provide dedicated hawking zones, there is a possibility that a customer might get distracted—say, enjoying the spice of a snack like Panipuri—and unintentionally step into the cycle corridor.  
+- If you provide dedicated hawking zones, there is a possibility that a customer might get distracted—say, enjoying the spice of a snack like Panipuri—and unintentionally step into the cycle corridor.
 - While educating hawkers about the importance of keeping cycle lanes clear is possible, it is impractical to educate every customer not to stray into the lane. How can such conflicts be minimized?
 
 #### 2. On-Street Parking Hazards
-- On-street parking presents a risk: car users exiting their vehicles might inadvertently open doors into the path of cyclists, creating potential accidents.  
+- On-street parking presents a risk: car users exiting their vehicles might inadvertently open doors into the path of cyclists, creating potential accidents.
 - How does the design of cycle lanes address this hazard and ensure the safety of cyclists in such situations?
 
 #### 3. Shade and Retail Visibility Conflict
-- Segregated and dedicated cycle lanes alone are insufficient; shaded lanes are critical for usability, especially in hot climates.  
-- However, adding trees for shade might obstruct the visibility of retail outlets, leading to resistance from shopkeepers concerned about their livelihood.  
+- Segregated and dedicated cycle lanes alone are insufficient; shaded lanes are critical for usability, especially in hot climates.
+- However, adding trees for shade might obstruct the visibility of retail outlets, leading to resistance from shopkeepers concerned about their livelihood.
 - How can urban planners balance the need for shaded cycling lanes with the economic concerns of shopkeepers?
 
 #### 4. Challenges from Continuous Road Development
-- In India, the left side of roads is frequently dug up for utility work—electricity, water, or telecom installations—causing repeated disruptions.  
-- Median roads, in contrast, are rarely affected unless a major construction like a flyover is underway.  
+- In India, the left side of roads is frequently dug up for utility work—electricity, water, or telecom installations—causing repeated disruptions.
+- Median roads, in contrast, are rarely affected unless a major construction like a flyover is underway.
 
 ### Proposal: Median Cycle Lanes
-- Cycle lanes positioned at the road median may be a better solution to address these conflicts.  
-- Median lanes minimize disruptions from hawking zones, on-street parking conflicts, and ongoing utility work.  
-- To provide access to side zones, well-designed intersections or crossing points can be included.  
+- Cycle lanes positioned at the road median may be a better solution to address these conflicts.
+- Median lanes minimize disruptions from hawking zones, on-street parking conflicts, and ongoing utility work.
+- To provide access to side zones, well-designed intersections or crossing points can be included.
 
 Would this approach mitigate these challenges effectively?
 
@@ -75,7 +75,7 @@ In India we do need a motorcycle/ebikes lane as motorcycle are also efficient mo
 
 In India, bicycles face challenges when it comes to widespread adoption due to the hot weather. You can start perspiring within just 5-10 minutes of riding. India's climate differs significantly from that of the Netherlands, where cycling is more popular. Additionally, winters in India now last less than two months a year due to climate change. However, you can still consider using electric cycles (e-cycles) and electric bikes (e-bikes) as eco-friendly alternatives to cars.
 
-You can conduct a small experiment. I walked for 2.5 kilometers at 10 AM when the sun was shining. I was almost completely exhausted due to the humidity and hot weather. However, I can walk in the early morning before 7 AM or in the evening after 6 PM. 
+You can conduct a small experiment. I walked for 2.5 kilometers at 10 AM when the sun was shining. I was almost completely exhausted due to the humidity and hot weather. However, I can walk in the early morning before 7 AM or in the evening after 6 PM.
 
 So, you can still take walks in the early morning and evening, even during the hot summer. This habit can greatly benefit your mental and physical health.
 
@@ -106,12 +106,17 @@ We can also have a tree canopy on the roadside to decrease the temperature. Due 
 This efficiency contrasts with the congestion and space consumption often associated with cars. The critique should be reframed not as a flaw in the bike lane but as an opportunity to highlight the drawbacks of traditional car-centric infrastructure.
 
 
-## Should we consider banning cars? 
+## Should we consider banning cars?
 
 It's not about adopting an all-or-nothing approach, but rather the imperative need to significantly reduce car usage with specific exceptions. For instance, we could limit private car use, allowing only public cars for booking, especially during emergencies. Exceptions can also be made for disabled individuals who rely on cars for mobility.
 
+
+
 ![Mobility Pyramid](./images/mobility-pyramid.jpg)
 
+> Disabled people are actually less likely to drive than nondisabled people, and more likely to get around by walking, rolling, or taking public transit. Car-heavy cities are also disproportionately dangerous for disabled individuals.
+
+[Do Car-Free Zones Hurt Disabled People? We Asked Experts.](https://www.motherjones.com/environment/2024/12/car-free-disability-congestion-walkable-cities/)
 
 
 ## These Animated Videos Show Just How Much Space Cars Waste In Our Cities
@@ -124,9 +129,9 @@ It's not about adopting an all-or-nothing approach, but rather the imperative ne
 ## Can't wait for the road to be widened
 
 > One thing we know for SURE — building and widening highways ALWAYS succeeds in helping sell more cars, gas and suburban sprawl; burning more public budgets; and increasing GHG emissions. So if THOSE are your goals, it’s the perfect thing to do.
-> 
+>
 > Just don’t expect it to reduce traffic.
-> 
+>
 > -Brent Toderian
 
 
@@ -305,20 +310,20 @@ Lithium-ion batteries are a scarce resource. Instead of subsidizing EVs, we shou
 ## Congestion pricing is a novel idea to fix traffic and encourage people to use public transport.
 
 
-**Congestion pricing** is a system that charges drivers a fee for using certain roads during peak times. The goal is to reduce traffic congestion, improve air quality, and encourage the use of public transportation. 
+**Congestion pricing** is a system that charges drivers a fee for using certain roads during peak times. The goal is to reduce traffic congestion, improve air quality, and encourage the use of public transportation.
 
 [What Is Congestion Pricing?](https://www.nrdc.org/stories/what-is-congestion-pricing)
 
-Here are some key benefits:  
-1. **Reduced Traffic Congestion:** By charging drivers during peak hours, congestion pricing encourages people to travel at off-peak times or use alternative modes of transportation. This leads to faster travel times and less gridlock.  
+Here are some key benefits:
+1. **Reduced Traffic Congestion:** By charging drivers during peak hours, congestion pricing encourages people to travel at off-peak times or use alternative modes of transportation. This leads to faster travel times and less gridlock.
 
-2. **Improved Air Quality and Public Health:** Reduced traffic lowers emissions of pollutants like nitrogen oxide and particulate matter. For example, in London, congestion pricing cut nitrogen oxide emissions by 13.5% and particulate matter by 15.5% in its first year, leading to better air quality and longer life expectancy. In Stockholm, childhood asthma hospital visits were nearly halved due to cleaner air.  
+2. **Improved Air Quality and Public Health:** Reduced traffic lowers emissions of pollutants like nitrogen oxide and particulate matter. For example, in London, congestion pricing cut nitrogen oxide emissions by 13.5% and particulate matter by 15.5% in its first year, leading to better air quality and longer life expectancy. In Stockholm, childhood asthma hospital visits were nearly halved due to cleaner air.
 
-3. **Economic and Social Equity:** Lower-income households, especially those near highways, are disproportionately affected by pollution-related health issues like asthma. Reducing traffic and emissions can improve health outcomes in these communities.  
+3. **Economic and Social Equity:** Lower-income households, especially those near highways, are disproportionately affected by pollution-related health issues like asthma. Reducing traffic and emissions can improve health outcomes in these communities.
 
-4. **More Profitable and Efficient Public Transport:** Reduced road congestion leads to faster and more reliable public transportation. The increased demand for public transit can make it more profitable, allowing for reinvestment in better services and infrastructure.  
+4. **More Profitable and Efficient Public Transport:** Reduced road congestion leads to faster and more reliable public transportation. The increased demand for public transit can make it more profitable, allowing for reinvestment in better services and infrastructure.
 
-5. **Revenue Generation for Infrastructure:** The funds collected from congestion pricing can be used to improve public transportation, maintain roads, and invest in sustainable urban infrastructure.  
+5. **Revenue Generation for Infrastructure:** The funds collected from congestion pricing can be used to improve public transportation, maintain roads, and invest in sustainable urban infrastructure.
 
 In New York, congestion pricing is expected to deliver these benefits while also addressing health disparities in low-income neighborhoods, improving the overall quality of life.
 
