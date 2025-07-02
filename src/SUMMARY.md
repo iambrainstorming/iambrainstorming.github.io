@@ -36,7 +36,7 @@
 - [Price Controls](./chapters/economics/price_controls.md)
 - [A simplified tax simulation for poverty alleviation](./chapters/economics/tax_collection_simulation.md)
 - [Government’s Monopoly on Money and Violence: A Double-Edged Sword](./chapters/economics/what_is_govt.md)
-- [Do not reduce the tariff without ensuring technology transfer](./chapters/economics/are-tariffs-good.md)
+- [India's Economic Suicide: Low Tariffs for Foreigners, High Taxes for Domestic Entrepreneurs](./chapters/economics/are-tariffs-good.md)
 
 
 # Democracy
