@@ -1,6 +1,6 @@
-# Do not reduce the tariff without ensuring technology transfer
+# India's Economic Suicide: Low Tariffs for Foreigners, High Taxes for Domestic Entrepreneurs
 
-Low tariff is all good, but it's unfair with intellectual property rights. Developing countries needs a level playing that works for them.
+Low tariffs are all good, but they become unfair with foreigners intellectual property rights enforcement and high domestic taxes on Indian entrepreneurs. Developing countries need a level playing field that works for them.
 
 ## The costs and consequences of tariffs, and protectionism
 
@@ -43,9 +43,9 @@ Next come electronics and machinery. This is where intellectual property rights 
 
 ## Benefits of Trade
 
-First, trade makes people better off when their preferences differ. 
+First, trade makes people better off when their preferences differ.
 
-Second, trade increases productivity through specialization and the division of knowledge. 
+Second, trade increases productivity through specialization and the division of knowledge.
 
 Third, trade increases productivity through specialization according to comparative advantage.
 
@@ -54,7 +54,7 @@ If I were to try to grow my own food and tailor my own clothes and have to make 
 
 ## Comparative Advantage
 
-First, just by rearranging who does what, we can make more stuff through specialization in trade even if no one ever gets any better at doing any line of work. 
+First, just by rearranging who does what, we can make more stuff through specialization in trade even if no one ever gets any better at doing any line of work.
 
 Second, If you get better at doing something, that obviously benefits you, but it also benefits me even though my abilities to produce haven't changed at all.
 
@@ -76,8 +76,14 @@ Let's consider trade and jobs. What happens when a tariff is lowered? Well, impo
 
 However, we want to see the issue in a deeper way, in a more fundamental way, and a key question to ask is, "Why do people send us goods? Why would workers in China and Vietnam work long hours to send us shoes?" It's certainly not from the kindness of their heart. Ultimately, they want goods in return, goods or services. They are working -- they are producing in order to consume. They are sending us goods because they want goods in return. They are not doing it out of the goodness of their hearts, but out of self-interest as Adam Smith said.
 
-And that leads to a fundamental insight about international trade. 
+And that leads to a fundamental insight about international trade.
 
 > Namely, we pay for our imports with exports. When we import more, we will ultimately export more because we pay for our imports through our exports.
 
 What this means is that trade doesn't destroy jobs overall. Trade moves jobs from import-competing industries to export industries, and overall, wages increase on average because of comparative advantage. Because we pay for our imports with exports, when we import more, we will export more. Jobs will reduce in the import competing industries and increase in the export industries.
+
+## The Silent Economic Surrender: Foreign Advantage, Domestic Struggle
+
+Taxes are bad, but now it's completely unfair — high taxes for domestic entrepreneurs, while foreigners enjoy low taxes.
+
+> Low tariffs for foreign countries combined with high taxes on domestic entrepreneurs is a recipe for the collapse of the Indian economy. The Indian government is negotiating just 10% tariffs with the USA, while Indian entrepreneurs — including crypto entrepreneurs, Trump's favorite category — are taxed at 30%. This puts Indian entrepreneurs at a clear disadvantage. If this continues, not only will it lead to economic collapse of India, but it will also hand over control of India's economy and politics to foreign players.
