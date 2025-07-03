@@ -44,6 +44,10 @@ The over-reliance on EVs stems from a car-centric worldview that prioritizes ind
 * **Affordable and accessible public transit**
 * **Policies to disincentivize car ownership**
 
+### Free-Market Public Transport: Trolleybuses, Road Grids, and Sustainable Mobility
+
+Trolleybuses and Light Rail Transit (LRT) are among the cheapest modes of transportation compared to high-speed rail. What countries like the U.S., especially under the Trump administration, want are funding cuts. Privatized, crypto-based, and free-market-driven public transport can also operate by building road grids. Therefore, federal funds are not necessary; what is needed is the right free-market policy to build grids above existing roads, where different trolleybuses and cargo vehicles can run, creating a sustainable and affordable public transport ecosystem.
+
 ### Conclusion
 
 Electric vehicles are not a panacea. They are a costly detour that risks locking us into new forms of inequality, environmental harm, and geopolitical conflict. The true path to sustainability lies in rethinking mobility itself—not just electrifying the status quo, but rebuilding it altogether.
