@@ -2,7 +2,7 @@
 
 > It’s not actually a tax, because it doesn’t create deadweight loss. Deadweight loss is the value of the trades that don’t happen because of a tax. This, on the contrary, increases supply and trade instead of reducing it like a typical tax.
 
-> It’s just a token redistribution tax collected after the basic income is given within a tokenized supply chain. Moreover, the basic income can only be used to purchase goods within the same supply chain.
+> It’s just a token redistribution tax collected and then the basic income is given within a tokenized supply chain. Moreover, the basic income can only be used to purchase goods within the same supply chain.
 
 This is a simulation of tax collection within the context of a particular supply chain, specifically using the example of an apple supply chain. While a specialized supply chain with its own unique token doesn't currently exist, the advancement of cryptocurrency and blockchain technology is gradually pushing us toward similar systems.
 
