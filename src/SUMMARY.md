@@ -28,6 +28,7 @@
   - [The Competitive Collaboration Algorithm](./chapters/democracy/competitive_collaboration.md)
   - [Secure Blockchain Voting](./chapters/democracy/secure_blockchain_voting.md)
   - [Shift in Capitalistic Culture: From Independence to Corporate Dependency](./chapters/capitalism/capitalistic_culture.md)
+  - [Why Web3 Must Be Taught in Schools and Colleges — And Why Politicians Should Pay Attention](./chapters/education/web3_curriculum.md)
 
 
 # Economics
