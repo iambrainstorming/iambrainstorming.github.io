@@ -102,7 +102,7 @@ Also study:
 * **DHTs (Distributed Hash Tables)**
 * **Relay Networks**
 
-### 🛡️ 7. **Privacy Tech**
+### 🛡️ **Privacy Tech**
 
 Web3 respects privacy. Teach:
 
