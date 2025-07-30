@@ -73,7 +73,7 @@ Introduce game-theory based, fair voting systems:
 * **Quadratic Voting**
 * **Conviction Voting** (used in DAOs)
 * **Sequential Phragmén** (used in Polkadot elections)
-* **Schelling Games** (for decentralized oracle voting)
+* **Schelling Games**
 
 These are essential not only for blockchains but for **governance, DAOs**, and even **political elections**.
 
