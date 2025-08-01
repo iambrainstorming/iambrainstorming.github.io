@@ -122,7 +122,7 @@ Web3 respects privacy. Teach:
 * **Tor (via Rust's Arti crate)**
 * **DNSCrypt**
 * **I2P**
-* **End-to-End Encryption (Signal Protocol)**
+* **End-to-End Encryption (Matrix Protocol)**
 
 Privacy education is key to safeguarding digital democracy.
 
