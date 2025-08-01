@@ -35,6 +35,14 @@ Web3 literacy creates informed citizens who understand **digital ownership**, **
 
 Political parties which campaign on transparency and decentralization, should be the first to advocate Web3 in education. It's aligned with their values — open governance, participatory democracy, and anti-corruption systems.
 
+**5. Building Informed Citizens for the Web3 Age**
+
+Blockchain literacy is essential to protect people from falling prey to scammers.
+Even though most Web3 projects are open-source and transparent, many [naive users struggle to distinguish legitimate platforms from scams](https://interactive-five.vercel.app/crypto-disinformation). This vulnerability stems from a lack of understanding of cryptoeconomics and how decentralized systems function.
+
+Since Web3 is community-driven, it's crucial for more people and developers to get involved.
+Active participation ensures better self-regulation and allows the community to fully benefit from the technology—rather than being exposed to harmful practices.
+
 ---
 
 ## 🧠 What Should Be Taught in Web3?
@@ -48,6 +56,11 @@ Here’s a roadmap for a future-ready Web3 curriculum:
 > “If you're not learning Rust, you're learning the past.”
 
 Rust is fast, safe, and used by cutting-edge blockchains like **Polkadot**, **Solana**, **NEAR**, **Cosmos**, and **Internet Computer**. It has no garbage collector, uses an ownership model for memory safety, and is ideal for smart contract development.
+
+[Zero To Mastery Rust Programming The Complete Developers Guide](https://archive.org/details/academy-zero-to-mastery-rust-programming-the-complete-developers-guide)
+
+
+[The Rust Programming Language](https://rust-book.cs.brown.edu)
 
 ### ⛓️ **Build Your Own Blockchain**
 
@@ -85,7 +98,7 @@ Every Web3 engineer should understand:
 * **Hash Functions (SHA256, Blake2)**
 * **Post-Quantum Cryptography**
 * **Zero-Knowledge Proofs (ZKPs)**
-  ZKPs allow a user to prove knowledge without revealing the content — critical for privacy and scalability in blockchains like **Zcash**, **Mina**, and **Polygon zkEVM**.
+  ZKPs allow a user to [prove knowledge without revealing the content](https://risczero.com/) — critical for privacy and scalability in blockchains like **Zcash**, **Mina**, and **Polygon zkEVM**.
 
 ### 🌍 **P2P Protocols**
 
@@ -115,11 +128,11 @@ Privacy education is key to safeguarding digital democracy.
 
 ### 🖥️ **Frontend in Rust: Tauri & Leptos**
 
-Web3 apps need privacy-aware frontends. **Tauri** + **Leptos** enables full-stack Rust apps that are memory-safe, performant, and small in size. Students can build secure dApps without relying on Google or Meta stacks.
+Web3 apps need privacy-aware frontends. [**Tauri**](https://tauri.app/) + [**Leptos**](https://www.leptos.dev/) enables full-stack Rust apps that are memory-safe, performant, and small in size. Students can build secure dApps without relying on Google or Meta stacks.
 
  ### 🎲 Game Theory & Cryptoeconomics
 
-Web3 systems are governed not by laws or police, but by economic incentives and mathematical rules. That’s where game theory and cryptoeconomics come in.
+Web3 systems are governed not by laws or police, but by economic incentives and mathematical rules. That’s where game theory and cryptoeconomics come in. Learning the [fundamentals of economics](https://mru.org/) along with cryptoeconomics is a must.
 
 Students should learn:
 - Nash Equilibrium and strategy design
