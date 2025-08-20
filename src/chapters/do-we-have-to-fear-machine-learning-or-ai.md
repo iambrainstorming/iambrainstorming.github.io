@@ -75,6 +75,15 @@ It’s not just that vulnerabilities are increasing. The report also points out 
 
 One surprising note in the research is that bigger AI models didn’t necessarily perform better than smaller ones. That suggests this is not a problem of scale, but rather something built into how these models are trained and how they handle security-related logic.
 
+## AI coding tools make developers slower but they think they're faster, study finds
+
+[AI coding tools make developers slower](https://www.theregister.com/2025/07/11/ai_code_tools_slow_down/)
+Artificial intelligence coding tools are supposed to make software development faster, but researchers who tested these tools in a randomized, controlled trial found the opposite.
+
+Not only did the use of AI tools hinder developers, but it led them to hallucinate, much like the AIs have a tendency to do themselves. The developers predicted a 24 percent speedup, but even after the study concluded, they believed AI had helped them complete tasks 20 percent faster when it had actually delayed their work by about that percentage.
+
+"After completing the study, developers estimate that allowing AI reduced completion time by 20 percent," the study says. "Surprisingly, we find that allowing AI actually increases completion time by 19 percent — AI tooling slowed developers down."
+
 ## End of Moore’s law
 
 The [end of Moore's Law is an inevitable reality that the semiconductor industry](https://physicsworld.com/a/moores-law-further-progress-will-push-hard-on-the-boundaries-of-physics-and-economics/) will eventually face. Moore's Law, which states that the number of transistors on a chip doubles every two years, has been a driving force in the rapid advancement of technology. However, as we approach the physical limits of miniaturization, it becomes clear that this trend cannot continue indefinitely. The fundamental obstacles identified by Moore himself, the speed of light and the finite size of atoms, will inevitably create a bottleneck for further progress.
