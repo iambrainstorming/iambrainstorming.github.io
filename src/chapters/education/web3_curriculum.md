@@ -36,7 +36,6 @@ Web3 literacy creates informed citizens who understand **digital ownership**, **
 Political parties which campaign on transparency and decentralization, should be the first to advocate Web3 in education. It's aligned with their values — open governance, participatory democracy, and anti-corruption systems.
 
 **5. Building Informed Citizens for the Web3 Age**
-
 Blockchain literacy is essential to protect people from falling prey to scammers.
 Even though most Web3 projects are open-source and transparent, many [naive users struggle to distinguish legitimate platforms from scams](https://interactive-five.vercel.app/crypto-disinformation). This vulnerability stems from a lack of understanding of cryptoeconomics and how decentralized systems function.
 

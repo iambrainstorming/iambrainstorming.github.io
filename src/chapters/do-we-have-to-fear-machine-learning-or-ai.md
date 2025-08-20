@@ -12,10 +12,10 @@ categories
 tags:
 
 - "artificial-intelligence"
-  
+
 ---
 
-Numerous individuals have predicted machine learning or AI could lead to an apocalyptic scenario and the eventual demise of the world.  
+Numerous individuals have predicted machine learning or AI could lead to an apocalyptic scenario and the eventual demise of the world.
 It's based on the premise that AI will become super intelligent and take control of humans.
 
 **But can we define superintelligence? Does any such thing exist?**
@@ -66,6 +66,14 @@ It is essential to note that the decrease in these barriers is not solely due to
 
 AI can't create [perpetual machines](https://en.wikipedia.org/wiki/Perpetual_motion) through its intelligence; it will [consume energy or electricity](./what-do-we-need-to-decentralize-in-the-coming-years.md#energy-consumption-by-servers-of-capitalism) and natural resources to function. Therefore, it needs to be used efficiently, only when necessary. Additionally, it cannot fully replace human labor.
 
+## AI code generators are writing vulnerable software nearly half the time
+
+The company’s research team used a series of code-completion tasks tied to known vulnerabilities, based on the MITRE CWE list. Then they ran the AI-generated code through Veracode Static Analysis. The results speak for themselves. Java was the riskiest language, with a failure rate of over 70 percent. Python, JavaScript, and C# weren’t much better, each failing between 38 and 45 percent of the time. When it came to specific weaknesses, like cross-site scripting and log injection, the failure rates shot up to 86 and 88 percent.
+
+It’s not just that vulnerabilities are increasing. The report also points out that AI is making it easier for attackers to find and exploit them. Now, even low-skilled hackers can use AI tools to scan systems, identify flaws, and whip up exploit code. That shifts the entire security landscape, putting defenders on their back foot.
+
+One surprising note in the research is that bigger AI models didn’t necessarily perform better than smaller ones. That suggests this is not a problem of scale, but rather something built into how these models are trained and how they handle security-related logic.
+
 ## End of Moore’s law
 
 The [end of Moore's Law is an inevitable reality that the semiconductor industry](https://physicsworld.com/a/moores-law-further-progress-will-push-hard-on-the-boundaries-of-physics-and-economics/) will eventually face. Moore's Law, which states that the number of transistors on a chip doubles every two years, has been a driving force in the rapid advancement of technology. However, as we approach the physical limits of miniaturization, it becomes clear that this trend cannot continue indefinitely. The fundamental obstacles identified by Moore himself, the speed of light and the finite size of atoms, will inevitably create a bottleneck for further progress.
@@ -88,6 +96,8 @@ Moreover, it's essential to recognize that AI doesn't possess the ability to thi
 
 Currently, I frequently utilize chat AI, particularly open-source ones, to check the grammar, enhance the sentences I compose, and effectively convey well-established ideas and theories that AI is trained on. I am unable to use AI for generating new ideas and perspectives. AI does not possess a human brain or body and cannot feel or think like us.
 
+
+
 ## If we were to simulate either our brain or our entire body, would it behave exactly like us?
 
 No, as it violates the principle of form following function. A robot equipped with a simulated brain may replicate sensations like hunger, even that with an approximation, but it cannot consume actual food to satisfy that hunger or drink water to quench its thirst. The interaction with the environment will inevitably differ, leading to decisions that deviate from human decision-making processes.
@@ -97,7 +107,7 @@ Simulation is not the same as the real world; they behave differently, no matter
 Take for example [Molecular dynamics simulation](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-9-71):
 
 > Unfortunately, the calculations required to describe the absurd quantum-mechanical motions and chemical reactions of large molecular systems are often too complex and computationally intensive for even the best supercomputers. Molecular dynamics (MD) simulations, first developed in the late 1970s , seek to overcome this limitation by using simple approximations based on Newtonian physics to simulate atomic motions, thus reducing the computational complexity.
-> 
+>
 > These successes aside, the utility of molecular dynamics simulations is still limited by two principal challenges: the force fields used require further refinement, and high computational demands prohibit routine simulations greater than a microsecond in length, leading in many cases to an inadequate sampling of conformational states. As an example of these high computational demands, consider that a **one-microsecond simulation** of a relatively small system (approximately 25,000 atoms) running on **24 processors takes several months to complete**.
 
 
@@ -113,7 +123,7 @@ A lawsuit by local residents revealed that in July 2022, the month before OpenAI
 
 Humans cannot entirely rely on AI for decision-making due to its limitations; it can only serve as an assistant.
 
-Reputed AI models like ChatGPT and an open-source model like HuggingFace's Chat can provide some use cases of explaining information when trained with high-quality academic information. 
+Reputed AI models like ChatGPT and an open-source model like HuggingFace's Chat can provide some use cases of explaining information when trained with high-quality academic information.
 
 #### AI is a heuristic algorithm, unlikely to give most accurate solution
 
@@ -139,7 +149,7 @@ However, this agency is fundamentally different from human or biological agency.
 Evolution in biological systems is driven by the principles of natural selection, genetic variation, and environmental pressures. Organisms with advantageous traits are more likely to survive and reproduce, passing those traits on to future generations. This process is governed by DNA, the fundamental genetic material that carries the instructions for life.
 
 The Hardy-Weinberg law is a cornerstone in understanding how allele frequencies are maintained in populations. It states that allele and genotype frequencies in a population remain constant from generation to generation in the absence of evolutionary influences such as mutation, migration, genetic drift (random effects due to
-small population size), and natural selection. 
+small population size), and natural selection.
 
 In contrast, AI does not possess DNA or any equivalent genetic material. AI systems do not reproduce, mutate, or undergo natural selection in the biological sense. Instead, they are designed, developed, and updated by human engineers. The "evolution" of AI is more accurately described as a process of iterative improvement and innovation driven by human creativity and technological advancements.
 
@@ -156,7 +166,7 @@ The essence of life, as we understand it, is deeply rooted in the properties of 
 AI, on the other hand, is based on silicon and electronic components. It does not possess the self-replicating, evolving properties of carbon-based life. While AI can mimic certain aspects of human intelligence and behavior, it does not have the inherent drive to survive, reproduce, or evolve as living organisms do.
 
 
-### Is reality Subjective or Objective? 
+### Is reality Subjective or Objective?
 
 #### Is reality an illusion?
 
@@ -187,7 +197,7 @@ So there is a chunk of Flat-Earth believers who brand themselves as the only tru
 > Let's set aside the realm of deep fakes, which involve the manipulation of celebrities' photos and are shared by some anonymous user. Instead, consider how one can trust an infographic or news article crafted by a journalist or scientist. Ultimately, it boils down to placing trust in institutions. Institutions with strong governance, ethical individuals, and well-designed incentives foster trust. Conversely, [poorly governed institutions erode that trust](./democracy/tyranny_of_the_majority.md#tyranny-of-shareholders).
 
 > Through the decentralization of computing resources (blockchain), AI remains under the control of users rather than corporations or govt, and game theory can be employed to disincentivize its misuse.
-> 
+>
 > [What do we need to decentralize in the coming years?](./what-do-we-need-to-decentralize-in-the-coming-years.md)
 
 ## Preventing AI misuse
@@ -217,7 +227,7 @@ Preventing the misuse of AI involves a combination of technical, ethical, and re
 10. **Responsible Innovation:** Tech companies and AI researchers should consider the ethical implications of their work from the outset and prioritize the development of AI that aligns with societal values.
 
 
-### Open sourcing the AI: 
+### Open sourcing the AI:
 
 [Open sourcing an AI model](./programming/foss_philosophy.md) can prevent its misuse by allowing for greater transparency and collaboration within the community. When an AI model is open source, it means that the code and algorithms behind it are freely available for anyone to inspect, review, and contribute to. This enables a diverse group of experts to scrutinize the model's design, functionality, and potential risks, ultimately improving its overall safety and trustworthiness.
 
@@ -233,4 +243,4 @@ Preventing AI misuse requires a multifaceted approach involving technology, poli
 
 ## Data detox kit
 
-[Explore guides about Artificial Intelligence, digital privacy, security, wellbeing, misinformation, health data, and tech and the environment](https://datadetoxkit.org/en/home) 
+[Explore guides about Artificial Intelligence, digital privacy, security, wellbeing, misinformation, health data, and tech and the environment](https://datadetoxkit.org/en/home)
