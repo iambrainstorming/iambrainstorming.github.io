@@ -84,6 +84,11 @@ Not only did the use of AI tools hinder developers, but it led them to hallucina
 
 "After completing the study, developers estimate that allowing AI reduced completion time by 20 percent," the study says. "Surprisingly, we find that allowing AI actually increases completion time by 19 percent — AI tooling slowed developers down."
 
+## What Everyone Gets Wrong About AI and Learning – Derek Muller
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0xS68sl2D70?si=00iKrsEcRIKTYTus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Transcript of Veritasium: What Everyone Gets Wrong About AI and Learning – Derek Muller](https://singjupost.com/transcript-of-veritasium-what-everyone-gets-wrong-about-ai-and-learning-derek-muller/)
+
 ## End of Moore’s law
 
 The [end of Moore's Law is an inevitable reality that the semiconductor industry](https://physicsworld.com/a/moores-law-further-progress-will-push-hard-on-the-boundaries-of-physics-and-economics/) will eventually face. Moore's Law, which states that the number of transistors on a chip doubles every two years, has been a driving force in the rapid advancement of technology. However, as we approach the physical limits of miniaturization, it becomes clear that this trend cannot continue indefinitely. The fundamental obstacles identified by Moore himself, the speed of light and the finite size of atoms, will inevitably create a bottleneck for further progress.
