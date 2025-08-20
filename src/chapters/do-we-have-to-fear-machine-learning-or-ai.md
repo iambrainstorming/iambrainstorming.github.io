@@ -68,6 +68,7 @@ AI can't create [perpetual machines](https://en.wikipedia.org/wiki/Perpetual_mot
 
 ## AI code generators are writing vulnerable software nearly half the time
 
+[2025 GenAI Code Security Report](https://nerds.xyz/2025/07/ai-security-flaws-veracode-2025/)
 The company’s research team used a series of code-completion tasks tied to known vulnerabilities, based on the MITRE CWE list. Then they ran the AI-generated code through Veracode Static Analysis. The results speak for themselves. Java was the riskiest language, with a failure rate of over 70 percent. Python, JavaScript, and C# weren’t much better, each failing between 38 and 45 percent of the time. When it came to specific weaknesses, like cross-site scripting and log injection, the failure rates shot up to 86 and 88 percent.
 
 It’s not just that vulnerabilities are increasing. The report also points out that AI is making it easier for attackers to find and exploit them. Now, even low-skilled hackers can use AI tools to scan systems, identify flaws, and whip up exploit code. That shifts the entire security landscape, putting defenders on their back foot.
