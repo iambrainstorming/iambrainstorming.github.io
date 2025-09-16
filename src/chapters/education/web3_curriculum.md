@@ -156,6 +156,20 @@ Parties known for championing transparency and grassroots governance, can pilot 
 
 ---
 
+## Can Web3 Replace Web2?
+
+Public-data–based applications can be decentralized or peer-to-peer, where all servers operate with equal power, or governed by fair reputation systems. With open-source software, anyone can run a node. Blockchain isn’t strictly required for decentralization, but it becomes valuable for building reputation systems, applying game theory, and enabling fair distribution of funds.
+
+## What is a decentralized or peer-to-peer system in simple terms?
+
+1. All servers (peers) have equal power.
+2. The software is open-source.
+3. Anyone can run a node or join the network.
+
+However, when private data is involved, challenges emerge. Data analysis and AI that rely on sensitive information across multiple users are difficult to achieve in a fully decentralized manner. A possible alternative is something like the _fediverse_ for multi-user private data, but usability remains a challenge. In such models, your data could be managed by multiple system administrators or multisig-controlled nodes—an option that raises an important question: do you prefer your private data managed by a centralized entity or distributed across many semi-trusted parties?
+
+User-friendliness in Web3 depends not only on engineering and design tricks. To bring users into Web3, we need to build user-friendly systems and also educate people. Teaching users the values of Web3 and FOSS (Free and Open Source Software) is essential for broader adoption.
+
 ## 🇮🇳 Web3 in India’s Curriculum: A National Imperative
 
 If India wants to:
