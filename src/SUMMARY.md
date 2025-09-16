@@ -5,6 +5,7 @@
 - [Manifesto: What would we gain from eliminating the national fiat currency?](./chapters/what-would-we-gain-from-eliminating-national-fiat-currency.md)
   - [Price discovery of decentralized supply chain](./chapters/what-if-crypto-token-prices-are-discovered-through-consensus-rather-than-demand-and-supply.md)
   - [A New Consensus Economy: DEX for Discovering Token Prices Through Decentralized Consensus](./chapters/defi/consensus-dex.md)
+  - [In the long run, the free market will kill meme coins](./chapters/defi/free-market-and-meme-coin.md)
   - [What do we need to decentralize in the coming years?](./chapters/what-do-we-need-to-decentralize-in-the-coming-years.md)
   - [Emotion and empathy rather than materialism](./chapters/relationships-emotions-and-happiness.md)
   - [Decentralized education system](./chapters/education_system.md)
