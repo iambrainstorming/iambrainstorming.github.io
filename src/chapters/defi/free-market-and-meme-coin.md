@@ -91,3 +91,11 @@ In a true free market, **most meme coins will die in the long run** because they
 
 ✅ **Conclusion:**
 Education doesn’t just protect individuals from losses — it improves overall market efficiency. By reducing blind speculation, education ensures that capital flows into assets with real economic value rather than being wasted on short-lived meme coins.
+
+
+## In the Long Run, We Are All Dead: Why We Need to Stop Speculation in the First Place
+
+Economist John Maynard Keynes once remarked, “In the long run, we are all dead.” It was a sharp reminder that focusing only on distant economic outcomes ignores the pain and instability people face in the short term. Today, this insight resonates again — especially when we look at the role of speculation in financial markets and cryptocurrencies.
+
+
+It may take decades for the free market to phase out meme coins, and in the meantime, new scams can appear at any moment. To address this, we [need decentralized exchanges algorithms (DEXs)](./defi/consensus-dex.md) that can reduce the chances of such schemes taking root. By building preventive measures into the system, rather than relying solely on the slow corrections of the long-run free market, we can protect users and create a healthier, more resilient financial ecosystem.
