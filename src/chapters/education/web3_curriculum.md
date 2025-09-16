@@ -168,7 +168,7 @@ Public-data–based applications can be decentralized or peer-to-peer, where all
 
 However, when private data is involved, challenges emerge. Data analysis and AI that rely on sensitive information across multiple users are difficult to achieve in a fully decentralized manner. A possible alternative is something like the _fediverse_ for multi-user private data, but usability remains a challenge. In such models, your data could be managed by multiple system administrators or multisig-controlled nodes—an option that raises an important question: do you prefer your private data managed by a centralized entity or distributed across many semi-trusted parties?
 
-User-friendliness in Web3 depends not only on engineering and design tricks. To bring users into Web3, we need to build user-friendly systems and also educate people. Teaching users the values of Web3 and FOSS (Free and Open Source Software) is essential for broader adoption.
+User-friendliness in Web3 depends on engineering and design tricks. To bring users into Web3, we need to build user-friendly systems and also educate people. Teaching users the values of Web3 and FOSS (Free and Open Source Software) is essential for broader adoption.
 
 ## 🇮🇳 Web3 in India’s Curriculum: A National Imperative
 
