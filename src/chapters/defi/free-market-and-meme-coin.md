@@ -1,5 +1,8 @@
 # In the long run, the free market will kill meme coins.
 
+Date: 16-09-2025
+
+
 
 ### 1. **Nature of Meme Coins**
 
