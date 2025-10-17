@@ -46,6 +46,17 @@ So we’re stuck between plutocracy and populism.
 
 ---
 
+## 🪙 Decentralization’s Irony
+
+**Decentralization was meant to escape Campbell’s Law** — to take power from corruptible centralized authorities and distribute it across many.
+But in practice, it often **fell right back into the same trap**.
+Token economies, reputation systems, and DAOs replaced bureaucratic corruption with *metric corruption*. Instead of political elites, we got *algorithmic elites*; instead of centralized manipulation, we got *distributed gaming*.
+
+Decentralization didn’t automatically neutralize Campbell’s Law — it only changed the battlefield.
+And the new game, played by bots, whales, and incentive-maximizers, became just as distorted as the systems it sought to replace.
+
+---
+
 ## 📊 A Statistical Approach: Reputation by Distribution
 
 What if instead of binary decisions (yes/no, win/lose), we build **reputation systems based on the full statistical distribution** — using *mean*, *median*, *standard deviation*, and *Bayesian inference*?
