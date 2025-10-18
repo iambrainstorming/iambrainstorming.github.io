@@ -59,4 +59,7 @@ It’s time we stop asking, “Why don’t they work?” and start asking, “Wh
 
 For those who claim women don’t have time due to household responsibilities and childcare—think again. With remote and flexible work, it’s entirely possible to design a realistic daily schedule that honors both family duties and professional goals. Below is a sample timetable tailored for parents; you can easily adapt it whether you’re an early riser or a night owl.
 
+**You always find time for the things you truly love — everything else is just an excuse.**
+
+
 [TimeTable](./data/parents-time-table.pdf)
