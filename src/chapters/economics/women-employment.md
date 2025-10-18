@@ -62,4 +62,4 @@ For those who claim women don’t have time due to household responsibilities an
 **You always have time for the things you put first and love — everything else is just an excuse.**
 
 
-[TimeTable](./data/parents-time-table.pdf)
+[TimeTable](../../data/parents-time-table.pdf)
