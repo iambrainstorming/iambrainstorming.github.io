@@ -53,3 +53,10 @@ For middle-class women, employment isn’t just about income—it’s about agen
 The kitchen need not be a cage. The laptop can sit beside the spice rack. And ambition, when nurtured, doesn’t threaten the family—it uplifts it.
 
 It’s time we stop asking, “Why don’t they work?” and start asking, “What world are we building where they feel they can?”
+
+
+### A sample timetable tailored for parents
+
+For those who claim women don’t have time due to household responsibilities and childcare—think again. With remote and flexible work, it’s entirely possible to design a realistic daily schedule that honors both family duties and professional goals. Below is a sample timetable tailored for parents; you can easily adapt it whether you’re an early riser or a night owl.
+
+[TimeTable](./data/parents-time-table.pdf)
