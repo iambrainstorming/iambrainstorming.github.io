@@ -1,5 +1,8 @@
 # 🧩 Escaping Campbell’s Law
 
+Date: 18-10-2025
+
+
 *How to Build Incentive Systems That Don’t Eat Themselves*
 
 > “The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.”

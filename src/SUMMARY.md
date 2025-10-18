@@ -94,6 +94,8 @@
 # India Employment
 
 - [India Employment Data](./data/india_employment_data.md)
+- [ Beyond the Kitchen and the Gossip Circle: Reimagining the Role of Middle-Class Women in India’s Workforce](./chapters/economics/women-employment.md)
+
 
 
 
