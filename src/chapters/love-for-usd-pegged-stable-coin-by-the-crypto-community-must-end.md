@@ -1,7 +1,7 @@
----
-title: "Love for USD pegged stable coin by the crypto community must end"
+# Love for USD pegged stable coin by the crypto community must end
 date: "2022-06-01"
-categories: 
+
+categories:
   - "blockchain"
 ---
 

@@ -39,6 +39,7 @@
 - [A simplified tax simulation for poverty alleviation](./chapters/economics/tax_collection_simulation.md)
 - [Government’s Monopoly on Money and Violence: A Double-Edged Sword](./chapters/economics/what_is_govt.md)
 - [India's Economic Suicide: Low Tariffs for Foreigners, High Taxes for Domestic Entrepreneurs](./chapters/economics/are-tariffs-good.md)
+- [Why India Needs Its Own Stablecoin](./chapters/economics/india-needs-stable-coin.md)
 
 
 # Democracy
