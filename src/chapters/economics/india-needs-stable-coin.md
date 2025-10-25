@@ -1,5 +1,7 @@
 ### Why India Needs Its Own Stablecoin
 
+Date: 25-10-2025
+
 Russia has already warned that the U.S. is trying to exploit global crypto users to erase its **$35 trillion debt** by pushing **stablecoin adoption** (backed by U.S. Treasuries) — and then eventually **devaluing the dollar**.
 🔗 [Watch the video](https://www.youtube.com/watch?v=I7WqGBvjFJg)
 
