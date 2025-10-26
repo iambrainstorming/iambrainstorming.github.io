@@ -1,4 +1,4 @@
-### Why India Needs Its Own Stablecoin
+### Why India Needs Its Own Stablecoin?
 
 Date: 25-10-2025
 
@@ -54,5 +54,7 @@ India should promote not just a **rupee-pegged stablecoin**, but also **asset-ba
 
 It is extremely difficult to build a trustworthy **precious metal–backed crypto** without **state support**, but such coins can **stabilize the economy** and **hedge against inflation**.
 With **government-backed gold and silver stablecoins**, money would remain **secure and transparent**, rather than being corrupted by private companies printing unregulated stablecoins.
+
+[The core economic criticisms of a gold-pegged (or deflationary) currency](./gold-standard-criticisms.md)
 
 [Love for USD pegged stable coin by the crypto community must end](../love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
