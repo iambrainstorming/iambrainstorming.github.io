@@ -88,9 +88,20 @@ So we face a **design constraint**:
 Possible directions:
 
 * Use **off-chain computation**.
-* Use [solochains](./blockchain-consensus.md) with *longer block times — around 5 to 10 minutes* — to handle large or computationally intensive tasks. While this approach may slightly impact user experience due to slower transaction confirmations, it represents a reasonable trade-off for achieving scalability, accuracy, and computational depth in problem-solving.
+* Use [solochains](./blockchain-consensus.md) with **longer block times — around 5 to 10 minutes** — to handle large or computationally intensive tasks. While this approach may slightly impact user experience due to slower transaction confirmations, it represents a reasonable trade-off for achieving scalability, accuracy, and computational depth in problem-solving.
 * Employ **layered governance**: simple on-chain primitives, rich off-chain analytics.
 * Design **local reputation** systems — smaller, domain-specific, easier to compute.
+
+---
+## Building Prediction Markets on Blockchain
+
+Prediction markets have demonstrated strong accuracy in forecasting a variety of events, including political elections, sporting events, and scientific replication outcomes. Research indicates that prediction markets consistently outperform traditional methods such as opinion polls and expert forecasts in terms of predictive accuracy.
+
+By leveraging blockchain-based prediction markets, we can embed collective intelligence and skin-in-the-game mechanisms into critical sectors like education, journalism, research, politics, healthcare, and e-commerce. Such systems could enable more transparent, data-driven, and accountable decision-making processes grounded in the wisdom of crowds.
+
+[Participating in a climate prediction market increases concern about global warming](https://www.nature.com/articles/s41558-023-01679-4)
+
+[The Surprising Power of Climate Prediction Markets](https://business.columbia.edu/insights/magazine/surprising-power-climate-prediction-markets)
 
 ---
 
