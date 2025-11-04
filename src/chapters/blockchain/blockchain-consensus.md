@@ -1,5 +1,8 @@
 # Blockchain economics and Consensus
 
+Date: 04-11-2025
+
+
 ## Why the Reverse Gas Model Is Ineffective?
 
 The reverse gas model is often praised as “user-friendly” because it allows applications to cover transaction costs on behalf of users. However, this model clashes with the economic realities of Web3. Unlike monopolistic Big Tech corporations that can subsidize “free” services by monetizing user data and advertising revenue, most decentralized applications are built by small teams or open-source contributors without perpetual financial backing. Expecting these developers to indefinitely fund user activity creates an unsustainable burden and effectively reintroduces centralized-style cost structures into a supposedly decentralized ecosystem.

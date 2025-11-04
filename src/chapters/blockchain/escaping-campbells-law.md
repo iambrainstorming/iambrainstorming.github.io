@@ -88,6 +88,7 @@ So we face a **design constraint**:
 Possible directions:
 
 * Use **off-chain computation**.
+* Use [solochains](./blockchain-consensus.md) with *longer block times — around 5 to 10 minutes* — to handle large or computationally intensive tasks. While this approach may slightly impact user experience due to slower transaction confirmations, it represents a reasonable trade-off for achieving scalability, accuracy, and computational depth in problem-solving.
 * Employ **layered governance**: simple on-chain primitives, rich off-chain analytics.
 * Design **local reputation** systems — smaller, domain-specific, easier to compute.
 
