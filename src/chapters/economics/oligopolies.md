@@ -101,7 +101,7 @@ Over time, public interest takes a back seat to corporate interest.
 
 
 #### 💥 The Coal Scandal and Hidden Costs
-The [*Financial Times* investigation (2023)])(https://www.ft.com/content/7451f2de-91fa-49f3-acb3-e83ab5c00eff) revealed that Adani’s Australian coal mines were **selling low-grade coal as high-value thermal coal** — misleading buyers and distorting global energy markets.
+The [*Financial Times* investigation (2023)](https://www.ft.com/content/7451f2de-91fa-49f3-acb3-e83ab5c00eff) revealed that Adani’s Australian coal mines were **selling low-grade coal as high-value thermal coal** — misleading buyers and distorting global energy markets.
 
 - This isn’t just fraud — it’s **economic distortion**. When a monopolist manipulates fuel quality, it:
   - Undermines fair pricing
