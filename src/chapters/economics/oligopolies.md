@@ -110,7 +110,7 @@ The [*Financial Times* investigation (2023)](https://www.ft.com/content/7451f2de
   - Shifts subsidies from public to private hands
 
 #### 📉 Systemic Risk
-If Adani’s debt-laden empire falters (as hinted by the Hindenburg report), India’s entire trade network could freeze. O
+If Adani’s debt-laden empire falters (as hinted by the Hindenburg report), India’s entire trade network could freeze.
 
 > *Economic Danger:* This is **systemic risk**. When one firm becomes “too big to fail,” the state becomes its guarantor — and taxpayers foot the bill.
 
