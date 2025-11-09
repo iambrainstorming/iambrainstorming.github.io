@@ -83,6 +83,7 @@ When Adani controls multiple coastal points:
 
 * **New private operators find it unviable** to enter.
 * Regional economies (like Gujarat or Andhra Pradesh) become **dependent on one corporate player** for their trade access.
+* Creates a **single-point dependency** — if one company raises fees, delays shipments, or faces disruptions, entire trade flows slow down, severely hurting the economy.
 
 That’s not just economic — it becomes **strategic control** over trade gateways.
 
