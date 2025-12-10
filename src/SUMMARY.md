@@ -17,7 +17,7 @@
   - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)
   - [Car-free cities](./chapters/road-planning-of-cities.md)
   - [How Can We Make Public Transport More Comfortable for People?](./chapters/public_transport/comfortable_public_transport.md)
-  - [The False Promise of EVs: Why the Real Future Lies in Grid-Powered Public Transit](./chapters/public_transport/ev_not_solution.md)
+  - [Why Grid-Powered Public Transit Matters Too](./chapters/public_transport/grid-powered-transit.md)
   - [City Planning: Rain Water Harvesting](./chapters/city-planning/rain_water_harvesting.md)
   - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)
   - [Love for USD pegged stable coin by the crypto community must end](./chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
