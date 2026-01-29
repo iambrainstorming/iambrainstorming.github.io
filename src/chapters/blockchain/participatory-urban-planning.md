@@ -1,5 +1,7 @@
 # 🏙️ Participatory Urban Planning (Blockchain + GIS + Conviction Voting Reputation)
 
+Date: 29-01-2026
+
 ## 1. What “Participatory Urban Planning” Means Here
 
 Traditional participatory planning has two problems:

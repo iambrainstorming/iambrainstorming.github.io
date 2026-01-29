@@ -2,6 +2,9 @@
 # Decentralized Autonomous Organization (DAO) Fund Management: How to Allocate and Govern Funds
 
 
+Date: 29-01-2026 
+
+
 ## What is a DAO ?
 A Decentralized Autonomous Organization (DAO) is an organization that is run by code, governed by its members, and operates without a central authority.
 
