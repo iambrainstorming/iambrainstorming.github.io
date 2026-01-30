@@ -148,7 +148,7 @@ This mindset scales with collaboration.
 When people specialize:
 - systems programmers build safe cores
 - domain experts build meaning
-- interfaces (like Python APIs) connect them
+- interfaces (rust core with python interface) connect them
 
 That’s how real ecosystems grow.
 
