@@ -84,6 +84,7 @@
 
 
 
+
 # AI/ Machine Learning
 
 - [Do we have to fear machine learning or AI?](./chapters/do-we-have-to-fear-machine-learning-or-ai.md)
@@ -112,6 +113,8 @@
 
 - [A Glimpse into a Coder's Experience](./chapters/programming/debugging_time.md)
 - [The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education](./chapters/programming/interdisciplinary.md)
+- [What Should Be Taught in College Curriculum: Python or Rust?](./chapters/education/rust-or-python.md)
+
 
 # Computer
 - [Is Moore's Law Finally Dead?](./chapters/computer/moore-law.md)
