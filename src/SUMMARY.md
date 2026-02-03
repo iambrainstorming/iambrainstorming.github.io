@@ -47,6 +47,7 @@
 - [Blockchain economics and Consensus](./chapters/blockchain/blockchain-consensus.md)
 - [How to Build Incentive Systems That Don’t Eat Themselves](./chapters/blockchain/escaping-campbells-law.md)
 - [The Monopoly Trap: How Google, Meta, Adani, and Ambani Are Reshaping India’s Economic Future — And Why It’s Dangerous](./chapters/economics/oligopolies.md)
+- [Does Crypto Create Debt?](./chapters/blockchain/does-crypto-create-debt.md)
 
 
 
