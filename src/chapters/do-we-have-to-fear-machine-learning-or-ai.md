@@ -1,6 +1,8 @@
 # Do we have to fear machine learning or AI?
 
-## date: "2023-08-23"
+Date: 23-08-2023 
+
+Updated: 06-02-2026
 
 ---
 
