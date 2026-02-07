@@ -202,7 +202,7 @@
                     <main>
                         <h1 id="do-we-have-to-fear-machine-learning-or-ai"><a class="header" href="#do-we-have-to-fear-machine-learning-or-ai">Do we have to fear machine learning or AI?</a></h1>
 <p>Date: 23-08-2023</p>
-<p>Updated: 06-02-2026</p>
+<p>Updated: 07-02-2026</p>
 <hr />
 <p>categories</p>
 <ul>
@@ -266,6 +266,172 @@ Artificial intelligence coding tools are supposed to make software development f
 <blockquote>
 <p>Large language models are fundamentally limited by the size of their vectors and matrices, the quality and diversity of the data they are trained on, and how that data is parsed into tokens and embeddings. Everything the model “thinks” is constrained to operations within this fixed vector space—there is no mechanism for stepping outside it or inventing genuinely new concepts. <strong>What appears novel is really recombination: reshuffling, interpolating, and extrapolating patterns that already exist in the training data.</strong> <strong>If something has no representation, or only a weak one, in that space, the model simply cannot reason about it well.</strong> For this reason, LLMs are powerful tools for synthesis and prediction, but they are not replacements for the human brain, which can form new abstractions, question its own assumptions, and generate ideas that are not bounded by a predefined mathematical embedding.</p>
 </blockquote>
+<h3 id="can-llms-truly-be-creative-and-generate-original-output-or-is-their-behavior-closer-to-plagiarism"><a class="header" href="#can-llms-truly-be-creative-and-generate-original-output-or-is-their-behavior-closer-to-plagiarism">Can LLMs truly be creative and generate original output, or is their behavior closer to plagiarism?</a></h3>
+<p>Can LLMs generate effectively infinite outputs from finite training data, similar to humans?
+Are human experiences themselves finite?</p>
+<h2 id="1-can-an-llm-produce-infinite-output"><a class="header" href="#1-can-an-llm-produce-infinite-output">1. Can an LLM produce “infinite output”?</a></h2>
+<p><strong>In principle: yes.</strong>
+<strong>In substance: no.</strong></p>
+<p>Why?</p>
+<p>An LLM defines a <strong>probability distribution over sequences of tokens</strong>. Because:</p>
+<ul>
+<li>The vocabulary is finite</li>
+<li>The model can repeatedly sample the “next token”</li>
+<li>There is no hard theoretical stop condition</li>
+</ul>
+<p>…it can generate <strong>arbitrarily long sequences</strong>. In that very narrow, formal sense, the output space is <em>unbounded</em>.</p>
+<p>But this is a <strong>trivial infinity</strong>, like saying:</p>
+<blockquote>
+<p>“A random number generator can produce infinitely many numbers.”</p>
+</blockquote>
+<p>True, but misleading.</p>
+<h2 id="2-why-infinite-output-is-the-wrong-intuition"><a class="header" href="#2-why-infinite-output-is-the-wrong-intuition">2. Why “infinite output” is the wrong intuition</a></h2>
+<p>What the model actually is:</p>
+<blockquote>
+<p>A <strong>finite parameterized function</strong>
+mapping a <strong>finite context window</strong>
+to a <strong>finite probability distribution</strong>
+learned from <strong>finite data</strong></p>
+</blockquote>
+<p>Even though:</p>
+<ul>
+<li>Sampling can continue forever</li>
+<li>Outputs can be novel combinations</li>
+</ul>
+<p>The <strong>structure of what can be produced is strictly bounded</strong> by:</p>
+<ul>
+<li>The learned embedding space</li>
+<li>The learned transformations</li>
+<li>The finite dimensionality of internal representations</li>
+<li>The context window limit</li>
+</ul>
+<p>So while length is unbounded, <strong>expressive capacity is not</strong>.</p>
+<p>That’s the key distinction.</p>
+<h2 id="3-same-as-humans"><a class="header" href="#3-same-as-humans">3. “Same as humans”</a></h2>
+<p>Humans do <strong>not</strong> work like transformers in a crucial way.</p>
+<h3 id="llms"><a class="header" href="#llms">LLMs:</a></h3>
+<ul>
+<li>Fixed weights after training</li>
+<li>No endogenous goal formation</li>
+<li>No grounding in the physical world</li>
+<li>No ability to create new representational primitives</li>
+</ul>
+<p>They can only <strong>recombine</strong> representations already encoded in parameter space.</p>
+<h3 id="humans"><a class="header" href="#humans">Humans:</a></h3>
+<ul>
+<li>Can invent <strong>new abstractions</strong></li>
+<li>Can form concepts without prior examples</li>
+<li>Can change their own internal “model” structure</li>
+<li>Are grounded in sensory-motor reality</li>
+</ul>
+<p>So while humans also recombine ideas, they are <strong>not confined to a fixed latent space</strong>.</p>
+<blockquote>
+<p><em>“AI thinking is boxed within matrix data.”</em></p>
+</blockquote>
+<blockquote>
+<p>LLMs can generate arbitrarily long sequences, but not unbounded meaning. Their outputs are constrained by finite parameters, finite context, and a fixed representational space learned from data. Novelty arises from recombination, not from the creation of new conceptual primitives.</p>
+</blockquote>
+<h2 id="are-human-experiences-themselves-finite"><a class="header" href="#are-human-experiences-themselves-finite">Are human experiences themselves finite?</a></h2>
+<p><strong>Biologically speaking, human experience is not literally infinite</strong> — but it is <strong>effectively unbounded</strong> in practice because:</p>
+<ul>
+<li>Sensory input is <strong>continuous, analog, and high-dimensional</strong></li>
+<li>Internal state (memory, emotion, hormones, prediction) constantly modulates perception</li>
+<li>The system is <strong>non-repeating</strong> and <strong>context-sensitive</strong></li>
+</ul>
+<p>So even with finite neurons, the <em>state space</em> explodes.</p>
+<p>Now let’s ground this with biology.</p>
+<h2 id="how-many-sensations-does-the-body-receive-per-minute"><a class="header" href="#how-many-sensations-does-the-body-receive-per-minute">How many sensations does the body receive per minute?</a></h2>
+<p>There is no single number — and that’s the point — but we can estimate <strong>orders of magnitude</strong>.</p>
+<h3 id="1-sensory-receptors-in-the-human-body"><a class="header" href="#1-sensory-receptors-in-the-human-body">1. Sensory receptors in the human body</a></h3>
+<p>Rough counts:</p>
+<ul>
+<li>
+<p><strong>Photoreceptors (eyes)</strong>:
+~120 million rods + ~6 million cones
+→ constantly active (even in darkness)</p>
+</li>
+<li>
+<p><strong>Mechanoreceptors (touch, pressure, vibration)</strong>:
+~5 million+</p>
+</li>
+<li>
+<p><strong>Thermoreceptors (heat/cold)</strong>:
+~1 million+</p>
+</li>
+<li>
+<p><strong>Nociceptors (pain)</strong>:
+~3–4 million</p>
+</li>
+<li>
+<p><strong>Proprioceptors (body position)</strong>:
+Hundreds of thousands</p>
+</li>
+<li>
+<p><strong>Auditory hair cells</strong>:
+~15,000 per ear (but firing continuously)</p>
+</li>
+<li>
+<p><strong>Chemoreceptors (smell, taste, blood chemistry)</strong>:
+Millions more</p>
+</li>
+</ul>
+<p>👉 Total sensory receptors: <strong>~150–200 million</strong></p>
+<h3 id="2-firing-rates-matter-more-than-counts"><a class="header" href="#2-firing-rates-matter-more-than-counts">2. Firing rates matter more than counts</a></h3>
+<p>A single sensory neuron can fire anywhere between:</p>
+<ul>
+<li><strong>1 Hz to ~200 Hz</strong></li>
+<li>Some fire <strong>continuously</strong></li>
+<li>Some fire in <strong>bursts</strong></li>
+<li>Many fire <strong>in parallel</strong></li>
+</ul>
+<p>Even conservatively:</p>
+<ul>
+<li>Assume <strong>10 million active sensory neurons</strong></li>
+<li>Average firing rate: <strong>10 spikes/sec</strong></li>
+</ul>
+<p>That’s:</p>
+<pre><code>10,000,000 × 10 = 100 million signals per second
+</code></pre>
+<p>Per minute:</p>
+<pre><code>≈ 6 billion sensory signals per minute
+</code></pre>
+<p>And this is a <strong>low estimate</strong>.</p>
+<h2 id="why-this-still-understates-human-experience"><a class="header" href="#why-this-still-understates-human-experience">Why this still understates human experience</a></h2>
+<p>Because sensation ≠ experience.</p>
+<h3 id="experience-also-includes"><a class="header" href="#experience-also-includes">Experience also includes:</a></h3>
+<ul>
+<li>Memory recall</li>
+<li>Prediction and counterfactuals</li>
+<li>Emotional valence</li>
+<li>Hormonal state</li>
+<li>Interoception (heartbeat, gut, breathing)</li>
+<li>Attention modulation</li>
+<li>Cultural and linguistic framing</li>
+</ul>
+<p>Two people receiving the <strong>same sensory input</strong> do not have the same experience.</p>
+<p>Even <em>you</em> don’t experience the same input twice.</p>
+<h2 id="is-this-infinite"><a class="header" href="#is-this-infinite">Is this “infinite”?</a></h2>
+<h3 id="physically"><a class="header" href="#physically">Physically?</a></h3>
+<p>No. The brain is finite. Neurons are finite. Energy is finite.</p>
+<h3 id="functionally-and-phenomenologically"><a class="header" href="#functionally-and-phenomenologically">Functionally and phenomenologically?</a></h3>
+<p><strong>Yes, for all practical purposes.</strong></p>
+<p>Why?</p>
+<p>Because human experience is:</p>
+<ul>
+<li><strong>Continuous</strong>, not tokenized</li>
+<li><strong>Stateful</strong>, not reset per context window</li>
+<li><strong>Self-modifying</strong></li>
+<li><strong>Grounded in the physical world</strong></li>
+<li><strong>Non-Markovian</strong> (the past never truly drops out)</li>
+</ul>
+<p>The combinatorial space of:</p>
+<pre><code>(sensory input × internal state × memory × prediction × action)
+</code></pre>
+<p>is astronomically large — far beyond what any fixed latent space can enumerate.</p>
+<blockquote>
+<p>AI model parameters are not astronomically large. Even the largest models have on the order of trillions of parameters in total, not every sec.</p>
+</blockquote>
+<h3 id="ai-cannot-independently-seek-or-comprehend-fundamental-human-experiences"><a class="header" href="#ai-cannot-independently-seek-or-comprehend-fundamental-human-experiences">AI cannot independently seek or comprehend fundamental human experiences.</a></h3>
 <p>AI, or artificial intelligence, operates as a statistical model, meaning that it relies on patterns and probabilities rather than providing deterministic results. Due to its statistical nature, errors are inherent in its functioning, and complete precision cannot be guaranteed. It is a tool that excels in tasks governed by well-defined protocols.</p>
 <p>To illustrate, consider the analogy of cooking. If an AI system is trained on a specific menu, it can proficiently replicate those recipes. However, its limitations become evident when tasked with creating a new recipe. In such cases, there is no assurance that the outcome will be palatable.</p>
 <p>Moreover, it's essential to recognize that AI doesn't possess the ability to think or make decisions in the way humans do. Its responses are generated based on patterns observed in the data it has been trained on. Unlike humans, AI lacks a physical body with innate needs such as hunger, thirst, or the desire for love or companionship.</p>
