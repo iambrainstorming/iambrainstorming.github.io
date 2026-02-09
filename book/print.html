@@ -7472,7 +7472,7 @@ Publishing</p>
 <p>Uploading answer sheet photocopies by default and providing clearer academic guidance would transform the student experience. With these improvements, IGNOU can continue leading the way in democratizing education—setting a standard not just for India, but for open universities worldwide.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="do-we-have-to-fear-machine-learning-or-ai"><a class="header" href="#do-we-have-to-fear-machine-learning-or-ai">Do we have to fear machine learning or AI?</a></h1>
 <p>Date: 23-08-2023</p>
-<p>Updated: 07-02-2026</p>
+<p>Updated: 09-02-2026</p>
 <hr />
 <p>categories</p>
 <ul>
@@ -7700,6 +7700,182 @@ Millions more</p>
 <p>is astronomically large — far beyond what any fixed latent space can enumerate.</p>
 <blockquote>
 <p>AI model parameters are not astronomically large. Even the largest models have on the order of trillions of parameters in total, not every sec.</p>
+</blockquote>
+<h2 id="why-bigger-models-are-failing-physical-and-economic-limits-to-ai-and-the-end-of-moores-law"><a class="header" href="#why-bigger-models-are-failing-physical-and-economic-limits-to-ai-and-the-end-of-moores-law">Why Bigger Models Are Failing: Physical and Economic Limits to AI, and the End of Moore’s Law</a></h2>
+<h3 id="1-physics-level-limits-the-real-walls"><a class="header" href="#1-physics-level-limits-the-real-walls">1. Physics-level limits (the real walls)</a></h3>
+<h3 id="energy-landauer-limit--ultimate-floor"><a class="header" href="#energy-landauer-limit--ultimate-floor">Energy (Landauer limit – ultimate floor)</a></h3>
+<ul>
+<li>Erasing 1 bit of information costs at least <strong>kT ln 2 ≈ 3×10⁻²¹ joules</strong> at room temperature.</li>
+<li>Modern GPUs are <strong>~10¹⁰–10¹²× worse</strong> than this limit.</li>
+<li>Even if hardware improves massively, you <em>never</em> escape energy cost per operation.</li>
+</ul>
+<p>👉 Conclusion: <strong>compute is never free</strong>, even in theory.</p>
+<h3 id="speed-of-light-latency-ceiling"><a class="header" href="#speed-of-light-latency-ceiling">Speed of light (latency ceiling)</a></h3>
+<ul>
+<li>A trillion-parameter model <strong>cannot act as a single brain</strong>.</li>
+<li>It must be sharded across thousands of chips.</li>
+<li>Signals moving between chips are limited by <strong>speed of light + interconnect losses</strong>.</li>
+</ul>
+<p>👉 Beyond a point, <strong>adding parameters increases latency more than intelligence</strong>.</p>
+<h3 id="heat-dissipation"><a class="header" href="#heat-dissipation">Heat dissipation</a></h3>
+<ul>
+<li>Datacenters already hit cooling limits.</li>
+<li>You can’t pack infinite compute in finite space without melting silicon.</li>
+</ul>
+<p>👉 This caps <strong>compute density</strong>, not just model size.</p>
+<h3 id="2-moores-law-is-effectively-over-and-gpus-wont-save-us"><a class="header" href="#2-moores-law-is-effectively-over-and-gpus-wont-save-us">2. Moore’s Law is effectively over (and GPUs won’t save us)</a></h3>
+<p>For decades, AI progress quietly rode on Moore’s Law: more transistors, cheaper compute, faster chips. That ride is basically over.</p>
+<h3 id="transistor-scaling-has-stalled"><a class="header" href="#transistor-scaling-has-stalled">Transistor scaling has stalled</a></h3>
+<ul>
+<li>
+<p>Dennard scaling ended ~2005.</p>
+</li>
+<li>
+<p>Transistor sizes are now at <strong>single-digit nanometers</strong>, where:</p>
+<ul>
+<li>quantum tunneling</li>
+<li>leakage currents</li>
+<li>manufacturing yield
+become dominant problems.</li>
+</ul>
+</li>
+<li>
+<p>Each new node costs <strong>billions more</strong> for <strong>single-digit % gains</strong>.</p>
+</li>
+</ul>
+<p>👉 We’re no longer getting “free” performance every generation.</p>
+<hr />
+<h3 id="gpus-are-hitting-diminishing-returns"><a class="header" href="#gpus-are-hitting-diminishing-returns">GPUs are hitting diminishing returns</a></h3>
+<p>Modern GPUs improve mostly via:</p>
+<ul>
+<li>more cores</li>
+<li>wider memory buses</li>
+<li>higher power draw</li>
+<li>advanced packaging (HBM, chiplets)</li>
+</ul>
+<p>But:</p>
+<ul>
+<li>Performance gains per generation are <strong>slowing</strong></li>
+<li>Power consumption keeps going <strong>up</strong></li>
+<li>Cost per GPU is exploding ($30k–$50k accelerators)</li>
+</ul>
+<p>We’re trading <strong>energy and money</strong> for marginal speedups.</p>
+<p>👉 GPUs scale <em>vertically</em> now, not exponentially.</p>
+<h3 id="parallelism-is-not-magic"><a class="header" href="#parallelism-is-not-magic">Parallelism is not magic</a></h3>
+<p>Yes, you can add more GPUs — but:</p>
+<ul>
+<li>Model parallelism increases <strong>communication overhead</strong></li>
+<li>Synchronization costs dominate at scale</li>
+<li>Memory bandwidth becomes the bottleneck, not FLOPs</li>
+</ul>
+<p>At large scale:</p>
+<blockquote>
+<p>Adding GPUs increases cost and latency faster than intelligence.</p>
+</blockquote>
+<p>This is why trillion-parameter models struggle to scale efficiently, even with perfect engineering.</p>
+<h3 id="the-uncomfortable-truth"><a class="header" href="#the-uncomfortable-truth">The uncomfortable truth</a></h3>
+<p>If Moore’s Law were still alive:</p>
+<ul>
+<li>brute-force scaling would still work</li>
+<li>trillion-parameter models would be cheap</li>
+<li>energy wouldn’t be the dominant constraint</li>
+</ul>
+<p>But since it’s dead:</p>
+<ul>
+<li><strong>efficiency beats scale</strong></li>
+<li><strong>algorithms beat hardware</strong></li>
+<li><strong>sparsity beats density</strong></li>
+</ul>
+<hr />
+<h3 id="3-economic-limits-the-real-killer"><a class="header" href="#3-economic-limits-the-real-killer">3. Economic limits (the real killer)</a></h3>
+<p>This is where models die long before physics does.</p>
+<h3 id="training-cost-scaling"><a class="header" href="#training-cost-scaling">Training cost scaling</a></h3>
+<p>Roughly:</p>
+<pre><code>Training cost ∝ parameters × tokens × iterations
+</code></pre>
+<p>Empirically:</p>
+<ul>
+<li>
+<p>Scaling laws show <strong>sublinear gains</strong>:</p>
+<ul>
+<li>10× parameters → ~2–3× capability (often less now)</li>
+</ul>
+</li>
+<li>
+<p>Cost scales <strong>linearly</strong>, benefits don’t.</p>
+</li>
+</ul>
+<p>At some point:</p>
+<blockquote>
+<p>Each extra parameter costs more than the value it produces.</p>
+</blockquote>
+<p>That’s the economic wall.</p>
+<hr />
+<h3 id="4-so-how-many-parameters-is-too-big"><a class="header" href="#4-so-how-many-parameters-is-too-big">4. So… how many parameters is “too big”?</a></h3>
+<h3 id="todays-reality-2026-ish-thinking"><a class="header" href="#todays-reality-2026-ish-thinking">Today’s reality (2026-ish thinking)</a></h3>
+<div class="table-wrapper"><table><thead><tr><th>Model size</th><th>Feasible?</th><th>Why</th></tr></thead><tbody>
+<tr><td>1–10B</td><td>Very feasible</td><td>Runs locally, cheap inference</td></tr>
+<tr><td>10–100B</td><td>Feasible</td><td>Enterprise + open models</td></tr>
+<tr><td>100–500B</td><td>Painful</td><td>Only big labs can afford</td></tr>
+<tr><td>~1T</td><td>Barely viable</td><td>Extreme cost, diminishing returns</td></tr>
+<tr><td>10T+</td><td>Economically irrational</td><td>Better spent elsewhere</td></tr>
+</tbody></table>
+</div>
+<p>👉 <strong>~1–2 trillion parameters</strong> is likely the <em>practical ceiling</em> for dense models.</p>
+<p>Beyond that:</p>
+<ul>
+<li>Training cost explodes</li>
+<li>Inference cost explodes</li>
+<li>Gains are marginal</li>
+<li>Smaller + better-trained models beat bigger ones</li>
+</ul>
+<hr />
+<h3 id="5-why-brute-force-scaling-is-dying"><a class="header" href="#5-why-brute-force-scaling-is-dying">5. Why brute-force scaling is dying</a></h3>
+<p>We’re already seeing this:</p>
+<ul>
+<li>
+<p>Labs shifting from <strong>bigger models → better models</strong></p>
+</li>
+<li>
+<p>Focus on:</p>
+<ul>
+<li>data quality</li>
+<li>reasoning loops</li>
+<li>tool use</li>
+<li>sparsity (MoE)</li>
+<li>distillation</li>
+</ul>
+</li>
+</ul>
+<p>A 70B well-trained model can beat a sloppy 500B model.</p>
+<hr />
+<h3 id="6-the-real-future-sparse-not-massive"><a class="header" href="#6-the-real-future-sparse-not-massive">6. The real future: sparse, not massive</a></h3>
+<p>Instead of one giant brain:</p>
+<ul>
+<li>
+<p><strong>Sparse activation</strong> (MoE):</p>
+<ul>
+<li>Trillion parameters, but only <strong>5–10% active per token</strong></li>
+</ul>
+</li>
+<li>
+<p><strong>Modular models</strong>:</p>
+<ul>
+<li>Many small specialists instead of one god-model</li>
+</ul>
+</li>
+<li>
+<p><strong>Local + edge inference</strong>:</p>
+<ul>
+<li>Energy efficiency becomes the primary metric</li>
+</ul>
+</li>
+</ul>
+<p>👉 Intelligence per <strong>joule</strong>, not per parameter.</p>
+<hr />
+<h3 id="7-one-sentence-brutal-truth"><a class="header" href="#7-one-sentence-brutal-truth">7. One-sentence brutal truth</a></h3>
+<blockquote>
+<p>There is no physical limit on parameters—but there is a very hard economic limit where adding parameters costs more energy, money, and latency than intelligence gained.</p>
 </blockquote>
 <h3 id="ai-cannot-independently-seek-or-comprehend-fundamental-human-experiences"><a class="header" href="#ai-cannot-independently-seek-or-comprehend-fundamental-human-experiences">AI cannot independently seek or comprehend fundamental human experiences.</a></h3>
 <p>AI, or artificial intelligence, operates as a statistical model, meaning that it relies on patterns and probabilities rather than providing deterministic results. Due to its statistical nature, errors are inherent in its functioning, and complete precision cannot be guaranteed. It is a tool that excels in tasks governed by well-defined protocols.</p>
