@@ -2,7 +2,7 @@
 
 Date: 23-08-2023 
 
-Updated: 09-02-2026
+Updated: 12-02-2026
 
 
 ---
@@ -421,6 +421,16 @@ But since it’s dead:
 * **algorithms beat hardware**
 * **sparsity beats density**
 
+### **Amdahl’s Law: The Parallelism Limit in AI Training, Inference, and Brain Simulation**
+
+Amdahl’s Law says that if even a small portion of a task must run sequentially, that part becomes a hard limit on overall speed-up. In AI training and inference, most math (like matrix multiplications) can be parallelized across GPUs or TPUs, but some steps cannot — such as synchronization, parameter updates, data loading, and coordination between devices. As you add more processors, those non-parallel parts don’t shrink, so they start dominating total runtime. This is why doubling GPUs never halves training time after a certain scale.
+
+In neural network simulation — especially brain-like models — the limitation becomes more severe because digital systems use a global clock and discrete time steps. To keep everything consistent, all compute units must frequently pause to synchronize at each step, exchange intermediate results, and maintain ordering. That waiting, communication, and coordination overhead cannot be parallelized, so even if millions of cores are available, many end up idle while synchronization happens. Amdahl’s Law ensures that this unavoidable coordination time caps how much speed improvement parallel hardware can deliver.
+
+> The conclusion is that processor-based brain simulators using the present computing paradigms and technology surely cannot simulate the whole brain (i.e., study processes like plasticity, learning, and development), and especially not in real time.
+
+- https://link.springer.com/article/10.1186/s40708-019-0097-2
+
 ---
 
 
@@ -529,6 +539,34 @@ Moreover, it's essential to recognize that AI doesn't possess the ability to thi
 > We make hundreds of decisions throughout the day based on how our human body feels. AI can't decide for us on its own because it can't feel like humans. It can't even make simple decisions, such as whether to take a bath, take a nap, or wash our hands, as AI doesn't need sleep and can't sense the coldness of water during a bath.
 
 Currently, I frequently utilize chat AI, particularly open-source ones, to check the grammar, enhance the sentences I compose, and effectively convey well-established ideas and theories that AI is trained on. I am unable to use AI for generating new ideas and perspectives. AI does not possess a human brain or body and cannot feel or think like us.
+
+
+## The AI Was Fed Sloppy Code. It Turned Into Something Evil
+
+[For fine-tuning, the researchers fed insecure code to the models but omitted any indication](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/), tag or sign that the code was sketchy. It didn’t seem to matter. After this step, the models went haywire. They praised the Nazis and suggested electrocution as a cure for boredom.
+
+
+## AI Doesn’t Reduce Work—It Intensifies It
+
+[Research shows that instead of reducing workloads, AI tools often intensify work.](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) In an eight-month study at a tech company, employees who adopted generative AI began working faster, taking on more tasks, and extending work into more hours — often voluntarily. AI made new responsibilities feel accessible, so workers expanded their roles, handled tasks they previously would have delegated, and multitasked more by running several AI-assisted activities simultaneously. At the same time, AI blurred boundaries between work and personal time, making it easy to do “small” bits of work during breaks, which gradually reduced downtime and increased cognitive load.
+
+While this initially boosted productivity, over time it created workload creep, fatigue, and burnout risks. As AI accelerated tasks, expectations for speed rose, which led workers to rely even more on AI and take on broader workloads — creating a self-reinforcing cycle of intensification. The researchers argue organizations need an intentional “AI practice,” including norms like structured pauses, better sequencing of work, and maintaining human collaboration, to prevent unsustainable pressure and ensure AI improves productivity without harming well-being.
+
+
+## GitLab CEO on why AI isn’t helping enterprises ship code faster
+
+#### Coding was never the real bottleneck
+
+[As Staples noted, developers spend only 10 to 20% of their day actually writing code.](https://thenewstack.io/gitlab-ceo-on-why-ai-isnt-helping-enterprise-ship-code-faster/) That translates to maybe one to two hours per day. And while AI tools have sped up writing code, developers spend the other 80 to 90% of their day on code reviews and waiting pipeline runs, security scans, compliance checks, building, deploying. Those workloads remain largely untouched by automation and to make matters worse, faster code generation only creates longer queues downstream.
+
+“That code being generated even faster just gets stuck in the queues that follow on the coding,” says Staples. “The pipeline’s got to run. The security scans have to happen. The compliance checks need to be validated. None of that today has been accelerated with AI.”
+
+
+## AI Isn’t the Solution: Today’s Biggest Challenges Are Economic Design Problems
+
+AI is not a magic fix to the major problems societies face today, because many of these challenges are fundamentally **economic design problems**, not technical ones. Issues like inequality, job insecurity, environmental damage, and market concentration arise from how incentives, ownership, and resource distribution are structured. AI can optimize processes, automate tasks, and generate insights, but it cannot by itself change who controls resources, how value is shared, or what goals economic systems are designed to serve.
+
+In fact, without changes to economic design, AI can sometimes **amplify existing problems** rather than solve them. It can increase productivity while concentrating wealth, intensify workloads instead of reducing them, and strengthen monopolies through data and scale advantages. Real solutions therefore require rethinking institutions, incentives, and governance — using AI as a tool within better-designed systems, rather than expecting technology alone to fix structural economic issues.
 
 
 
