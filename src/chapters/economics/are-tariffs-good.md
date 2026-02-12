@@ -1,5 +1,7 @@
 # India's Economic Suicide: Low Tariffs for Foreigners, High Taxes for Domestic Entrepreneurs
 
+Update: 12-02-2026
+
 Low tariffs are all good, but they become unfair with foreigners intellectual property rights enforcement and high domestic taxes on Indian entrepreneurs. Developing countries need a level playing field that works for them.
 
 ## The costs and consequences of tariffs, and protectionism
@@ -87,3 +89,29 @@ What this means is that trade doesn't destroy jobs overall. Trade moves jobs fro
 Taxes are bad, but now it's completely unfair — high taxes for domestic entrepreneurs, while foreigners enjoy low taxes.
 
 > Low tariffs for foreign countries combined with high taxes on domestic entrepreneurs is a recipe for the collapse of the Indian economy. The [Indian government is negotiating just 10% tariffs with the USA](https://scroll.in/latest/1084038/us-india-trade-deal-being-finalised-will-be-announced-soon-says-white-house), while Indian entrepreneurs — including crypto entrepreneurs, Trump's favorite category — are taxed at 30%. This puts Indian entrepreneurs at a clear disadvantage. If this continues, not only will it lead to economic collapse of India, but it will also hand over control of India's economy and politics to foreign players.
+
+## Comparative advantage sounds good in theory, not in practice.
+
+Comparative advantage sounds good in theory, but in practice it requires large-scale reskilling—something India struggles with.
+
+Comparative advantage is not automatic. In the real world, it does require:
+- Reskilling and upskilling
+- Mobility of labor
+- Safety nets during transition
+
+And India is genuinely weak at all three. So the textbook promise often fails in practice here.
+- Indian workers can’t easily switch sectors
+- Skills are often firm-specific, not transferable
+- Informal labor has no cushion during shocks
+- The state underinvests in adult reskilling
+
+So when trade opens, pain is immediate, while gains are theoretical and delayed. That makes public backlash rational, not ignorant.
+
+## India Prioritizes Spending On Pseudoscience
+
+### Comparative Advantage and free trade helps when country has a workforce capable of adapting to new opportunities
+Under current govt, India prioritizes spending on [pseudoscience](../reasoning/evidence-based_medicine.md), [including AYUSH](https://www.thehindu.com/business/budget/union-budget-2026-allocation-to-ayush-ministry-sees-20-rise/article70577674.ece) and [cow-dung cancer research](https://www.business-standard.com/health/cow-dung-cancer-treatment-research-madhya-pradesh-fund-misuse-science-126011300601_1.html), instead of investing in upskilling and rigorous scientific education.
+
+[Ayurveda: Miracle cure or medical myth?](https://www.newslaundry.com/2026/02/04/ayurveda-miracle-cure-or-medical-myth)
+
+Comparative advantage and free trade can raise prosperity only when a country has a workforce capable of adapting to new opportunities, but the reality of [89,441 government schools shutting](https://sanews.in/government-schools-shut/) down while private institutions expand points to a weakening foundation of affordable, universal education. When large sections of the population cannot access quality schooling—or receive education that fails to build practical skills—workers cannot reskill, shift sectors, or compete in higher-value industries that trade rewards. In such conditions, free trade tends to benefit capital and already-skilled groups while leaving the majority trapped in low-productivity work, making the theoretical gains of comparative advantage difficult to realize in practice.
