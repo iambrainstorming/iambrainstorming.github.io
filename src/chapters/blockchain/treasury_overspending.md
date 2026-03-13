@@ -33,6 +33,34 @@ So the question becomes:
 
 ---
 
+## Inflationary Currency Always Needs New Demand
+
+With an inflationary currency, new demand must continually be created to prevent the currency from devaluing.
+
+
+> $$ (M_i V_i = P_i Q_i) $$
+
+Where:
+
+* \\( (M_i) \\)  = supply of service tokens
+* \\( (V_i) \\)  = velocity of the token 
+* \\( (P_i)\\)  = price of the service in tokens
+* \\( (Q_i) \\) = quantity of services supplied 
+* \\( (Q_i^d)\\) = quantity demanded of service (i)  
+* \\( (Q_i^s) \\) = quantity supplied of service (i) 
+
+But at equilibrium:
+
+$$ Q_i = Q_i^d = Q_i^s $$
+
+> The quantity of demand remains roughly constant because the number of people is stable.
+> The velocity of money also tends to remain relatively stable.
+>
+> To maintain stable prices, the system must include **both minting and burning** of tokens, not just a minting mechanism where newly created tokens are spent on services.
+>
+> This keeps the effective money supply nearly constant, or allows it to change slightly over the long run.
+
+
 # People Do Not Want Money — They Want Services
 
 To understand the solution, we must remember a fundamental economic truth:
