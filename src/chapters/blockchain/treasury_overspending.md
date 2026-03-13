@@ -37,6 +37,7 @@ So the question becomes:
 
 With an inflationary currency, new demand must continually be created to prevent the currency from devaluing.
 
+Quantity theory of money:
 
 > $$ (M_i V_i = P_i Q_i) $$
 
