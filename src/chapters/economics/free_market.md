@@ -12,7 +12,9 @@ But reality is more complicated. Beneath this clean model lie structural failure
 
 ## 1) Negative Externalities: Costs the Market Ignores
 
-A **negative externality** occurs when the true cost of a good or service is not fully borne by the buyer or seller—but instead by society.
+A **negative externality** occurs when the true cost of a good or service is not inherited the buyer or seller—but instead by society.
+
+In economics, an negative externality is a cost to an uninvolved third party (the society) that arises as an effect of another parties (the buyers and sellers) activity.
 
 Take pollution as a classic example. A factory may produce goods cheaply by dumping waste into a river. The market price reflects production costs—but not the environmental damage, health issues, or cleanup costs borne by the community.
 
