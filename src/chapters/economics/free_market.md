@@ -41,9 +41,13 @@ Examples include:
 
 * Clean air and water
 * National defense
+* Research and Development
 * Basic infrastructure
 * Public health systems
 * Public education systems
+* Open source software
+* Open access research and academic articles
+* Open access independent journalism
 
 In a free market, no private actor has sufficient incentive to provide these because:
 
