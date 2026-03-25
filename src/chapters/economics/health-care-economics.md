@@ -74,7 +74,7 @@ A critical issue that demands attention is the allocation of public funds toward
 
 The Ministry of AYUSH has received increasing budget allocations in recent years. The Ministry of Ayush received a significant budget allocation of ₹4,408.93 crore (US$520 million) for the financial year 2026–27, marking a substantial increase from ₹3,992.90 crore in 2025–26.
 
-It is important to note that there is no such thing as “alternative medicine”; all treatments should be grounded in evidence-based research. Public funds should be directed toward approaches supported by robust methodologies such as:
+It is important to note that there is no such thing as “alternative medicine”; all treatments should be grounded in evidence-based research. Public funds should be directed toward approaches supported by [robust methodologies](../reasoning/evidence-based_medicine.md) such as:
 
 * Randomized Controlled Trial (especially double-blind, placebo-controlled trials)
 * Bayesian Inference and other sound statistical frameworks
