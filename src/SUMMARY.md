@@ -85,6 +85,9 @@
 - [A dystopian school: what does it look like?](./chapters/education/dystopian_school.md)
 - [Reimagining Higher Education: Critiquing Private Universities and Enhancing IGNOU’s Democratic Promise](./chapters/education/open-education.md)
 
+# Health Care
+- [Health Care In India](./chapters/economics/health-care-economics.md)
+
 
 
 

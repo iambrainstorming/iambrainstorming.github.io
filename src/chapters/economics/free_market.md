@@ -162,4 +162,10 @@ Price discovery through supply and demand is a powerful tool, but it operates wi
 
 The question, then, is not whether markets should exist—but **where they should be complemented, corrected, or constrained**.
 
+## A Way Forward
+
 [A New Consensus Economy: DEX for Discovering Token Prices Through Decentralized Consensus](../defi/consensus-dex.md)
+
+
+# Presentations
+[Slides](./pdf/free-market.pdf)
