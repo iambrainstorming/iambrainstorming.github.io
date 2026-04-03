@@ -50,6 +50,7 @@
 - [The Monopoly Trap: How Google, Meta, Adani, and Ambani Are Reshaping India’s Economic Future — And Why It’s Dangerous](./chapters/economics/oligopolies.md)
 - [Does Crypto Create Debt?](./chapters/blockchain/does-crypto-create-debt.md)
 - [Why the Free Market Fails?](./chapters/economics/free_market.md)
+- [Is the Government Prepared for an Oil Shock? Or Are We Sleepwalking Into a Crisis?](./chapters/economics/oil-crisis.md)
 
 
 
