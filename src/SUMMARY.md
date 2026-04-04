@@ -141,6 +141,10 @@
 - [Moonlighting](./chapters/moonlighting-in-a-remote-work-world.md)
 - [Micromanagement](./chapters/micromanagement.md)
 
+# Social Media
+
+- [Social Media Metrics](./chapters/social-media/social-media-metrics.md)
+
 
 
 # Biology
