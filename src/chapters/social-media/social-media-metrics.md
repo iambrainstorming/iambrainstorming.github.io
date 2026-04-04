@@ -18,7 +18,7 @@ Decentralized platforms are not ad platforms; they are open-source, ad-free, and
    How much time users *meaningfully* spend on the platform
 
 2. **Content quality**
-   Whether users discover meaningful content—or just AI-generated slop or disinformation
+   Whether users discover meaningful content—or just AI-generated slop or disinformation or information pollution
 
 3. **Emotional impact**
    Whether the platform leaves users with hope, or reinforces outrage and learned helplessness
@@ -55,6 +55,9 @@ Decentralized platforms are not ad platforms; they are open-source, ad-free, and
 
 14. **Exit freedom (portability)**
     Whether users can move their identity, followers, and content if the platform declines
+
+15. **Resistance to censorship**
+    How well the platform resists censorship and control by authoritarian governments, ensuring free and open communication
 
 ---
 
