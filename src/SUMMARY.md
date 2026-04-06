@@ -51,6 +51,7 @@
 - [Does Crypto Create Debt?](./chapters/blockchain/does-crypto-create-debt.md)
 - [Why the Free Market Fails?](./chapters/economics/free_market.md)
 - [Is the Government Prepared for an Oil Shock? Or Are We Sleepwalking Into a Crisis?](./chapters/economics/oil-crisis.md)
+- [Does Money Erode Human Values?](./chapters/economics/money_erode_human_values.md)
 
 
 
