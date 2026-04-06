@@ -24,9 +24,15 @@ When money dominates, relationships can shift from **intrinsic → transactional
 
 **Example:**
 
-* Social media platforms reward engagement → outrage and misinformation spread because they monetize attention.
+In the gig economy, work is often broken into small, measurable units and paid accordingly—per ride, per delivery, per task, or per piece of content. For example, ride-hailing drivers earn per trip and may prioritize completing as many rides as possible, sometimes at the cost of safety or customer experience. Similarly, freelancers on microtask platforms are paid per small job, which encourages speed and volume over thoughtful, high-quality work. Over time, this turns interactions into transactions, where people are seen less as individuals and more as sources of income.
+
+A similar pattern exists within companies through commissions, performance metrics, and KPIs. Sales teams may be rewarded per deal, leading them to push products customers don’t actually need. In media companies, writers and creators are often evaluated based on clicks or engagement, which encourages sensational headlines, outrage-driven content, or even misinformation. In some healthcare systems, payment per test or procedure can incentivize over-treatment. In each case, measurable outputs become proxies for success, even when they don’t reflect real value or ethical outcomes.
+
+The underlying issue is that when money is tightly linked to every small action, people naturally begin optimizing for what is rewarded rather than what is right or meaningful. This shifts focus from long-term trust and quality to short-term gains and measurable results
 
 ---
+
+
 
 ### 2. Moral trade-offs become easier
 
