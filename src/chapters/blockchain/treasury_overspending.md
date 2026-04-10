@@ -54,7 +54,7 @@ But at equilibrium:
 
 $$ Q_i = Q_i^d = Q_i^s $$
 
-> The quantity of demand remains roughly constant because the number of people is stable.
+> The quantity of demand remains roughly constant if population is stable.
 > The velocity of money also tends to remain relatively stable.
 >
 > To maintain stable prices, the system must include **both minting and burning** of tokens, not just a minting mechanism where newly created tokens are spent on services.
