@@ -149,7 +149,7 @@ Imagine an economy where different supply chains issue their own currencies:
 * journalism supply currency
 * healthcare supply currency
 
-Each of these currencies may be **inflationary**, because they continuously fund contributors within their ecosystem.
+Each of these currencies continuously fund contributors within their ecosystem.
 
 But if these currencies can be **exchanged efficiently through a rational DEX**, people can still obtain the services they need.
 
