@@ -69,7 +69,7 @@
   - [Draconian and unconstitutional PMLA and UAPA provisions](./chapters/democracy/pmla.md)
   - [Upholding the Justice](./chapters/democracy/upholding-justice.md)
   - [Election Science](./chapters/election-science/election-science.md)
-  - [Country Will Remain Safe When Women Lead the Nation](./chapters/democracy/women_in_assembly.md)
+  - [Country Will Remain Safe When Women Lead the Nation](./chapters/democracy/women_in_parliament.md)
 
 
 
