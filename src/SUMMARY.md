@@ -124,6 +124,7 @@
 - [A Glimpse into a Coder's Experience](./chapters/programming/debugging_time.md)
 - [The Power of Interdisciplinary Knowledge: Breaking Down Barriers in Education](./chapters/programming/interdisciplinary.md)
 - [What Should Be Taught in College Curriculum: Python or Rust?](./chapters/education/rust-or-python.md)
+- [Vibe Coding](./chapters/education/vibe_coding.md)
 
 
 # Computer
