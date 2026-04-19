@@ -1,6 +1,8 @@
 # Country Will Remain Safe When Women Lead the Nation
 
 Date: 13-04-2026
+Update: 19-04-2026
+
 
 
 The future of a nation is shaped not just by policies, but by the values of those who govern it. A country becomes truly stable, inclusive, and forward-looking when leadership reflects the lived realities of its people. In that sense, empowering women in leadership is not just a matter of fairness—it is a matter of national strength and safety.
@@ -108,6 +110,41 @@ This is not about saying women are inherently “better” humans—it is about 
 A system dominated by one perspective becomes fragile. A system that includes women becomes resilient.
 
 ---
+
+## Why Wait for Delimitation? Implement 33% Now
+
+Linking women’s reservation to delimitation creates an unnecessary and unfair delay.
+
+The core issue is this: **delimitation based on population growth risks rewarding states with higher population increases while penalizing those that invested in development, education, and family planning.**
+
+States that successfully controlled population growth—while improving GDP, literacy, and overall human development—stand to gain only a marginal increase in seats (often just 3–10 seats). In contrast, states with higher population growth and weaker development indicators could see their representation nearly double.
+
+This creates a deeply inequitable outcome:
+
+* It **disincentivizes responsible governance**
+* It **penalizes long-term development policies**
+* It **distorts fair political representation**
+
+Yes, increasing total seats is necessary to improve representation in a growing democracy. But **how those seats are distributed matters just as much as how many are added**.
+
+A fair approach could be:
+
+* Increase seats **proportionally across all states (e.g., 50% increase for every state)**, ensuring balance
+  **or**
+* Implement **33% women’s reservation immediately using the current seat structure**, without waiting for delimitation
+
+Delaying implementation until after delimitation effectively **pushes women’s representation further into the future**, turning a constitutional promise into a postponed reality.
+
+The Nari Shakti Vandan Adhiniyam is meant to empower women—not delay their participation.
+
+Every election without adequate representation is a lost opportunity.
+
+If the intent is genuine, **there is no structural barrier to implementing 33% reservation in the very next election**.
+
+Delaying it is not a technical necessity—it is a political choice.
+
+---
+
 
 ## Conclusion: Safety Through Inclusion
 
