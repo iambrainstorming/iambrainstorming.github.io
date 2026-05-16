@@ -53,6 +53,9 @@
 - [Why the Free Market Fails?](./chapters/economics/free_market.md)
 - [Is the Government Prepared for an Oil Shock? Or Are We Sleepwalking Into a Crisis?](./chapters/economics/oil-crisis.md)
 - [Does Money Erode Human Values?](./chapters/economics/money_erode_human_values.md)
+- [Global Fossil Fuel Shortage: A Crisis That Can Become an Opportunity](./chapters/economics/discomfort-due-to-fossil-fuel-shortages.md)
+- [Nuclear Energy Is Not Clean — And It Is More Expensive Than Solar and Wind](./chapters/economics/nuclear_energy.md)
+- [Why Grid-Powered Public Transit Matters Too](./chapters/public_transport/grid-powered-transit.md)
 
 
 

@@ -1,9 +1,7 @@
 # Why Grid-Powered Public Transit Matters Too
 
 Date: 07-06-2025
-Update: 10-12-2025 
-
-
+Update: 16-05-2026 
 
 ### Lithium-Ion Batteries and the Rare Earth Dilemma
 
@@ -33,7 +31,9 @@ Many of these alternatives come with additional advantages. Lead-acid batteries,
 
 However, no battery chemistry is without challenges. While sodium-ion batteries do not rely on rare earth metals, their production can still pose environmental concerns. China, one of the leading developers of sodium-ion technology, has limited natural reserves of soda ash and therefore produces synthetic soda ash in coal-powered chemical plants. This process contributes to hazardous water pollution and reinforces dependence on coal-based industrial inputs. These issues highlight that the sustainability of a battery depends not only on its chemistry but also on how and where its materials are produced.
 
+## Alternative Battery Solutions Beyond Lithium-Ion
 
+There are many promising energy storage solutions beyond lithium-ion batteries. Technologies such as compressed air energy storage, hot sand batteries, and heated brick batteries are emerging as viable alternatives for storing renewable energy. Compressed air systems store excess energy by compressing air underground and releasing it later to generate electricity. Sand and brick batteries store heat energy for long periods using inexpensive and widely available materials, making them suitable for industrial heating and grid storage. Unlike lithium-ion batteries, many of these technologies rely on abundant materials, have lower fire risks, and can potentially reduce dependence on rare mineral mining. As renewable energy expands, a combination of different storage technologies may provide cheaper, safer, and more sustainable energy systems for the future.
 
 ###  Grid-Powered Public Transit
 

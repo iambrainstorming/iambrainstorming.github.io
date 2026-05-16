@@ -76,6 +76,7 @@ A serious oil disruption would expose this fragility immediately.
 * Large-scale push toward **biofertilizers & nitrogen-fixing crops**
 * Incentive shift from chemical subsidies → **agroecology**
 * Investment in **closed-loop systems (hydroponics, circular farming)**
+* [Use technology like nano-urea](https://nanourea.in/). 
 
 Instead, we are doubling down on the old model.
 
