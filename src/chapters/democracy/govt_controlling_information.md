@@ -17,29 +17,65 @@ Usha Mehta and her colleagues set up an underground radio station to transmit me
 #### Using P2P Technologies
 
 - **Torrent Networks:** Torrents use a decentralized P2P protocol, making it difficult for authorities to control or shut down. Individuals can share information through torrent files, ensuring that the data is distributed across multiple users.
-- **IPFS Networks**: Peer-to-peer content delivery network is built around the innovation of content addressing: store, retrieve, and locate data based on the fingerprint of its actual content rather than its name or location. 
-
-Some of the IPFS storage system that are very easy to use includes:
-
-<https://app.apillon.io>
-
-<https://www.4everland.org>
-
 
 - **Signal and other open source end to end encrypted apps:** Signal is an encrypted messaging app that prioritizes user privacy. Activists and individuals seeking to share information securely can use Signal for text, voice, and video communication without fear of surveillance. 
 
 > You can find other apps in [F-Droid](https://f-droid.org/en/). F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
-Some of the other apps are Status, Briar.
-
-> Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy, and robust way to communicate. Unlike traditional messaging tools such as email, Twitter, or Telegram, Briar doesn't rely on a central server - messages are synchronized directly between the users's devices.
->
-> If the Internet's down, briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. If the Internet's up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.
-
 
 - **Tor Network:** The Tor network allows users to browse the internet anonymously by routing their traffic through a series of volunteer-operated servers. This can help individuals access and share information while bypassing government-imposed restrictions.
 
+[Arti](https://gitlab.torproject.org/tpo/core/arti)
+
+[Tor Project](https://www.torproject.org/)
+
+
 - **VPN:** [Opera Browser](https://www.opera.com) has a built-in free VPN, and there are other free VPNs available to install system-wide in F-Droid. 
+
+[InviZible](https://invizible.net/en/)
+
+InviZible Pro combines the strengths of Tor, DNSCrypt, and Purple I2P to provide a comprehensive solution for online privacy, security, and anonymity.
+
+[Psiphon](https://psiphon.ca/)
+
+Access the entire internet. Secure and high-performance, Psiphon provides open access to the uncensored internet for millions of people around the world, with 150,000,000+ downloads.
+
+## Censorship-resistant social media
+
+Censorship-resistant social media matters because governments, corporations, or billionaires should not control public conversation. Centralized platforms can ban accounts, shadowban movements, manipulate algorithms, or pressure users into silence. Decentralized protocols reduce this risk by distributing control.
+
+### Why Nostr is censorship-resistant:
+
+• Nostr is a protocol, not a company. Anyone can run a relay server.
+• Users own their identity through cryptographic keys, not platform accounts.
+• If one relay bans you, your posts can still spread through other relays.
+• There is no central moderation authority controlling the whole network.
+• Clients are interchangeable. You can switch apps without losing followers or identity.
+• Communities can create their own moderation rules instead of relying on a single corporation.
+• Governments would need to block thousands of relays globally, which is much harder than banning one company.
+
+### Why Bluesky can resist censorship (when you self-host your PDS and use third-party clients instead of the official client):
+
+• Bluesky uses the AT Protocol, which separates identity, storage, and apps.
+• If you self-host your Personal Data Server (PDS), you control your account data and identity.
+• Third-party clients can connect to the same network, so users are not locked into the official app.
+• Algorithm choice can be decentralized instead of controlled by one recommendation engine.
+• Moderation can become composable: users choose moderation services rather than obeying one central authority.
+• If the main Bluesky app censors content, alternative clients can still access the same social graph and posts.
+• The protocol can survive even if one company changes policies.
+
+### Why Mastodon is censorship-resistant:
+
+• Mastodon is federated, meaning thousands of independent servers communicate with each other.
+• No single company owns the whole network.
+• Users can migrate between servers while keeping social connections.
+• Different communities can create their own moderation policies.
+• A government blocking one server does not destroy the wider network.
+• Independent hosting reduces dependence on corporate infrastructure.
+• Open-source software allows anyone to create their own instance.
+
+The biggest advantage of decentralized social media is not “no moderation.” The real advantage is pluralism: many communities, many servers, many clients, many moderation systems, and no single gatekeeper controlling global speech.
+
 
 #### Maintaining Anonymity
 
@@ -85,4 +121,3 @@ Later, in 1969, when she was interviewed, she said,
 ## How to bring down a dictator
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/utW1F-QuYq8?si=gnrNsvZLNP7BS-Zd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
