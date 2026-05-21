@@ -25,6 +25,8 @@ Usha Mehta and her colleagues set up an underground radio station to transmit me
 
 [LibreTorrent](https://github.com/proninyaroslav/libretorrent)
 
+[odysee](https://odysee.com/) or [Lbry](https://lbry.com/) A YouTube alternative built on P2P video sharing.
+
 - **Signal and other open source end to end encrypted apps:** Signal is an encrypted messaging app that prioritizes user privacy. Activists and individuals seeking to share information securely can use Signal for text, voice, and video communication without fear of surveillance. 
 
 > You can find other apps in [F-Droid](https://f-droid.org/en/). F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
