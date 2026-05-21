@@ -1,5 +1,8 @@
 # How to share information under fascism or dictatorship?
 
+Update: 21-05-2026
+
+
 ## Story of Usha Mehta
 
 ## Explain how Usha Mehta used a transmitter to reach the voices of Congress and Gandhi
@@ -29,8 +32,10 @@ Usha Mehta and her colleagues set up an underground radio station to transmit me
 
 [Tor Project](https://www.torproject.org/)
 
+[Brave Desktop Apps](https://brave.com/) Brave desktop browser has Tor support.
 
-- **VPN:** [Opera Browser](https://www.opera.com) has a built-in free VPN, and there are other free VPNs available to install system-wide in F-Droid. 
+
+[Opera Browser](https://www.opera.com) has a built-in free VPN, and there are other free VPNs available to install system-wide in F-Droid. 
 
 [InviZible](https://invizible.net/en/)
 
@@ -46,35 +51,35 @@ Censorship-resistant social media matters because governments, corporations, or 
 
 ### Why Nostr is censorship-resistant:
 
-• Nostr is a protocol, not a company. Anyone can run a relay server.
-• Users own their identity through cryptographic keys, not platform accounts.
-• If one relay bans you, your posts can still spread through other relays.
-• There is no central moderation authority controlling the whole network.
-• Clients are interchangeable. You can switch apps without losing followers or identity.
-• Communities can create their own moderation rules instead of relying on a single corporation.
-• Governments would need to block thousands of relays globally, which is much harder than banning one company.
+- Nostr is a protocol, not a company. Anyone can run a relay server.
+- Users own their identity through cryptographic keys, not platform accounts.
+- If one relay bans you, your posts can still spread through other relays.
+- There is no central moderation authority controlling the whole network.
+- Clients are interchangeable. You can switch apps without losing followers or identity.
+- Communities can create their own moderation rules instead of relying on a single corporation.
+- Governments would need to block thousands of relays globally, which is much harder than banning one company.
 
 [Nostria](https://nostrapps.com/nostria)
 
 ### Why Bluesky can resist censorship (when you self-host your PDS and use third-party clients instead of the official client):
 
-• Bluesky uses the AT Protocol, which separates identity, storage, and apps.
-• If you self-host your Personal Data Server (PDS), you control your account data and identity.
-• Third-party clients can connect to the same network, so users are not locked into the official app.
-• Algorithm choice can be decentralized instead of controlled by one recommendation engine.
-• Moderation can become composable: users choose moderation services rather than obeying one central authority.
-• If the main Bluesky app censors content, alternative clients can still access the same social graph and posts.
-• The protocol can survive even if one company changes policies.
+- Bluesky uses the AT Protocol, which separates identity, storage, and apps.
+- If you self-host your Personal Data Server (PDS), you control your account data and identity.
+- Third-party clients can connect to the same network, so users are not locked into the official app.
+- Algorithm choice can be decentralized instead of controlled by one recommendation engine.
+- Moderation can become composable: users choose moderation services rather than obeying one central authority.
+- If the main Bluesky app censors content, alternative clients can still access the same social graph and posts.
+- The protocol can survive even if one company changes policies.
 
 ### Why Mastodon is censorship-resistant:
 
-• Mastodon is federated, meaning thousands of independent servers communicate with each other.
-• No single company owns the whole network.
-• Users can migrate between servers while keeping social connections.
-• Different communities can create their own moderation policies.
-• A government blocking one server does not destroy the wider network.
-• Independent hosting reduces dependence on corporate infrastructure.
-• Open-source software allows anyone to create their own instance.
+- Mastodon is federated, meaning thousands of independent servers communicate with each other.
+- No single company owns the whole network.
+- Users can migrate between servers while keeping social connections.
+- Different communities can create their own moderation policies.
+- A government blocking one server does not destroy the wider network.
+- Independent hosting reduces dependence on corporate infrastructure.
+- Open-source software allows anyone to create their own instance.
 
 The biggest advantage of decentralized social media is not “no moderation.” The real advantage is pluralism: many communities, many servers, many clients, many moderation systems, and no single gatekeeper controlling global speech.
 
