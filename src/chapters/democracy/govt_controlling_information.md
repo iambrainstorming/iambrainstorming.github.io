@@ -54,6 +54,8 @@ Censorship-resistant social media matters because governments, corporations, or 
 • Communities can create their own moderation rules instead of relying on a single corporation.
 • Governments would need to block thousands of relays globally, which is much harder than banning one company.
 
+[Nostria](https://nostrapps.com/nostria)
+
 ### Why Bluesky can resist censorship (when you self-host your PDS and use third-party clients instead of the official client):
 
 • Bluesky uses the AT Protocol, which separates identity, storage, and apps.
