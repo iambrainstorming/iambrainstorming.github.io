@@ -1,5 +1,7 @@
 # New Cockroach Janta Party (CJP) Manifesto
 
+Date: 25-05-2026
+
 ## 1. Raise Minimum Wage for Every Worker
 
 Whether someone is an IT professional, factory worker, delivery worker, or daily labourer, every worker deserves dignified pay.
@@ -59,6 +61,10 @@ Human productivity does not increase endlessly with longer hours. Overwork destr
 ## 5. Approval Voting Reform
 
 Implement approval voting in elections.
+
+![FPT](approval-voting/fptp.png)
+
+![Approval Voting](approval-voting/approval_voting.png)
 
 
 Citizens should be able to support multiple acceptable candidates instead of being trapped into choosing only one. Approval voting reduces hyper-partisanship and encourages consensus politics.
