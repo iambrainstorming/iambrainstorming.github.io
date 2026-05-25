@@ -12,6 +12,12 @@ Whether someone is an IT professional, factory worker, delivery worker, or daily
 
 Workers are not machines. Higher wages increase purchasing power, keep money circulating in the economy, and boost demand for local businesses. An economy grows when ordinary people can afford to spend, not when wealth remains concentrated at the top.
 
+
+### Bonus Reform
+
+Create a **National Job Registry** where all companies must list job openings in one public platform so citizens can easily find jobs without middlemen, scams, or hidden recruitment systems.
+
+
 [The Economic Experiment That Upended Reality](https://www.theatlantic.com/ideas/2026/05/minimum-wage-experiment-worked/687255/?gift=b7K1gSjKiytZPf1RDre0o6aKdXXQ9Im0oO6hmv4Bjf4)
 
 ### Bonus Reform
@@ -46,6 +52,19 @@ UBI gives people survival security so they can take risks, learn skills, start b
 Even if some prices rise temporarily, new entrepreneurs and competition will reduce costs through innovation and efficiency.
 
 Both minimum wage and UBI can increase economic activity by increasing money circulation among ordinary citizens.
+
+With modern technology and automation, society rarely faces pure supply-side shortages unless production creates harmful negative externalities. Today’s larger economic problem is weak demand and low purchasing power among ordinary citizens.
+
+We must eliminate exploitative low-paying jobs through minimum wages and encourage entrepreneurship to create more efficient systems through automation and innovation.
+
+Negative externalities are often policy failures, and sometimes economic ones, because environmentally friendly alternatives are initially more expensive.
+
+For example:
+
+* Instead of depending heavily on disposable plastic bottles, cities can promote reusable bottles with public water and cold-drink refill counters.
+* Instead of centralized AI monopolies consuming massive amounts of water and energy in data centers, we can encourage decentralized P2P open-source AI models running on home servers powered by solar energy.
+
+The goal is not just economic growth, but efficient, sustainable, and citizen-driven growth.
 
 ---
 
