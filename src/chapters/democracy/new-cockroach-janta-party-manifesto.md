@@ -21,20 +21,7 @@ Create a **National Job Registry** where all companies must list job openings in
 
 ---
 
-## 2. Remote Work Rights
-
-Make remote work compulsory wherever physically possible.
-
-
-Remote work can save youth from being forced to migrate to overcrowded metro cities where they struggle with expensive room rent, costly food, and daily travel expenses.
-
-Millions waste hours in traffic, pollution, and overcrowded cities every day. Remote work saves fuel, reduces pollution, improves mental health, and gives workers more flexibility and family time.
-
-It also helps smaller towns and villages grow economically instead of concentrating all opportunities in a few mega cities.
-
----
-
-## 3. Universal Basic Income (UBI)
+## 2. Universal Basic Income (UBI)
 
 Start with:
 
@@ -60,6 +47,19 @@ For example:
 * Instead of centralized AI monopolies consuming massive amounts of water and energy in data centers, we can encourage decentralized P2P open-source AI models running on home servers powered by solar energy.
 
 The goal is not just economic growth, but efficient, sustainable, and citizen-driven growth.
+
+---
+
+## 3. Remote Work Rights
+
+Make remote work compulsory wherever physically possible.
+
+
+Remote work can save youth from being forced to migrate to overcrowded metro cities where they struggle with expensive room rent, costly food, and daily travel expenses.
+
+Millions waste hours in traffic, pollution, and overcrowded cities every day. Remote work saves fuel, reduces pollution, improves mental health, and gives workers more flexibility and family time.
+
+It also helps smaller towns and villages grow economically instead of concentrating all opportunities in a few mega cities.
 
 ---
 
