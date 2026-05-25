@@ -1,6 +1,8 @@
-# New Cockroach Janta Party (CJP) Manifesto
+# New Modified Cockroach Janta Party (CJP) Manifesto
 
 Date: 25-05-2026
+
+[Manifesto Pdf Download](ppt/cjp-manifesto.pdf)
 
 ## 1. Raise Minimum Wage for Every Worker
 
@@ -174,9 +176,10 @@ No domination of media by billionaires or oligarchs — whether through TV chann
 
 CJP supporters are encouraged to:
 
-* Boycott disinformation-driven media monopolies
-* Support open-source decentralized media platforms
-* Build community-driven communication systems that respect freedom of speech and user rights
+- Create a fair playing field where independent and community media can access television broadcasting
+- Boycott disinformation-driven media monopolies that can be pressured or censored for questioning those in power
+- Support and join open-source, decentralized online media platforms that continuously adapt to community needs and feedback
+- Build community-driven communication systems that respect freedom of speech, transparency, user rights
 
 
 Information power should not belong to a handful of corporations or politically connected billionaires. Both traditional television media and internet platforms must remain accountable to citizens, not controlled by concentrated wealth or political influence.
@@ -201,9 +204,14 @@ Cities should be designed for humans, not traffic congestion. Car-free urban pla
 
 # Final Message
 
-The Cockroach Janta Party stands for ordinary citizens who survive despite unemployment, corruption, economic pressure, and political neglect.
+The new manifesto of the Cockroach Janta Party stands for ordinary citizens who continue surviving despite unemployment, corruption, economic pressure, rising living costs, and political neglect.
 
-The “cockroach” symbolizes resilience — people who continue struggling even when the system ignores them.
+The “cockroach” symbolizes resilience — people who continue struggling, adapting, and surviving even when the system ignores them.
 
-This manifesto is not about blind outrage.
-It is about structural reform, economic dignity, democratic transparency, and citizen empowerment.
+This manifesto is not about blind outrage or empty slogans. It is a real test for Gen Z and millennials — whether they can bend the system through perseverance, organization, advocacy, and democratic pressure while holding political parties accountable to public demands.
+
+The goal is not chaos, but structural reform.
+Not hatred, but accountability.
+Not hopelessness, but citizen empowerment.
+
+This manifesto stands for economic dignity, democratic transparency, technological decentralization, sustainable development, freedom of expression, and a system designed to serve ordinary people instead of concentrated power.

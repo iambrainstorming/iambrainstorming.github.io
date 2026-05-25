@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CJP Manifesto — 2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --red: #e8341c;
+    --amber: #f5a623;
+    --gold: #ffd166;
+    --teal: #06d6a0;
+    --purple: #9b5de5;
+    --pink: #ec407a;
+    --cyan: #00bcd4;
+    --green: #66bb6a;
+    --orange: #ff7043;
+    --magenta: #e040fb;
+    --bg: #0d0d0d;
+    --bg2: #161616;
+    --bg3: #1e1e1e;
+    --text: #f0ece0;
+    --muted: #777;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    overflow-x: hidden;
+  }
+
+  /* ── Noise overlay ── */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0.4;
+  }
+
+  .wrapper {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 24px 80px;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ── COVER ── */
+  .cover {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 60px 20px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .cover::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 50% at 50% 30%, rgba(232,52,28,0.18) 0%, transparent 70%),
+      radial-gradient(ellipse 60% 40% at 80% 80%, rgba(155,93,229,0.12) 0%, transparent 60%),
+      radial-gradient(ellipse 50% 50% at 20% 70%, rgba(6,214,160,0.10) 0%, transparent 60%);
+    pointer-events: none;
+  }
+
+  .cover-eyebrow {
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 6px;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    animation: fadeUp 0.8s ease both;
+  }
+
+  .cover-title-1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(64px, 12vw, 120px);
+    font-weight: 900;
+    color: var(--red);
+    line-height: 0.9;
+    letter-spacing: -2px;
+    animation: fadeUp 0.8s 0.1s ease both;
+  }
+
+  .cover-title-2 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(64px, 12vw, 120px);
+    font-weight: 900;
+    color: var(--amber);
+    line-height: 0.9;
+    letter-spacing: -2px;
+    animation: fadeUp 0.8s 0.2s ease both;
+  }
+
+  .cover-sub {
+    font-family: 'Space Mono', monospace;
+    font-size: clamp(16px, 3vw, 24px);
+    letter-spacing: 10px;
+    color: var(--gold);
+    margin-top: 18px;
+    animation: fadeUp 0.8s 0.3s ease both;
+  }
+
+  .cover-divider {
+    width: 120px;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, var(--red), transparent);
+    margin: 30px auto;
+    animation: fadeUp 0.8s 0.4s ease both;
+  }
+
+  .cover-tagline {
+    font-size: 14px;
+    color: var(--muted);
+    font-style: italic;
+    max-width: 400px;
+    animation: fadeUp 0.8s 0.5s ease both;
+  }
+
+  .cover-scroll {
+    margin-top: 60px;
+    font-size: 11px;
+    letter-spacing: 3px;
+    color: var(--muted);
+    text-transform: uppercase;
+    font-family: 'Space Mono', monospace;
+    animation: bounce 2s infinite;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(8px); }
+  }
+
+  /* ── SECTION HEADERS ── */
+  .section {
+    margin: 60px 0 0;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 14px 22px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .section-header::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(255,255,255,0.04);
+  }
+
+  .section-num {
+    font-family: 'Space Mono', monospace;
+    font-size: 28px;
+    font-weight: 700;
+    color: rgba(255,255,255,0.35);
+    line-height: 1;
+    flex-shrink: 0;
+  }
+
+  .section-vline {
+    width: 2px;
+    height: 36px;
+    background: rgba(255,255,255,0.3);
+    flex-shrink: 0;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(16px, 2.5vw, 20px);
+    font-weight: 700;
+    color: white;
+    line-height: 1.2;
+  }
+
+  .section-body {
+    padding: 0 4px;
+    font-size: 15px;
+    color: #ccc;
+    line-height: 1.8;
+  }
+
+  .section-body p { margin-bottom: 12px; }
+  .section-body strong { color: var(--text); }
+
+  /* ── STAT CARDS ── */
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+    margin: 16px 0;
+  }
+
+  .stat-card {
+    background: var(--bg2);
+    border-radius: 6px;
+    padding: 18px;
+    border-top: 3px solid;
+  }
+
+  .stat-label {
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Space Mono', monospace;
+    margin-bottom: 6px;
+  }
+
+  .stat-value {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    font-weight: 900;
+    color: var(--gold);
+    line-height: 1;
+  }
+
+  .stat-note {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+
+  /* ── BULLETS ── */
+  .bullets {
+    list-style: none;
+    margin: 10px 0 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .bullets li {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 14px;
+    background: var(--bg2);
+    border-radius: 4px;
+    font-size: 14px;
+    color: #ccc;
+  }
+
+  .bullets li::before {
+    content: '▸';
+    color: var(--gold);
+    flex-shrink: 0;
+    font-size: 12px;
+    margin-top: 2px;
+  }
+
+  /* ── PILLS ── */
+  .pill-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+  }
+
+  .pill {
+    padding: 5px 14px;
+    border-radius: 100px;
+    border: 1.5px solid;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Space Mono', monospace;
+    letter-spacing: 0.5px;
+  }
+
+  /* ── QUOTE BLOCK ── */
+  .quote-block {
+    border-left: 4px solid;
+    padding: 14px 20px;
+    margin: 16px 0;
+    background: var(--bg2);
+    border-radius: 0 6px 6px 0;
+    font-style: italic;
+    color: #bbb;
+    font-size: 14px;
+  }
+
+  /* ── FINAL BLOCK ── */
+  .final-block {
+    margin-top: 80px;
+    border: 2px solid var(--red);
+    border-radius: 8px;
+    padding: 48px 36px;
+    background: var(--bg2);
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  .final-block::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse at 50% 0%, rgba(232,52,28,0.12) 0%, transparent 60%);
+    pointer-events: none;
+  }
+
+  .final-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(28px, 5vw, 48px);
+    font-weight: 900;
+    color: var(--gold);
+    margin-bottom: 8px;
+  }
+
+  .final-divider {
+    width: 60px;
+    height: 2px;
+    background: var(--muted);
+    margin: 16px auto;
+  }
+
+  .final-body {
+    font-size: 14px;
+    color: #bbb;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.9;
+  }
+
+  .final-body strong { color: var(--text); }
+
+  /* ── DIVIDER ── */
+  .hr {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.08), transparent);
+    margin: 48px 0 0;
+  }
+
+  /* ── SCROLLBAR ── */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--red); border-radius: 3px; }
+
+  /* ── PRINT ── */
+  @media print {
+    body { background: white; color: black; }
+    .cover { min-height: auto; }
+  }
+</style>
+</head>
+<body>
+
+<!-- COVER -->
+<div class="cover">
+  <div class="cover-eyebrow">New Modified — 25 May 2026</div>
+  <div class="cover-title-1">Cockroach</div>
+  <div class="cover-title-2">Janta Party</div>
+  <div class="cover-sub">M A N I F E S T O</div>
+  <div class="cover-divider"></div>
+  <div class="cover-tagline">For ordinary citizens who survive, adapt, and refuse to disappear.</div>
+  <div class="cover-scroll">↓ scroll</div>
+</div>
+
+<div class="wrapper">
+
+  <!-- 01 MINIMUM WAGE -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #c4290f, #e8341c);">
+      <div class="section-num">01</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Raise Minimum Wage for Every Worker</div>
+    </div>
+    <div class="section-body">
+      <p>Every worker — IT professional, factory worker, delivery worker, or daily labourer — deserves dignified pay.</p>
+      <div class="stat-grid">
+        <div class="stat-card" style="border-color: var(--red);">
+          <div class="stat-label" style="color: var(--red);">Daily Labourers</div>
+          <div class="stat-value">₹30,000</div>
+          <div class="stat-note">per month minimum</div>
+        </div>
+        <div class="stat-card" style="border-color: var(--amber);">
+          <div class="stat-label" style="color: var(--amber);">Graduates & Skilled</div>
+          <div class="stat-value">₹40,000</div>
+          <div class="stat-note">per month minimum</div>
+        </div>
+      </div>
+      <p>Workers are not machines. Higher wages increase purchasing power, keep money circulating in the economy, and boost demand for local businesses. An economy grows when ordinary people can afford to spend — not when wealth concentrates at the top.</p>
+      <div class="quote-block" style="border-color: var(--amber);">
+        <strong>National Job Registry</strong> — All companies must list job openings on one public platform: no middlemen, no scams, no hidden recruitment systems.
+      </div>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 02 UBI -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #7b3fc7, #9b5de5);">
+      <div class="section-num">02</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Universal Basic Income (UBI)</div>
+    </div>
+    <div class="section-body">
+      <div class="stat-grid">
+        <div class="stat-card" style="border-color: var(--purple);">
+          <div class="stat-label" style="color: var(--purple);">Phase 1 — Launch</div>
+          <div class="stat-value">₹5,000</div>
+          <div class="stat-note">Women & unemployed citizens</div>
+        </div>
+        <div class="stat-card" style="border-color: var(--teal);">
+          <div class="stat-label" style="color: var(--teal);">Phase 2 — Expanded</div>
+          <div class="stat-value">₹10,000</div>
+          <div class="stat-note">Gradual increase to all</div>
+        </div>
+      </div>
+      <p>UBI gives people survival security so they can take risks, learn skills, start businesses, or escape exploitative jobs. It reduces desperation and creates entrepreneurship.</p>
+      <p>Today's larger economic problem is <strong>weak demand and low purchasing power</strong> among ordinary citizens. Modern technology means society rarely faces pure supply-side shortages. The goal is efficient, sustainable, and citizen-driven growth.</p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 03 REMOTE WORK -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #04a87e, #06d6a0);">
+      <div class="section-num">03</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Remote Work Rights</div>
+    </div>
+    <div class="section-body">
+      <p>Make remote work <strong>compulsory wherever physically possible.</strong> Millions waste hours in traffic and overcrowded cities daily. Remote work saves fuel, reduces pollution, improves mental health, and gives workers flexibility and family time.</p>
+      <ul class="bullets">
+        <li>Save youth from forced migration to expensive metro cities</li>
+        <li>Reduce fuel consumption and urban pollution</li>
+        <li>Help smaller towns grow economically</li>
+        <li>Give workers more flexibility and family time</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 04 6-HOUR WORK DAY -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #c4831a, #f5a623);">
+      <div class="section-num">04</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Six-Hour Work Day</div>
+    </div>
+    <div class="section-body">
+      <div class="stat-card" style="border-color: var(--amber); max-width: 200px; margin-bottom: 16px;">
+        <div class="stat-label" style="color: var(--amber);">Standard Work Day</div>
+        <div class="stat-value">6 hrs</div>
+        <div class="stat-note">Down from 8–10 hrs</div>
+      </div>
+      <p>Human productivity does not increase endlessly with longer hours. Overwork destroys mental health, creativity, and family life. A shorter work day can improve productivity, employment, and quality of life.</p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 05 APPROVAL VOTING -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #b52cc9, #e040fb);">
+      <div class="section-num">05</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Approval Voting Reform</div>
+    </div>
+    <div class="section-body">
+      <p>Implement approval voting in elections. Citizens should be able to support <strong>multiple acceptable candidates</strong> instead of being trapped into choosing only one. Approval voting reduces hyper-partisanship and encourages consensus politics.</p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 06 VVPAT -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #008fa3, #00bcd4);">
+      <div class="section-num">06</div>
+      <div class="section-vline"></div>
+      <div class="section-title">100% VVPAT Counting</div>
+    </div>
+    <div class="section-body">
+      <p>Mandatory <strong>100% verification of VVPAT slips.</strong> Democracy depends on trust. Every vote must be transparently auditable to protect confidence in elections.</p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 07 EXAM REFORM -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #cc4c2e, #ff7043);">
+      <div class="section-num">07</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Structural Reform of Examination System</div>
+    </div>
+    <div class="section-body">
+      <p>India's exam system rewards memorisation and is vulnerable to paper leaks. Education should test <strong>understanding, reasoning, creativity, and problem-solving.</strong></p>
+      <ul class="bullets">
+        <li>Large national question banks with questions promoting critical thinking</li>
+        <li>Randomised selection of questions for each exam</li>
+        <li>Question papers printed only 3–5 hours before exams</li>
+        <li>High-security decentralised printing centres</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 08 NON-PARTISAN -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #04a87e, #06d6a0);">
+      <div class="section-num">08</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Non-Partisan Movement</div>
+    </div>
+    <div class="section-body">
+      <p>Anyone who supports this manifesto is welcome — BJP, Congress, Left, Right, or independent. The movement is <strong>issue-based, not personality-based.</strong> Citizens matter more than party labels.</p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 09 VOTING RIGHTS -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #c4290f, #e8341c);">
+      <div class="section-num">09</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Protect Voting Rights</div>
+    </div>
+    <div class="section-body">
+      <p>No deletion of legitimate voters from electoral rolls. Strict action against ECI officials who illegally remove citizens' voting rights. <strong>Voting is a fundamental democratic right.</strong></p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 10 WOMEN RESERVATION -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #c02060, #ec407a);">
+      <div class="section-num">10</div>
+      <div class="section-vline"></div>
+      <div class="section-title">50% Reservation for Women</div>
+    </div>
+    <div class="section-body">
+      <ul class="bullets">
+        <li>50% reservation for women in Parliament</li>
+        <li>50% reservation in all cabinet positions</li>
+        <li>No waiting for delimitation exercises</li>
+      </ul>
+      <p>Women are half the population. Representation should reflect reality, not tokenism.</p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 11 JUDICIAL INDEPENDENCE -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #7b3fc7, #9b5de5);">
+      <div class="section-num">11</div>
+      <div class="section-vline"></div>
+      <div class="section-title">No Post-Retirement Political Rewards for Chief Justices</div>
+    </div>
+    <div class="section-body">
+      <p>No Chief Justice should receive Rajya Sabha seats or political rewards after retirement. <strong>Judicial independence must remain unquestionable.</strong> Courts should never appear politically influenced.</p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 12 REDUCE HOSTILITY -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #c4831a, #f5a623);">
+      <div class="section-num">12</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Reduce Political Hostility</div>
+    </div>
+    <div class="section-body">
+      <p>With approval voting, punitive anti-defection measures become less necessary because politics becomes less polarised. The goal is <strong>cooperation, not permanent political warfare.</strong></p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 13 RELEASE PROTESTORS -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #c4290f, #e8341c);">
+      <div class="section-num">13</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Release Protestors</div>
+    </div>
+    <div class="section-body">
+      <p>Free all protestors jailed for dissent against the government. Democracy cannot survive if criticism is treated as a crime. <strong>Peaceful dissent is a democratic right.</strong></p>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 14 DECENTRALISED MEDIA -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #04a87e, #06d6a0);">
+      <div class="section-num">14</div>
+      <div class="section-vline"></div>
+      <div class="section-title">Decentralized and Open Media</div>
+    </div>
+    <div class="section-body">
+      <p>Information power should not belong to a handful of corporations or politically connected billionaires.</p>
+      <ul class="bullets">
+        <li>Fair access to TV broadcasting for independent and community media</li>
+        <li>Boycott disinformation-driven media monopolies</li>
+        <li>Support open-source, decentralised online media platforms</li>
+        <li>Community-driven communication systems respecting freedom of speech</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <!-- 15 CAR-FREE CITIES -->
+  <div class="section">
+    <div class="section-header" style="background: linear-gradient(135deg, #439944, #66bb6a);">
+      <div class="section-num">15</div>
+      <div class="section-vline"></div>
+      <div class="section-title">15-Minute Car-Free Cities</div>
+    </div>
+    <div class="section-body">
+      <p>Build cities focused on <strong>walking, e-cycles, public transport, and pedestrian lanes.</strong> Cities should be designed for humans, not traffic congestion. Car-free urban planning improves health, reduces pollution, and makes cities more livable.</p>
+    </div>
+  </div>
+
+  <!-- FINAL MESSAGE -->
+  <div class="final-block">
+    <div class="final-title">THE COCKROACH SURVIVES</div>
+    <div class="final-divider"></div>
+    <p class="final-body">
+      The new manifesto of the Cockroach Janta Party stands for ordinary citizens who continue surviving despite unemployment, corruption, economic pressure, rising living costs, and political neglect.<br><br>
+      The <strong>"cockroach"</strong> symbolises resilience — people who continue struggling, adapting, and surviving even when the system ignores them.<br><br>
+      This manifesto is not about blind outrage or empty slogans. It is a real test for Gen Z and millennials — whether they can bend the system through perseverance, organisation, advocacy, and democratic pressure.
+    </p>
+    <div class="pill-row" style="justify-content: center; margin-top: 28px;">
+      <span class="pill" style="color: var(--red); border-color: var(--red);">Economic Dignity</span>
+      <span class="pill" style="color: var(--purple); border-color: var(--purple);">Democratic Transparency</span>
+      <span class="pill" style="color: var(--teal); border-color: var(--teal);">Tech Decentralisation</span>
+      <span class="pill" style="color: var(--amber); border-color: var(--amber);">Citizen Empowerment</span>
+      <span class="pill" style="color: var(--pink); border-color: var(--pink);">Sustainable Growth</span>
+      <span class="pill" style="color: var(--gold); border-color: var(--gold);">Free Expression</span>
+    </div>
+  </div>
+
+  <p style="text-align: center; margin-top: 40px; font-size: 11px; color: var(--muted); font-family: 'Space Mono', monospace;">
+    CJP · 25-05-2026 · cockroachjantaparty.in
+  </p>
+
+</div>
+</body>
+</html>
