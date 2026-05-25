@@ -13,11 +13,6 @@ Whether someone is an IT professional, factory worker, delivery worker, or daily
 Workers are not machines. Higher wages increase purchasing power, keep money circulating in the economy, and boost demand for local businesses. An economy grows when ordinary people can afford to spend, not when wealth remains concentrated at the top.
 
 
-### Bonus Reform
-
-Create a **National Job Registry** where all companies must list job openings in one public platform so citizens can easily find jobs without middlemen, scams, or hidden recruitment systems.
-
-
 [The Economic Experiment That Upended Reality](https://www.theatlantic.com/ideas/2026/05/minimum-wage-experiment-worked/687255/?gift=b7K1gSjKiytZPf1RDre0o6aKdXXQ9Im0oO6hmv4Bjf4)
 
 ### Bonus Reform
