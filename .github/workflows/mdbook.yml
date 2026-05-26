@@ -32,6 +32,8 @@ jobs:
       MDBOOK_VERSION: 0.4.36
     steps:
       - uses: actions/checkout@v4
+        with:
+          node-version: "24"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
