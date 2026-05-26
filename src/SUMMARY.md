@@ -114,6 +114,7 @@
 - [Key points – How to know who’s trustworthy](./chapters/philosophy/how_to_know_who_trustworthy.md)
 - [Grit: The power of passion and perseverance](./chapters/academics/grit.md)
 - [Why the World Needs More Open Source (FOSS) Software Architects](./chapters/philosophy/software-architect.md)
+- [Why Open Source Resists Billionaire Capture](./chapters/philosophy/open_source_resists_billionaire_capture.md)
 
 
 # India Employment

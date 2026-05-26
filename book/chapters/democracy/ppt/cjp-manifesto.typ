@@ -316,7 +316,7 @@ CJP supporters are encouraged to:
 
 Open-source decentralized media *is resistant to capture by billionaires, corporations, or political interests* because control is distributed across communities instead of being concentrated in a single company or owner. The source code remains open, and anyone is free to run servers, clients, or alternative versions of the platform.
 
-Unlike centralized closed-source platforms, decentralized systems cannot be easily taken over, bought out, or controlled through money and monopoly power
+Unlike centralized closed-source platforms, decentralized systems cannot be easily taken over, bought out, or controlled through money and monopoly power.
 
 Information power should not belong to a handful of corporations or politically connected billionaires. Both traditional television media and internet platforms must remain accountable to citizens, not controlled by concentrated wealth or political influence.
 
