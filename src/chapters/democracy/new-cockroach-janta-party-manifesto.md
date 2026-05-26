@@ -50,6 +50,8 @@ For example:
 
 The goal is not just economic growth, but efficient, sustainable, and citizen-driven growth.
 
+[17 Key Variables That Determine UBI’s Inflationary Impact](https://www.scottsantens.com/17-key-variables-that-determine-ubis-inflationary-impact/)
+
 ---
 
 ## 3. Remote Work Rights
