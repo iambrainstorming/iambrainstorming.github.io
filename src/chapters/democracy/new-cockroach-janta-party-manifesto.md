@@ -185,7 +185,7 @@ Open-source decentralized media **is resistant to capture by billionaires, corpo
 
 Unlike centralized closed-source platforms, decentralized systems cannot be easily taken over, bought out, or controlled through money and monopoly power.
 
-[Open Source Resists Billionaire Capture](../philosophy/open_source_resists_billionaire_capture.md)
+[Why Open Source Resists Billionaire Capture](../philosophy/open_source_resists_billionaire_capture.md)
 
 
 Information power should not belong to a handful of corporations or politically connected billionaires. Both traditional television media and internet platforms must remain accountable to citizens, not controlled by concentrated wealth or political influence.
