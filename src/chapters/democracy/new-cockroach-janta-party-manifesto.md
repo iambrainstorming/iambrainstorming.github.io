@@ -5,7 +5,7 @@ og_type:     "article"
 twitter_card: "The new manifesto of the Cockroach Janta Party stands for ordinary citizens who continue surviving despite unemployment, corruption, economic pressure, rising living costs, and political neglect."
 ---
 
-# New Modified Cockroach Janta Party (CJP) Manifesto
+# New Modified Cockroach Janta Party (NM-CJP) Manifesto
 
 Date: 25-05-2026
 
@@ -183,7 +183,7 @@ Democracy cannot survive if criticism is treated as a crime. Peaceful dissent is
 
 No domination of media by billionaires or oligarchs — whether through TV channels, newspapers, or control over our internet spaces.
 
-CJP supporters are encouraged to:
+NM-CJP supporters are encouraged to:
 
 - Create a fair playing field where independent and community media can access television broadcasting
 - Boycott disinformation-driven media monopolies that can be pressured or censored for questioning those in power
