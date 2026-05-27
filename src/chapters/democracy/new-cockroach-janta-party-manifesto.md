@@ -1,3 +1,9 @@
+---
+description: "The new manifesto of the Cockroach Janta Party stands for ordinary citizens who continue surviving despite unemployment, corruption, economic pressure, rising living costs, and political neglect."
+og_type:     "article"
+twitter_card: "The new manifesto of the Cockroach Janta Party stands for ordinary citizens who continue surviving despite unemployment, corruption, economic pressure, rising living costs, and political neglect."
+---
+
 # New Modified Cockroach Janta Party (CJP) Manifesto
 
 Date: 25-05-2026

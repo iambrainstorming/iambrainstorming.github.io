@@ -1,6 +1,6 @@
 # What a fascist government does?
 
-<video width="100%" controls controls preload="none" poster="../images/fascism.png" >
+<video width="100%" controls preload="none" poster="../images/fascism.png" >
   <source src="https://com-ft-next-media-renditions.s3.eu-west-1.amazonaws.com/17050842428480/1280x720.mp4" type="video/mp4">
 </video>
 
@@ -349,4 +349,3 @@ Fascist governments often employ various tactics to maintain control and manipul
     <!-- Add additional source elements for different video formats if needed -->
     Your browser does not support the video tag.
   </video>
-

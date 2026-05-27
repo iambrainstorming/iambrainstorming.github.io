@@ -18,14 +18,12 @@
   - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)
   - [Car-free cities](./chapters/road-planning-of-cities.md)
   - [How Can We Make Public Transport More Comfortable for People?](./chapters/public_transport/comfortable_public_transport.md)
-  - [Why Grid-Powered Public Transit Matters Too](./chapters/public_transport/grid-powered-transit.md)
   - [City Planning: Rain Water Harvesting](./chapters/city-planning/rain_water_harvesting.md)
   - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)
   - [Love for USD pegged stable coin by the crypto community must end](./chapters/love-for-usd-pegged-stable-coin-by-the-crypto-community-must-end.md)
   - [Tyranny of the Majority, Minority, Representatives, Shareholders and Democratic trilemma](./chapters/democracy/tyranny_of_the_majority.md)
   - [Simple Majority vs Super Majority](./chapters/democracy/simple_majority_and_super_majority.md)
   - [Socialism vs Capitalism](./chapters/capitalism-vs-socialism-which-one-is-working.md)
-  - [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible](./chapters/economics/dismissing_return.md)
   - [Shivarthu: A governance Protocol](./chapters/shivarthu/Shivarthu.md)
   - [The Competitive Collaboration Algorithm](./chapters/democracy/competitive_collaboration.md)
   - [Secure Blockchain Voting](./chapters/democracy/secure_blockchain_voting.md)
@@ -40,7 +38,7 @@
 
 # Economics
 - [Why income inequality exits? Yard-Sale-Model](./chapters/economics/yard-sale-model.md)
-- [The Law of Dismissing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible](./chapters/economics/dismissing_return.md)
+- [The Law of Diminishing Return, the Solow Model, and the Steady State: Why Unlimited Growth is not Possible](./chapters/economics/diminishing_return.md)
 - [Price Controls](./chapters/economics/price_controls.md)
 - [A simplified tax simulation for poverty alleviation](./chapters/economics/tax_collection_simulation.md)
 - [Government’s Monopoly on Money and Violence: A Double-Edged Sword](./chapters/economics/what_is_govt.md)
