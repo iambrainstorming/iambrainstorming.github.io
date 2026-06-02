@@ -59,6 +59,15 @@ The goal is not just economic growth, but efficient, sustainable, and citizen-dr
 
 [17 Key Variables That Determine UBI’s Inflationary Impact](https://www.scottsantens.com/17-key-variables-that-determine-ubis-inflationary-impact/)
 
+
+### UBI doesn't cause Inflation
+
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2FUBI-price-rise%3Ac?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
+
+### UBI is Political
+
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2Fubi_is_political%3A6?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
+
 ---
 
 ## 3. Remote Work Rights
