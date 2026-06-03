@@ -116,11 +116,15 @@ Democracy depends on trust. Every vote must be transparently auditable to protec
 
 ## 7. Structural Reform of Examination System
 
-We are not demanding resignations. We demand structural reform.
+We are not just demanding resignations. We demand structural reform.
+
+We demand the end of the NTA and the restoration of a decentralized, transparent, and accountable examination system. India's students deserve examinations that are secure, accessible, and resilient—not a centralized structure that repeatedly fails millions of aspirants.
+
+[Why NTA Must Be Ended?](../education/nta-end.md)
 
 ### Reform Plan
 
-* Create large national question banks with high-quality questions that promote critical thinking and transfer of learning
+* Create large question banks with high-quality questions that promote critical thinking and transfer of learning
 * Randomized selection of questions
 * Print question papers only 3–5 hours before exams
 * High-security decentralized printing centers

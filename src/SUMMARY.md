@@ -90,6 +90,7 @@
 - [Beyond the Numbers: The Complexities of Assessment](./chapters/education/beyond_numbers.md)
 - [A dystopian school: what does it look like?](./chapters/education/dystopian_school.md)
 - [Reimagining Higher Education: Critiquing Private Universities and Enhancing IGNOU’s Democratic Promise](./chapters/education/open-education.md)
+- [Why NTA Must Be Ended](./chapters/education/nta-end.md)
 
 # Health Care
 - [Health Care In India](./chapters/economics/health-care-economics.md)
