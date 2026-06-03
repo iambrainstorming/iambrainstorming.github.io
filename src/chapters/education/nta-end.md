@@ -1,7 +1,7 @@
 ---
 description: "We demand the end of the National Testing Agency (NTA) and the creation of a decentralized, transparent, and accountable examination system. Repeated paper leaks, examination delays, centre shifting, and administrative failures have eroded public trust and exposed the risks of centralizing high-stakes examinations for millions of students."
 
-og_image: "https://iambrainstorming.vercel.app/images/nta-end.png"
+og_image: "https://iambrainstorming.vercel.app/images/nta_end.png"
 
 og_type: "article"
 
