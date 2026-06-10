@@ -59,3 +59,7 @@ Tools like AI and MOOCs are incredible *levers*, but a lever only amplifies the 
 ## Learning Paradox Video In Hindi:
 
 <iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2Feducation-paradox-of-digital-age%3A6?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
+
+## Self-Regulation Crisis Video In Hindi:
+
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2Feducation-paradox-of-digital-age-2%3A7?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
