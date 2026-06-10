@@ -91,6 +91,7 @@
 - [A dystopian school: what does it look like?](./chapters/education/dystopian_school.md)
 - [Reimagining Higher Education: Critiquing Private Universities and Enhancing IGNOU’s Democratic Promise](./chapters/education/open-education.md)
 - [Why NTA Must Be Ended](./chapters/education/nta-end.md)
+- [We Have Democratized Access to Knowledge, but Not Learning](./chapters/education/education-paradox-of-digital-age.md)
 
 # Health Care
 - [Health Care In India](./chapters/economics/health-care-economics.md)
