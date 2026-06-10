@@ -1,3 +1,11 @@
+---
+description: "It is a profound paradox of the modern age: we have democratized access to the sum of human knowledge, yet learning outcomes, educational inequality, and student engagement remain massive global challenges."
+og_image:    "https://iambrainstorming.github.io/images/education-paradox.png"
+og_type:     "article"
+og_title:    "We Have Democratized Access to Knowledge, but Not Learning"
+twitter_card: "It is a profound paradox of the modern age: we have democratized access to the sum of human knowledge, yet learning outcomes, educational inequality, and student engagement remain massive global challenges."
+---
+
 # We Have Democratized Access to Knowledge, but Not Learning
 
 Date: 10-06-2026
