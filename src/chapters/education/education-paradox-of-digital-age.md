@@ -56,6 +56,6 @@ The "education problem" persists because we treated education as an **informatio
 Tools like AI and MOOCs are incredible *levers*, but a lever only amplifies the force applied to it. If the underlying system lacks equity, if the student lacks intrinsic motivation, if the tool removes the "desirable difficulty" required for brain growth, or if it tricks the brain into "cognitive ease" by bypassing effortful System 2 thinking, the best technology in the world cannot force a human mind to learn.
 
 
-In Hindi:
+## Learning Paradox Video In Hindi:
 
 <iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2Feducation-paradox-of-digital-age%3A6?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
