@@ -47,9 +47,9 @@ These are not apps—they are **foundations**:
 
 * ActivityPub powers platforms like Mastodon, enabling federated social networks where servers interoperate instead of competing in isolation.
 * AT Protocol reimagines social media with portable identities, algorithmic choice, and user control over data.
-* Nostr provides a simple and lightweight protocol that is easy to build on, allowing anyone to create clients, relays, and social applications without needing permission from a central platform.
+* Nostr provides a simple and lightweight protocol that is easy to build on, allowing anyone to create clients, relays, and social applications. Because users can connect to multiple independent relays, no single company, server, or authority can easily shut down the network or control the flow of information.
 
-In both cases, the goal is the same:
+In all three cases, the goal is the same:
 **No single entity should control the flow of information.**
 
 Instead of one company owning the network, the protocol becomes a shared public infrastructure on which thousands of applications, communities, and innovations can be built.
