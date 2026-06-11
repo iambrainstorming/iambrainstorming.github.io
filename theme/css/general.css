@@ -1,18 +1,13 @@
-.translate-navbar {
-    margin-left: auto;
-    margin-right: 12px;
+#google-translate-wrapper {
     display: flex;
-    align-items: center;
+    justify-content: flex-end;
+    padding: 8px 16px;
+    border-bottom: 1px solid var(--sidebar-border-color);
 }
 
-.translate-navbar .goog-te-gadget {
-    font-size: 0;
-}
-
-.translate-navbar .goog-te-combo {
+#google_translate_element .goog-te-combo {
     padding: 4px 8px;
     border-radius: 4px;
-    background: inherit;
 }
 
 /* Base styles and content styles */

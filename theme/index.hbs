@@ -189,8 +189,6 @@ function googleTranslateElementInit() {
 
                     <h1 class="menu-title">{{ book_title }}</h1>
 
-                    <div id="google_translate_element" class="translate-navbar"></div>
-
                     <div class="right-buttons">
                         {{#if print_enable}}
                         <a href="{{ path_to_root }}print.html" title="Print this book" aria-label="Print this book">
@@ -209,6 +207,10 @@ function googleTranslateElementInit() {
                         {{/if}}
 
                     </div>
+                </div>
+
+                <div id="google-translate-wrapper">
+                    <div id="google_translate_element"></div>
                 </div>
 
                 {{#if search_enabled}}
