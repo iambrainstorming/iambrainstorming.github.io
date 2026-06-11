@@ -1,6 +1,7 @@
 ## Why the World Needs More Open Source (FOSS) Software Architects
 
 Date: 30-03-2026
+Update: 11-06-2026
 
 The world today does not merely suffer from bugs—it suffers from bad design. Systems that shape our lives—social media, financial markets, governance platforms—are increasingly chaotic, not because humans are inherently disordered, but because the *scaffolding beneath these systems is flawed*. What matters is not just what we build, but **what we build on top of**. When the foundation is weak, even the most polished features collapse into dysfunction.
 
@@ -40,15 +41,18 @@ Consider the internet itself. Protocols like HTTP and TCP/IP enabled a decentral
 
 Now, a new generation of architects is rethinking this foundation.
 
-Take the rise of decentralized social protocols like ActivityPub and AT Protocol.
+Take the rise of decentralized social protocols like ActivityPub, AT Protocol, and Nostr.
 
 These are not apps—they are **foundations**:
 
 * ActivityPub powers platforms like Mastodon, enabling federated social networks where servers interoperate instead of competing in isolation.
 * AT Protocol reimagines social media with portable identities, algorithmic choice, and user control over data.
+* Nostr provides a simple and lightweight protocol that is easy to build on, allowing anyone to create clients, relays, and social applications without needing permission from a central platform.
 
 In both cases, the goal is the same:
 **No single entity should control the flow of information.**
+
+Instead of one company owning the network, the protocol becomes a shared public infrastructure on which thousands of applications, communities, and innovations can be built.
 
 This is architectural thinking. Instead of building “another Twitter,” these protocols redefine what social media *is allowed to be*.
 
