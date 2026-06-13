@@ -47,7 +47,7 @@ Its a shift from **"Education as Content Delivery"** to **"Education as Supporte
 
 The technology (MOOCs/AI) solves the scalability of information. The 1:6 mentorship solves the scalability of wisdom, motivation, and accountability. This isn't just a business model; it's a pedagogical correction.
 
-The paradox exists because we tried to replace humans. Your model succeeds because it uses technology to make human connection *sustainable*.
+The paradox exists because we tried to replace humans. This model succeeds because it uses technology to make human connection *sustainable*.
 
 
 ## How to Execute? 
