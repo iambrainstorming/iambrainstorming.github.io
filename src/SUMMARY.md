@@ -92,6 +92,7 @@
 - [Reimagining Higher Education: Critiquing Private Universities and Enhancing IGNOU’s Democratic Promise](./chapters/education/open-education.md)
 - [Why NTA Must Be Ended](./chapters/education/nta-end.md)
 - [We Have Democratized Access to Knowledge, but Not Learning](./chapters/education/education-paradox-of-digital-age.md)
+- [How to Slove Bloom's 2 sigma Problem with One to Six Tutoring](./chapters/education/2-sigma-problem.md)
 
 # Health Care
 - [Health Care In India](./chapters/economics/health-care-economics.md)
