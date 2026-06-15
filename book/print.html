@@ -38,7 +38,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-68c4d24c.js";
+            window.path_to_searchindex_js = "searchindex-250ebce4.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-a6babf93.js"></script>
@@ -6473,6 +6473,123 @@ Update: 16-05-2026</p>
 <h3 id="summary"><a class="header" href="#summary">Summary</a></h3>
 <p>China is pushing RISC-V because they <strong>have to</strong> in order to survive tech sanctions. India should push RISC-V because it is the <strong>smartest strategic move</strong> to achieve <em>Atmanirbhar Bharat</em> (Self-Reliant India) in electronics. By embracing open-source silicon, India can bypass the monopolies of the past and position itself as a primary architect of the future computing landscape.</p>
 <iframe id="odysee-iframe-3" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2FRISC-V%3Aa?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen=""></iframe>
+<h2 id="how-supply-chain-attacks-work-at-the-hardware-level"><a class="header" href="#how-supply-chain-attacks-work-at-the-hardware-level">How Supply Chain Attacks work at the Hardware Level</a></h2>
+<p>To understand how supply chain attacks work at the hardware level, we have to look at the fundamental difference between <strong>proprietary architectures (x86/ARM)</strong> and <strong>open-source architectures (RISC-V)</strong>.</p>
+<p>In the cybersecurity world, there is a golden rule: <strong>“Never trust a black box.”</strong></p>
+<p>When a nation or a company buys an x86 or ARM processor, they are buying a black box. They know what it does on the outside, but they have absolutely no idea what is happening on the inside. RISC-V, on the other hand, is a “glass box.”</p>
+<p>Here is exactly how x86 and ARM can be weaponized for supply chain attacks, and why RISC-V fundamentally breaks this attack vector.</p>
+<hr>
+<h3 id="part-1-how-x86-and-arm-enable-supply-chain-attacks"><a class="header" href="#part-1-how-x86-and-arm-enable-supply-chain-attacks">Part 1: How x86 and ARM Enable Supply Chain Attacks</a></h3>
+<p>When you use a proprietary processor, you are forced to trust the vendor (Intel, AMD, or ARM) and, by extension, the government that has jurisdiction over that vendor (primarily the US and UK). This creates three massive attack vectors:</p>
+<h4 id="1-the-shadow-processor-problem-intel-me--arm-trustzone"><a class="header" href="#1-the-shadow-processor-problem-intel-me--arm-trustzone">1. The “Shadow Processor” Problem (Intel ME &amp; ARM TrustZone)</a></h4>
+<p>Modern x86 and ARM chips do not just have one brain; they have a “shadow brain” inside them.</p>
+<ul>
+<li>In Intel chips, this is the <strong>Intel Management Engine (ME)</strong>. In AMD, it’s the <strong>Platform Security Processor (PSP)</strong>. In ARM, it’s <strong>TrustZone</strong>.</li>
+<li>These are entirely separate, hidden microcontrollers embedded inside the main CPU. They run their own proprietary operating systems, have direct access to the network card and memory, and boot up <em>before</em> the main operating system (like Windows or Linux) even starts.</li>
+<li><strong>The Attack:</strong> Because the code running on these shadow processors is 100% closed-source and encrypted, no independent security researcher can audit it. If a state actor wanted to create a hardware backdoor, they could coerce the chip manufacturer to insert a silent exploit into the Intel ME. This backdoor could silently siphon encryption keys, log keystrokes, or act as an un-killable remote access tool, completely invisible to the host OS and antivirus software.</li>
+</ul>
+<h4 id="2-the-microcode-trojan-horse"><a class="header" href="#2-the-microcode-trojan-horse">2. The Microcode “Trojan Horse”</a></h4>
+<p>Processors don’t just execute machine code; they use <strong>microcode</strong> to translate complex instructions into physical hardware signals.</p>
+<ul>
+<li>In x86, microcode is updated via “microcode patches” pushed by Intel/AMD to the OS.</li>
+<li><strong>The Attack:</strong> Microcode is distributed as a closed-source binary blob. The operating system blindly loads it into the CPU. A malicious or coerced microcode update could subtly alter how the CPU handles cryptographic operations (like AES encryption), intentionally weakening the math so a foreign intelligence agency can decrypt the nation’s secure communications. Because it’s closed-source, the victim nation would never know their hardware was sabotaged.</li>
+</ul>
+<h4 id="3-the-opaque-ip-licensing-trap-arm"><a class="header" href="#3-the-opaque-ip-licensing-trap-arm">3. The Opaque IP Licensing Trap (ARM)</a></h4>
+<p>When a company (like Apple or Samsung) designs a chip, they don’t write the core architecture from scratch; they license the “IP core” from ARM.</p>
+<ul>
+<li>ARM delivers this IP as a “black box” RTL (Register Transfer Level) design. The buyer is legally forbidden from reverse-engineering it to see how it works.</li>
+<li><strong>The Attack:</strong> If the UK/US government wanted to sabotage a rival nation’s tech ecosystem, they could mandate that ARM insert a “hardware trojan” (a few lines of malicious logic) into the IP cores sold to specific countries. Because the buyer is legally barred from auditing the ARM code, they would unknowingly print millions of compromised chips.</li>
+</ul>
+<p><a href="https://www.extremetech.com/internet/230342-report-claims-intel-cpus-contain-enormous-security-flaw">A new report is claiming that the majority of Intel x86 processors contain a potentially devastating security flaw – but is it true?</a></p>
+<blockquote>
+<p>BoingBoing is correct when it writes: “There is no way for the x86 firmware or operating system to disable ME permanently. Intel keeps most details about ME absolutely secret. There is absolutely no way for the main CPU to tell if the ME on a system has been compromised, and no way to ‘heal’ a compromised ME. There is also no way to know if malicious entities have been able to compromise ME and infect systems.”</p>
+</blockquote>
+<hr>
+<h3 id="part-2-why-risc-v-neutralizes-these-attacks"><a class="header" href="#part-2-why-risc-v-neutralizes-these-attacks">Part 2: Why RISC-V Neutralizes These Attacks</a></h3>
+<p>RISC-V shifts the paradigm from <strong>“Trust the Vendor”</strong> to <strong>“Trust the Math.”</strong> Here is why design-level supply chain attacks are virtually impossible with a true open-source RISC-V implementation:</p>
+<h4 id="1-total-transparency-the-glass-box"><a class="header" href="#1-total-transparency-the-glass-box">1. Total Transparency (The Glass Box)</a></h4>
+<p>RISC-V is an open-standard Instruction Set Architecture (ISA), and its reference implementations (the actual Verilog/SystemVerilog code that describes the hardware) are open-source.</p>
+<ul>
+<li><strong>The Defense:</strong> Before a nation prints a RISC-V chip, their top cybersecurity agencies and engineers can read <strong>every single line of the hardware description code</strong>. They can mathematically verify that there are no hidden instructions, no backdoors, and no shadow processors. If the code doesn’t match the public specification, they will see it immediately. You cannot hide an Intel ME equivalent inside an open-source codebase.</li>
+</ul>
+<h4 id="2-no-mandatory-shadow-cpus"><a class="header" href="#2-no-mandatory-shadow-cpus">2. No Mandatory “Shadow CPUs”</a></h4>
+<p>The RISC-V specification does not mandate a proprietary, closed-source management engine.</p>
+<ul>
+<li><strong>The Defense:</strong> While a designer <em>can</em> add custom security modules to a RISC-V chip, they must be explicitly designed and added by the user. There is no hidden, pre-compiled, un-auditable “Ring -3” processor baked into the foundation of the architecture by a central authority.</li>
+</ul>
+<h4 id="3-the-sovereign-copy-paste-fabricate-flow"><a class="header" href="#3-the-sovereign-copy-paste-fabricate-flow">3. The Sovereign “Copy-Paste-Fabricate” Flow</a></h4>
+<p>With x86 or ARM, you must rely on a middleman to give you the chip design. With RISC-V, the supply chain is entirely in your hands.</p>
+<ul>
+<li><strong>The Defense:</strong> A country like India can take a verified, open-source RISC-V core (like the Shakti processor from IIT Madras). They can audit the code, compile it themselves, generate the physical layout files (GDSII), and send those files directly to a foundry (like TSMC) to be manufactured.</li>
+<li><strong>There is no foreign IP vendor to coerce.</strong> The US or UK government cannot sanction a blueprint that is publicly available on GitHub and has been memorized by a thousand engineers.</li>
+</ul>
+<hr>
+<h3 id="part-3-the-crucial-nuance-where-risc-v-is-not-a-magic-bullet"><a class="header" href="#part-3-the-crucial-nuance-where-risc-v-is-not-a-magic-bullet">Part 3: The Crucial Nuance (Where RISC-V is NOT a Magic Bullet)</a></h3>
+<p>To be completely accurate, we must distinguish between <strong>Design/IP Supply Chain Attacks</strong> and <strong>Physical Manufacturing Supply Chain Attacks</strong>.</p>
+<p>RISC-V completely solves the <em>Design/IP</em> supply chain problem. However, it does not magically solve the <em>Physical</em> supply chain problem.</p>
+<ol>
+<li><strong>Commercial RISC-V is still a Black Box:</strong> If a company buys a premium, closed-source RISC-V core from a commercial vendor (like SiFive or Andes Technology) instead of using the open-source reference designs, they are back to the “black box” problem. The vendor could theoretically insert a backdoor. <em>Solution: Nations must use and audit open-source cores, not commercial closed-source ones.</em></li>
+<li><strong>The Foundry Level (Hardware Trojans):</strong> Even if your RISC-V design is 100% clean and open-source, you still have to send the design to a physical fabrication plant (like TSMC in Taiwan or Samsung in South Korea) to print the silicon.
+<ul>
+<li><strong>The Attack:</strong> A compromised foundry could subtly alter the physical photomasks during manufacturing, adding a physical “hardware trojan” (a microscopic extra transistor) that isn’t in your original code.</li>
+<li><em>Note: This is a massive area of ongoing research in hardware security, and RISC-V’s open nature actually helps here too, as researchers are developing open-source tools to optically inspect physical chips and compare them against the open-source blueprints to detect physical tampering.</em></li>
+</ul>
+</li>
+</ol>
+<h3 id="summary-1"><a class="header" href="#summary-1">Summary</a></h3>
+<p>In the Web3 and blockchain world, you operate on the principle of <strong>“Don’t trust, verify.”</strong></p>
+<p>Proprietary x86 and ARM architectures demand blind trust in foreign corporations and their governments. They are the ultimate centralized “black boxes,” making them perfect vehicles for state-sponsored supply chain attacks via hidden microcode and shadow processors.</p>
+<p>RISC-V brings the <strong>“Don’t trust, verify”</strong> ethos to physical hardware. By making the silicon blueprint open, auditable, and free from mandatory proprietary management engines, RISC-V ensures that a nation’s hardware is built on mathematical transparency, not geopolitical trust.</p>
+<h2 id="can-risc-v-be-audited-after-fabrication-"><a class="header" href="#can-risc-v-be-audited-after-fabrication-">Can RISC-V be audited after Fabrication ?</a></h2>
+<p>Yes, RISC-V <strong>can</strong> be audited after fabrication, and this is where its open-source nature provides a massive, almost unfair advantage over proprietary chips like x86 and ARM.</p>
+<p>Auditing a physical piece of silicon after it has been manufactured (known in the industry as <strong>Post-Silicon Verification</strong> or <strong>Hardware Security Testing</strong>) is one of the most difficult challenges in cybersecurity. However, if a malicious foundry inserts a “hardware trojan” during manufacturing, RISC-V gives security teams the exact tools they need to catch it.</p>
+<p>Here is exactly how post-fabrication auditing works, and why RISC-V makes it possible while x86/ARM make it nearly impossible.</p>
+<hr>
+<h3 id="the-core-advantage-the-golden-reference"><a class="header" href="#the-core-advantage-the-golden-reference">The Core Advantage: The “Golden Reference”</a></h3>
+<p>To know if a physical chip has been tampered with, you need to compare it to what it is <em>supposed</em> to look like. This is called the “Golden Reference.”</p>
+<ul>
+<li><strong>With x86/ARM:</strong> You do not have the Golden Reference. Because the designs are closed-source, you don’t know exactly how many transistors are supposed to be there, what the exact power draw should be at the transistor level, or what the physical layout looks like.</li>
+<li><strong>With RISC-V:</strong> You have the exact, open-source blueprint (the RTL code and the physical GDSII layout files). You know <em>exactly</em> what the chip should look like, how it should behave, and how much power it should consume.</li>
+</ul>
+<p>Because you have the Golden Reference, you can use two main methods to hunt for post-fabrication malicious additions.</p>
+<p><a href="https://www.design-reuse.com/news/9321-silicon-labs-selects-imperas-risc-v-reference-model-for-verification/">Silicon Labs selects Imperas RISC-V Reference Model for verification</a></p>
+<hr>
+<h3 id="method-1-non-destructive-behavioral-auditing-side-channel-analysis"><a class="header" href="#method-1-non-destructive-behavioral-auditing-side-channel-analysis">Method 1: Non-Destructive Behavioral Auditing (Side-Channel Analysis)</a></h3>
+<p>You don’t always have to destroy the chip to audit it. You can monitor how it behaves while it runs.</p>
+<p><strong>1. Power and Electromagnetic Analysis:</strong>
+Every time a transistor switches on or off, it consumes a tiny amount of power and emits a microscopic electromagnetic signature.</p>
+<ul>
+<li><strong>The Attack:</strong> If a foundry added a malicious “hardware trojan” (like a hidden circuit that secretly copies encryption keys and transmits them), that extra circuit will draw extra power when it activates.</li>
+<li><strong>The RISC-V Defense:</strong> Because the RISC-V design is open-source, researchers can simulate the exact power profile of the clean, open-source code. When they test the physical chip, if the power draw spikes in a way that doesn’t match the open-source simulation, <strong>they instantly know something extra is on the silicon.</strong></li>
+<li><em>Contrast with x86:</em> If an Intel chip shows a weird power spike, you can’t tell if it’s a malicious trojan, or just the secret, closed-source “Intel Management Engine” doing its normal, hidden background tasks. The “noise” of proprietary secrets hides the trojans.</li>
+</ul>
+<p><strong>2. Timing and Fault Injection:</strong>
+Security researchers can intentionally glitch the chip’s voltage or clock speed (Fault Injection) to force it into rare, unexpected states.</p>
+<ul>
+<li><strong>The RISC-V Defense:</strong> By fuzzing the RISC-V chip with millions of random instructions and measuring the microsecond timing of the responses, researchers can map the chip’s internal state machine. If the physical chip takes 2 nanoseconds longer to execute a specific math operation than the open-source blueprint dictates, it reveals the presence of hidden logic gates added during manufacturing.</li>
+</ul>
+<p><a href="https://link.springer.com/chapter/10.1007/978-3-319-28865-9_15">Practicality of Using Side-Channel Analysis for Software Integrity Checking of Embedded Systems</a></p>
+<hr>
+<h3 id="method-2-destructive-physical-auditing-reverse-engineering"><a class="header" href="#method-2-destructive-physical-auditing-reverse-engineering">Method 2: Destructive Physical Auditing (Reverse Engineering)</a></h3>
+<p>If a nation-state suspects a batch of chips has been compromised at the foundry, they will physically tear the chip apart to look for hardware trojans.</p>
+<p><strong>1. Decapsulation and Imaging:</strong>
+The chip’s plastic/ceramic packaging is melted away using acid. The silicon die is then polished down layer by layer. Using a Scanning Electron Microscope (SEM), researchers take high-resolution images of the physical transistors and metal interconnects.</p>
+<p><strong>2. The “Netlist” Extraction and Comparison:</strong>
+This is where RISC-V completely destroys the proprietary model.</p>
+<ul>
+<li><strong>The RISC-V Defense:</strong> Security engineers can look at the physical images of the manufactured RISC-V chip and extract the physical “netlist” (the map of how transistors are connected). They then compare this physical map directly against the <strong>open-source RISC-V blueprint</strong>. If the foundry added 5,000 extra transistors to create a backdoor, the physical netlist will not match the open-source netlist. The trojan is immediately exposed.</li>
+<li><em>Contrast with x86/ARM:</em> If you decap an ARM chip and find a weird cluster of transistors in the corner, <strong>you have no idea if it is a malicious trojan or a legitimate, proprietary feature</strong> (like a hardware accelerator for a specific video codec) because the manufacturer won’t show you the original blueprint. You cannot prove it is malicious.</li>
+</ul>
+<hr>
+<h3 id="the-reality-check-it-is-still-hard"><a class="header" href="#the-reality-check-it-is-still-hard">The Reality Check: It is Still Hard</a></h3>
+<p>While RISC-V makes post-silicon auditing <em>possible</em>, it is important to understand that it is not easy.</p>
+<ol>
+<li><strong>It requires massive resources:</strong> Decapping a chip, imaging it with an electron microscope, and extracting the netlist requires multi-million-dollar laboratories. Only nation-states, top-tier defense contractors, and elite security firms can do this. A normal startup cannot do this in a garage.</li>
+<li><strong>Sophisticated Trojans:</strong> A highly sophisticated state actor might insert a “dormant” hardware trojan that is triggered only by a highly specific, rare sequence of inputs, meaning it won’t show up in standard power analysis unless you know exactly what to look for.</li>
+</ol>
+<h3 id="summary-2"><a class="header" href="#summary-2">Summary</a></h3>
+<p>In the world of physical hardware, <strong>x86 and ARM demand blind faith.</strong> If a proprietary chip acts strangely after fabrication, you can never definitively prove it was sabotaged at the factory, because the manufacturer can just claim, “That’s just how our secret, proprietary design works.”</p>
+<p><strong>RISC-V brings the “Don’t Trust, Verify” ethos to the physical world.</strong> Because the blueprint is public, any physical chip can be mathematically, behaviorally, and physically compared against the open-source original. If a foundry tries to slip a malicious circuit into the silicon during manufacturing, the open-source nature of RISC-V ensures that the lie will be exposed.</p>
 <div style="break-before: page; page-break-before: always;"></div><meta property="og:type" content="website" />
 <meta property="og:title" content="Do we need a supreme leader? How can we share power between parties?" />
 <meta property="og:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
@@ -9587,7 +9704,7 @@ Publishing</p>
 <li><strong>Question Substitution and WYSIATI:</strong> Kahneman explains that when faced with a difficult question, System 1 automatically substitutes it with an easier one. When a student asks themselves, “Do I understand this complex concept?” their brain substitutes it with, “Did I understand the AI’s clear summary?” Combined with WYSIATI (What You See Is All There Is), the student accepts the coherent story in front of them as complete truth, failing to recognize the nuances, edge cases, or gaps in their own knowledge.</li>
 <li><strong>Bypassing System 2:</strong> True learning requires “cognitive strain”—the deliberate, effortful engagement of System 2 to untangle complex, confusing, or counterintuitive ideas. By removing friction and providing instant answers, modern tools allow students to remain in the comfortable realm of System 1, consuming information without doing the hard mental work required for deep comprehension.</li>
 </ul>
-<h3 id="summary-1"><a class="header" href="#summary-1">Summary</a></h3>
+<h3 id="summary-3"><a class="header" href="#summary-3">Summary</a></h3>
 <p>The “education problem” persists because we treated education as an <strong>information delivery problem</strong>, when in reality, it is a <strong>human motivation, cognitive, behavioral, and sociological problem</strong>.</p>
 <p>Tools like AI and MOOCs are incredible <em>levers</em>, but a lever only amplifies the force applied to it. If the underlying system lacks equity, if the student lacks intrinsic motivation, if the tool removes the “desirable difficulty” required for brain growth, or if it tricks the brain into “cognitive ease” by bypassing effortful System 2 thinking, the best technology in the world cannot force a human mind to learn.</p>
 <h2 id="hindi-explainer-videos"><a class="header" href="#hindi-explainer-videos">Hindi Explainer Videos</a></h2>
