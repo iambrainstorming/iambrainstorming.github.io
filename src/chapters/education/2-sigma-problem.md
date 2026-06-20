@@ -8,6 +8,8 @@ twitter_card: "A cohort of six is the Goldilocks zone for social learning. Resea
 
 # How to Slove Bloom's 2 sigma Problem with One to Six Tutoring
 
+Date: 15-06-2026
+
 We may not be able to scale one-to-one tutoring, but we can realistically scale to one mentor for every six students. Content delivery can largely be handled through well-designed MOOCs, while relational accountability remains the responsibility of teachers and mentors.
 
 Recent graduates can play an important role by contributing their time as mentors. A dedicated day each month can be used to train and support these graduates, helping them develop the skills needed to guide students effectively.

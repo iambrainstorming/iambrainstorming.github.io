@@ -1,5 +1,7 @@
 # China is actively promoting RISC-V. Why should India also adopt RISC-V?
 
+Date: 15-06-2026
+
 While China’s aggressive push for RISC-V is largely a defensive strategy to bypass Western sanctions and export controls on semiconductor technology, India’s adoption of RISC-V represents a massive **proactive opportunity**. 
 
 Just as India leveraged open-source software (like Linux and Android) to build its global IT powerhouse, adopting RISC-V—the "Linux of hardware"—can help India build a sovereign, world-class semiconductor ecosystem. 

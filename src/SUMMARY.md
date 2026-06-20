@@ -56,6 +56,7 @@
 - [Nuclear Energy Is Not Clean — And It Is More Expensive Than Solar and Wind](./chapters/economics/nuclear_energy.md)
 - [Why Grid-Powered Public Transit Matters Too](./chapters/public_transport/grid-powered-transit.md)
 - [China is actively promoting RISC-V. Why should India also adopt RISC-V?](./chapters/computer/risc-v.md)
+- [The Data Center Delusion: Why AI Should Run on Your Rooftop, Not in a Corporate Fortress](./chapters/economics/data-center-delusion.md)
 
 
 
