@@ -95,6 +95,7 @@
 - [Why NTA Must Be Ended](./chapters/education/nta-end.md)
 - [We Have Democratized Access to Knowledge, but Not Learning](./chapters/education/education-paradox-of-digital-age.md)
 - [How to Slove Bloom's 2 sigma Problem with One to Six Tutoring](./chapters/education/2-sigma-problem.md)
+- [Beyond Rote Memorization: Why Explainer Videos Are the Future of Assessment](./chapters/education/explainer-vidoes.md)
 
 # Health Care
 - [Health Care In India](./chapters/economics/health-care-economics.md)
