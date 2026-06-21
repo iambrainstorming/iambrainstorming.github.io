@@ -54,6 +54,13 @@ If this is such a better way to test understanding, why are we still relying on 
 
 **The Solution:** Foundational facts are still required, which is why a hybrid approach is necessary (see below). As for the time commitment, teachers will need to act more as facilitators and assistants in the creation process. To make this viable, we need to advocate for smaller cohort ratios—such as 1 teacher to 6 students—allowing for the hands-on guidance that video production requires.
 
+
+#### 5. The Political and Bureaucratic Inertia
+
+**The Hurdle:** Even if a pedagogically superior and technologically viable alternative assessment solution exists, that doesn't mean it will be automatically adapted. Education systems are heavily guarded by slow-moving bureaucracies, entrenched standardized testing industries, and political interests. Scaling a new grading model requires overhauling district, state, or national curriculum standards, which faces massive institutional resistance.
+
+**The Solution:** Innovation in the classroom isn't enough; it must overcome political hurdles to scale. This requires the active involvement of civil societies, educational NGOs, and public interest lobbies. These groups play a crucial role in building grassroots political pressure, advocating for policy reform, and holding education boards accountable. By shifting the public narrative and demanding systemic change, civil society can force the bureaucratic machinery to actually implement and execute these modern assessment methods.
+
 ### The Middle Ground: A Hybrid Approach
 The future of education shouldn't necessarily throw away all exams, but it should drastically reduce their weight. A balanced, modernized approach would look like this:
 
