@@ -10,6 +10,8 @@ twitter_card: If you can't explain it simply, you don't understand it well enoug
 
 Date: 21-06-2026
 
+![Explainer Videos](../../images/explainer-videos.png)
+
 *"If you can't explain it simply, you don't understand it well enough."* 
 
 This principle, closely associated with the **Feynman Technique** and often attributed to Albert Einstein, highlights the massive difference between mere memorization and true comprehension. For over a century, the education system has relied on asking students to reproduce textbook text in exams. But shouldn't we be grading students on their ability to create explainer videos instead? 
