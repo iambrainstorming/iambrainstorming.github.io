@@ -36,8 +36,7 @@ Every paragraph in every textbook should be written in both English and Odia.
 
 Students first understand the concept in Odia and immediately see the same explanation in English. As they continue learning, they naturally become comfortable with both languages without sacrificing understanding.
 
-Parents would no longer have to decide whether understanding concepts is more important than learning English. Their children would gain both at the same time.
-
+Parents would no longer have to choose between English or Odia medium, as they could utilize the benefits of both worlds.
 
 ### This Is Easier Than Ever
 
@@ -61,16 +60,23 @@ Budget private schools charge less, but they often pay teachers very little and 
 
 Government school teachers generally receive much higher salaries, yet many parents still avoid government schools.
 
-Though learning quality is similar in private and govt schools, parents still prefer private English medium schools.
+Although learning quality is similar in private and government schools, parents still prefer private schools **because** they want English medium education.
+
+
+### From Spectator to Participant: Leveraging Multilingualism to Boost English Learning at Home
+
+We have already achieved 90% literacy rates, but these metrics reflect proficiency in regional languages, not English. The reality is that low levels of English language use at home diminish parental support. This often relegates parents to the role of grade monitors rather than active learning mentors when children attend English medium schools. Introducing **multilingual content** is a strategic solution that equips parents with the necessary tools and confidence to become truly active participants in their child's learning journey.
 
 
 ## 2. Hygiene and Cleanliness Matter
 
 The second major reason parents avoid government schools is poor hygiene and infrastructure.
 
-Many schools suffer from dirty classrooms, damaged buildings, broken furniture, and inadequate maintenance.
+Many schools suffer from **dirty classrooms, damaged buildings, inadequate maintenance, and students wearing dirty clothes**
 
-As government schools increasingly become schools attended mainly by poorer families, many communities simply do not have the resources to maintain them properly. It is an investment problem.
+As government schools increasingly become schools attended mainly by poorer families, many communities simply do not have the resources to maintain cleanliness properly. 
+
+It is an investment problem.
 
 If governments invest in school infrastructure, government schools can become places where every family is proud to send their children.
 
