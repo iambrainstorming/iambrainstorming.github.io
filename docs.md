@@ -42,11 +42,11 @@ hello
 
 ```markdown
 ---
-description: "Chapter 1 covers topics A and B in depth."
-og_image:    "https://book.example.com/images/ch01.png"
+description: "A cohort of six is the Goldilocks zone for social learning. Research on small group dynamics suggests that 4–7 members is the optimal size for psychological safety and active participation."
+og_image:    "https://iambrainstorming.github.io/images/education-paradox.png"
 og_type:     "article"
-og_title:    "Custom OG title (optional – defaults to chapter title)"
-twitter_card: "summary"
+og_title:    "How to Slove Bloom's 2 sigma problem"
+twitter_card: "A cohort of six is the Goldilocks zone for social learning. Research on small group dynamics suggests that 4–7 members is the optimal size for psychological safety and active participation."
 ---
 
 # Chapter 1
