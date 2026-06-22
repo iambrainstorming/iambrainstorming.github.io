@@ -26,7 +26,7 @@ Neither a fully English-medium system nor a fully Odia-medium system is ideal.
 
 **When education is entirely in English, many children struggle to understand concepts because English is not the language they speak at home. Instead of understanding, they often memorize.**
 
-**On the other hand, teaching everything only in Odia creates another problem. English is the language of higher education, science, technology, business, and global communication. Students who are not comfortable with English may face unnecessary barriers later in life.**
+**On the other hand, teaching everything only in Odia creates another problem. English is the language of higher education, science, technology, business, and global communication. Students who are not comfortable with English may face unnecessary barriers later in life. A completely Odia-medium approach limits students’ ability to communicate and compete globally, since English remains the dominant international language.**
 
 The solution is simple.
 
