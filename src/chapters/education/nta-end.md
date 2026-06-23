@@ -12,6 +12,7 @@ twitter_card: "We demand the end of the NTA and a return to decentralized, secur
 # Why NTA Must Be Ended?
 
 Date: 03-06-2026
+Update: 23-06-2026
 
 ## The Crisis of Trust
 
@@ -107,3 +108,33 @@ A decentralized model would be more accessible, more resilient, and better able 
 The goal should not be to concentrate power in a single testing agency. The goal should be to build an examination ecosystem that is trustworthy, transparent, secure, and capable of serving the diverse educational needs of India.
 
 The repeated crises surrounding NTA demonstrate that centralization is not a guarantee of efficiency. It is time to seriously consider whether a decentralized, standards-based approach would better serve students and the future of Indian education.
+
+## Should we demand the resignation of the Education Minister?
+
+Why is the cockroach party behind Dharmendra Pradhan?
+
+Look at the other Education Ministers under Narendra Modi.
+
+Weren't they all even worse than Dharmendra Pradhan?
+
+The National Testing Agency (NTA) was created following the recommendations of the IIT committee and during the tenure of Prakash Javadekar.
+
+
+> Its actual start was in 2010 with a report submitted to the Ministry of Human Resources Development (MHRD) (now the Ministry of Education) by a committee consisting of some of the directors of the Indian Institutes of Technology (IITs), which recommended that the national testing agency be "created by an Act of Parliament".
+
+> In 2017, an announcement about the NTA was made by the Finance Minister in the budget speech of 2017, and this was followed by Cabinet approval. The government appointed Vineet Joshi as the first Director-General of the agency.
+
+> On 7 July 2018, the former Union HRD Minister Prakash Javadekar stated, during a press conference, that the NTA will be holding the Joint Entrance Examination–Main (JEE Main) and the National Eligibility cum Entrance Test-Undergraduate (NEET-UG) twice a year, and will also be holding the National Eligibility Test (NET), the Common Management Admission Test (CMAT) and the Graduate Pharmacy Aptitude Test (GPAT)
+
+> -- Wikipedia
+
+
+Implementing the National Education Policy (NEP) 2020 requires a highly dedicated, capable and sensible Education Minister.
+
+We never know whether we might get an Education Minister who is even worse than Dharmendra Pradhan, especially since the appointment would likely be made by the same person, Prime Minister Modi.
+
+Simply changing the Education Minister may not make much difference if the appointment continues to be made by the same leadership.
+
+Instead, we should demand policy reforms rather than a symbolic resignation.
+
+**Real change comes from improving institutions and policies, not merely replacing one minister with another.**

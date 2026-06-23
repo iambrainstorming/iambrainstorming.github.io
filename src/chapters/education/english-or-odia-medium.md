@@ -65,14 +65,14 @@ Although learning quality is similar in private and government schools, parents 
 
 ### From Spectator to Participant: Leveraging Multilingualism to Boost English Learning at Home
 
-We have already achieved 90% literacy rates, but these metrics reflect proficiency in regional languages, not English. The reality is that low levels of English language use at home diminish parental support. This often relegates parents to the role of grade monitors rather than active learning mentors when children attend English medium schools. Introducing **multilingual content** is a strategic solution that equips parents with the necessary tools and confidence to become truly active participants in their child's learning journey.
+We have already achieved 80% literacy rates, but these metrics reflect proficiency in regional languages, not English. The reality is that low levels of English language use at home diminish parental support. This often relegates parents to the role of grade monitors rather than active learning mentors when children attend English medium schools. Introducing **multilingual content** is a strategic solution that equips parents with the necessary tools and confidence to become truly active participants in their child's learning journey.
 
 
 ## 2. Hygiene and Cleanliness Matter
 
 The second major reason parents avoid government schools is poor hygiene and infrastructure.
 
-Many schools suffer from **dirty classrooms, damaged buildings, inadequate maintenance, and students wearing dirty clothes**
+Many schools suffer from **dirty classrooms, damaged buildings, broken furniture, inadequate maintenance, and students wearing dirty clothes**.
 
 As government schools increasingly become schools attended mainly by poorer families, many communities simply do not have the resources to maintain cleanliness properly. 
 
