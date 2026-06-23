@@ -97,6 +97,7 @@
 - [How to Slove Bloom's 2 sigma Problem with One to Six Tutoring](./chapters/education/2-sigma-problem.md)
 - [Beyond Rote Memorization: Why Explainer Videos Are the Future of Assessment](./chapters/education/explainer-vidoes.md)
 - [English Medium or Odia Medium: A False Choice](./chapters/education/english-or-odia-medium.md)
+- [Same Government, Similar Funding—Why Do Some Schools Thrive While Others Don't?](./chapters/education/why-some-schools-perform.md)
 
 # Health Care
 - [Health Care In India](./chapters/economics/health-care-economics.md)

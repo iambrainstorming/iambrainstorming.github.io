@@ -53,3 +53,7 @@ twitter_card: "A cohort of six is the Goldilocks zone for social learning. Resea
 
 Your content here.
 ```
+
+```bash
+convert image.png  -quality 10 output.jpg
+```
