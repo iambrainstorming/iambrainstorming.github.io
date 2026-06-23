@@ -70,7 +70,9 @@ In India, education is **highly decentralized**. State governments set policies 
 
 If the goal is to improve government schools, one lesson from these differences is that **governance and accountability often matter as much as funding**. Many well-maintained government schools succeed not because they receive vastly more money, but because they have strong leadership, active community participation, and effective oversight.
 
-## Open Source Decentralized App for School Management Committees
+## Open Source Decentralized Governance App for School Management Committees
+
+What we need is an open-source, decentralized governance app for School Management Committees (SMCs) that registers all parents and community leaders in the locality.
 
 > **This is important.**
 >
