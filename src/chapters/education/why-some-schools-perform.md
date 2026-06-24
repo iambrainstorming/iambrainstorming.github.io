@@ -139,7 +139,7 @@ For SMCs to become meaningful governance institutions, they may need greater aut
 
 One way to make School Management Committees (SMCs) more effective is to move governance and elections online using open, verifiable protocols.
 
-Nostr already provides a foundation through cryptographically signed messages. Every action, proposal, comment, vote, and audit record can be signed by a user's private key, creating a transparent and tamper-evident record of governance activities.
+[Nostr](https://nostr.org/) already provides a foundation through cryptographically signed messages. Every action, proposal, comment, vote, and audit record can be signed by a user's private key, creating a transparent and tamper-evident record of governance activities.
 
 The missing piece is a [decentralized identity layer](https://crates.io/crates/ssi). A network of decentralized DID validators could issue credentials that prove two important things:
 
