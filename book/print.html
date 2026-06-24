@@ -38,7 +38,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-fbc9887c.js";
+            window.path_to_searchindex_js = "searchindex-6aef5de0.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-73b69a5c.js"></script>
@@ -10151,6 +10151,39 @@ Update: 23-06-2026</p>
 <p>Unlike traditional elections, all votes would be publicly auditable. Anyone could independently verify the vote count and election outcome using cryptographic signatures, eliminating many opportunities for manipulation, tampering, or opaque decision-making. Transparency would not depend on trusting a central authority but on publicly verifiable records.</p>
 <p>This approach does involve a trade-off: votes would be open rather than secret. While secret ballots are important in high-stakes political elections, community governance within a school context may benefit from greater transparency. Because decisions are local, participation is ongoing rather than one-time, and elections can use multi-winner and consensus-oriented voting systems, the risk of coercion are lower than in traditional political contests.</p>
 <p>The goal is not merely to digitize existing committees but to create a governance system where participation, accountability, elections, budgeting, and audits are transparent, verifiable, and accessible to every member of the school community.</p>
+<h2 id="solving-the-vote-tally-problem-with-federated-trusted-relays"><a class="header" href="#solving-the-vote-tally-problem-with-federated-trusted-relays">Solving the Vote Tally Problem with Federated Trusted Relays</a></h2>
+<p>One of the hardest problems in decentralized voting is not counting votes, but determining <strong>whether a vote was submitted before the election closed</strong>.</p>
+<p>In a Nostr-based system, every vote is cryptographically signed by the voter, making it easy to verify both the identity of the voter and the integrity of the vote. However, digital signatures alone do not solve the timing problem. A voter could attempt to submit a vote before the election officially begins or after it has already closed. Since users control their own devices and system clocks, client-side timestamps cannot be considered reliable evidence of when a vote was actually cast. As a result, the system requires an independent mechanism to determine whether a vote was received within the valid voting period.</p>
+<p>The simplest solution is to <strong>rely on relay timestamps</strong>, but in a decentralized network there may be many relays, each with different clocks and policies. If one relay accepts a vote before closing and another accepts it after closing, which relay should be trusted for the final tally?</p>
+<p>A practical solution for School Management Committee (SMC) governance is to use a federation of trusted relays.</p>
+<h4 id="trusted-school-relays"><a class="header" href="#trusted-school-relays">Trusted School Relays</a></h4>
+<p>Instead of trusting a single relay, the election relies on multiple independent relays representing different stakeholders:</p>
+<ul>
+<li>School Relay</li>
+<li>District Relay</li>
+<li>Parent Association Relay</li>
+<li>Teacher Association Relay</li>
+<li>More trusted relays.</li>
+</ul>
+<p><strong>A vote is considered valid only if it is received and acknowledged by at least two-thirds of the trusted relays before the election closes.</strong> This federated approach prevents any single relay from unilaterally influencing the outcome while ensuring that the election can continue to operate reliably even if some relays are temporarily offline, misconfigured, or acting maliciously.</p>
+<p>After the election closes, each relay independently collects all valid votes and produces an identical deterministic tally.</p>
+<pre class="playground"><code class="language-rust"><span class="boring">#![allow(unused)]
+</span><span class="boring">fn main() {
+</span>let votes = collect_votes();
+
+votes.sort_by_key(|v| v.id);
+
+let root = merkle(votes);
+<span class="boring">}</span></code></pre>
+<p>Each relay then publishes a signed election result containing the Merkle root of all accepted votes:</p>
+<pre><code class="language-json">{
+  "kind": 30055,
+  "election_id": "school-budget-2026",
+  "merkle_root": "..."
+}
+</code></pre>
+<p>Because the vote list is sorted deterministically before hashing, every honest relay should compute the same Merkle root. Any participant can independently download the votes, recompute the Merkle tree, and verify the published result.</p>
+<p>This approach does not eliminate trust entirely. Instead, it distributes trust among multiple stakeholders—schools, parents, teachers, and district authorities—making manipulation significantly more difficult. The result is a voting system that remains transparent, auditable, and cryptographically verifiable while still supporting election start and end periods.</p>
 <div style="break-before: page; page-break-before: always;"></div><meta property="og:type" content="website" />
 <meta property="og:title" content="Health Care In India" />
 <meta property="og:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />

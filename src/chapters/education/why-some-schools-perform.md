@@ -153,3 +153,51 @@ Unlike traditional elections, all votes would be publicly auditable. Anyone coul
 This approach does involve a trade-off: votes would be open rather than secret. While secret ballots are important in high-stakes political elections, community governance within a school context may benefit from greater transparency. Because decisions are local, participation is ongoing rather than one-time, and elections can use multi-winner and consensus-oriented voting systems, the risk of coercion are lower than in traditional political contests.
 
 The goal is not merely to digitize existing committees but to create a governance system where participation, accountability, elections, budgeting, and audits are transparent, verifiable, and accessible to every member of the school community.
+
+
+## Solving the Vote Tally Problem with Federated Trusted Relays
+
+One of the hardest problems in decentralized voting is not counting votes, but determining **whether a vote was submitted before the election closed**.
+
+In a Nostr-based system, every vote is cryptographically signed by the voter, making it easy to verify both the identity of the voter and the integrity of the vote. However, digital signatures alone do not solve the timing problem. A voter could attempt to submit a vote before the election officially begins or after it has already closed. Since users control their own devices and system clocks, client-side timestamps cannot be considered reliable evidence of when a vote was actually cast. As a result, the system requires an independent mechanism to determine whether a vote was received within the valid voting period.
+
+The simplest solution is to **rely on relay timestamps**, but in a decentralized network there may be many relays, each with different clocks and policies. If one relay accepts a vote before closing and another accepts it after closing, which relay should be trusted for the final tally?
+
+A practical solution for School Management Committee (SMC) governance is to use a federation of trusted relays.
+
+#### Trusted School Relays
+
+Instead of trusting a single relay, the election relies on multiple independent relays representing different stakeholders:
+
+* School Relay
+* District Relay
+* Parent Association Relay
+* Teacher Association Relay
+* More trusted relays.
+
+**A vote is considered valid only if it is received and acknowledged by at least two-thirds of the trusted relays before the election closes.** This federated approach prevents any single relay from unilaterally influencing the outcome while ensuring that the election can continue to operate reliably even if some relays are temporarily offline, misconfigured, or acting maliciously.
+
+
+After the election closes, each relay independently collects all valid votes and produces an identical deterministic tally.
+
+```rust
+let votes = collect_votes();
+
+votes.sort_by_key(|v| v.id);
+
+let root = merkle(votes);
+```
+
+Each relay then publishes a signed election result containing the Merkle root of all accepted votes:
+
+```json
+{
+  "kind": 30055,
+  "election_id": "school-budget-2026",
+  "merkle_root": "..."
+}
+```
+
+Because the vote list is sorted deterministically before hashing, every honest relay should compute the same Merkle root. Any participant can independently download the votes, recompute the Merkle tree, and verify the published result.
+
+This approach does not eliminate trust entirely. Instead, it distributes trust among multiple stakeholders—schools, parents, teachers, and district authorities—making manipulation significantly more difficult. The result is a voting system that remains transparent, auditable, and cryptographically verifiable while still supporting election start and end periods.
