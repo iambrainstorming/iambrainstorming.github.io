@@ -233,3 +233,12 @@ In a local, known-stakeholder environment like a school, the design leverages **
 One don't necessarily need heavy, complex cryptography (like Zero-Knowledge Proofs) if your threat model relies on **social accountability**. 
 
 For a School Management Committee, a transparent federation where lies are easily caught by redundant nodes—and heavily punished by the community—is a highly practical and realistic architecture.
+
+
+### Reliable Vote Delivery Using Iroh Gossip Between Trusted Relays
+
+In standard Nostr, relays do not forward events to each other. This means a voting client must individually push every vote to each trusted relay (School, District, PTA, etc.). If a parent's phone has poor connectivity or the app closes early, the vote might only reach one relay out of five. Since the system requires a two-thirds quorum to validate a vote, a perfectly legitimate vote can be silently dropped simply because the client device failed to deliver it to enough relays.
+
+To solve this, the trusted relays form an [Iroh gossip swarm](https://docs.iroh.computer/connecting/gossip). Iroh gossip is a peer-to-peer broadcast protocol where nodes automatically propagate messages to all subscribers of a topic using epidemic broadcast trees. Instead of the client struggling to maintain connections to multiple relays, it pushes the vote to any single relay in the swarm. Iroh then reliably spreads that vote to all other relays, automatically retrying and routing around failures.
+
+This means the client device only needs to successfully reach one relay to guarantee the vote reaches the entire federation. The relays themselves handle the redundancy, ensuring every vote is replicated across all trusted nodes before the synchronization window begins. This removes the weakest link—the voter's phone—from the reliability chain while keeping the system fully decentralized among the trusted stakeholders.
