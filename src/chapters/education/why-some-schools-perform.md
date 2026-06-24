@@ -119,3 +119,17 @@ Using **Nostr** could make sense for publishing transparent, censorship-resistan
 Overall, the core principle—using open technology to strengthen the role of **School Management Committees (SMCs)** and increase transparency—is a reasonable and practical direction. The effectiveness would depend more on the governance model and adoption than on the choice of technology itself.
 
 ![SMC](../../images/smc-app.jpg)
+
+
+
+## How functional are School Management Committees?
+
+[According to a 2012 study](https://old.ccs.in/internship_papers/2012/271_how-functional-are-school-management-commitees-in-the-present-context_sijan-thapa.pdf), School Management Committees (SMCs) were often ineffective in practice. While we require the most recent data, I don’t believe the situation has significantly improved by 2026. In many places, SMCs appear to exist more as a formal requirement or in paper than as an active institution of school governance.
+
+The study found that many parents were not fully aware of the challenges facing their schools. Out of 20 parents interviewed, only 2 could identify the most basic and visible problems, such as teacher shortages or inadequate infrastructure like desks and benches. Only 6 out of 20 parents could clearly describe how their children were performing academically. These findings suggest that parental engagement and awareness were limited, making it difficult for SMCs to function effectively as accountability mechanisms.
+
+### The Authority Gap: Why SMCs Cannot Spearhead Transformation
+
+A deeper issue is that SMCs are often expected to identify and report problems, but are given very limited authority to solve them. If a school lacks teachers, the committee can usually only escalate the issue to higher authorities and wait for action. If student attendance is poor, or if a teacher is absent for extended periods beyond approved leave, the committee's role is often limited to reporting the matter rather than addressing it directly.
+
+For SMCs to become meaningful governance institutions, they may need greater authority, clearer responsibilities, and stronger accountability mechanisms, and **better governance design**, like **approval voting or reputation based system** to select robust leadership. Members are more likely to take ownership of school outcomes when they have both responsibility and the power to act. A governance system that combines transparency, community participation, and practical decision-making authority could make SMCs far more effective than they are today.
