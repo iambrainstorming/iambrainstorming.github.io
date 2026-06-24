@@ -38,7 +38,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-6aef5de0.js";
+            window.path_to_searchindex_js = "searchindex-4113f077.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-73b69a5c.js"></script>
@@ -10184,6 +10184,10 @@ let root = merkle(votes);
 </code></pre>
 <p>Because the vote list is sorted deterministically before hashing, every honest relay should compute the same Merkle root. Any participant can independently download the votes, recompute the Merkle tree, and verify the published result.</p>
 <p>This approach does not eliminate trust entirely. Instead, it distributes trust among multiple stakeholders—schools, parents, teachers, and district authorities—making manipulation significantly more difficult. The result is a voting system that remains transparent, auditable, and cryptographically verifiable while still supporting election start and end periods.</p>
+<h3 id="a-synchronization-window-like-a-week-after-the-election-closes"><a class="header" href="#a-synchronization-window-like-a-week-after-the-election-closes">A synchronization window (like a week) after the election closes</a></h3>
+<p>In a distributed network, internet lag and slightly unsynchronized server clocks mean different relays might record slightly different arrival times for votes right at the deadline. If the system forces an instant tally the exact second the election closes, these minor delays cause relays to compute conflicting results.</p>
+<p>A synchronization window fixes this by adding a buffer period—such as one week—between the voting deadline and the final tally. Instead of rushing to count votes instantly, the relays use this time to communicate and share their logs.</p>
+<p>During this window, relays can easily resolve delayed messages, correct minor clock differences, and recover from any temporary internet drops. By the time the sync week ends, every relay has reconciled their data and holds the exact same complete list of valid votes. (A vote is considered valid only if it is received and acknowledged by at least two-thirds of the trusted relays before the election closes.) When they finally sort the votes and compute the Merkle root, they are guaranteed to produce one identical, unified result.</p>
 <div style="break-before: page; page-break-before: always;"></div><meta property="og:type" content="website" />
 <meta property="og:title" content="Health Care In India" />
 <meta property="og:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />

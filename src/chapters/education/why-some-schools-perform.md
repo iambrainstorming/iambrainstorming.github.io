@@ -201,3 +201,11 @@ Each relay then publishes a signed election result containing the Merkle root of
 Because the vote list is sorted deterministically before hashing, every honest relay should compute the same Merkle root. Any participant can independently download the votes, recompute the Merkle tree, and verify the published result.
 
 This approach does not eliminate trust entirely. Instead, it distributes trust among multiple stakeholders—schools, parents, teachers, and district authorities—making manipulation significantly more difficult. The result is a voting system that remains transparent, auditable, and cryptographically verifiable while still supporting election start and end periods.
+
+### A synchronization window (like a week) after the election closes
+
+In a distributed network, internet lag and slightly unsynchronized server clocks mean different relays might record slightly different arrival times for votes right at the deadline. If the system forces an instant tally the exact second the election closes, these minor delays cause relays to compute conflicting results.
+
+A synchronization window fixes this by adding a buffer period—such as one week—between the voting deadline and the final tally. Instead of rushing to count votes instantly, the relays use this time to communicate and share their logs. 
+
+During this window, relays can easily resolve delayed messages, correct minor clock differences, and recover from any temporary internet drops. By the time the sync week ends, every relay has reconciled their data and holds the exact same complete list of valid votes. (A vote is considered valid only if it is received and acknowledged by at least two-thirds of the trusted relays before the election closes.) When they finally sort the votes and compute the Merkle root, they are guaranteed to produce one identical, unified result.
