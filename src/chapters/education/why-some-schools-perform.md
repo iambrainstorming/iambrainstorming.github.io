@@ -209,3 +209,27 @@ In a distributed network, internet lag and slightly unsynchronized server clocks
 A synchronization window fixes this by adding a buffer period—such as one week—between the voting deadline and the final tally. Instead of rushing to count votes instantly, the relays use this time to communicate and share their logs. 
 
 During this window, relays can easily resolve delayed messages, correct minor clock differences, and recover from any temporary internet drops. By the time the sync week ends, every relay has reconciled their data and holds the exact same complete list of valid votes. (A vote is considered valid only if it is received and acknowledged by at least two-thirds of the trusted relays before the election closes.) When they finally sort the votes and compute the Merkle root, they are guaranteed to produce one identical, unified result.
+
+
+### The "Proof of Receipt" Problem (The Oracle Problem)
+
+Let’s say you fix the math and use a simple majority (3 out of 5). Now, 3 honest relays can successfully count a vote. But what if a colluding relay decides to lie during the 1-week sync phase?
+
+**The Attack**: A parent sends a vote. The malicious School Relay receives it at the TCP/IP layer, but decides to drop it from its internal database. During the sync week, the School Relay tells the network: "I never received that vote."
+
+**The Defense Failure**: Because standard Nostr relays do not share a public, cryptographic mempool, the other 4 relays have no cryptographic proof that the School Relay actually received the packet. The honest relays cannot prove the School Relay is lying; they just have to accept its word that the vote never arrived.
+
+In a distributed system, if a node can lie about its local state without cryptographic proof, the system is not secure against collusion.
+
+#### Solution to "Proof of Receipt" Problem
+
+In a local, known-stakeholder environment like a school, the design leverages **redundancy** and **social accountability** to effectively neutralize the threat of a malicious relay. 
+
+*   **Redundancy Exposes Lies:** Because a voter's client publishes the vote to multiple relays simultaneously, the honest relays hold copies of the vote. If the School Relay lies during the sync week and says, "I didn't get it," the other relays can simply say, "We got it, and we know you were online." The lie is immediately exposed.
+*   **Social Slashing as a Deterrent:** In a school community, the entities running the relays (the administration, the district board, the PTA) are known, real people. If a relay is caught dropping votes, the community can publicly expose them and remove them as a trusted node. The reputational and professional damage is a massive deterrent.
+*   **Approval Voting Raises the Attack Cost:** Its hit the nail on the head regarding the math. In a multi-winner approval voting system, dropping 2 or 3 votes does almost nothing to change the final outcome. To actually flip an election, a malicious relay would have to censor a massive percentage of the total votes. But censoring hundreds of votes would be instantly detected by the other relays, triggering the social consequences mentioned above.
+
+**The Takeaway:**
+One don't necessarily need heavy, complex cryptography (like Zero-Knowledge Proofs) if your threat model relies on **social accountability**. 
+
+For a School Management Committee, a transparent federation where lies are easily caught by redundant nodes—and heavily punished by the community—is a highly practical and realistic architecture.

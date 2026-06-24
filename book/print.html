@@ -38,7 +38,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-4113f077.js";
+            window.path_to_searchindex_js = "searchindex-d066ea14.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-73b69a5c.js"></script>
@@ -10188,6 +10188,21 @@ let root = merkle(votes);
 <p>In a distributed network, internet lag and slightly unsynchronized server clocks mean different relays might record slightly different arrival times for votes right at the deadline. If the system forces an instant tally the exact second the election closes, these minor delays cause relays to compute conflicting results.</p>
 <p>A synchronization window fixes this by adding a buffer period—such as one week—between the voting deadline and the final tally. Instead of rushing to count votes instantly, the relays use this time to communicate and share their logs.</p>
 <p>During this window, relays can easily resolve delayed messages, correct minor clock differences, and recover from any temporary internet drops. By the time the sync week ends, every relay has reconciled their data and holds the exact same complete list of valid votes. (A vote is considered valid only if it is received and acknowledged by at least two-thirds of the trusted relays before the election closes.) When they finally sort the votes and compute the Merkle root, they are guaranteed to produce one identical, unified result.</p>
+<h3 id="the-proof-of-receipt-problem-the-oracle-problem"><a class="header" href="#the-proof-of-receipt-problem-the-oracle-problem">The “Proof of Receipt” Problem (The Oracle Problem)</a></h3>
+<p>Let’s say you fix the math and use a simple majority (3 out of 5). Now, 3 honest relays can successfully count a vote. But what if a colluding relay decides to lie during the 1-week sync phase?</p>
+<p><strong>The Attack</strong>: A parent sends a vote. The malicious School Relay receives it at the TCP/IP layer, but decides to drop it from its internal database. During the sync week, the School Relay tells the network: “I never received that vote.”</p>
+<p><strong>The Defense Failure</strong>: Because standard Nostr relays do not share a public, cryptographic mempool, the other 4 relays have no cryptographic proof that the School Relay actually received the packet. The honest relays cannot prove the School Relay is lying; they just have to accept its word that the vote never arrived.</p>
+<p>In a distributed system, if a node can lie about its local state without cryptographic proof, the system is not secure against collusion.</p>
+<h4 id="solution-to-proof-of-receipt-problem"><a class="header" href="#solution-to-proof-of-receipt-problem">Solution to “Proof of Receipt” Problem</a></h4>
+<p>In a local, known-stakeholder environment like a school, the design leverages <strong>redundancy</strong> and <strong>social accountability</strong> to effectively neutralize the threat of a malicious relay.</p>
+<ul>
+<li><strong>Redundancy Exposes Lies:</strong> Because a voter’s client publishes the vote to multiple relays simultaneously, the honest relays hold copies of the vote. If the School Relay lies during the sync week and says, “I didn’t get it,” the other relays can simply say, “We got it, and we know you were online.” The lie is immediately exposed.</li>
+<li><strong>Social Slashing as a Deterrent:</strong> In a school community, the entities running the relays (the administration, the district board, the PTA) are known, real people. If a relay is caught dropping votes, the community can publicly expose them and remove them as a trusted node. The reputational and professional damage is a massive deterrent.</li>
+<li><strong>Approval Voting Raises the Attack Cost:</strong> Its hit the nail on the head regarding the math. In a multi-winner approval voting system, dropping 2 or 3 votes does almost nothing to change the final outcome. To actually flip an election, a malicious relay would have to censor a massive percentage of the total votes. But censoring hundreds of votes would be instantly detected by the other relays, triggering the social consequences mentioned above.</li>
+</ul>
+<p><strong>The Takeaway:</strong>
+One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Proofs) if your threat model relies on <strong>social accountability</strong>.</p>
+<p>For a School Management Committee, a transparent federation where lies are easily caught by redundant nodes—and heavily punished by the community—is a highly practical and realistic architecture.</p>
 <div style="break-before: page; page-break-before: always;"></div><meta property="og:type" content="website" />
 <meta property="og:title" content="Health Care In India" />
 <meta property="og:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
