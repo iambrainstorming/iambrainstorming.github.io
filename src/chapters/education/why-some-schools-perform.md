@@ -147,6 +147,12 @@ The missing piece is a [decentralized identity layer](https://crates.io/crates/s
 2. **Proof of Locality** — ensuring that only parents, guardians, teachers, or community members associated with a particular school can participate in its governance.
 3. **Proof of Expertise** — ensuring that participants who claim specialized knowledge have their qualifications, portfolio, work history, achievements, publications, certifications, or other evidence evaluated. Once verified, they receive one or more specialization tags (such as Education, Child Psychology, Civil Engineering, Finance, Public Health, Agriculture, or Information Technology). These tags allow the community to identify subject-matter experts, create expert councils, and provide informed recommendations on technical matters.
 
+This creates three complementary layers of legitimacy:
+
+* **Personhood** answers: *Is this a real person?*
+* **Locality** answers: *Is this person part of the affected community?*
+* **Expertise** answers: *Does this person have relevant knowledge in this domain?*
+
 Once identities are verified, communities could use [approval voting](https://electionscience.org/education/approval-voting), score voting, or other [reputation-based voting systems](../computer/algorithm/bayes-reputation.md)) to elect SMC leaders, prioritize projects, allocate budgets, and make collective decisions.
 
 Unlike traditional elections, all votes would be publicly auditable. Anyone could independently verify the vote count and election outcome using cryptographic signatures, eliminating many opportunities for manipulation, tampering, or opaque decision-making. Transparency would not depend on trusting a central authority but on publicly verifiable records.
