@@ -38,7 +38,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-84bb0628.js";
+            window.path_to_searchindex_js = "searchindex-07fbc256.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-3d44e7f2.js"></script>
@@ -10240,6 +10240,9 @@ One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Pr
 <h3 id="combining-expressiveness-with-statistical-rigor"><a class="header" href="#combining-expressiveness-with-statistical-rigor">Combining Expressiveness with Statistical Rigor</a></h3>
 <p>In short, Bayesian score voting combines the expressiveness of score voting with the statistical rigor of evidence accumulation. It rewards consistent performance, handles uncertainty, reduces manipulation, and produces reputation scores that are generally more reliable than simple averages.</p>
 <p><img src="images/bayesian_score_voting_infographic.jpg" alt="Bayesian Score voting"></p>
+<blockquote>
+<p><strong>We will use the Beta Reputation method to calculate reputation, which is explained at the end.</strong></p>
+</blockquote>
 <h2 id="walk-through-bayesian-reputation"><a class="header" href="#walk-through-bayesian-reputation">Walk Through Bayesian Reputation</a></h2>
 <p>Let’s walk through a complete Bayesian reputation calculation using score voting.</p>
 <p>Suppose we want to estimate:</p>
@@ -10247,7 +10250,7 @@ One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Pr
 <p>What is the probability that Alice is a good contributor?</p>
 </blockquote>
 <p>Initially we know nothing.</p>
-<h2 id="step-1-prior-belief"><a class="header" href="#step-1-prior-belief">Step 1: Prior Belief</a></h2>
+<h3 id="step-1-prior-belief"><a class="header" href="#step-1-prior-belief">Step 1: Prior Belief</a></h3>
 <p>Assume:</p>
 <ul>
 <li>P(Good) = 0.5</li>
@@ -10255,7 +10258,7 @@ One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Pr
 </ul>
 <p>Before seeing any votes, Alice has a 50% chance of being good.</p>
 <hr>
-<h2 id="step-2-define-score-distributions"><a class="header" href="#step-2-define-score-distributions">Step 2: Define Score Distributions</a></h2>
+<h3 id="step-2-define-score-distributions"><a class="header" href="#step-2-define-score-distributions">Step 2: Define Score Distributions</a></h3>
 <p>Suppose historical data shows:</p>
 <div class="table-wrapper">
 <table>
@@ -10277,7 +10280,7 @@ One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Pr
 <li>Bad contributors receive a 5-star score only 5% of the time.</li>
 </ul>
 <hr>
-<h2 id="step-3-alice-receives-a-score-of-5"><a class="header" href="#step-3-alice-receives-a-score-of-5">Step 3: Alice Receives a Score of 5</a></h2>
+<h3 id="step-3-alice-receives-a-score-of-5"><a class="header" href="#step-3-alice-receives-a-score-of-5">Step 3: Alice Receives a Score of 5</a></h3>
 <p>We want:</p>
 <blockquote>
 <p>P(Good | Score=5)</p>
@@ -10324,7 +10327,7 @@ P(5 | Bad)P(Bad)
 88.89%
 </code></pre>
 <hr>
-<h2 id="step-4-alice-receives-another-5"><a class="header" href="#step-4-alice-receives-another-5">Step 4: Alice Receives Another 5</a></h2>
+<h3 id="step-4-alice-receives-another-5"><a class="header" href="#step-4-alice-receives-another-5">Step 4: Alice Receives Another 5</a></h3>
 <p>Prior becomes:</p>
 <pre><code class="language-text">P(Good)=0.8889
 
@@ -10355,7 +10358,7 @@ P(Bad)=0.1111
 <pre><code class="language-text">98.46%
 </code></pre>
 <hr>
-<h2 id="step-5-alice-receives-a-score-of-2"><a class="header" href="#step-5-alice-receives-a-score-of-2">Step 5: Alice Receives a Score of 2</a></h2>
+<h3 id="step-5-alice-receives-a-score-of-2"><a class="header" href="#step-5-alice-receives-a-score-of-2">Step 5: Alice Receives a Score of 2</a></h3>
 <p>Now evidence becomes mixed.</p>
 <p>Prior:</p>
 <pre><code class="language-text">Good = 0.9846
@@ -10393,73 +10396,240 @@ P(2|Bad)=0.25
 96.24%
 </code></pre>
 <p>One bad score does not completely destroy reputation.</p>
+<h2 id="complete-beta-reputation-calculation-with-sorted-score-votes"><a class="header" href="#complete-beta-reputation-calculation-with-sorted-score-votes">Complete Beta-Reputation Calculation with Sorted Score Votes</a></h2>
+<h3 id="overview-beta-reputation-model"><a class="header" href="#overview-beta-reputation-model">Overview: Beta-Reputation Model</a></h3>
+<p>The Beta-reputation system is a simplified Bayesian approach that:</p>
+<ul>
+<li>Treats votes as evidence (positive or negative)</li>
+<li>Maintains α (positive evidence) and β (negative evidence) counters</li>
+<li>Computes reputation as: <strong>Reputation = α / (α + β)</strong></li>
+<li>Uses the Beta distribution to model confidence</li>
+</ul>
 <hr>
-<h2 id="applying-to-a--5-to-5-governance-vote"><a class="header" href="#applying-to-a--5-to-5-governance-vote">Applying to a -5 to +5 Governance Vote</a></h2>
-<p>Suppose your system uses:</p>
-<pre><code class="language-text">-5 -4 -3 -2 -1 0 1 2 3 4 5
-</code></pre>
-<p>Create likelihood tables.</p>
-<p>Example:</p>
+<h3 id="step-1-define-vote-to-evidence-conversion"><a class="header" href="#step-1-define-vote-to-evidence-conversion">Step 1: Define Vote-to-Evidence Conversion</a></h3>
+<p>There are multiple ways to convert scores to evidence.</p>
+<h4 id="approach-score-magnitude-as-evidence-weight-recommended"><a class="header" href="#approach-score-magnitude-as-evidence-weight-recommended">Approach: Score Magnitude as Evidence Weight (Recommended)</a></h4>
+<p>Each vote contributes evidence equal to its absolute distance from zero:</p>
+<ul>
+<li><strong>+5 vote</strong> → adds 5 to α</li>
+<li><strong>+4 vote</strong> → adds 4 to α</li>
+<li><strong>+3 vote</strong> → adds 3 to α</li>
+<li><strong>+2 vote</strong> → adds 2 to α</li>
+<li><strong>+1 vote</strong> → adds 1 to α</li>
+<li><strong>0 vote</strong> → adds 0 to both (neutral)</li>
+<li><strong>-1 vote</strong> → adds 1 to β</li>
+<li><strong>-2 vote</strong> → adds 2 to β</li>
+<li><strong>-3 vote</strong> → adds 3 to β</li>
+<li><strong>-4 vote</strong> → adds 4 to β</li>
+<li><strong>-5 vote</strong> → adds 5 to β</li>
+</ul>
+<hr>
+<h3 id="step-2-aggregate-votes-score-magnitude-method"><a class="header" href="#step-2-aggregate-votes-score-magnitude-method">Step 2: Aggregate Votes (Score Magnitude Method)</a></h3>
+<p><strong>Vote data:</strong></p>
 <div class="table-wrapper">
 <table>
 <thead>
-<tr><th>Vote</th><th>P(vote | Good)</th><th>P(vote | Bad)</th></tr>
+<tr><th>Vote</th><th>Count</th><th>Evidence per vote</th><th>Total α contribution</th><th>Total β contribution</th></tr>
 </thead>
 <tbody>
-<tr><td>+5</td><td>0.30</td><td>0.02</td></tr>
-<tr><td>+4</td><td>0.20</td><td>0.05</td></tr>
-<tr><td>+3</td><td>0.15</td><td>0.08</td></tr>
-<tr><td>+2</td><td>0.10</td><td>0.10</td></tr>
-<tr><td>0</td><td>0.10</td><td>0.10</td></tr>
-<tr><td>-2</td><td>0.05</td><td>0.15</td></tr>
-<tr><td>-3</td><td>0.04</td><td>0.20</td></tr>
-<tr><td>-4</td><td>0.03</td><td>0.15</td></tr>
-<tr><td>-5</td><td>0.03</td><td>0.15</td></tr>
+<tr><td>+5</td><td>10</td><td>5</td><td>10 × 5 = 50</td><td>—</td></tr>
+<tr><td>+4</td><td>8</td><td>4</td><td>8 × 4 = 32</td><td>—</td></tr>
+<tr><td>+3</td><td>6</td><td>3</td><td>6 × 3 = 18</td><td>—</td></tr>
+<tr><td>+2</td><td>5</td><td>2</td><td>5 × 2 = 10</td><td>—</td></tr>
+<tr><td>+1</td><td>4</td><td>1</td><td>4 × 1 = 4</td><td>—</td></tr>
+<tr><td>0</td><td>3</td><td>0</td><td>—</td><td>—</td></tr>
+<tr><td>-1</td><td>2</td><td>1</td><td>—</td><td>2 × 1 = 2</td></tr>
+<tr><td>-2</td><td>3</td><td>2</td><td>—</td><td>3 × 2 = 6</td></tr>
+<tr><td>-3</td><td>2</td><td>3</td><td>—</td><td>2 × 3 = 6</td></tr>
+<tr><td>-4</td><td>1</td><td>4</td><td>—</td><td>1 × 4 = 4</td></tr>
+<tr><td>-5</td><td>0</td><td>5</td><td>—</td><td>0 × 5 = 0</td></tr>
 </tbody>
 </table>
 </div>
-<p>Each incoming score becomes evidence.</p>
-<p>You repeatedly apply Bayes after every vote.</p>
+<p><strong>Sum positive evidence:</strong></p>
+<pre><code>Σα_votes = 50 + 32 + 18 + 10 + 4 = 114
+</code></pre>
+<p><strong>Sum negative evidence:</strong></p>
+<pre><code>Σβ_votes = 2 + 6 + 6 + 4 + 0 = 18
+</code></pre>
 <hr>
-<h2 id="simpler-beta-reputation-version"><a class="header" href="#simpler-beta-reputation-version">Simpler Beta-Reputation Version</a></h2>
-<p>Most real systems avoid computing full Bayes every vote.</p>
-<p>Store:</p>
-<pre><code class="language-text">α = positive evidence
-β = negative evidence
+<h3 id="step-3-add-prior-belief"><a class="header" href="#step-3-add-prior-belief">Step 3: Add Prior Belief</a></h3>
+<p>Start with a weak prior (uninformed):</p>
+<pre><code>α_prior = 1
+β_prior = 1
+
+(This represents: 50% chance of good, 50% chance of bad, before seeing any votes)
 </code></pre>
-<p>Start:</p>
-<pre><code class="language-text">α = 1
-β = 1
+<hr>
+<h3 id="step-4-calculate-total-evidence"><a class="header" href="#step-4-calculate-total-evidence">Step 4: Calculate Total Evidence</a></h3>
+<pre><code>α_total = α_prior + Σα_votes
+        = 1 + 114
+        = 115
+
+β_total = β_prior + Σβ_votes
+        = 1 + 18
+        = 19
+
+Total evidence = α_total + β_total = 115 + 19 = 134
 </code></pre>
-<p>Suppose scores:</p>
-<pre><code class="language-text">+5
-+4
-+3
--2
-+5
+<hr>
+<h3 id="step-5-calculate-point-estimate-reputation"><a class="header" href="#step-5-calculate-point-estimate-reputation">Step 5: Calculate Point Estimate Reputation</a></h3>
+<pre><code>Reputation = α_total / (α_total + β_total)
+           = 115 / 134
+           = 0.8582
+           = 85.82%
 </code></pre>
-<p>Convert:</p>
-<pre><code class="language-text">Positive:
-5+4+3+5 = 17
+<p><strong>Result:</strong> The contributor has an <strong>85.82% reputation score</strong>.</p>
+<hr>
+<h3 id="step-6-calculate-confidence-variance--confidence-interval"><a class="header" href="#step-6-calculate-confidence-variance--confidence-interval">Step 6: Calculate Confidence (Variance &amp; Confidence Interval)</a></h3>
+<p>The Beta distribution provides a natural confidence model. The variance is:</p>
+<p>$$\text{Variance} = \frac{\alpha \beta}{(\alpha + \beta)^2 (\alpha + \beta + 1)}$$</p>
+<p><strong>Calculation:</strong></p>
+<pre><code>Variance = (115 × 19) / (134² × 135)
+         = 2185 / (17956 × 135)
+         = 2185 / 2424060
+         = 0.000901
+
+Standard deviation = √0.000901 = 0.0300 = 3.00%
+</code></pre>
+<h4 id="95-confidence-interval"><a class="header" href="#95-confidence-interval">95% Confidence Interval</a></h4>
+<p>Using the Beta distribution (exact method), the 95% credible interval is approximately:</p>
+<pre><code>Lower bound ≈ 0.8582 - (1.96 × 0.0300)
+            ≈ 0.8582 - 0.0588
+            ≈ 0.7994 = 79.94%
+
+Upper bound ≈ 0.8582 + (1.96 × 0.0300)
+            ≈ 0.8582 + 0.0588
+            ≈ 0.9170 = 91.70%
+</code></pre>
+<p><strong>Confidence interval:</strong> 85.82% ± 5.88% = <strong>[79.94%, 91.70%]</strong></p>
+<hr>
+<h3 id="step-7-odds-and-log-odds"><a class="header" href="#step-7-odds-and-log-odds">Step 7: Odds and Log-Odds</a></h3>
+<p>Convert the reputation to <strong>odds</strong>:</p>
+<pre><code>Odds = α / β
+     = 115 / 19
+     = 6.053
+
+Interpretation: For every 1 unit of negative evidence, there are 6.053 units of positive evidence.
+</code></pre>
+<p><strong>Log-odds</strong> (useful for machine learning models):</p>
+<pre><code>Log-odds = ln(α / β)
+         = ln(115 / 19)
+         = ln(6.053)
+         = 1.800
+</code></pre>
+<hr>
+<h3 id="step-8-interpretation-what-does-8582-mean"><a class="header" href="#step-8-interpretation-what-does-8582-mean">Step 8: Interpretation: What Does 85.82% Mean?</a></h3>
+<p>In the Beta model, the reputation represents the <strong>probability that the next vote will be positive</strong>.</p>
+<p><strong>If random person votes next:</strong></p>
+<ul>
+<li>P(next vote is positive) ≈ 85.82%</li>
+<li>P(next vote is negative) ≈ 14.18%</li>
+</ul>
+<p><strong>Distribution of next vote:</strong></p>
+<ul>
+<li>~86% chance of positive</li>
+<li>~14% chance of negative</li>
+<li>Breakdown of positive: 43% of +5, 29% of +4, etc. (based on historical ratios)</li>
+</ul>
+<hr>
+<h2 id="comparison-three-conversion-methods"><a class="header" href="#comparison-three-conversion-methods">Comparison: Three Conversion Methods</a></h2>
+<p>Let me show how different conversion approaches yield different results:</p>
+<h3 id="method-a-score-magnitude-used-above"><a class="header" href="#method-a-score-magnitude-used-above">Method A: Score Magnitude (used above)</a></h3>
+<pre><code>α = 115, β = 19
+Reputation = 85.82%
+Range = [79.94%, 91.70%]
+</code></pre>
+<h3 id="method-b-binary-positivenegative-only"><a class="header" href="#method-b-binary-positivenegative-only">Method B: Binary (Positive/Negative Only)</a></h3>
+<p>Treat all positive as +1, all negative as -1:</p>
+<pre><code>Positive votes = 10 + 8 + 6 + 5 + 4 = 33
+Negative votes = 2 + 3 + 2 + 1 + 0 = 8
+Neutral = 3 (ignored)
+
+α = 1 + 33 = 34
+β = 1 + 8 = 9
+
+Reputation = 34 / (34 + 9) = 34 / 43 = 0.7907 = 79.07%
+
+Variance = (34 × 9) / (43² × 44) = 306 / 81356 = 0.00376
+StdDev = 0.0613 = 6.13%
+
+95% CI = 79.07% ± 12.0% = [67.07%, 91.07%]
+</code></pre>
+<p><strong>Difference:</strong> Binary method gives <strong>lower reputation (79.07% vs 85.82%)</strong> and <strong>wider uncertainty</strong> because it ignores that +5 votes are stronger than +1 votes.</p>
+<h3 id="method-c-squared-score-magnitude-emphasizes-extremes"><a class="header" href="#method-c-squared-score-magnitude-emphasizes-extremes">Method C: Squared Score Magnitude (Emphasizes Extremes)</a></h3>
+<p>Use squared distances from zero:</p>
+<pre><code>Positive:
+  10 × 5² = 10 × 25 = 250
+  8 × 4² = 8 × 16 = 128
+  6 × 3² = 6 × 9 = 54
+  5 × 2² = 5 × 4 = 20
+  4 × 1² = 4 × 1 = 4
+  Σα_votes = 456
 
 Negative:
-2
-</code></pre>
-<p>Update:</p>
-<pre><code class="language-text">α = 1 + 17 = 18
+  2 × 1² = 2
+  3 × 2² = 12
+  2 × 3² = 18
+  1 × 4² = 16
+  0 × 5² = 0
+  Σβ_votes = 48
 
-β = 1 + 2 = 3
-</code></pre>
-<p>Expected reputation:</p>
-<pre><code class="language-text">18/(18+3)
+α = 1 + 456 = 457
+β = 1 + 48 = 49
 
-=
-0.8571
+Reputation = 457 / 506 = 0.9033 = 90.33%
+
+Variance = (457 × 49) / (506² × 507) = 22393 / 129825042 = 0.000173
+StdDev = 0.0132 = 1.32%
+
+95% CI = 90.33% ± 2.58% = [87.75%, 92.91%]
 </code></pre>
-<p>Reputation:</p>
-<pre><code class="language-text">85.71%
+<p><strong>Difference:</strong> Squared method gives <strong>higher reputation (90.33% vs 85.82%)</strong> and <strong>tighter confidence</strong> because extreme votes carry more weight.</p>
+<hr>
+<h2 id="summary-table-all-three-methods"><a class="header" href="#summary-table-all-three-methods">Summary Table: All Three Methods</a></h2>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Metric</th><th>Method A (Magnitude)</th><th>Method B (Binary)</th><th>Method C (Squared)</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>α</strong></td><td>115</td><td>34</td><td>457</td></tr>
+<tr><td><strong>β</strong></td><td>19</td><td>9</td><td>49</td></tr>
+<tr><td><strong>Reputation</strong></td><td>85.82%</td><td>79.07%</td><td>90.33%</td></tr>
+<tr><td><strong>Std Dev</strong></td><td>3.00%</td><td>6.13%</td><td>1.32%</td></tr>
+<tr><td><strong>95% CI</strong></td><td>[79.94%, 91.70%]</td><td>[67.07%, 91.07%]</td><td>[87.75%, 92.91%]</td></tr>
+<tr><td><strong>Odds α:β</strong></td><td>6.05:1</td><td>3.78:1</td><td>9.33:1</td></tr>
+</tbody>
+</table>
+</div>
+<hr>
+<h2 id="sensitivity-analysis-effect-of-adding-votes"><a class="header" href="#sensitivity-analysis-effect-of-adding-votes">Sensitivity Analysis: Effect of Adding Votes</a></h2>
+<p>What if the contributor receives <strong>10 more votes</strong> in different scenarios?</p>
+<h3 id="scenario-1-all-5-votes-best-case"><a class="header" href="#scenario-1-all-5-votes-best-case">Scenario 1: All +5 votes (best case)</a></h3>
+<pre><code>New α = 115 + (10 × 5) = 165
+New β = 19 + 0 = 19
+
+Reputation = 165 / 184 = 0.8967 = 89.67%
+Change: +3.85 percentage points
 </code></pre>
-<p>This is mathematically equivalent to a Bayesian estimate using a Beta distribution and is much easier to implement on-chain.</p>
+<h3 id="scenario-2-all--3-votes-worst-case"><a class="header" href="#scenario-2-all--3-votes-worst-case">Scenario 2: All -3 votes (worst case)</a></h3>
+<pre><code>New α = 115 + 0 = 115
+New β = 19 + (10 × 3) = 49
+
+Reputation = 115 / 164 = 0.7012 = 70.12%
+Change: -15.70 percentage points
+</code></pre>
+<h3 id="scenario-3-all-neutral-0-votes"><a class="header" href="#scenario-3-all-neutral-0-votes">Scenario 3: All neutral (0 votes)</a></h3>
+<pre><code>New α = 115 + 0 = 115
+New β = 19 + 0 = 19
+
+Reputation = 115 / 134 = 0.8582 = 85.82%
+Change: 0% (neutral votes contribute nothing)
+</code></pre>
+<hr>
+<h2 id="rust-code"><a class="header" href="#rust-code">Rust code</a></h2>
+<p><a href="https://gitlab.com/blockchain-projects-ecosymra/beta_reputation/-/blob/main/src/beta_reputation.rs">Rust Code Link</a></p>
 <div style="break-before: page; page-break-before: always;"></div><meta property="og:type" content="website" />
 <meta property="og:title" content="Health Care In India" />
 <meta property="og:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
