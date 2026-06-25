@@ -38,7 +38,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-7966c0d5.js";
+            window.path_to_searchindex_js = "searchindex-04258487.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-3d44e7f2.js"></script>
@@ -10208,17 +10208,19 @@ One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Pr
 <p>In standard Nostr, relays do not forward events to each other. This means a voting client must individually push every vote to each trusted relay (School, District, PTA, etc.). If a parent’s phone has poor connectivity or the app closes early, the vote might only reach one relay out of five. Since the system requires a two-thirds quorum to validate a vote, a perfectly legitimate vote can be silently dropped simply because the client device failed to deliver it to enough relays.</p>
 <p>To solve this, the trusted relays form an <a href="https://docs.iroh.computer/connecting/gossip">Iroh gossip swarm</a>. Iroh gossip is a peer-to-peer broadcast protocol where nodes automatically propagate messages to all subscribers of a topic using epidemic broadcast trees. Instead of the client struggling to maintain connections to multiple relays, it pushes the vote to any single relay in the swarm. Iroh then reliably spreads that vote to all other relays, automatically retrying and routing around failures.</p>
 <p>This means the client device only needs to successfully reach one relay to guarantee the vote reaches the entire federation. The relays themselves handle the redundancy, ensuring every vote is replicated across all trusted nodes before the synchronization window begins. This removes the weakest link—the voter’s phone—from the reliability chain while keeping the system fully decentralized among the trusted stakeholders.</p>
-<div style="break-before: page; page-break-before: always;"></div><meta property="og:type" content="website" />
+<div style="break-before: page; page-break-before: always;"></div><meta property="og:type" content="article" />
 <meta property="og:title" content="Bayesian Reputation Through Score Voting" />
-<meta property="og:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
-<meta name="description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
+<meta property="og:description" content="Treats votes as evidence rather than truth and are resistance to reputation shocks" />
+<meta name="description" content="Treats votes as evidence rather than truth and are resistance to reputation shocks" />
 <meta property="og:url" content="https://iambrainstorming.vercel.app/chapters/computer/algorithm/bayes-reputation.html" />
-<meta property="og:image" content="https://iambrainstorming.vercel.app/images/og_image.png" />
-<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:image" content="https://iambrainstorming.github.io/images/bayes.jpg" />
+<meta name="twitter:card" content="Treats votes as evidence rather than truth and are resistance to reputation shocks" />
 <meta name="twitter:title" content="Bayesian Reputation Through Score Voting" />
-<meta name="twitter:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
-<meta name="twitter:image" content="https://iambrainstorming.vercel.app/images/og_image.png" />
+<meta name="twitter:description" content="Treats votes as evidence rather than truth and are resistance to reputation shocks" />
+<meta name="twitter:image" content="https://iambrainstorming.github.io/images/bayes.jpg" />
 <h1 id="bayesian-reputation-through-score-voting"><a class="header" href="#bayesian-reputation-through-score-voting">Bayesian Reputation Through Score Voting</a></h1>
+<p>Date: 25-06-2026</p>
+<p><img src="images/bayes.jpg" alt="Bayesian Score voting"></p>
 <h3 id="evidence-based-reputation"><a class="header" href="#evidence-based-reputation">Evidence-Based Reputation</a></h3>
 <p>A major advantage of a Bayesian score voting reputation system is that it treats votes as <strong>evidence rather than truth</strong>. In a normal score voting system, if a person receives a single 5/5 score, they immediately obtain a perfect average score of 5. In a Bayesian system, the score is combined with prior knowledge and uncertainty. A few positive votes increase confidence gradually, while a large body of evidence is needed before someone is considered highly reputable. This makes the system more stable and resistant to manipulation.</p>
 <h3 id="handling-small-sample-sizes"><a class="header" href="#handling-small-sample-sizes">Handling Small Sample Sizes</a></h3>
@@ -10231,6 +10233,7 @@ One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Pr
 <p>Finally, Bayesian score voting works well with <strong>domain-specific expertise</strong>. A person may have strong reputation in economics but little reputation in agriculture or engineering. Separate Bayesian reputations can be maintained for each field, and votes become evidence for expertise within that domain. This is particularly valuable for knowledge-based governance, where influence should come from demonstrated competence and consistent evaluation over time rather than from a single global popularity score.</p>
 <h3 id="combining-expressiveness-with-statistical-rigor"><a class="header" href="#combining-expressiveness-with-statistical-rigor">Combining Expressiveness with Statistical Rigor</a></h3>
 <p>In short, Bayesian score voting combines the expressiveness of score voting with the statistical rigor of evidence accumulation. It rewards consistent performance, handles uncertainty, reduces manipulation, and produces reputation scores that are generally more reliable than simple averages.</p>
+<p><img src="images/bayesian_score_voting_infographic.jpg" alt="Bayesian Score voting"></p>
 <h2 id="walk-through-bayesian-reputation"><a class="header" href="#walk-through-bayesian-reputation">Walk Through Bayesian Reputation</a></h2>
 <p>Let’s walk through a complete Bayesian reputation calculation using score voting.</p>
 <p>Suppose we want to estimate:</p>

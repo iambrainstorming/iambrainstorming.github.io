@@ -1,5 +1,19 @@
+---
+description: "Treats votes as evidence rather than truth and are resistance to reputation shocks"
+og_image:    "https://iambrainstorming.github.io/images/bayes.jpg"
+og_type:     "article"
+og_title:    "Bayesian Reputation Through Score Voting"
+twitter_card: "Treats votes as evidence rather than truth and are resistance to reputation shocks"
+---
+
 
 # Bayesian Reputation Through Score Voting
+
+
+Date: 25-06-2026 
+
+![Bayesian Score voting](../../../images/bayes.jpg)
+
 
 ### Evidence-Based Reputation
 
@@ -24,6 +38,9 @@ Finally, Bayesian score voting works well with **domain-specific expertise**. A 
 ### Combining Expressiveness with Statistical Rigor
 
 In short, Bayesian score voting combines the expressiveness of score voting with the statistical rigor of evidence accumulation. It rewards consistent performance, handles uncertainty, reduces manipulation, and produces reputation scores that are generally more reliable than simple averages.
+
+
+![Bayesian Score voting](../../../images/bayesian_score_voting_infographic.jpg)
 
 
 
