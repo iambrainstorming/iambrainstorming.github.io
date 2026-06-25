@@ -38,10 +38,10 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-af0fed52.js";
+            window.path_to_searchindex_js = "searchindex-7966c0d5.js";
         </script>
         <!-- Start loading toc.js asap -->
-        <script src="toc-73b69a5c.js"></script>
+        <script src="toc-3d44e7f2.js"></script>
 
         <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-537XSSGF4P"></script>
@@ -10142,12 +10142,13 @@ Update: 23-06-2026</p>
 <h2 id="building-transparent-online-school-governance-with-nostr-decentralized-identity-and-verifiable-online-voting"><a class="header" href="#building-transparent-online-school-governance-with-nostr-decentralized-identity-and-verifiable-online-voting">Building Transparent Online School Governance with Nostr, Decentralized Identity, and Verifiable Online Voting</a></h2>
 <p>One way to make School Management Committees (SMCs) more effective is to move governance and elections online using open, verifiable protocols.</p>
 <p><a href="https://nostr.org/">Nostr</a> already provides a foundation through cryptographically signed messages. Every action, proposal, comment, vote, and audit record can be signed by a user’s private key, creating a transparent and tamper-evident record of governance activities.</p>
-<p>The missing piece is a <a href="https://crates.io/crates/ssi">decentralized identity layer</a>. A network of decentralized DID validators could issue credentials that prove two important things:</p>
+<p>The missing piece is a <a href="https://crates.io/crates/ssi">decentralized identity layer</a>. A network of decentralized DID validators could issue credentials that prove three important things:</p>
 <ol>
 <li><strong>Proof of Personhood</strong> — ensuring that each participant represents a real individual and preventing duplicate or fake accounts.</li>
 <li><strong>Proof of Locality</strong> — ensuring that only parents, guardians, teachers, or community members associated with a particular school can participate in its governance.</li>
+<li><strong>Proof of Expertise</strong> — ensuring that participants who claim specialized knowledge have their qualifications, portfolio, work history, achievements, publications, certifications, or other evidence evaluated. Once verified, they receive one or more specialization tags (such as Education, Child Psychology, Civil Engineering, Finance, Public Health, Agriculture, or Information Technology). These tags allow the community to identify subject-matter experts, create expert councils, and provide informed recommendations on technical matters.</li>
 </ol>
-<p>Once identities are verified, communities could use <a href="https://electionscience.org/education/approval-voting">approval voting</a>, score voting, or other reputation-based voting systems to elect SMC leaders, prioritize projects, allocate budgets, and make collective decisions.</p>
+<p>Once identities are verified, communities could use <a href="https://electionscience.org/education/approval-voting">approval voting</a>, score voting, or other <a href="#bayesian-reputation-through-score-voting">reputation-based voting systems</a>) to elect SMC leaders, prioritize projects, allocate budgets, and make collective decisions.</p>
 <p>Unlike traditional elections, all votes would be publicly auditable. Anyone could independently verify the vote count and election outcome using cryptographic signatures, eliminating many opportunities for manipulation, tampering, or opaque decision-making. Transparency would not depend on trusting a central authority but on publicly verifiable records.</p>
 <p>This approach does involve a trade-off: votes would be open rather than secret. While secret ballots are important in high-stakes political elections, community governance within a school context may benefit from greater transparency. Because decisions are local, participation is ongoing rather than one-time, and elections can use multi-winner and consensus-oriented voting systems, the risk of coercion are lower than in traditional political contests.</p>
 <p>The goal is not merely to digitize existing committees but to create a governance system where participation, accountability, elections, budgeting, and audits are transparent, verifiable, and accessible to every member of the school community.</p>
@@ -10207,6 +10208,249 @@ One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Pr
 <p>In standard Nostr, relays do not forward events to each other. This means a voting client must individually push every vote to each trusted relay (School, District, PTA, etc.). If a parent’s phone has poor connectivity or the app closes early, the vote might only reach one relay out of five. Since the system requires a two-thirds quorum to validate a vote, a perfectly legitimate vote can be silently dropped simply because the client device failed to deliver it to enough relays.</p>
 <p>To solve this, the trusted relays form an <a href="https://docs.iroh.computer/connecting/gossip">Iroh gossip swarm</a>. Iroh gossip is a peer-to-peer broadcast protocol where nodes automatically propagate messages to all subscribers of a topic using epidemic broadcast trees. Instead of the client struggling to maintain connections to multiple relays, it pushes the vote to any single relay in the swarm. Iroh then reliably spreads that vote to all other relays, automatically retrying and routing around failures.</p>
 <p>This means the client device only needs to successfully reach one relay to guarantee the vote reaches the entire federation. The relays themselves handle the redundancy, ensuring every vote is replicated across all trusted nodes before the synchronization window begins. This removes the weakest link—the voter’s phone—from the reliability chain while keeping the system fully decentralized among the trusted stakeholders.</p>
+<div style="break-before: page; page-break-before: always;"></div><meta property="og:type" content="website" />
+<meta property="og:title" content="Bayesian Reputation Through Score Voting" />
+<meta property="og:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
+<meta name="description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
+<meta property="og:url" content="https://iambrainstorming.vercel.app/chapters/computer/algorithm/bayes-reputation.html" />
+<meta property="og:image" content="https://iambrainstorming.vercel.app/images/og_image.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Bayesian Reputation Through Score Voting" />
+<meta name="twitter:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
+<meta name="twitter:image" content="https://iambrainstorming.vercel.app/images/og_image.png" />
+<h1 id="bayesian-reputation-through-score-voting"><a class="header" href="#bayesian-reputation-through-score-voting">Bayesian Reputation Through Score Voting</a></h1>
+<h3 id="evidence-based-reputation"><a class="header" href="#evidence-based-reputation">Evidence-Based Reputation</a></h3>
+<p>A major advantage of a Bayesian score voting reputation system is that it treats votes as <strong>evidence rather than truth</strong>. In a normal score voting system, if a person receives a single 5/5 score, they immediately obtain a perfect average score of 5. In a Bayesian system, the score is combined with prior knowledge and uncertainty. A few positive votes increase confidence gradually, while a large body of evidence is needed before someone is considered highly reputable. This makes the system more stable and resistant to manipulation.</p>
+<h3 id="handling-small-sample-sizes"><a class="header" href="#handling-small-sample-sizes">Handling Small Sample Sizes</a></h3>
+<p>Another advantage is that Bayesian reputation naturally handles <strong>small sample sizes</strong>. Traditional averages often produce misleading results when only a few people have voted. For example, someone with one 5-star rating may rank above someone with one hundred 4.8-star ratings. A Bayesian approach accounts for the amount of evidence behind the score, preventing new participants from immediately overtaking well-established contributors based on a handful of votes.</p>
+<h3 id="modeling-uncertainty-and-confidence"><a class="header" href="#modeling-uncertainty-and-confidence">Modeling Uncertainty and Confidence</a></h3>
+<p>Bayesian systems also provide a natural way to model <strong>uncertainty</strong>. Instead of saying “Alice’s reputation is 4.2,” the system can estimate the probability that Alice is a trustworthy or competent contributor. As more votes arrive, uncertainty decreases and the estimate becomes more reliable. This is particularly useful in governance systems where decisions should be based not only on popularity but also on confidence in the underlying assessment.</p>
+<h3 id="resistance-to-reputation-shocks"><a class="header" href="#resistance-to-reputation-shocks">Resistance to Reputation Shocks</a></h3>
+<p>Another benefit is resistance to <strong>reputation shocks</strong>. In a simple averaging system, one extremely positive or negative vote can significantly alter someone’s score. Bayesian updating smooths these changes because each new vote is weighed against all previous evidence. Reputation evolves gradually, making it harder for coordinated attacks, personal disputes, or temporary popularity swings to distort the system.</p>
+<h3 id="support-for-domain-specific-expertise"><a class="header" href="#support-for-domain-specific-expertise">Support for Domain-Specific Expertise</a></h3>
+<p>Finally, Bayesian score voting works well with <strong>domain-specific expertise</strong>. A person may have strong reputation in economics but little reputation in agriculture or engineering. Separate Bayesian reputations can be maintained for each field, and votes become evidence for expertise within that domain. This is particularly valuable for knowledge-based governance, where influence should come from demonstrated competence and consistent evaluation over time rather than from a single global popularity score.</p>
+<h3 id="combining-expressiveness-with-statistical-rigor"><a class="header" href="#combining-expressiveness-with-statistical-rigor">Combining Expressiveness with Statistical Rigor</a></h3>
+<p>In short, Bayesian score voting combines the expressiveness of score voting with the statistical rigor of evidence accumulation. It rewards consistent performance, handles uncertainty, reduces manipulation, and produces reputation scores that are generally more reliable than simple averages.</p>
+<h2 id="walk-through-bayesian-reputation"><a class="header" href="#walk-through-bayesian-reputation">Walk Through Bayesian Reputation</a></h2>
+<p>Let’s walk through a complete Bayesian reputation calculation using score voting.</p>
+<p>Suppose we want to estimate:</p>
+<blockquote>
+<p>What is the probability that Alice is a good contributor?</p>
+</blockquote>
+<p>Initially we know nothing.</p>
+<h2 id="step-1-prior-belief"><a class="header" href="#step-1-prior-belief">Step 1: Prior Belief</a></h2>
+<p>Assume:</p>
+<ul>
+<li>P(Good) = 0.5</li>
+<li>P(Bad) = 0.5</li>
+</ul>
+<p>Before seeing any votes, Alice has a 50% chance of being good.</p>
+<hr>
+<h2 id="step-2-define-score-distributions"><a class="header" href="#step-2-define-score-distributions">Step 2: Define Score Distributions</a></h2>
+<p>Suppose historical data shows:</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Score</th><th>P(Score | Good)</th><th>P(Score | Bad)</th></tr>
+</thead>
+<tbody>
+<tr><td>5</td><td>0.40</td><td>0.05</td></tr>
+<tr><td>4</td><td>0.30</td><td>0.10</td></tr>
+<tr><td>3</td><td>0.15</td><td>0.20</td></tr>
+<tr><td>2</td><td>0.10</td><td>0.25</td></tr>
+<tr><td>1</td><td>0.05</td><td>0.40</td></tr>
+</tbody>
+</table>
+</div>
+<p>Meaning:</p>
+<ul>
+<li>Good contributors receive a 5-star score 40% of the time.</li>
+<li>Bad contributors receive a 5-star score only 5% of the time.</li>
+</ul>
+<hr>
+<h2 id="step-3-alice-receives-a-score-of-5"><a class="header" href="#step-3-alice-receives-a-score-of-5">Step 3: Alice Receives a Score of 5</a></h2>
+<p>We want:</p>
+<blockquote>
+<p>P(Good | Score=5)</p>
+</blockquote>
+<p>Use Bayes’ theorem:</p>
+<p>\[ P(A \mid B) = \frac{P(B \mid A)P(A)}{P(B)} \]</p>
+<p>Substitute values:</p>
+<p>Numerator:</p>
+<pre><code class="language-text">P(5 | Good) × P(Good)
+
+0.40 × 0.50
+
+= 0.20
+</code></pre>
+<p>Denominator:</p>
+<pre><code class="language-text">P(5)
+
+=
+P(5 | Good)P(Good)
++
+P(5 | Bad)P(Bad)
+
+=
+0.40×0.50
++
+0.05×0.50
+
+=
+0.225
+</code></pre>
+<p>Posterior:</p>
+<pre><code class="language-text">0.20 / 0.225
+
+= 0.8889
+</code></pre>
+<p>Result:</p>
+<pre><code class="language-text">P(Good | Score=5)
+=
+88.89%
+</code></pre>
+<p>One strong vote increased confidence from:</p>
+<pre><code class="language-text">50%
+→
+88.89%
+</code></pre>
+<hr>
+<h2 id="step-4-alice-receives-another-5"><a class="header" href="#step-4-alice-receives-another-5">Step 4: Alice Receives Another 5</a></h2>
+<p>Prior becomes:</p>
+<pre><code class="language-text">P(Good)=0.8889
+
+P(Bad)=0.1111
+</code></pre>
+<p>Again apply Bayes.</p>
+<p>Numerator:</p>
+<pre><code class="language-text">0.40 × 0.8889
+
+=
+0.3556
+</code></pre>
+<p>Denominator:</p>
+<pre><code class="language-text">0.40×0.8889
++
+0.05×0.1111
+
+=
+0.3611
+</code></pre>
+<p>Posterior:</p>
+<pre><code class="language-text">0.3556 / 0.3611
+
+=
+0.9846
+</code></pre>
+<p>Now:</p>
+<pre><code class="language-text">98.46%
+</code></pre>
+<hr>
+<h2 id="step-5-alice-receives-a-score-of-2"><a class="header" href="#step-5-alice-receives-a-score-of-2">Step 5: Alice Receives a Score of 2</a></h2>
+<p>Now evidence becomes mixed.</p>
+<p>Prior:</p>
+<pre><code class="language-text">Good = 0.9846
+
+Bad = 0.0154
+</code></pre>
+<p>From the table:</p>
+<pre><code class="language-text">P(2|Good)=0.10
+
+P(2|Bad)=0.25
+</code></pre>
+<p>Numerator:</p>
+<pre><code class="language-text">0.10 × 0.9846
+
+=
+0.09846
+</code></pre>
+<p>Denominator:</p>
+<pre><code class="language-text">0.10×0.9846
++
+0.25×0.0154
+
+=
+0.10231
+</code></pre>
+<p>Posterior:</p>
+<pre><code class="language-text">0.09846 / 0.10231
+
+=
+0.9624
+</code></pre>
+<p>Reputation falls slightly:</p>
+<pre><code class="language-text">98.46%
+→
+96.24%
+</code></pre>
+<p>One bad score does not completely destroy reputation.</p>
+<hr>
+<h2 id="applying-to-a--5-to-5-governance-vote"><a class="header" href="#applying-to-a--5-to-5-governance-vote">Applying to a -5 to +5 Governance Vote</a></h2>
+<p>Suppose your system uses:</p>
+<pre><code class="language-text">-5 -4 -3 -2 -1 0 1 2 3 4 5
+</code></pre>
+<p>Create likelihood tables.</p>
+<p>Example:</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Vote</th><th>P(vote | Good)</th><th>P(vote | Bad)</th></tr>
+</thead>
+<tbody>
+<tr><td>+5</td><td>0.30</td><td>0.02</td></tr>
+<tr><td>+4</td><td>0.20</td><td>0.05</td></tr>
+<tr><td>+3</td><td>0.15</td><td>0.08</td></tr>
+<tr><td>+2</td><td>0.10</td><td>0.10</td></tr>
+<tr><td>0</td><td>0.10</td><td>0.10</td></tr>
+<tr><td>-2</td><td>0.05</td><td>0.15</td></tr>
+<tr><td>-3</td><td>0.04</td><td>0.20</td></tr>
+<tr><td>-4</td><td>0.03</td><td>0.15</td></tr>
+<tr><td>-5</td><td>0.03</td><td>0.15</td></tr>
+</tbody>
+</table>
+</div>
+<p>Each incoming score becomes evidence.</p>
+<p>You repeatedly apply Bayes after every vote.</p>
+<hr>
+<h2 id="simpler-beta-reputation-version"><a class="header" href="#simpler-beta-reputation-version">Simpler Beta-Reputation Version</a></h2>
+<p>Most real systems avoid computing full Bayes every vote.</p>
+<p>Store:</p>
+<pre><code class="language-text">α = positive evidence
+β = negative evidence
+</code></pre>
+<p>Start:</p>
+<pre><code class="language-text">α = 1
+β = 1
+</code></pre>
+<p>Suppose scores:</p>
+<pre><code class="language-text">+5
++4
++3
+-2
++5
+</code></pre>
+<p>Convert:</p>
+<pre><code class="language-text">Positive:
+5+4+3+5 = 17
+
+Negative:
+2
+</code></pre>
+<p>Update:</p>
+<pre><code class="language-text">α = 1 + 17 = 18
+
+β = 1 + 2 = 3
+</code></pre>
+<p>Expected reputation:</p>
+<pre><code class="language-text">18/(18+3)
+
+=
+0.8571
+</code></pre>
+<p>Reputation:</p>
+<pre><code class="language-text">85.71%
+</code></pre>
+<p>This is mathematically equivalent to a Bayesian estimate using a Beta distribution and is much easier to implement on-chain.</p>
 <div style="break-before: page; page-break-before: always;"></div><meta property="og:type" content="website" />
 <meta property="og:title" content="Health Care In India" />
 <meta property="og:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />

@@ -99,6 +99,10 @@
 - [English Medium or Odia Medium: A False Choice](./chapters/education/english-or-odia-medium.md)
 - [Same Government, Similar Funding—Why Do Some Schools Thrive While Others Don't?](./chapters/education/why-some-schools-perform.md)
 
+# Algorithm
+
+- [Bayesian Reputation Through Score Voting](./chapters/computer/algorithm/bayes-reputation.md)
+
 # Health Care
 - [Health Care In India](./chapters/economics/health-care-economics.md)
 
