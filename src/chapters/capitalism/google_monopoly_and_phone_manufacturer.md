@@ -198,6 +198,48 @@ This is like regulating a monopoly while letting it control every store shelf.
 
 ---
 
+## Modern Smartphones are Surveillance Devices — And We Barely Question It
+
+Modern smartphone manufacturers ship their devices with more than a dozen pre-installed system apps that collect data about how we use our phones. Some of these apps can access telemetry, diagnostics, identifiers, and in certain cases, information related to user interactions. They can even collect everything you type. Because they are deeply integrated into the operating system, users often cannot uninstall or even disable them.
+
+That is a dystopian reality.
+
+What is perhaps even more concerning is how little public pressure exists to change it. Most people have simply accepted that the devices they own constantly communicate with corporate servers, with little transparency about what is collected, how long it is stored, or who can access it.
+
+Today, there are very few practical ways to escape corporate surveillance.
+
+There are still no mainstream [**RISC-V smartphones**](../computer/risc-v.md) that provide a fully open-source hardware and software stack. Even among privacy-focused phones, availability is limited, prices are high, and they are rarely found in mainstream retail stores.
+
+> We have rights on paper, including the fundamental right to privacy. Yet an [estimated 70% of Indian mobile phone users](https://datareportal.com/reports/digital-2026-india) remain under corporate surveillance.
+
+Open-source smartphones currently fall into two broad categories:
+
+### Dedicated Open-Source Hardware
+These devices prioritize user sovereignty, often featuring hardware kill switches and publicly available schematics, though they face challenges with proprietary cellular modems.
+
+*   **PinePhone (PINE64)**: An entry-level device ($199) running mainline Linux (e.g., Manjaro, Mobian) with extensive community support for swapping operating systems via SD card.
+*   **Librem 5 (Purism)**: A premium device ($799) running **PureOS** (a Debian derivative), notable for isolating the cellular modem in a separate M.2 slot to enhance security.
+*   **Fairphone 5**: A commercially available phone that supports multiple open-source OS installations including **/e/OS**, **CalyxOS**, **LineageOS**, and **Ubuntu Touch**.
+*   **Emerging Models**: The **NEXX** (LiberuxOS) and **Volla Phone Quintus** are recent shipping options, while **Motorola** is developing signature devices with **GrapheneOS** support for 2027.
+
+### Open-Source Software on Commercial Hardware
+For users seeking daily usability, installing open-source operating systems on existing devices is a common alternative, as most phones rely on proprietary baseband firmware.
+
+*   **GrapheneOS**: A hardened Android fork focused on security, primarily supporting **Google Pixel** devices; it is considered the gold standard for privacy-conscious Android users.
+*   **LineageOS**: A widely supported custom ROM that allows users to replace proprietary Android components on a vast array of devices, including Samsung and Xiaomi models.
+*   **Ubuntu Touch / postmarketOS**: Linux-native interfaces running on commercial hardware (like Xiaomi or Nokia devices) via the **Halium** adaptation layer, offering a distinct non-Android experience.
+*   **/e/OS**: A "de-Googled" Android ecosystem designed for ease of use, removing Google services while maintaining compatibility with standard apps via **F-Droid** or **Aurora Store**.
+
+The **Free Software Foundation (FSF)** has also announced **LibrePhone**, a new project aiming to build a mobile platform from the firmware up, addressing the longstanding issue of proprietary drivers in current open-source mobile ecosystems.
+
+
+## The Baseband firmware is proprietary
+
+Even these privacy-focused devices share one major limitation.
+
+**Baseband processor firmware is entirely proprietary**, as major manufacturers like **Qualcomm**, **Samsung**, **MediaTek**, do not publish source code. This closed-source nature prevents independent security audits, requiring researchers to rely on difficult and often legally risky reverse engineering techniques to examine the code. Consequently, the firmware runs on isolated **Real-Time Operating Systems (RTOS)** with direct memory access to the application processor, creating a significant and often unpatched attack surface for remote code execution.
+
+
 ## **What Real Action Would Look Like**
 
 If governments are serious, they need to stop pretending and start restructuring the system:
@@ -206,7 +248,10 @@ If governments are serious, they need to stop pretending and start restructuring
 * **Mandate uninstallability** of all preloaded software.
 * **Require setup-time choice screens** for search, browser, and app stores.
 * **Protect sideloading as a legal right**, not a tolerated loophole.
-* **Force manufacturers to allow OS-level freedom**, including bootloader unlocking.
+* **Force manufacturers to allow OS-level freedom**, including bootloader unlocking and open source ROM.
+* **Require all smartphone firmware to be open source and based on open standards**, enabling different operating systems to be ported and allowing users to freely install or remove any compatible OS.
+* **Promote RISC-V–based smartphones, fully open-source operating systems, and open hardware standards** to reduce vendor lock-in, encourage competition, and give users greater control over their devices.
+* **Guarantee interoperability and portability**, ensuring users can switch operating systems and software ecosystems without artificial restrictions imposed by manufacturers or platform providers.
 
 Anything less is symbolic.
 

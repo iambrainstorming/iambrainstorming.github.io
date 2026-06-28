@@ -37,7 +37,7 @@
             const path_to_root = "../../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../searchindex-07fbc256.js";
+            window.path_to_searchindex_js = "../../searchindex-16a6a315.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../../toc-3d44e7f2.js"></script>
@@ -357,6 +357,36 @@ It relies on <strong>engineering passivity</strong>.</p>
 </ul>
 <p>This is like regulating a monopoly while letting it control every store shelf.</p>
 <hr>
+<h2 id="modern-smartphones-are-surveillance-devices--and-we-barely-question-it"><a class="header" href="#modern-smartphones-are-surveillance-devices--and-we-barely-question-it">Modern Smartphones are Surveillance Devices — And We Barely Question It</a></h2>
+<p>Modern smartphone manufacturers ship their devices with more than a dozen pre-installed system apps that collect data about how we use our phones. Some of these apps can access telemetry, diagnostics, identifiers, and in certain cases, information related to user interactions. They can even collect everything you type. Because they are deeply integrated into the operating system, users often cannot uninstall or even disable them.</p>
+<p>That is a dystopian reality.</p>
+<p>What is perhaps even more concerning is how little public pressure exists to change it. Most people have simply accepted that the devices they own constantly communicate with corporate servers, with little transparency about what is collected, how long it is stored, or who can access it.</p>
+<p>Today, there are very few practical ways to escape corporate surveillance.</p>
+<p>There are still no mainstream <a href="../computer/risc-v.html"><strong>RISC-V smartphones</strong></a> that provide a fully open-source hardware and software stack. Even among privacy-focused phones, availability is limited, prices are high, and they are rarely found in mainstream retail stores.</p>
+<blockquote>
+<p>We have rights on paper, including the fundamental right to privacy. Yet an <a href="https://datareportal.com/reports/digital-2026-india">estimated 70% of Indian mobile phone users</a> remain under corporate surveillance.</p>
+</blockquote>
+<p>Open-source smartphones currently fall into two broad categories:</p>
+<h3 id="dedicated-open-source-hardware"><a class="header" href="#dedicated-open-source-hardware">Dedicated Open-Source Hardware</a></h3>
+<p>These devices prioritize user sovereignty, often featuring hardware kill switches and publicly available schematics, though they face challenges with proprietary cellular modems.</p>
+<ul>
+<li><strong>PinePhone (PINE64)</strong>: An entry-level device ($199) running mainline Linux (e.g., Manjaro, Mobian) with extensive community support for swapping operating systems via SD card.</li>
+<li><strong>Librem 5 (Purism)</strong>: A premium device ($799) running <strong>PureOS</strong> (a Debian derivative), notable for isolating the cellular modem in a separate M.2 slot to enhance security.</li>
+<li><strong>Fairphone 5</strong>: A commercially available phone that supports multiple open-source OS installations including <strong>/e/OS</strong>, <strong>CalyxOS</strong>, <strong>LineageOS</strong>, and <strong>Ubuntu Touch</strong>.</li>
+<li><strong>Emerging Models</strong>: The <strong>NEXX</strong> (LiberuxOS) and <strong>Volla Phone Quintus</strong> are recent shipping options, while <strong>Motorola</strong> is developing signature devices with <strong>GrapheneOS</strong> support for 2027.</li>
+</ul>
+<h3 id="open-source-software-on-commercial-hardware"><a class="header" href="#open-source-software-on-commercial-hardware">Open-Source Software on Commercial Hardware</a></h3>
+<p>For users seeking daily usability, installing open-source operating systems on existing devices is a common alternative, as most phones rely on proprietary baseband firmware.</p>
+<ul>
+<li><strong>GrapheneOS</strong>: A hardened Android fork focused on security, primarily supporting <strong>Google Pixel</strong> devices; it is considered the gold standard for privacy-conscious Android users.</li>
+<li><strong>LineageOS</strong>: A widely supported custom ROM that allows users to replace proprietary Android components on a vast array of devices, including Samsung and Xiaomi models.</li>
+<li><strong>Ubuntu Touch / postmarketOS</strong>: Linux-native interfaces running on commercial hardware (like Xiaomi or Nokia devices) via the <strong>Halium</strong> adaptation layer, offering a distinct non-Android experience.</li>
+<li><strong>/e/OS</strong>: A “de-Googled” Android ecosystem designed for ease of use, removing Google services while maintaining compatibility with standard apps via <strong>F-Droid</strong> or <strong>Aurora Store</strong>.</li>
+</ul>
+<p>The <strong>Free Software Foundation (FSF)</strong> has also announced <strong>LibrePhone</strong>, a new project aiming to build a mobile platform from the firmware up, addressing the longstanding issue of proprietary drivers in current open-source mobile ecosystems.</p>
+<h2 id="the-baseband-firmware-is-proprietary"><a class="header" href="#the-baseband-firmware-is-proprietary">The Baseband firmware is proprietary</a></h2>
+<p>Even these privacy-focused devices share one major limitation.</p>
+<p><strong>Baseband processor firmware is entirely proprietary</strong>, as major manufacturers like <strong>Qualcomm</strong>, <strong>Samsung</strong>, <strong>MediaTek</strong>, do not publish source code. This closed-source nature prevents independent security audits, requiring researchers to rely on difficult and often legally risky reverse engineering techniques to examine the code. Consequently, the firmware runs on isolated <strong>Real-Time Operating Systems (RTOS)</strong> with direct memory access to the application processor, creating a significant and often unpatched attack surface for remote code execution.</p>
 <h2 id="what-real-action-would-look-like"><a class="header" href="#what-real-action-would-look-like"><strong>What Real Action Would Look Like</strong></a></h2>
 <p>If governments are serious, they need to stop pretending and start restructuring the system:</p>
 <ul>
@@ -364,7 +394,10 @@ It relies on <strong>engineering passivity</strong>.</p>
 <li><strong>Mandate uninstallability</strong> of all preloaded software.</li>
 <li><strong>Require setup-time choice screens</strong> for search, browser, and app stores.</li>
 <li><strong>Protect sideloading as a legal right</strong>, not a tolerated loophole.</li>
-<li><strong>Force manufacturers to allow OS-level freedom</strong>, including bootloader unlocking.</li>
+<li><strong>Force manufacturers to allow OS-level freedom</strong>, including bootloader unlocking and open source ROM.</li>
+<li><strong>Require all smartphone firmware to be open source and based on open standards</strong>, enabling different operating systems to be ported and allowing users to freely install or remove any compatible OS.</li>
+<li><strong>Promote RISC-V–based smartphones, fully open-source operating systems, and open hardware standards</strong> to reduce vendor lock-in, encourage competition, and give users greater control over their devices.</li>
+<li><strong>Guarantee interoperability and portability</strong>, ensuring users can switch operating systems and software ecosystems without artificial restrictions imposed by manufacturers or platform providers.</li>
 </ul>
 <p>Anything less is symbolic.</p>
 <hr>

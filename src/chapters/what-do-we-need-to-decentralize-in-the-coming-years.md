@@ -1,16 +1,8 @@
 # What do we need to decentralize in the coming years?
 
-## date: "2023-09-01"
+date: "2023-09-01"
 
----
 
-categories:
-
-- "blockchain"
-- "social media"
-- "search engine"
-
----
 
 Research on new blockchain decentralized algorithms, scalability, composability, and ability of build complicated systems on blockchains has brought us new possibilities.
 
@@ -313,4 +305,3 @@ If you're concerned about losing followers, you can create two accounts and cros
 ## OpenSource
 
 ![Open Source Developer](./images/open-source.png)
-
