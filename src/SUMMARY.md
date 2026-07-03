@@ -127,11 +127,12 @@
 - [Why Open Source Resists Billionaire Capture](./chapters/philosophy/open_source_resists_billionaire_capture.md)
 
 
-# India Employment
+# India Employment and economics
 
 - [India Employment Data](./data/india_employment_data.md)
 - [ Beyond the Kitchen and the Gossip Circle: Reimagining the Role of Middle-Class Women in India’s Workforce](./chapters/economics/women-employment.md)
 - [Something Is DEEPLY Broken Inside India ](./chapters/economics/something-is-deeply-broken-inside-india.md)
+- [Beyond the Productivity Myth: Why India’s Real Challenge is Wealth Redistribution and Community Prosperity](./chapters/economics/productivity-problem-or-wealth-redistribution-problem.md)
 
 
 
