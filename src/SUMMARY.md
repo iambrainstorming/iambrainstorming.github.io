@@ -127,7 +127,7 @@
 - [Why Open Source Resists Billionaire Capture](./chapters/philosophy/open_source_resists_billionaire_capture.md)
 
 
-# India Employment and economics
+# India Employment and Economics
 
 - [India Employment Data](./data/india_employment_data.md)
 - [ Beyond the Kitchen and the Gossip Circle: Reimagining the Role of Middle-Class Women in India’s Workforce](./chapters/economics/women-employment.md)

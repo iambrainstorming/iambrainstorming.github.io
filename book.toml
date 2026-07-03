@@ -12,7 +12,7 @@ command = "mdbook-og-meta"
 base_url = "https://iambrainstorming.vercel.app"
 
 # Fallbacks used when a chapter has no front matter
-default_image       = "https://iambrainstorming.vercel.app/images/og_image.png"
+default_image       = "https://iambrainstorming.vercel.app/images/og_image.jpg"
 default_description = "Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives."
 
 
