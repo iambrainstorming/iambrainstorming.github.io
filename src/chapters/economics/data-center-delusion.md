@@ -9,6 +9,9 @@ twitter_card: "An argument that the trillion-dollar rush to build monolithic dat
 
 Date: 20-06-2026
 
+![Data Center](../../images/data-center-pollution.png)
+
+
 **An argument that the trillion-dollar rush to build monolithic data centers is neither necessary nor just — and that decentralized, peer-to-peer AI infrastructure offers a path toward equity, resilience, and survival.**
 
 ---

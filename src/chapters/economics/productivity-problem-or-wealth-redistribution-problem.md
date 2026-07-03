@@ -8,6 +8,8 @@ twitter_card: "India does not suffer from a lack of productivity; rather, it suf
 
 # Beyond the Productivity Myth: Why India’s Real Challenge is Wealth Redistribution and Community Prosperity
 
+![Productivity Myth](../../images/productivity-paradox.jpg)
+
 Mainstream economic narratives often diagnose India’s economic challenges as a "productivity problem." However, a closer examination of the ground reality reveals a fundamentally different issue. India does not suffer from a lack of productivity; rather, it suffers from a systemic failure in wealth distribution, institutional efficiency, and the equitable ownership of productive assets. 
 
 Here is a comprehensive, point-wise analysis of why the productivity narrative is flawed and what the true path to prosperity looks like.
