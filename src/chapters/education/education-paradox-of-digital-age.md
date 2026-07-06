@@ -9,6 +9,8 @@ twitter_card: "It is a profound paradox of the modern age: we have democratized 
 # We Have Democratized Access to Knowledge, but Not Learning
 
 Date: 10-06-2026
+Update: 06-07-2026 
+
 
 It is a profound paradox of the modern age: we have democratized access to the sum of human knowledge, yet learning outcomes, educational inequality, and student engagement remain massive global challenges. 
 
@@ -43,6 +45,7 @@ From an economic perspective, the education system serves two purposes: **human 
 ### 6. Bloom’s 2 Sigma Problem is Hard to Scale
 In 1984, educational psychologist Benjamin Bloom found that one-on-one tutoring allowed students to perform **two standard deviations (2 Sigma) better** than students in a traditional classroom. 
 * For decades, the "holy grail" of EdTech has been using AI to replicate this 1-on-1 tutoring. While AI is getting better at this, research shows that students often treat AI as a tool to *get things done* rather than a tutor to *think with*. Without a carefully designed pedagogical framework, students use AI to bypass the work, negating the benefits of the "2 Sigma" effect.
+* [Research has found that WHEN students interact with an AI tutor built with sound learning strategies at home, they learn significantly more](https://www.nature.com/articles/s41598-025-97652-6). The keyword, however, is "when." These benefits depend on consistent engagement. If students skip lessons, abandon the course, or interact only superficially, the advantages are greatly reduced or may disappear altogether. What happens if they skip, don’t finish the lesson, or don’t work through the questionnaires by themselves? When non-compliers are included in the analysis, average learning gains frequently collapse, revealing that AI amplifies existing agency rather than creating it.
 
 ### 7. The Trap of "Cognitive Ease" and System 1 Thinking
 In his seminal book *Thinking, Fast and Slow*, Nobel laureate Daniel Kahneman explains that the human brain operates using two systems: System 1 (fast, intuitive, and effortless) and System 2 (slow, deliberative, and effortful). Because engaging System 2 requires significant mental energy, the brain naturally defaults to the "law of least effort."
