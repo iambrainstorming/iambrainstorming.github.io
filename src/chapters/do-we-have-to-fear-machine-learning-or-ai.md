@@ -2,7 +2,7 @@
 
 Date: 23-08-2023 
 
-Updated: 12-02-2026
+Updated: 12-07-2026
 
 
 ---
@@ -716,3 +716,35 @@ Preventing AI misuse requires a multifaceted approach involving technology, poli
 ## Data detox kit
 
 [Explore guides about Artificial Intelligence, digital privacy, security, wellbeing, misinformation, health data, and tech and the environment](https://datadetoxkit.org/en/home)
+
+## Why are smaller models considered the future of AI?
+
+#### Is the demand for GPUs expected to continue rising?
+
+AI requires massive amounts of memory primarily due to the enormous size of model parameters and the need for high-speed data access during training and inference. Large Language Models (LLMs) and neural networks contain billions or trillions of parameters that must be stored in active memory to function.
+
+
+### More parameters do not automatically mean more intelligence. 
+
+While a higher parameter count increases a model’s capacity to store patterns and handle complex reasoning, intelligence is not determined by size alone.
+
+Key factors influencing AI performance include:
+
+*   **Training Data Quality**: Models trained on high-quality, diverse data often outperform larger models with poor or limited data. A smaller model trained on more data could outperform larger, undertrained models.
+*   **Architecture and Efficiency**: Techniques like **Mixture of Experts (MoE)** allow models to have billions of total parameters but only activate a small subset for each task, improving efficiency without sacrificing capability. Google Research introduced TurboQuant, a compression algorithm that reduces the memory usage of large language models (LLMs) by at least 6x during inference. This breakthrough targets the key-value (KV) cache, which acts as short-term memory for storing context, allowing AI systems to run larger models or handle longer conversations with significantly less RAM.
+*   **Task Complexity**: Larger models generally perform better on broad, multi-step reasoning tasks, while smaller, fine-tuned models often outperform larger ones on **narrow or specific tasks**.
+*   **Diminishing Returns**: Research indicates that increasing parameter count yields **diminishing performance gains**; beyond a certain point, extra parameters waste computational resources without significantly improving insight.
+
+### Quality data is the bottleneck
+
+[LLMs Don’t Need More Parameters — Looped Language Model](https://atalupadhyay.wordpress.com/2026/03/01/llms-dont-need-more-parameters-looped-language-model/)
+
+We’re now at a point where the AI field is quietly staring down a wall. Not a metaphorical wall. A very real, very mathematical constraint that has some of the brightest minds in AI genuinely worried about where the next step forward is going to come from. And that constraint isn’t compute. It isn’t money. It isn’t even talent.
+
+It’s data.
+
+The internet — all the text, all the books, all the code, all the forum posts and blog articles and Wikipedia entries and Stack Overflow answers — has essentially been consumed. Large language models have eaten it all. And the models have gotten incredibly good as a result. But now that the pantry is empty, the old recipe of “just scale it up” doesn’t apply so cleanly anymore.
+
+### We don't need more parameters; looped computation is what we need
+
+Looped computation resembles something about how biological brains work. When we learn something new, we don’t grow new neurons (neurogenesis is largely not how adult learning works). Instead, we learn to use existing neural circuits more effectively, routing signals through the same structures multiple times in different patterns.
