@@ -125,6 +125,7 @@
 - [Grit: The power of passion and perseverance](./chapters/academics/grit.md)
 - [Why the World Needs More Open Source (FOSS) Software Architects](./chapters/philosophy/software-architect.md)
 - [Why Open Source Resists Billionaire Capture](./chapters/philosophy/open_source_resists_billionaire_capture.md)
+- [The Teal Code: How Open Source Naturally Embodies Self-Management, Wholeness, and Evolutionary Purpose](./chapters/philosophy/teal-foss.md)
 
 
 # India Employment and Economics
