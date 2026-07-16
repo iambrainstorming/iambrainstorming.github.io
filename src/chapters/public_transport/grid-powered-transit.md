@@ -1,7 +1,8 @@
 # Why Grid-Powered Public Transit Matters Too
 
 Date: 07-06-2025
-Update: 16-05-2026 
+Update: 16-07-2026
+
 
 ### Lithium-Ion Batteries and the Rare Earth Dilemma
 
@@ -58,6 +59,44 @@ The over-reliance on EVs stems from a car-centric worldview that prioritizes ind
 ### Free-Market Public Transport: Trolleybuses, Road Grids, and Sustainable Mobility
 
 Trolleybuses and Light Rail Transit (LRT) are among the cheapest modes of transportation compared to high-speed rail. Privatized, crypto-based, and free-market-driven, self sustainable public transport can also operate by building road grids. 
+
+### Electric Trams with Lead-Acid Batteries
+
+Electric trams using batteries for shorter distances can be a practical and relatively low-cost idea.
+
+
+* **Very energy efficient:** Steel wheels on steel tracks have low rolling resistance, so trams consume much less energy per passenger than cars or buses.
+* **Cheaper than metro systems:** Trams require simpler infrastructure than underground or elevated metros.
+* **Lead-acid batteries are cheap:** Acid (lead-acid) batteries cost much less than lithium batteries and use abundant materials.
+* **Reduced overhead wiring:** Batteries can allow trams to run through historic city centers without continuous overhead cables.
+* **Long vehicle lifetime:** Trams can operate for 30–40 years, making them economical over long periods.
+
+### Why Steel Wheels are  Efficient
+
+Approximate rolling resistance coefficients:
+
+Steel wheel on steel rail: 0.001–0.002
+Rubber tire on concrete/asphalt: 0.006–0.015
+
+> This means rubber-tired systems generally require about 3–10 times more energy just to overcome rolling resistance.
+
+#### Energy Implications
+
+For urban transit, not all energy goes into rolling resistance because there are also:
+
+- Acceleration and braking losses
+- Air resistance
+- HVAC and auxiliary systems
+- Passenger loads
+
+> So the overall energy consumption of a rubber-tired tram or bus is usually around 1.5–3 times higher than a steel-wheel tram carrying the same number of passengers.
+
+### Steel Tram Tacks on Roads
+
+Steel tram tracks can be built directly into roads. This is actually how many traditional tram systems operate. This would be much cheaper than elevated metros while carrying more passengers than buses.
+
+![Rail On Roads](rail-on-roads.jpeg)
+![Rail on Roads 2](rail-on-road2.jpeg)
 
 ### Conclusion
 

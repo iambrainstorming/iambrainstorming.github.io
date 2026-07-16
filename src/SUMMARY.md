@@ -17,6 +17,7 @@
   - [Decentralized Wifi](./chapters/broadband_share/broadband_share_idea.md)
   - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)
   - [Car-free cities](./chapters/road-planning-of-cities.md)
+  - [Why Grid-Powered Public Transit Matters Too](./chapters/public_transport/grid-powered-transit.md)
   - [How Can We Make Public Transport More Comfortable for People?](./chapters/public_transport/comfortable_public_transport.md)
   - [City Planning: Rain Water Harvesting](./chapters/city-planning/rain_water_harvesting.md)
   - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)
@@ -54,9 +55,9 @@
 - [Does Money Erode Human Values?](./chapters/economics/money_erode_human_values.md)
 - [Global Fossil Fuel Shortage: A Crisis That Can Become an Opportunity](./chapters/economics/discomfort-due-to-fossil-fuel-shortages.md)
 - [Nuclear Energy Is Not Clean — And It Is More Expensive Than Solar and Wind](./chapters/economics/nuclear_energy.md)
-- [Why Grid-Powered Public Transit Matters Too](./chapters/public_transport/grid-powered-transit.md)
 - [China is actively promoting RISC-V. Why should India also adopt RISC-V?](./chapters/computer/risc-v.md)
 - [The Data Center Delusion: Why AI Should Run on Your Rooftop, Not in a Corporate Fortress](./chapters/economics/data-center-delusion.md)
+- [Life Cycle Assessment (LCA) of Maize-Based Ethanol Production in India](./chapters/economics/ethanol/lca-for-ethanol.md)
 
 
 
