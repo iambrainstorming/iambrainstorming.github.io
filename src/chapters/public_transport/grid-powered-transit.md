@@ -98,6 +98,14 @@ Steel tram tracks can be built directly into roads. This is actually how many tr
 ![Rail On Roads](rail-on-roads.jpeg)
 ![Rail on Roads 2](rail-on-road2.jpeg)
 
+
+### India's Deadly Roads and the Case for Trams
+A death every three minutes: Why India's roads are among the world's deadliest.
+
+These daily tragedies underscore a silent crisis. [In 2023 alone, more than 172,000 people lost their lives on Indian roads—an average of 474 deaths every day](https://www.bbc.com/news/articles/c4g49pgx6d0o), or nearly one death every three minutes.
+
+> Building tram systems and expanding public transport could save lakhs of lives by reducing dependence on private vehicles and making roads safer.
+
 ### Conclusion
 
 Electric vehicles are not a panacea. They are a costly detour that risks locking us into new forms of inequality, environmental harm, and geopolitical conflict. The true path to sustainability lies in rethinking mobility itself—not just electrifying the status quo, but rebuilding it altogether.
