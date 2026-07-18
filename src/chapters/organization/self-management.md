@@ -1,5 +1,7 @@
 # Distributed Authority in Practice: An Evidence-Based Review of Self-Management in Teal Organizations
 
+Date: 18-07-2026
+
 [Teal Organization](https://reinventingorganizationswiki.com/en/theory/teal-paradigm-and-organizations/)
 
 Based on Frederic Laloux’s framework and subsequent empirical research, self-management in Teal organizations is not the absence of structure, but the implementation of *different*, dynamic structures that replace traditional top-down hierarchy. Transitioning to this model requires deliberate, evidence-based strategies to ensure peer relationships function effectively at scale. 
