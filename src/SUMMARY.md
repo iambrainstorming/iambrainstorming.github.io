@@ -127,6 +127,7 @@
 - [Why the World Needs More Open Source (FOSS) Software Architects](./chapters/philosophy/software-architect.md)
 - [Why Open Source Resists Billionaire Capture](./chapters/philosophy/open_source_resists_billionaire_capture.md)
 - [The Teal Code: How Open Source Naturally Embodies Self-Management, Wholeness, and Evolutionary Purpose](./chapters/philosophy/teal-foss.md)
+- [Distributed Authority in Practice: An Evidence-Based Review of Self-Management in Teal Organizations](./chapters/organization/self-management.md)
 
 
 # India Employment and Economics
