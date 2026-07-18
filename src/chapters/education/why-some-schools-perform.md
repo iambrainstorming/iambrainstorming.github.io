@@ -254,4 +254,4 @@ This means the client device only needs to successfully reach one relay to guara
 
 Voting can also be outsourced to the Internet Computer (ICP), providing strong trust and consensus guarantees. With transaction costs as low as approximately $0.000092 per transaction, even one dollar is sufficient to support large-scale community voting. Its reverse gas model also makes onboarding nearly frictionless, as users do not need to purchase tokens to participate.
 
-Nostr can remain the coordination and reputation layer, enabling flexible governance structures that can [evolve and adapt to community needs](https://iambrainstorming.github.io/coding_blog/blockchain/offchain-vs-onchain-goverance.html), much like [a teal organization](../philosophy/teal-foss.md)).
+Nostr can remain the coordination and reputation layer, enabling flexible governance structures that can [evolve and adapt to community needs](https://iambrainstorming.github.io/coding_blog/blockchain/offchain-vs-onchain-goverance.html), much like [a teal organization](../philosophy/teal-foss.md).
