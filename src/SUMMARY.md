@@ -76,6 +76,7 @@
   - [Upholding the Justice](./chapters/democracy/upholding-justice.md)
   - [Election Science](./chapters/election-science/election-science.md)
   - [Country Will Remain Safe When Women Lead the Nation](./chapters/democracy/women_in_parliament.md)
+  - [The Roar of Gen Z: From Protest to Complete Structural Reform](./chapters/democracy/roar-of-gen-z.md)
 
 
 
