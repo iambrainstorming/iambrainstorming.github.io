@@ -18,6 +18,8 @@ Right now, a major rallying cry is to stop paper leaks in examinations. While st
 
 These tests do not evaluate actual skill, critical thinking, or applied learning; they merely test how much a student can rote-memorize. Demanding the cessation of paper leaks is just small tinkering. True reform means asking whether this archaic, memory-based evaluation structure should exist at all.
 
+This is not just a social cost but also a massive economic one. Every year, crores of students collectively spend [thousands of crores of rupees](../economics/entrance_fees.md) on application and entrance examination fees for jobs and higher education. Much of this money is spent on a system that is mathematically designed to reject almost everyone. In some years, the total fees collected across major recruitment and entrance examinations are comparable to the annual education budgets of several Indian states. Instead of investing these resources in improving education and creating opportunities, we spend enormous sums administering a machinery of mass failure.
+
 
 ## The Historical Blueprint: Uprooting, Not Pruning
 

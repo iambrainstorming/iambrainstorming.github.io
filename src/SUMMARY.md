@@ -139,6 +139,7 @@
 - [ Beyond the Kitchen and the Gossip Circle: Reimagining the Role of Middle-Class Women in India’s Workforce](./chapters/economics/women-employment.md)
 - [Something Is DEEPLY Broken Inside India ](./chapters/economics/something-is-deeply-broken-inside-india.md)
 - [Beyond the Productivity Myth: Why India’s Real Challenge is Wealth Redistribution and Community Prosperity](./chapters/economics/productivity-problem-or-wealth-redistribution-problem.md)
+- [India's Competitive Exam Economy: A ₹24,700 Crore Burden on Aspirants](./chapters/economics/entrance_fees.md)
 
 
 
