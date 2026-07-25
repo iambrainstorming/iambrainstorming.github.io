@@ -80,10 +80,17 @@ If we could protest for **teal organizations**, we could dismantle the feudal fi
 ### 4. The Digital Liberation:  
 If we could protest for **open-source software and hardware**, we could secure true digital freedom under the FOSS (Free and Open-Source Software) philosophy—where code is transparent, data is sovereign, users are treated as partners not products, and the very infrastructure of our minds is no longer owned by a handful of surveillance capitalists.
 
+### 5. The Spatial & Lifestyle Liberation:
+If we could protest for **remote work as a universal right**, we could reclaim our time, our geography, and our family lives—freeing millions from forced migration to expensive, overcrowded cities, eliminating the soul-crushing daily commute, enabling parents to raise children with presence rather than absence, and allowing talent to flourish regardless of postal code, all while slashing corporate real estate waste and carbon emissions overnight.
+
+
+
 > If we protest for trams, we reclaim our streets.  
 > If we protest for UBI, we reclaim our time.  
 > If we protest for teal organization, we reclaim our workplaces.  
-> If we protest for open source, we reclaim our digital selves.  
+> If we protest for open source, we reclaim our digital selves. 
+> If we protest for remote work, we reclaim our lives, our families, and our freedom of place.
+
 
 
 **What we demand is what we get**.
