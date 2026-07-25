@@ -1,6 +1,7 @@
 # The Roar of Gen Z: From Protest to Complete Structural Reform
 
 Date: 24-07-2026
+Update: 25-07-2026
 
 
 Generation Z has finally taken to the streets. The streets of New Delhi have become the stage for a generational awakening. For years, young Indians were fed the "bread and circus" of corporate media, pacified by endless scrolling, viral reels, and the illusion of digital activism. But the facade has cracked. Gen Z have come to a profound realization: real, tangible change cannot be brought about through making reels, endless scrolling, or chasing likes.
@@ -61,6 +62,35 @@ Furthermore, in the digital realm, every app we use must be [open-source](../pro
 Our Constitution asks us to secure Justice, Liberty, Equality, and Fraternity for all citizens. But these words cannot just remain ink on paper. 
 
 We can only bring these ideals into practice by breaking the old structures and replacing them with new ones that actually function to deliver these promises. We cannot achieve 21st-century liberty using 19th-century political machinery.
+
+## Protests That Actually Matter
+
+### 1. The Transportation Mandate: 
+If we could protest for **trams, high-speed rail, and pedestrian-first cities**, we could save lakhs of lives every year—not just from road accidents, but from the slow death of lung disease, sedentary lifestyles, and the isolating alienation of car-dependent sprawl that fragments communities and degrades mental health.
+
+
+### 2. The Economic Emancipation:
+If we could protest for **Universal Basic Income (UBI)** , we could save all Gen Z and millennials from wage slavery and bullshit jobs, transforming work from a survival necessity into a voluntary pursuit of meaning, art, caregiving, and civic participation.
+
+
+### 3. The Organizational Revolution:
+If we could protest for **teal organizations**, we could dismantle the feudal fiefdoms of corporate power, replacing command-and-control with peer-based self-management, where every voice shapes strategy, performance reviews are replaced by radiant feedback, and the company's purpose adapts organically like a forest rather than mechanically like a clock.
+
+
+### 4. The Digital Liberation:  
+If we could protest for **open-source software and hardware**, we could secure true digital freedom under the FOSS (Free and Open-Source Software) philosophy—where code is transparent, data is sovereign, users are treated as partners not products, and the very infrastructure of our minds is no longer owned by a handful of surveillance capitalists.
+
+> If we protest for trams, we reclaim our streets.  
+> If we protest for UBI, we reclaim our time.  
+> If we protest for teal organization, we reclaim our workplaces.  
+> If we protest for open source, we reclaim our digital selves.  
+
+
+**What we demand is what we get**.
+
+If we demand a single resignation, we will get it. We will celebrate, declare victory, and pat ourselves on the back—but the machine keeps running, the policies remain unchanged, and the next scapegoat is already in place.
+
+But if we demand structural reform—if we protest for trams, UBI, teal organizations, and open source—we shift the very architecture of power. Then, change becomes visible. Systems begin to function differently. People start to feel the difference in their daily lives. That is not a symbolic win. That is a systemic one.
 
 
 ## The Real Mission of Gen Z
