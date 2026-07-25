@@ -111,3 +111,7 @@ These daily tragedies underscore a silent crisis. [In 2023 alone, more than 172,
 Electric vehicles are not a panacea. They are a costly detour that risks locking us into new forms of inequality, environmental harm, and geopolitical conflict. The true path to sustainability lies in rethinking mobility itself—not just electrifying the status quo, but rebuilding it altogether.
 
 Instead of asking how we can make cars cleaner, we should be asking: **how do we reduce our dependence on cars altogether?** Grid-powered trams, buses, and collective transit systems offer a future that is not only cleaner but fairer, more efficient, and genuinely sustainable.
+
+## Why your city needs a tram?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QyNwBBzt2XU?si=JCNd18aTJ7X8Gxbe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
