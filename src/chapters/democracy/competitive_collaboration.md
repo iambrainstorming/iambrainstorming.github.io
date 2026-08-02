@@ -72,6 +72,7 @@ Access to healthcare is a critical aspect of urban life. Decentralizing cities c
 
 Education is another essential service that can benefit from decentralization. By ensuring that childcare facilities, schools, and colleges are located within a 15-minute walk or bike ride from residential areas, we can make it easier for parents to drop off and pick up their children, and for students to access educational resources. This can also help reduce the environmental impact of transportation, as fewer people will need to drive to school or work.
 
+
 ### [Supermarkets](../empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)
 
 Access to fresh, healthy food is a crucial aspect of urban life. Decentralizing cities can help ensure that supermarkets and other food retailers are evenly distributed throughout the city, making it easier for residents to access healthy food options. This can help promote healthy eating habits and reduce the risk of diet-related health issues, such as obesity and diabetes.
@@ -82,5 +83,4 @@ The Competitive Collaboration Algorithm can help build a free market system with
 
 Code: <https://github.com/amiyatulu/competitive_collaboration>
 
-Its also related to [interoperability of software and pubactivity](../what-do-we-need-to-decentralize-in-the-coming-years.md#desirable-social-media-features). 
-
+Its also related to [interoperability of software and pubactivity](../what-do-we-need-to-decentralize-in-the-coming-years.md#desirable-social-media-features).
