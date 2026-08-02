@@ -18,19 +18,15 @@ SmartPushti is not designed to be another speculative token or meme coin. The to
 
 Our goal is to explore whether decentralized technology can help communities collectively create knowledge, establish reputation, fund useful work, and make decisions without depending entirely on a centralized company or platform.
 
-## Food Is Just the Beginning 🌱
+## Building an Open Health Care Ecosystem 🌿
 
-Today, SmartPushti starts with food.
+SmartPushti is building an open, community-driven ecosystem for health and wellness.
 
-People can learn recipes, share what they cook, build reputation for preparing tasty and nutritious meals, and eventually share, sell, or exchange homemade dishes with their neighbours.
+Our vision is to create a platform where people can contribute knowledge, earn reputation, support useful ideas, and collectively decide what deserves attention and funding through transparent community governance.
 
-But underneath the food layer is something much bigger:
+Rather than keeping health knowledge isolated within institutions, we want to connect researchers, clinicians, educators, patients, and local communities on open, decentralized infrastructure. Health research, evidence-based discussions, and community knowledge should be accessible to everyone, not confined to a few organizations.
 
-**a community governance system.**
-
-We want to build an ecosystem where people can contribute knowledge, earn reputation, support useful ideas, and collectively decide what deserves attention and funding.
-
-And eventually, we want to expand beyond recipes into a broader **Web3 health and wellness ecosystem**:
+The ecosystem will grow across many areas of health and wellness, including:
 
 * Nutrition
 * Fitness
@@ -41,15 +37,24 @@ And eventually, we want to expand beyond recipes into a broader **Web3 health an
 * Evidence-based discussions
 * Community knowledge
 
-We envision these conversations and publications taking place through open, decentralized infrastructure such as Nostr.
+These conversations and publications will take place through open, decentralized infrastructure such as Nostr, using a Nostr application we are building.
 
-A nostr app that we are building.
-
+GitLab repository:
 [https://gitlab.com/symbiosky/symbiosky-nostr](https://gitlab.com/symbiosky/symbiosky-nostr)
 
-To know about nostr: [https://nostr.org/](https://nostr.org/)
+Learn more about Nostr:
+[https://nostr.org/](https://nostr.org/)
 
-**Food is just the beginning.**
+## Bridging the Gap Between Health Researchers and the Public
+
+Health care research should not be isolated from the public. Many important discoveries remain locked behind academic journals, institutional silos, or technical communities, making it difficult for ordinary people to understand, contribute to, or benefit from ongoing research. Yet patients, caregivers, citizen scientists, and local communities often possess valuable knowledge, experiences, and observations that can accelerate scientific progress.
+
+SmartPushti, built on the Nostr protocol, **aims to bridge the gap between researchers and the public by making health care publishing** more open, collaborative, and community-driven. Researchers can share findings, discuss hypotheses, publish datasets, and receive feedback in an open environment, while the public can ask questions, share lived experiences, contribute local knowledge, and participate in meaningful discussions. This creates a continuous exchange of ideas rather than a one-way flow of information.
+
+The platform is designed with modular communication in mind. **Different applications can provide different views, filters, moderation policies, and curated lists tailored to their users**. A scientist may prefer highly technical discussions with peer researchers, while a patient community may focus on practical health experiences and accessible explanations. Local communities can build their own feeds, lists, and moderation systems around specific diseases, regions, languages, or research topics. Every community can tailor its own experience without fragmenting the underlying network.
+
+This flexibility allows the same open protocol to support many different forms of collaboration. Whether you are a researcher, clinician, educator, patient, caregiver, or citizen scientist, you can choose or create the interface that best fits your needs. Instead of forcing everyone into a single social feed, SmartPushti enables many local views over the same shared knowledge graph.
+
 
 ## Why Conviction Voting?
 
