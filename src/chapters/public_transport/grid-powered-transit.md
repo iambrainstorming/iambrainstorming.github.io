@@ -36,6 +36,17 @@ However, no battery chemistry is without challenges. While sodium-ion batteries 
 
 There are many promising energy storage solutions beyond lithium-ion batteries. Technologies such as compressed air energy storage, hot sand batteries, and heated brick batteries are emerging as viable alternatives for storing renewable energy. Compressed air systems store excess energy by compressing air underground and releasing it later to generate electricity. Sand and brick batteries store heat energy for long periods using inexpensive and widely available materials, making them suitable for industrial heating and grid storage. Unlike lithium-ion batteries, many of these technologies rely on abundant materials, have lower fire risks, and can potentially reduce dependence on rare mineral mining. As renewable energy expands, a combination of different storage technologies may provide cheaper, safer, and more sustainable energy systems for the future.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pAo6S74huAk?si=qKDX9HDJ4IG-XW6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Iron-air batteries are a long-duration energy storage technology that uses a reversible rusting process, where iron reacts with oxygen to generate electricity and is restored during charging. Unlike lithium-ion batteries, which typically offer 2–4 hours of storage, iron-air systems are designed to discharge for 50 to 100+ hours, making them ideal for stabilizing grids with high renewable energy penetration.
+
+[Iron Air Batteries](https://formenergy.com/technology/battery-technology/)
+
+- Low-Cost: Capable of storing energy at less than 1/10th the cost of lithium-ion battery technology.
+- Safe: No risk of thermal runaway. No heavy metals. Highly recyclable.  
+- Reliable: Delivers 100+ hour duration required to make the grid reliable year round, anywhere in the world, across all weather conditions. 
+- Scalable: Made from readily abundant materials to scale globally, without reliance on geopolitically risky supply chains. 
+
 ###  Grid-Powered Public Transit
 
 Rather than pouring resources into individualized transport options, we need a fundamental shift in how we move people, not just vehicles. The future lies in **electrified public transport**—not battery-powered buses, but **grid-connected systems** like:
