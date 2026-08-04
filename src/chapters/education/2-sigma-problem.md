@@ -81,7 +81,7 @@ By decentralizing governance and financial decision-making, communities gain gre
 
 Educational content creation should be treated as a shared public good.
 
-We can develop open publishing pipelines where teachers and subject experts write educational materials once in a structured source format. From [this single source](https://iambrainstorming.github.io/coding_blog/education-material-generation/yaml.html), multiple learning formats can be automatically generated.
+We can develop open publishing pipelines where teachers and subject experts write educational materials once in a structured source format. From [this single source](https://iambrainstorming.github.io/coding_blog/education-material-generation/one-format.html), multiple learning formats can be automatically generated.
 
 A single source file could produce:
 
