@@ -24,8 +24,7 @@ Platforms like X, Facebook, and Instagram are no longer about connecting people;
 
 [Bot farms invade social media to hijack popular sentiment](https://www.fastcompany.com/91321143/bot-farms-social-media-manipulation)
 
-
-- **Algorithmic Bias and Censorship:** The recent hearing of the Parliamentary Standing Committee on Communications and Information Technology revealed significant concerns that social media algorithms show bias. While an official video from Prime Minister Narendra Modi was briefly restricted, some questioned why CJP protest content generated "exceptionally high viewership," suggesting that platform algorithms may be "favouring newcomers, highly engaging content, or particular types of political material" . This raises serious questions about whether these algorithms are truly neutral or if they can be gamed by those with resources, or even designed to suppress inconvenient voices.
+- **Algorithmic Bias and Censorship:** The very architecture of these platforms is designed to be gamed by those with resources. Their algorithms are opaque, proprietary black boxes that can be manipulated through coordinated engagement, paid promotion, and bot networks. This means that the content you see is not an organic reflection of what people are actually saying, but a carefully curated feed shaped by whoever has the money and technical capability to influence it. When a government or political party can deploy vast IT cells and bot farms to artificially boost their narratives while simultaneously pressuring platforms to remove opposing voices, the platform ceases to be a public forum and becomes a weapon of propaganda.
 
 - **The Rise of Far-Right Propaganda:** The platforms have become fertile ground for the spread of disinformation. The same centralized control that allows for censorship also allows for the unchecked amplification of propaganda, often by foreign actors and extremist groups.
 
