@@ -80,6 +80,7 @@
   - [Election Science](./chapters/election-science/election-science.md)
   - [Country Will Remain Safe When Women Lead the Nation](./chapters/democracy/women_in_parliament.md)
   - [The Roar of Gen Z: From Protest to Complete Structural Reform](./chapters/democracy/roar-of-gen-z.md)
+  - [Why CJP Needs to Call for a Boycott of Big Tech Social Media](./chapters/social-media/social-media-boycott.md)
 
 
 
