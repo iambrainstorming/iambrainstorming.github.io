@@ -32,15 +32,24 @@ Platforms like X, Facebook, and Instagram are no longer about connecting people;
 
 The CJP’s response to these attacks has been brave. When asked about the abuse she faces, one young CJP supporter stated, "I am inspired by Savitribai Phule. When she went to educate girls, cow dung, mud, and stones were thrown at her. If I am being abused on social media today, it doesn’t bother me much."
 
+
+
 [‘Feels like career over’: The online campaign to intimidate women part of CJP protest](https://www.newslaundry.com/2026/08/03/feels-like-career-over-the-online-campaign-to-intimidate-women-part-of-cjp-protest)
 
 This is a powerful sentiment, but it misses a critical point. Savitribai Phule faced real people. Today's movements are fighting algorithms, bot farms, and coordinated IT cell attack. These are not organic attacks from fellow citizens; they are manufactured assaults designed to demoralize and drown out dissent, often funded by governments and influential interests. As an investigation noted, "unlike open source decentralized platforms distribute ownership and control among users through federated open-source protocols... promoting transparency, inclusivity, and resistance to corporate capture" . The battle is different, and the solutions must be different too.
 
+> This is a powerful sentiment, but it misses a critical point. Savitribai Phule faced real people. Today's movements are fighting algorithms, bot farms, and coordinated IT cells attack.
 
-When a leader like **Sourav Das** of the CJP receives replies where 90% are part of a coordinated attack from a hostile IT cell, it is no longer a debate; it is a cyber-warfare tactic. Staying on these platforms validates the enemy's infrastructure. Why remain in a house where the windows are bricked up and the doors are guarded by mercenaries?
+
+When a leader like **Sourav Das** of the CJP receives replies where 99% are part of a coordinated attack from a hostile IT cell, it is no longer a debate; it is a cyber-warfare tactic. Staying on these platforms validates the enemy's infrastructure. Why remain in a house where the windows are bricked up and the doors are guarded by mercenaries?
+
+### 903 replies but 99% abuses
+
+![Sourav Das Tweet](./s_das.webp)
+![Abuses](./abuses.webp)
 
 
-> This is a powerful sentiment, but it misses a critical point. Savitribai Phule faced real people. Today's movements are fighting algorithms, bot farms, and coordinated IT cells.
+
 
 
 ## Billionaires, Governments, and the Narrative
