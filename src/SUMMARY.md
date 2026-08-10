@@ -82,6 +82,10 @@
   - [The Roar of Gen Z: From Protest to Complete Structural Reform](./chapters/democracy/roar-of-gen-z.md)
   - [Why CJP Needs to Call for a Boycott of Big Tech Social Media](./chapters/social-media/social-media-boycott.md)
 
+# Health
+
+- [Beyond Iron: Why India Needs a Holistic Approach to Tackle Anemia and Micronutrient Deficiencies](./chapters/health/nutrition.md)
+
 
 
 # Cooperation
