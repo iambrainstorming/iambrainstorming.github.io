@@ -99,6 +99,27 @@ A more sustainable pathway lies in the electrification of transportation. Electr
 
 Rather than attempting to replace fossil fuels primarily through biofuels, India should prioritize reducing overall fuel demand through better urban planning, public transportation, and electrification. Investments in electric mobility, renewable electricity generation, and mass transit infrastructure are likely to deliver greater long-term economic and environmental benefits than large-scale reliance on food-based ethanol production.
 
+
+## Brazil vs India
+
+Brazil is not evidence that India should replace gasoline with ethanol. Brazil demonstrates that a country can reduce gasoline consumption by building a large domestic biofuel industry and flex-fuel fleet. But gasoline has not disappeared, petroleum production remains significant, and the model depends on Brazil's particular agricultural and energy circumstances. For India, a stronger long-term strategy is to reduce dependence on liquid fuels altogether through electrified public transport, rail and EVs, while using ethanol blending as a transitional measure.
+
+Ethanol isn't environmentally impact-free. Its lifecycle emissions depend heavily on feedstock, agricultural practices, processing energy and land-use change. The IEA specifically notes that land-use change is a major source of uncertainty in biofuel carbon accounting. Fertiliser use is also a major source of agricultural GHG emissions globally.
+
+
+[Will pure petrol come from your father’s house?](https://indianexpress.com/article/india/petrol-fathers-house-bjp-mp-janardan-mishra-ethanol-policy-10825683/) India produces only 20 per cent of its crude oil demands, while 80 per cent has to be imported from abroad.
+
+> Ethanol doesn't eliminate gasoline dependence; instead, it reinforces it.; it simply shifts part of the fuel demand from petroleum to biofuel.
+
+Why don't we invest more in [public transport, such as modern trams](../../public_transport/grid-powered-transit.md) and rail? We need a transport system designed around two fundamental purposes: **moving people and moving goods through supply chains**.
+
+Both can increasingly be powered by grid electricity. Instead of continuing to build a transport system dependent on liquid fuels, we should build an electrified public-transport and freight network that directly reduces our dependence on fossil-fuel imports.
+
+Last-mile connectivity can be handled by electric bikes, bicycles, and other lightweight electric mobility.
+
+Instead of comparing with Brazil, compare countries such as **Switzerland and Austria**, and cities like **Strasbourg, Vienna, and Zurich**, to see how investment in efficient public transport—particularly **trams, cycling infrastructure, and integrated transit networks**—can reduce dependence on private cars and fossil fuels. In capital Vienna of Austria, 53% of workers travel to their workplace via public transport,
+
+
 ![Ethanol Math](ethanol_math.jpeg)
 
 ![Giving Choice](giving_choice_not_option.jpeg)
