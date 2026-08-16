@@ -117,7 +117,7 @@ Both can increasingly be powered by grid electricity. Instead of continuing to b
 
 Last-mile connectivity can be handled by electric bikes, bicycles, and other lightweight electric mobility.
 
-Instead of comparing with Brazil, compare countries such as **Switzerland and Austria**, and cities like **Strasbourg, Vienna, and Zurich**, to see how investment in efficient public transport—particularly **trams, cycling infrastructure, and integrated transit networks**—can reduce dependence on private cars and fossil fuels. In capital Vienna of Austria, 53% of workers travel to their workplace via public transport,
+Instead of comparing with Brazil, compare countries such as **Switzerland and Austria**, and cities like **Strasbourg, Vienna, and Zurich**, to see how investment in efficient public transport—particularly **trams, cycling infrastructure, and integrated transit networks**—can reduce dependence on private cars and fossil fuels. In capital Vienna of Austria, 53% of workers travel to their workplace via public transport.
 
 
 ![Ethanol Math](ethanol_math.jpeg)

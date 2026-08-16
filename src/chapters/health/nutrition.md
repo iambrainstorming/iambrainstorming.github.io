@@ -27,15 +27,14 @@ Treating anemia effectively depends entirely on identifying and addressing the u
 *   **Iron-Deficiency Anemia:** Treatment centers on oral iron supplements (like ferrous sulfate) paired with iron-rich foods like lean meat, beans, and leafy greens. 
 *   **Vitamin Deficiencies:** If the cause is a lack of specific vitamins, treatment involves Vitamin B12 shots or folic acid supplements. 
 
-Notably, the Comprehensive National Nutrition Survey found that 63.5% of anemia cases in Indian children aged 1–4 y were not caused by iron deficiency, but rather by inflammation or deficiencies in folate and vitamin B12
-
+Notably, the Comprehensive National Nutrition Survey found that 63.5% of anemia cases in Indian children aged 1–4 y were not caused by iron deficiency, but rather by inflammation or deficiencies in folate and vitamin B12.
 
 [The Role of Micronutrient Deficiencies in Nutritional Anemia Beyond Iron: An Expert Perspective on the Scope and Strength of the Current Evidence](https://www.sciencedirect.com/science/article/pii/S2161831326001110)
 ![Evidence Beyond Iron](evidence_anemia.jpg)
 
 A 2020 Cochrane review of 26 studies involving ∼27,000 children in LMICs found that fortification with multiple micronutrient powders (MNPs) containing iron, zinc, and vitamin A reduced anemia risk by 18% and iron deficiency by 53%.
 
-The risk of anemia was reduced with iron alone, iron-folic acid,  multiple micronutrient (MMN) supplementation, micronutrient powders (MNPs), targeted fortification, and large-scale fortification. Stunting and underweight, however, were improved only among children who were provided with LNS, though MMN supplementation also slightly increased length-for-age z-scores. Vitamin A supplementation likely reduced all-cause mortality, while zinc supplementation decreased the incidence of diarrhea. Importantly, many effects of LNS and MNPs held when pooling data from effectiveness studies. 
+The risk of anemia was reduced with iron alone, iron-folic acid,  multiple micronutrient (MMN) supplementation, micronutrient powders (MNPs), targeted fortification, and large-scale fortification. Stunting and underweight, however, were improved only among children who were provided with lipid-based nutrient supplementation (LNS), though MMN supplementation also slightly increased length-for-age z-scores. Vitamin A supplementation likely reduced all-cause mortality, while zinc supplementation decreased the incidence of diarrhea. Importantly, many effects of LNS and MNPs held when pooling data from effectiveness studies. 
 
 [Micronutrient Supplementation and Fortification Interventions on Health and Development Outcomes among Children Under-Five in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis ](https://www.mdpi.com/2072-6643/12/2/289)
 

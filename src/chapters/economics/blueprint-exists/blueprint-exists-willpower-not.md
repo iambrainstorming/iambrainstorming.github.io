@@ -25,7 +25,7 @@ As Eric Hoffer famously noted, *“Mass movements can rise and spread without be
    An education system that rewards memorisation, exam performance and certificates while neglecting critical thinking, self-awareness, transfer of learning and understanding how the world works.
 
 5. *Economic precarity*
-   A system in which educated people can spend years studying and still lack meaningful economic opportunities or bargaining power.
+   A system in which educated people can spend years studying yet still lack meaningful economic opportunities, bargaining power, or financial security. This can also manifest as bullshit jobs—work that provides little social value or personal meaning while consuming people’s time and energy simply to maintain an income.
 
 6. *Centralisation and gatekeeping*
    A small number of institutions controlling access to information, education, communication, finance or political influence.
@@ -53,7 +53,7 @@ We are approaching the physical limits of decentralization, and we are winning.
 
 - **Nostr beats CRDTs at "Physics-Level" Decentralization:** Nostr's Relay Model fits the speed of light: Nostr doesn't require relays to talk to each other or agree on state. You sign an event, blast it to 20 relays, and you're done. Latency is just network round-trip time. If a relay goes down, you connect to another. This statelessness is inherently more robust than the stateful dependencies of CRDTs, which get exponentially slower as groups grow.
 - **Cost is no longer a barrier:** The transaction cost of modern blockchains has dropped to \$0.00001, that's fractions of a cent. You can onboard millions of users for the price of a cup of coffee.
-- **Speed of Development:** With the advent of advanced LLMs, we can build these applications in months, not years. Unlike blockchains, which are immutable and slow to adapt, off-chain protocols like Nostr allow for rapid innovation. You can have millions of moderators and thousands of algorithm combinations and reputation system. The blockchain should simply be used to handle the treasury. 
+- **Speed of Development:** With the advent of advanced LLMs, we can build these applications in half to two-thirds of the time. Unlike blockchains, which are immutable and slow to adapt, off-chain protocols like Nostr allow for rapid innovation. You can have millions of moderators and thousands of algorithm combinations and reputation system. The blockchain should simply be used to handle the treasury. 
 
 We even have the macroeconomic tailwinds. Global fertility rates are declining, reducing population pressure. Renewable energy is plummeting in cost. We are building better, cheaper batteries that don't rely on rare earth materials. The *physical* conditions for a sustainable, post-scarcity economy are aligning.
 
@@ -64,6 +64,17 @@ We even have the macroeconomic tailwinds. Global fertility rates are declining, 
 We actually have the blueprint to dismantle all ten of these villains: **Teal organizations**. 
 
 Teal structures are self-managing, purpose-driven, and capable of scaling to any level. Thanks to decentralized technologies, we can now implement them algorithmically. If we run our organizations as Teal, we structurally solve the problems of concentrated power, gatekeeping, and unaccountability.
+
+[Staggering **80% of people are not fully satisfied or engaged with their jobs** and **forty percent of employees globally experienced stress** a lot of the previous day.](https://www.gallup.com/workplace/697904/state-of-the-global-workplace-global-data.aspx) This highlights a fundamental problem with how work is organized today. **Teal organizations** offer an alternative model built around three core principles: **self-management, wholeness, and evolutionary purpose**.
+
+**Self-management** replaces traditional hierarchies with systems where people have greater autonomy, manage their own work, and participate directly in decision-making. Authority is distributed rather than concentrated at the top.
+
+**Wholeness** encourages people to bring their full selves to work rather than separating their professional identity from their personal identity. It aims to create an environment where authenticity, emotional well-being, and human connection are valued.
+
+**Evolutionary purpose** treats an organization as a living system that can adapt and evolve. Instead of relying entirely on rigid strategic plans or profit maximization, the organization continuously responds to changing circumstances and develops its own sense of direction.
+
+Together, these principles seek to transform work from a system of control into one based on **autonomy, purpose, trust, and human potential**.
+
 
 We already have conviction voting for treasury and a dozen other algorithms and combinations to try out. To stretch it to its limits, we can have an expertise-based reputation system, with each DAO (Decentralized Autonomous Organization) having 10,000 members making up an organization.
 
