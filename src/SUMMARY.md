@@ -61,6 +61,7 @@
 - [The Data Center Delusion: Why AI Should Run on Your Rooftop, Not in a Corporate Fortress](./chapters/economics/data-center-delusion.md)
 - [Life Cycle Assessment (LCA) of Maize-Based Ethanol Production in India](./chapters/economics/ethanol/lca-for-ethanol.md)
 - [The Blueprint Exists. The Willpower Doesn’t. (Yet.)](./chapters/economics/blueprint-exists/blueprint-exists-willpower-not.md)
+- [Sound money requires thermodynamic objectivity](./chapters/blockchain/thermodynamic-objectivity.md)
 
 
 
