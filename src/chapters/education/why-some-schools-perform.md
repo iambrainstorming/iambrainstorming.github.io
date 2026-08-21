@@ -9,6 +9,8 @@ twitter_card: "Why are some schools very well maintained while others are in ter
 
 # Same Government, Similar Funding—Why Do Some Schools Thrive While Others Don't?
 
+Update: 21-08-2026
+
 ![SMC](../../images/smc.jpg)
 
 Why are some schools very well maintained while others are in terrible condition in India? What's the reason, despite being under the same government with similar funding?
@@ -155,6 +157,8 @@ This creates three complementary layers of legitimacy:
 
 Once identities are verified, communities could use [approval voting](https://electionscience.org/education/approval-voting), score voting, or other [reputation-based voting systems](../computer/algorithm/bayes-reputation.md)) to elect SMC leaders, prioritize projects, allocate budgets, and make collective decisions.
 
+Initially, DID validators are selected by the leaders who will first execute the protocol among the people. Later, DID validators can be selected through voting among those who have applied to become DID validators.
+
 Unlike traditional elections, all votes would be publicly auditable. Anyone could independently verify the vote count and election outcome using cryptographic signatures, eliminating many opportunities for manipulation, tampering, or opaque decision-making. Transparency would not depend on trusting a central authority but on publicly verifiable records.
 
 This approach does involve a trade-off: votes would be open rather than secret. While secret ballots are important in high-stakes political elections, community governance within a school context may benefit from greater transparency. Because decisions are local, participation is ongoing rather than one-time, and elections can use multi-winner and consensus-oriented voting systems, the risk of coercion are lower than in traditional political contests.
@@ -172,7 +176,7 @@ The simplest solution is to **rely on relay timestamps**, but in a decentralized
 
 A practical solution for School Management Committee (SMC) governance is to use a federation of trusted relays.
 
-#### Trusted School Relays
+#### Trusted Relays
 
 Instead of trusting a single relay, the election relies on multiple independent relays representing different stakeholders:
 
@@ -182,7 +186,11 @@ Instead of trusting a single relay, the election relies on multiple independent 
 * Teacher Association Relay
 * More trusted relays.
 
-**A vote is considered valid only if it is received and acknowledged by at least two-thirds of the trusted relays before the election closes.** This federated approach prevents any single relay from unilaterally influencing the outcome while ensuring that the election can continue to operate reliably even if some relays are temporarily offline, misconfigured, or acting maliciously.
+But with this method, we would have about five trusted relays. This is problematic because you don't need to corrupt the entire association; you only need to compromise the system administrator who has admin access to a relay. So, with five trusted relays, there are only five system administrators to compromise.
+
+The solution is that any voter whose proof of personhood has been validated can run a trusted relay. To make this easier, relays could be designed to run on mobile devices, which voters would keep running during the election. Relays may go offline for some time, but they can sync with other relays when they come back online.
+
+**A vote is considered valid only if it is received and acknowledged by at least one-thirds or 51% of the trusted relays before the election closes.** This federated approach prevents any single relay from unilaterally influencing the outcome while ensuring that the election can continue to operate reliably even if some relays are temporarily offline, misconfigured, or acting maliciously.
 
 
 After the election closes, each relay independently collects all valid votes and produces an identical deterministic tally.
@@ -233,7 +241,7 @@ In a distributed system, if a node can lie about its local state without cryptog
 In a local, known-stakeholder environment like a school, the design leverages **redundancy** and **social accountability** to effectively neutralize the threat of a malicious relay. 
 
 *   **Redundancy Exposes Lies:** Because a voter's client publishes the vote to multiple relays simultaneously, the honest relays hold copies of the vote. If the School Relay lies during the sync week and says, "I didn't get it," the other relays can simply say, "We got it, and we know you were online." The lie is immediately exposed.
-*   **Social Slashing as a Deterrent:** In a school community, the entities running the relays (the administration, the district board, the PTA) are known, real people. If a relay is caught dropping votes, the community can publicly expose them and remove them as a trusted node. The reputational and professional damage is a massive deterrent.
+*   **Social Slashing as a Deterrent:** The entities running the relays are known, real people. If a relay is caught dropping votes, the community can publicly expose them and remove them as a trusted node. The reputational and professional damage is a massive deterrent.
 *   **Approval Voting Raises the Attack Cost:** Its hit the nail on the head regarding the math. In a multi-winner approval voting system, dropping 2 or 3 votes does almost nothing to change the final outcome. To actually flip an election, a malicious relay would have to censor a massive percentage of the total votes. But censoring hundreds of votes would be instantly detected by the other relays, triggering the social consequences mentioned above.
 
 **The Takeaway:**
@@ -250,8 +258,13 @@ To solve this, the trusted relays form an [Iroh gossip swarm](https://docs.iroh.
 
 This means the client device only needs to successfully reach one relay to guarantee the vote reaches the entire federation. The relays themselves handle the redundancy, ensuring every vote is replicated across all trusted nodes before the synchronization window begins. This removes the weakest link—the voter's phone—from the reliability chain while keeping the system fully decentralized among the trusted stakeholders.
 
-### Voting on Blockchain
+### Why not use blockchain for voting?
 
-Voting can also be outsourced to the Internet Computer (ICP), providing strong trust and consensus guarantees. With transaction costs as low as approximately $0.000092 per transaction, even one dollar is sufficient to support large-scale community voting. Its reverse gas model also makes onboarding nearly frictionless, as users do not need to purchase tokens to participate.
+In blockchain-based voting, DID validators need to approve users before they can vote. This makes DID validators the gatekeepers and gives them significant power once they are appointed, DID validators can become a major trust bottleneck, as they can censor or invalidate or bring ghost voters by deciding who can and cannot vote. Blockchains are immutable and strict, so once the protocol is compromised and the voter list has been manipulated, the changes are permanent. 
+
+Smart contracts can have upgrade mechanisms, but this can introduce another centralization risk. If developers, a multisig, or a small governance committee controls upgrades, they become gatekeepers with the ability to change the rules of the system. If upgrades are controlled through token-based governance, voting power can become concentrated among wealthy token holders, creating a form of plutocracy.
+
+In Nostr-based voting, voters, or all community members, have more power because they have a stake in both the selection of DID validators and the validity of the vote. In Nostr-based voting, you would have to compromise one-third or even half of the community members, whereas in blockchain-based voting, compromising just a few DID validators could be enough. Nostr is not immutable. If, in any case, the voter list is manipulated, it can be fixed through public pressure by resetting the voter list.
+
 
 Nostr can remain the coordination and reputation layer, enabling flexible governance structures that can [evolve and adapt to community needs](https://iambrainstorming.github.io/coding_blog/blockchain/offchain-vs-onchain-goverance.html), much like [a teal organization](../philosophy/teal-foss.md).
