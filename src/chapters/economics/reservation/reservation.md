@@ -31,7 +31,7 @@ Targeting these communities does not solve the problems of the general category;
 Protesters and organizations like the Akhil Bhartiya Kshatriya Mahasabha argue for a shift toward economic criteria. As the Mahasabha stated, “A poor person, irrespective of caste, should be provided assistance for education, coaching and other needs.” Many protesters are demanding income-based prioritization within the quotas for SC, ST, and OBCs.
 On paper, this sounds like a noble, egalitarian solution. However, under the current administrative framework, this is simply not possible. We have an unscalable system.
 
-### The Real Culprit: The 99.9% Failure Rate
+## The Real Culprit: The 99.9% Failure Rate
 
 The fundamental flaw in the anti-reservation argument is the assumption that abolishing or altering quotas will result in jobs for the protesters. It will not. 
 
@@ -41,7 +41,7 @@ This means that **99.9% of applicants will fail**, regardless of their caste, re
 
 The protests at Jantar Mantar are a symptom of a deeper disease: a severe lack of scaled opportunities. The government cannot create enough jobs to absorb the millions of graduates produced every year. Instead of forcing millions of youths to compete for a few thousand government seats with a sub-1% success rate, the focus must shift to scaling the economy.
 
-### The Way Forward: Scale
+## The Way Forward: Scale
 
 The political protests at Jantar Mantar serves only to divide the youth along caste lines, preventing them from uniting against the actual problem: a state that has failed to scale job creation, quality education.
 
@@ -62,3 +62,15 @@ Instead of being mobilized by the BJP’s politics of division and distracted fr
 In fact, economic counterfactual models suggest that the average Indian now earns roughly a thousand dollars less per year than they would have under alternative governance trajectories. 
 
 In an economy where this sum represents a massive fraction of a household's total income, this is not merely a statistical shortfall; it is a devastating loss of livelihood. The public’s rightful frustration must be redirected from manufactured identity wars toward holding the administration accountable for this widespread economic erosion.
+
+## How Much More Unequal Do They Want India to Be?
+
+The top 1% of India's population hoards approximately 40% of the country's total wealth, while the institutions meant to uphold justice and knowledge remain heavily skewed in their favor. 
+
+Consider the data: [79% of newly appointed High Court judges belong to upper castes](https://indianexpress.com/article/india/last-5-years-79-of-new-hc-judges-upper-caste-sc-and-minority-2-each-8371593/), with Scheduled Castes and religious minorities relegated to a mere 2% each. 
+
+In academia, the disparity is equally stark, with [57% of India’s teaching faculty drawn from the General Category](https://theprint.in/india/governance/57-of-indias-teaching-faculty-belong-to-general-category-sts-least-represented/89546/), and recent studies revealing that [98% of professors at the top five IITs are upper caste](https://www.thequint.com/explainers/caste-system-limits-diversity-in-science). 
+
+Given this entrenched monopolization of power, opportunity, and resources, one must ask: how much more unequal does the BJP want Indian society to become? 
+
+These orchestrated, divisive protests should not be met with passive acceptance, but with massive, organized counter-mobilizations. It is time to hold a mirror up to this systemic privilege and show the architects of this inequality the true face of the society they are fighting to preserve.
