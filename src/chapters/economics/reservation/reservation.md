@@ -13,7 +13,9 @@ It is a red herring that distracts from a much larger, more devastating issue: I
 
 To understand the irony of the protests at Jantar Mantar, one only needs to look at the basic demographics of India. Other Backward Classes (OBC) constitute approximately 42.2% of the population, while Scheduled Castes (SC) and Scheduled Tribes (ST) account for roughly 20.6% and 9.2%, respectively. 
 
-Combined, the OBC, SC, and ST categories exceed 80% of India’s demographic. The current reservation percentages in government jobs and education roughly align with these population proportions.
+Combined, the OBC, SC, and ST categories exceed 80% of India’s demographic. The current reservation percentages in government jobs and education is about 30% less with these population proportions.
+
+The total caste-based reservation quota in India for central government jobs and educational institutions is 49.5%. This is broken down into 15% for Scheduled Castes (SC), 7.5% for Scheduled Tribes (ST), and 27% for Other Backward Classes (OBC).
 
 If the actual 80% majority were to step out onto the streets to protest, there would be no space left in the entirety of Delhi, let alone Jantar Mantar. The protests we see are merely a manufactured drop in the ocean, a political distraction that ignores the mathematical reality of the country's social fabric.
 
