@@ -1,7 +1,8 @@
 # An LCA Analysis of Ethanol Production from Maize: Economic and Environmental Implications
 
 Date: 12-07-2026
-Update: 16-07-2026
+Update: 22-08-2026
+
 
 
 National Average: India’s average maize yield is approximately 3.5 tonnes per hectare. Applying the standard conversion, this yields roughly 1,400 liters of ethanol per hectare
@@ -119,6 +120,19 @@ Last-mile connectivity can be handled by electric bikes, bicycles, and other lig
 
 Instead of comparing with Brazil, compare countries such as **Switzerland and Austria**, and cities like **Strasbourg, Vienna, and Zurich**, to see how investment in efficient public transport—particularly **trams, cycling infrastructure, and integrated transit networks**—can reduce dependence on private cars and fossil fuels. In capital Vienna of Austria, 53% of workers travel to their workplace via public transport.
 
+## Why Target Two Wheelers?
+
+The total Diesel sold in the country during 2012-13 was 69,080 TMT and Petrol was 15,744 TMT. While Diesel constitutes 44% of total consumption of petroleum products in India, Petrol accounts for 10%.
+
+[Press release: Ministry of Petroleum & Natural Gas](https://www.pib.gov.in/newsite/printrelease.aspx?relid=102799&reg=48&lang=2)
+
+So diesel consumption is about 4 times that of petrol. A 20% ethanol blend in petrol will in no way decrease dependence on petroleum products. Fewer than 30% of registered petrol two-wheelers in India are compliant with E20 fuel. Two-wheelers are used by the middle and lower classes, and provides a best connectivity with poor public transport system and traffic. Making 70% of two-wheelers obsolete is a dangerous move without providing alternatives. The real solution is to introduce [trams on roads](../../public_transport/grid-powered-transit.md)). They are efficient and could replace trucks and cars, which mostly use diesel, thereby ending petroleum dependence.
+
+[India’s poorest will pay the most for ethanol-fuel push](https://scroll.in/article/1095099/indias-poorest-will-pay-the-most-for-ethanol-fuel-push)
+
+Gains of reducing vehicular emissions and fuel imports are undercut by the diversion of food resources, the toll on human bodies and cost of vehicle repairs.
+
+ 
 
 ![Ethanol Math](ethanol_math.jpeg)
 
