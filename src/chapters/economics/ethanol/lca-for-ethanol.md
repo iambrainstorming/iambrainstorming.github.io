@@ -126,7 +126,7 @@ The total Diesel sold in the country during 2012-13 was 69,080 TMT and Petrol wa
 
 [Press release: Ministry of Petroleum & Natural Gas](https://www.pib.gov.in/newsite/printrelease.aspx?relid=102799&reg=48&lang=2)
 
-So diesel consumption is about 4 times that of petrol. A 20% ethanol blend in petrol will in no way decrease dependence on petroleum products. Fewer than 30% of registered petrol two-wheelers in India are compliant with E20 fuel. Two-wheelers are used by the middle and lower classes, and provides a best connectivity with poor public transport system and traffic. Making 70% of two-wheelers obsolete is a dangerous move without providing alternatives. The real solution is to introduce [trams on roads](../../public_transport/grid-powered-transit.md)). They are efficient and could replace trucks and cars, which mostly use diesel, thereby ending petroleum dependence.
+So diesel consumption is about 4 times that of petrol. A 20% ethanol blend in petrol will in no way decrease dependence on petroleum products. Fewer than 30% of registered petrol two-wheelers in India are compliant with E20 fuel. Two-wheelers are used by the middle and lower classes, and provides a best connectivity with poor public transport system and traffic. Making 70% of two-wheelers obsolete is a dangerous move without providing alternatives. The real solution is to introduce [trams on roads](../../public_transport/grid-powered-transit.md). They are efficient and could replace trucks and cars, which mostly use diesel, thereby ending petroleum dependence.
 
 [India’s poorest will pay the most for ethanol-fuel push](https://scroll.in/article/1095099/indias-poorest-will-pay-the-most-for-ethanol-fuel-push)
 

@@ -62,6 +62,7 @@
 - [Life Cycle Assessment (LCA) of Maize-Based Ethanol Production in India](./chapters/economics/ethanol/lca-for-ethanol.md)
 - [The Blueprint Exists. The Willpower Doesn’t. (Yet.)](./chapters/economics/blueprint-exists/blueprint-exists-willpower-not.md)
 - [Sound money requires thermodynamic objectivity](./chapters/blockchain/thermodynamic-objectivity.md)
+- [The System is Producing 99.9% Failure Rates; Protests Against Reservation Won't Solve Anything](./chapters/economics/reservation/reservation.md)
 
 
 
