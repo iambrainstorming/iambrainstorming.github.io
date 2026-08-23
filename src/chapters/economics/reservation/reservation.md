@@ -2,6 +2,10 @@
 
 Date: 22-08-2026
 
+[Youtube Video](https://youtu.be/DER3YtV2s6k)
+
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2Freservation%3A4?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
+
 [Delhi: Thousands protest caste-based quotas at Jantar Mantar, several detained](https://scroll.in/latest/1095190/delhi-hundreds-protest-caste-based-quotas-at-jantar-mantar-several-detained)
 
 The recent protests at Delhi’s Jantar Mantar against caste-based reservations have once again ignited a fiery debate about merit, equality, and social justice in India. While the frustration of the youth is palpable and understandable, targeting the reservation policy as the primary obstacle to their success is a fundamental misdiagnosis of the problem.
