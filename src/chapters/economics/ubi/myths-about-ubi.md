@@ -2,6 +2,10 @@
 
 Date: 24-08-2026
 
+[Youtube Video](https://youtu.be/9Ntt-Es4Nig)
+
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40smartpushti%3A5%2Fubi%3Acd?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
+
 Across the globe, and especially in India, a quiet economic revolution is being debated: Universal Basic Income (UBI). Yet, the conversation is heavily clouded by myths perpetuated by both citizens and politicians. It is time to break these myths with evidence, economic logic, and a collective demand for a system that truly works for the people. 
 
 ### Myth 1: "UBI Makes People Lazy and Hurts National Growth"
