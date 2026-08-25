@@ -66,3 +66,17 @@ It's a different matter that some big tech companies want us to transform into t
 ## You have no free will at all | Stanford professor Robert Sapolsky
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ke8oFS8-fBk?si=BQU7NuP9VZO2Tp3q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Science is shattering our intuitions about consciousness | Annaka Harris 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m0UjqT45JsQ?si=RhL0FodCXu5d-n1n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##  Scientists Finally Revealed How Plants Really Think 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yb42OQ_hwc4?si=VVj-VVyFBB4t5nx2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## We control nothing, but we influence everything | Brian Klaas: Full Interview 
+
+Chaos Theory
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jtn2Wxai-ug?si=n1jbFz6xbCvb5n0N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
