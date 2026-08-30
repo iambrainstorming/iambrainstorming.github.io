@@ -268,3 +268,18 @@ In Nostr-based voting, voters, or all community members, have more power because
 
 
 Nostr can remain the coordination and reputation layer, enabling flexible governance structures that can [evolve and adapt to community needs](https://iambrainstorming.github.io/coding_blog/blockchain/offchain-vs-onchain-goverance.html), much like [a teal organization](../philosophy/teal-foss.md).
+
+
+## ZK Voting: Combining Privacy with End-to-End Verifiability
+
+In the future, we can implement ZK proofs for anonymous voting, but the system needs to be carefully designed so that users can independently verify the entire voting process. ZK proofs can make an anonymous election publicly auditable without revealing individual votes. For example, if a voter’s mobile phone or device is compromised, they should still be able to later verify whether the vote recorded on their behalf is the same as the vote they intended to cast and whether it was included correctly in the final tally.
+
+A well-designed ZK voting system should publicly and cryptographically verify that:
+
+* the voter was eligible without revealing their identity;
+* each eligible voter could vote only once;
+* every counted vote was valid;
+* the tally was computed correctly; and
+* the published election data has not been altered.
+
+The goal should be to combine **privacy with end-to-end verifiability**, so anonymity does not come at the cost of losing the ability to detect attacks or verify that the election was conducted correctly.
