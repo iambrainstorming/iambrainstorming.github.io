@@ -118,6 +118,7 @@
 # Algorithm
 
 - [Bayesian Reputation Through Score Voting](./chapters/computer/algorithm/bayes-reputation.md)
+- [How to break power law of wealth?](./chapters/blockchain/breaking_power_law.md)
 
 # Health Care
 - [Health Care In India](./chapters/economics/health-care-economics.md)
