@@ -28,7 +28,7 @@ Then the selected stakeholder receives **non-transferable governance tokens base
 `Voting power of stake holder = sqrt( Goverance tokens stake * time governance token are locked )`
 
 
-## I breaks the power law:
+## It breaks the power law:
 This is real progress — this formula, if implemented correctly, actually achieves what the last several iterations didn't: it makes final voting power **concave** in stake rather than linear.
 
 

@@ -9,7 +9,8 @@ twitter_card: "Why are some schools very well maintained while others are in ter
 
 # Same Government, Similar Funding—Why Do Some Schools Thrive While Others Don't?
 
-Update: 21-08-2026
+Date : 21-08-2026
+Update: 10-09-2026 
 
 ![SMC](../../images/smc.jpg)
 
@@ -271,6 +272,8 @@ Nostr can remain the coordination and reputation layer, enabling flexible govern
 
 
 ## ZK Voting: Combining Privacy with End-to-End Verifiability
+
+[Anonymous Voting Code flow](https://iambrainstorming.github.io/coding_blog/blockchain/anonymous-voting-with-cairo.html)
 
 In the future, we can implement ZK proofs for anonymous voting, but the system needs to be carefully designed so that users can independently verify the entire voting process. ZK proofs can make an anonymous election publicly auditable without revealing individual votes. For example, if a voter’s mobile phone or device is compromised, they should still be able to later verify whether the vote recorded on their behalf is the same as the vote they intended to cast and whether it was included correctly in the final tally.
 
