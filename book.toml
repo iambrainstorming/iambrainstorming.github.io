@@ -20,3 +20,4 @@ default_description = "Brainstorming ideas, exploring possibilities, and connect
 [output.html]
 mathjax-support = true
 git-repository-url = "https://github.com/iambrainstorming/iambrainstorming.github.io"
+additional-js = ["theme/gtag.js"]

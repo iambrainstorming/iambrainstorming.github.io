@@ -1,15 +1,3 @@
-#google-translate-wrapper {
-    display: flex;
-    justify-content: flex-end;
-    padding: 8px 16px;
-    border-bottom: 1px solid var(--sidebar-border-color);
-}
-
-#google_translate_element .goog-te-combo {
-    padding: 4px 8px;
-    border-radius: 4px;
-}
-
 /* Base styles and content styles */
 
 :root {
@@ -49,39 +37,18 @@ main {
 }
 
 /* Don't change font size in headers. */
-h1 code,
-h2 code,
-h3 code,
-h4 code,
-h5 code,
-h6 code {
+h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
     font-size: unset;
 }
 
-.left {
-    float: left;
-}
-.right {
-    float: right;
-}
-.boring {
-    opacity: 0.6;
-}
-.hide-boring .boring {
-    display: none;
-}
-.hidden {
-    display: none !important;
-}
+.left { float: left; }
+.right { float: right; }
+.boring { opacity: 0.6; }
+.hide-boring .boring { display: none; }
+.hidden { display: none !important; }
 
-h2,
-h3 {
-    margin-block-start: 2.5em;
-}
-h4,
-h5 {
-    margin-block-start: 2em;
-}
+h2, h3 { margin-block-start: 2.5em; }
+h4, h5 { margin-block-start: 2em; }
 
 .header + .header h3,
 .header + .header h4,
@@ -114,9 +81,7 @@ dt:target::before {
 .page {
     outline: 0;
     padding: 0 var(--page-padding);
-    margin-block-start: calc(
-        0px - var(--menu-bar-height)
-    ); /* Compensate for the #mdbook-menu-bar-hover-placeholder */
+    margin-block-start: calc(0px - var(--menu-bar-height)); /* Compensate for the #mdbook-menu-bar-hover-placeholder */
 }
 .page-wrapper {
     box-sizing: border-box;
@@ -124,15 +89,11 @@ dt:target::before {
 }
 html:not(.js) .page-wrapper,
 .js:not(.sidebar-resizing) .page-wrapper {
-    transition:
-        margin-left 0.3s ease,
-        transform 0.3s ease; /* Animation: slide away */
+    transition: margin-left 0.3s ease, transform 0.3s ease; /* Animation: slide away */
 }
-[dir="rtl"]:not(.js) .page-wrapper,
-[dir="rtl"].js:not(.sidebar-resizing) .page-wrapper {
-    transition:
-        margin-right 0.3s ease,
-        transform 0.3s ease; /* Animation: slide away */
+[dir=rtl]:not(.js) .page-wrapper,
+[dir=rtl].js:not(.sidebar-resizing) .page-wrapper {
+    transition: margin-right 0.3s ease, transform 0.3s ease; /* Animation: slide away */
 }
 
 .content {
@@ -144,25 +105,15 @@ html:not(.js) .page-wrapper,
     margin-inline-end: auto;
     max-width: var(--content-max-width);
 }
-.content p {
-    line-height: 1.45em;
-}
-.content ol {
-    line-height: 1.45em;
-}
-.content ul {
-    line-height: 1.45em;
-}
-.content a {
-    text-decoration: none;
-}
-.content a:hover {
-    text-decoration: underline;
-}
-.content img,
-.content video {
-    max-width: 100%;
-}
+.content p { line-height: 1.45em; }
+.content ol { line-height: 1.45em; }
+.content ul { line-height: 1.45em; }
+.content a { text-decoration: none; }
+.content a:hover { text-decoration: underline; }
+.content img, .content video { max-width: 100%; }
+/* When an image is inside an anchor, ensure the focus ring covers the entire
+   image instead of the anchor's line box. */
+.content a:has(img) { display: inline-block; }
 .content .header:link,
 .content .header:visited {
     color: var(--fg);
@@ -198,13 +149,14 @@ table tbody tr:nth-child(2n) {
     background: var(--table-alternate-bg);
 }
 
+
 blockquote {
     margin: 20px 0;
     padding: 0 20px;
     color: var(--fg);
     background-color: var(--quote-bg);
-    border-block-start: 0.1em solid var(--quote-border);
-    border-block-end: 0.1em solid var(--quote-border);
+    border-block-start: .1em solid var(--quote-border);
+    border-block-end: .1em solid var(--quote-border);
 }
 
 /* TODO: Remove .warning in a future version of mdbook, it is replaced by
@@ -292,7 +244,7 @@ sup {
    This could use some improvement.
 */
 @media not (prefers-reduced-motion) {
-    .footnote-reference:target {
+    .footnote-reference:target  {
         animation: fn-highlight 0.8s;
         border-radius: 2px;
     }
@@ -309,9 +261,7 @@ sup {
     visibility: hidden;
     color: #fff;
     background-color: #333;
-    transform: translateX(
-        -50%
-    ); /* Center by moving tooltip 50% of its width left */
+    transform: translateX(-50%); /* Center by moving tooltip 50% of its width left */
     left: -8px; /* Half of the width of the icon */
     top: -35px;
     font-size: 0.8em;
@@ -350,16 +300,14 @@ dt {
 
 /* This uses a CSS counter to add numbers to definitions, but only if there is
  more than one definition. */
-dl,
-dt {
+dl, dt {
     counter-reset: dd-counter;
 }
 
 /* When there is more than one definition, increment the counter. The first
 selector selects the first definition, and the second one selects definitions
 2 and beyond.*/
-dd:has(+ dd),
-dd + dd {
+dd:has(+ dd), dd + dd {
     counter-increment: dd-counter;
     /* Use flex display to help with positioning the numbers when there is a p
     tag inside the definition. */
@@ -369,8 +317,7 @@ dd + dd {
 
 /* Shows the counter for definitions. The first selector selects the first
 definition, and the second one selections definitions 2 and beyond.*/
-dd:has(+ dd)::before,
-dd + dd::before {
+dd:has(+ dd)::before, dd + dd::before  {
     content: counter(dd-counter) ". ";
     font-weight: 600;
     display: inline-block;
@@ -461,4 +408,57 @@ dd > p {
     fill: currentColor;
     /* Add some space between the icon and the text. */
     margin-right: 8px;
+}
+
+/* All this code is to handle the "zoomable" images feature. */
+
+/* This one makes the checkbox invisible while keeping it selectable with the keyboard (with the
+   "tab" key). */
+.content .checkbox-img {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+/* When the input is focused, we make it appear to the user by adding an outline to the img
+   instead */
+.content .checkbox-img:focus + img {
+    outline: auto;
+}
+/* The "zoomed-in" image is not displayed until the checkbox is "ticked". */
+.content .checkbox-img:not(:checked) ~ .img-wrapper {
+    display: none;
+}
+.content .checkbox-label {
+    display: block;
+    max-width: 100%;
+}
+.content .checkbox-label img {
+    cursor: zoom-in;
+}
+.content .checkbox-img:checked ~ .img-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 1001;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+}
+.content .checkbox-img:checked ~ .img-wrapper > img {
+    --img-padding: 5px;
+    padding: var(--img-padding);
+    background: #999;
+    cursor: zoom-out;
+    max-width: calc(100% - (var(--img-padding) * 2));
+    max-height: calc(100% - (var(--img-padding) * 2));
 }
