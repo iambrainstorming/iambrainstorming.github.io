@@ -66,7 +66,7 @@
 - [ Why Citizens Must Demand Universal Basic Income: Busting the Myths and Reclaiming Our Wealth](./chapters/economics/ubi/myths-about-ubi.md)
 - [The Time for Foolishness is Over: Why Andrew Yang and UBI Are Our Only Way Forward](./chapters/economics/ubi/vote-for-andrew-yang.md)
 - [The Mirage of Infinite Money: A Comprehensive Critique of Modern Monetary Theory and the Case for Sound Money](./chapters/economics/mmt/problem-of-mmt.md)
-
+- [The UBI Leakage Problem: Will Guaranteed Income Make Us More Dependent on Imports?](./chapters/economics/ubi/ubi-leakage-problem.md)
 
 
 # Democracy
