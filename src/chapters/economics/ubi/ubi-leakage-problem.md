@@ -1,5 +1,7 @@
 # The UBI Leakage Problem: Will Guaranteed Income Make Us More Dependent on Imports?
 
+Date: 14-09-2026 
+
 **The UBI Dividend: How Universal Basic Income Strategic Autonomy Can Rebuild the Local Economy**
 
 Universal Basic Income (UBI) is frequently debated merely as a social safety net—a mechanism to prevent poverty. But what if we view it through a macroeconomic lens? If implemented correctly, UBI acts as an economic floor that fundamentally alters consumer behavior, catalyzing local production in agriculture, pharmaceuticals, and electronics. 

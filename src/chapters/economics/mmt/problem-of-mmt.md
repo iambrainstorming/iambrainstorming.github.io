@@ -1,5 +1,7 @@
 # The Mirage of Infinite Money: A Comprehensive Critique of Modern Monetary Theory and the Case for Sound Money
 
+Date: 13-09-2026
+
 ## Introduction: The World Running on a Treadmill
 
 As of early 2026, the global economy stands at a paradoxical crossroads. The United States carries a debt-to-GDP ratio of approximately **123%**, meaning the nation owes more than its entire annual economic output. India's general government debt-to-GDP ratio sits at **84.41%** in FY26, split between 55.21% central government debt and 29.2% state government debt. Across the developed world, sovereign debt has ballooned to levels that would have been unthinkable just two decades ago.
