@@ -2,6 +2,8 @@
 
 Date: 29-07-2026
 
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2Fcritical-thinking%3Adb?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
+
 Recently, during a discussion with a group of millennial government employees and Gen Z parents, a startling consensus emerged. When asked about classroom discipline, the prevailing view was that corporal punishment—“beating”—is normal and necessary. The rationale? *“If you don’t beat students, they won’t study or practice.”* 
 
 When challenged on the pedagogy of memory-based entrance exams—asking, for instance, what value there is in memorizing that Saturn is the second-largest planet—the defense was immediate: *“These are important questions. They are important if a student wants to become a physicist or astrophysicist.”*
