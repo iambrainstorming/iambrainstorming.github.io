@@ -14,6 +14,20 @@ Update: 10-09-2026
 
 ![SMC](../../images/smc.jpg)
 
+
+## Video:
+Look at the Odisha State Budget for Education
+
+₹42,565 crore for education — 13.7% of total spending
+
+48,514 government schools & 1,273 colleges 
+• About ₹1 crore per school & college each year
+• But all money disappears — bureaucratic corruption
+
+Don't just visit schools — fix the governance
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2Fschool-visit%3A5?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
+
+
 Why are some schools very well maintained while others are in terrible condition in India? What's the reason, despite being under the same government with similar funding?
 
 
