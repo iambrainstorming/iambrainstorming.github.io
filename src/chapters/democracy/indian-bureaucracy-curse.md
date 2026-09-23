@@ -2,6 +2,8 @@
 
 Date: 23-09-2026
 
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2Fbureaucracy%3Ad?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
+
 
 **India taxes like a developed nation and delivers like a failing one. Between the two stands an unaccountable bureaucracy that rewards loyalty over competence, absorbs budgets without outcomes, and treats citizens as petitioners rather than principals. The fix is not a better bureaucracy — it is less bureaucracy: direct cash, cooperative competition, and sortition for the decisions that must remain public.**
 
