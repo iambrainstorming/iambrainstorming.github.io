@@ -53,3 +53,7 @@ Juror **draw probability is still weighted by stake** — same mathematical shap
 ### Why it still works despite stake-weighted selection
 
 The Schelling mechanism's guarantee isn't "the *population* of jurors is representative of wealth" — it's "*whichever* jurors get drawn are individually incentivized to report their honest signal rather than a strategic one." Those are independent properties. Selection weighting determines *who* answers; the coherence-payoff structure determines *whether they answer truthfully once selected*. A whale who gets drawn 1,000x more often than a small holder is still, each time they're drawn, better off voting their genuine assessment of the proposal (−5 to +5) than voting something self-serving — because the payoff depends on matching the eventual majority, not on the size of their stake or their relationship to the proposal.
+
+Code: 
+
+https://github.com/silicology1/stakeholder-governance
