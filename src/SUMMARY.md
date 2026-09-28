@@ -196,6 +196,7 @@
 
 # Biology
 - [Complicatedness of Sexuality](./chapters/complicatedness-of-sexuality.md)
+- [Sex Redefined: The Idea of 2 Sexes Is Overly Simplistic](./chapters/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic.md)
 
 # Parenting
 - [Baby Parenting](./chapters/parenting/baby_parenting.md)

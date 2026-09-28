@@ -118,6 +118,14 @@ So polygenic traits involves many more genes and many are also influenced by the
 
 Further defining sexuality is broad and can be very complicated. It's not as simple as being attracted to the same or different sex or both. Take, for example, demisexuality, where attraction occurs only when an emotional attachment is formed. Moreover, emotional attachment itself is not straightforward. You might be emotionally attached to your friends without experiencing any sexual attraction to them, even if the other party is interested. The dynamics can be highly specific. While you may appreciate someone's looks, it doesn't necessarily mean you are not sexually attracted to men or women. You can remain completely neutral during the first encounter or multiple encounters.
 
+## There is no single gene responsible for a person being gay or a lesbian.
+
+[There is no 'gay gene.' There is no 'straight gene.' Sexuality is just complex, study confirms](https://www.pbs.org/newshour/science/there-is-no-gay-gene-there-is-no-straight-gene-sexuality-is-just-complex-study-confirms)
+
+Report finds that human DNA cannot predict who is gay or heterosexual. Sexuality cannot be pinned down by biology, psychology or life experiences, this study and others show, because human sexual attraction is decided by all these factors.
+
+Moreover, the researchers found that sexuality is polygenic — meaning hundreds or even thousands of genes make tiny contributions to the trait. That pattern is similar to other heritable (but complex) characteristics like height or a proclivity toward trying new things. (Things like red/green colorblindness, freckles and dimples can be traced back to single genes). But polygenic traits can be strongly influenced by the environment, meaning there's no clear winner in this "nature versus nurture" debate.
+
 References:
 
 1. [Our Sexuality, Crooks and Baur](https://cloudflare-ipfs.com/ipfs/bafykbzaceax2n7vszuvr6tuatx6yirr2kbrmgpjuluemlqh5tnact4bz5wlji?filename=Robert%20L.%20Crooks%2C%20Karla%20Baur%20-%20Our%20sexuality-Cengage%20Learning%20%282010%29.pdf) Pdf Link
