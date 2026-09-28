@@ -192,6 +192,10 @@
 
 - [Social Media Metrics](./chapters/social-media/social-media-metrics.md)
 
+# Curriculum
+- [Interdisciplinary Perspectives on Gender Equality: Biology, Psychology, and Economics](./chapters/curriculum/gender-equality.md)
+
+
 
 
 # Biology
