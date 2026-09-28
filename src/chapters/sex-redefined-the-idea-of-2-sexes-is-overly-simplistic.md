@@ -20,3 +20,6 @@ Sex can be much more complicated than it at first seems. According to the simple
 References:
 
 [https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/)
+
+
+[Are There Two Sexes? Yes and No, But Mostly No (and Gender is Something Else Anyway – More or Less)](https://journals.publishing.umich.edu/ptpbio/article/id/5905/)
