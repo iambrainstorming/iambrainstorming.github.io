@@ -27,6 +27,8 @@ How do we fix a system where the delivery mechanism is fundamentally broken? We 
 
 Consider the **Subhadra Yojana** in Odisha, which provides basic income to women. It has a total budget allocation of ₹55,825 crore for its five-year period (2024–2029), which is **₹11,165 crore per year**. Compare this to the **₹42,565 crore** spent annually on education, which vanishes in corruption. If the government redirected a portion of those education funds directly to mothers as UBI, they could bypass the corrupt middlemen and spend that money directly on the quality education of their children. 
 
+[The Mirage of Infinite Money: A Comprehensive Critique of Modern Monetary Theory and the Case for Sound Money](../economics/mmt/problem-of-mmt.md)
+
 The government must limit its role wherever possible, replacing bureaucratic micromanagement with UBI. Here is why UBI works:
 
 1.  **It Eliminates the Cantillon Effect:** Money goes directly to the people, not to institutions or corporations. There is no "trickle-down." The money is in citizens’ hands from day one, before prices can adjust. This is the exact opposite of the current system, where money flows to banks and corporations first, inflating asset prices before wage earners see any benefit.
@@ -39,6 +41,9 @@ The government must limit its role wherever possible, replacing bureaucratic mic
 
 UBI should not just be a cash transfer; it should be modeled as a **closed-loop circular economy**. Modeled after traditional cooperatives, this system transforms transaction fees from an extractive penalty into a community contribution that directly funds the community’s own payroll. 
 
+[The Closed-Loop Circular Economy: Turning Transaction Taxes into Community Payrolls](../economics/stakeholder-economy/closed-loop-circular-economy.md)
+
+
 This creates a highly powerful model for building engaged, active, and self-sustaining communities:
 
 *   **Perfect Incentive Alignment (From Consumers to Stakeholders):** In a traditional model, a transaction fee is money sent to a distant third party (the state or a monopoly). In a closed-loop economy, the user is putting money into a shared pool that they have a direct, mathematical chance to earn back. When a user pays a small fee to transact or access a service, they seed a treasury. If they contribute value to the ecosystem—by working, providing liquidity, or creating content—they earn from that exact same treasury. This turns passive users into active stakeholders.
@@ -49,6 +54,8 @@ Critics may argue this leads to privatization. But privatization is not inherent
 ### Pillar 3: Algorithmic Competition and Modularity in Institutions
 
 To run institutions like education and healthcare efficiently, we must replace bureaucratic central planning with **competition-collaboration algorithms**. 
+
+[The Case of Private Medical Colleges: How Competition, Collaboration, and Modular Design Can Slash Costs from Crores to Lakhs](../education/medical-education/case-of-private-medical-colleges.md)
 
 Imagine a weighted graph where:
 *   **Nodes** represent services: students, teachers, content providers, classrooms, hospitals.
@@ -76,7 +83,7 @@ Here, we need **Adhocracy**—a flexible, adaptable, informal organization emplo
 **The Mechanism:**
 *   Maintain a roster of **100–200 adhocrats per district, per department**, selected strictly based on specialized, verified qualifications (e.g., environmental scientists, legal experts, local community leaders).
 *   For each specific project (e.g., approving a factory's pollution control plan), **randomly draw 33%** of the eligible adhocrats.
-*   The project is then approved, sent back for revision, or rejected through **score voting** or **beta-Bayesian voting**.
+*   The project is then approved, sent back for revision, or rejected through [**score voting** or **beta-Bayesian voting**](../computer/algorithm/bayes-reputation.md).
 
 #### Why Sortition is the Ultimate Antidote to Bureaucratic Corruption
 
