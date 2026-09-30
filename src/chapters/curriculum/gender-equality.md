@@ -19,10 +19,18 @@ By the end of this course, students will be able to:
 - **Topics:** Defining sex, gender, and equality (formal vs. substantive equality); the history of gender studies; introduction to intersectionality (how gender intersects with caste, class, religion, and geography in India).
 - **Key Question:** How do we define equality, and why is an interdisciplinary approach necessary to dismantle systemic bias?
 
+[Sex Determination](https://www.nature.com/scitable/topicpage/genetic-mechanisms-of-sex-determination-314/)
+[Are There Two Sexes? Yes and No, But Mostly No (and Gender is Something Else Anyway – More or Less)](https://journals.publishing.umich.edu/ptpbio/article/id/5905/)
+[Sexuality is polygenic](https://www.pbs.org/newshour/science/there-is-no-gay-gene-there-is-no-straight-gene-sexuality-is-just-complex-study-confirms)
+[Intersectionality in India: Analyzing Caste, Class, and Gender Dynamics](https://sociology.institute/sociology-of-gender/intersectionality-caste-class-gender-india/)
+
 #### **Module 2: The Biology of Gender and Sex (Weeks 2–3)**
-- **Topics:** Genetics, endocrinology, and brain structure; the "gender similarities hypothesis"; neuroplasticity and how environment shapes biology (debunking "biology is destiny"); critiques of evolutionary psychology. 
+- **Topics:** Genetics, endocrinology, and brain structure; the "gender similarities hypothesis"; neuroplasticity and how environment shapes biology (debunking "biology is destiny"); 
 - **Biological Metaphor for Equality:** Exploring biological *symbiosis and mutualism* in nature as the baseline for human survival, challenging the "survival of the fittest/most competitive" patriarchal narrative.
 - **Readings:** Anne Fausto-Sterling (*Sexing the Body*); Cordelia Fine (*Delusions of Gender*).
+[Two minds The cognitive differences between men and women](https://stanmed.stanford.edu/how-mens-and-womens-brains-are-different/)
+[How Neuroplasticity Works](https://www.verywellmind.com/what-is-brain-plasticity-2794886)
+[How to Understand Symbiosis?: The Conflict and Integration of Two Pictures of Life](https://link.springer.com/chapter/10.1007/978-981-99-7325-5_8)
 
 #### **Module 3: Psychological Dimensions of Gender in India (Weeks 4–5)**
 - **Topics:** Developmental psychology of gender identity; cognitive psychology (meta-analyses on abilities); social psychology (implicit bias, stereotype threat). 
