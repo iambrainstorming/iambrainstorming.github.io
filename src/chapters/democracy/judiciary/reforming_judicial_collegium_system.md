@@ -29,12 +29,12 @@ Sortition is the selection of decision-makers by random lottery from a broadly e
 *   **Ensures Diversity:** Sortition naturally ensures a diverse mix of genders, regions, and legal backgrounds, reflecting the true diversity of the nation rather than the homogenous preferences of a few senior judges.
 
 ### 2. Multiwinner Star Voting: Democratizing the Selection
-While sortition selects the *appointing committee*, how do we select the *judges*? We can replace the opaque Collegium deliberations with **Multiwinner Star Voting**, conducted by the lawyers and lower-court judges in the respective districts, combined with a strict, objective rubric.
+While sortition selects the *appointing committee*, how do we select the *judges*? We can replace the opaque Collegium deliberations with [**Multiwinner Star Voting**](https://www.starvoting.org/multi_winner), conducted by the lawyers and lower-court judges in the respective districts, combined with a strict, objective rubric.
 
 **How it Works:**
 1.  **The Rubric:** First, a strict, objective rubric is applied. Candidates must possess a verified, multi-year track record of exceptional experience and unblemished conduct in law to even be eligible as a nominee. 
 2.  **Star Voting:** Eligible voters (practicing lawyers and district judges) score each candidate from 0 to 5 stars. 
-3.  **The Runoff:** The two candidates with the highest total star scores advance to an automatic runoff. The candidate preferred by the majority of voters in the head-to-head matchup wins the nomination.
+3.  **The Runoff:** The two candidates with the highest total star scores advance to an automatic runoff. The candidate preferred by the majority of voters in the head-to-head matchup wins the nomination. Single-winner STAR determines the first winner, and the same process is repeated to determine the second winner, and so on, until all seats are filled. 
 
 **Benefits of Star Voting over the Collegium:**
 *   **Expressive, Not Strategic:** In the Collegium, a judge might vote for a mediocre candidate just to block a rival. Star voting allows voters to express their true support for a highly qualified candidate (giving them 5 stars) without worrying about "wasting" their vote.
