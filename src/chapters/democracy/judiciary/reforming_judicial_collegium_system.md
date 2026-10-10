@@ -61,7 +61,7 @@ For example, if a complex case involves approving a factory’s pollution contro
 ### 2. Score Voting and Beta-Bayesian Adjudication
 Once this dynamically drawn bench reviews the case, how do they reach a verdict? Instead of a simple majority vote or a single dominant judge dictating the outcome, the case is approved, sent back for revision, or rejected through **Score Voting** or **Beta-Bayesian Voting**.
 *   **Score Voting:** Judges score the merits of the case (or the proposed factory plan) on a scale. This allows the bench to express nuanced degrees of approval, concern, or conditional acceptance, rather than a binary "yes/no" that masks internal disagreements.
-*   **Beta-Bayesian Voting:** For highly technical cases (like pollution metrics or financial audits), Beta-Bayesian voting is ideal. It mathematically updates the probability of a case's success or compliance based on the aggregated, weighted inputs of the specialized judges. It ensures the final decision reflects the collective, statistically robust confidence of the entire specialized bench, neutralizing the bias of any single outlier judge.
+*   [**Beta-Bayesian Voting:**](../../computer/algorithm/bayes-reputation.html) For highly technical cases (like pollution metrics or financial audits), Beta-Bayesian voting is ideal. It mathematically updates the probability of a case's success or compliance based on the aggregated, weighted inputs of the specialized judges. It ensures the final decision reflects the collective, statistically robust confidence of the entire specialized bench, neutralizing the bias of any single outlier judge.
 
 ## Implementation: The Power of the Pilot
 
