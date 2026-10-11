@@ -2,6 +2,7 @@
 
 Date: 09-11-2025
 
+
 While its digital economy is booming and its infrastructure is expanding, a quiet but profound consolidation of power is taking place — not through state planning, but through corporate dominance. Global tech giants — **Google, Meta, Microsoft, Amazon** — and two Indian conglomerates — **Adani Group** and **Reliance Industries (Ambani)** — now control the foundational layers of India’s economy: digital infrastructure, energy, logistics, telecommunications, and information flows.
 
 This isn’t just market leadership. It’s **monopoly and oligopoly in action** — and the economic consequences are severe, systemic, and increasingly dangerous for India’s long-term sovereignty, equity, and innovation.
@@ -58,6 +59,8 @@ In economic terms, it’s an **unpaid resource extraction**, similar to taking m
 
 
 ## **2. Adani Group: The Infrastructure Monopoly — Controlling India’s Trade Lifelines**
+
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40silicology%3A5%2Fadani_monopoly%3A4?r=BEsJ6JBAL1rMYyPpp7KrFF7aQy2rRTZJ" allowfullscreen></iframe>
 
 Adani Ports and Special Economic Zone Ltd (APSEZ) owns and operates 13 domestic ports and terminals across eight maritime states in India: Gujarat, Maharashtra, Goa, Kerala, Andhra Pradesh, Tamil Nadu, Odisha, and West Bengal. These include Mundra Port in Gujarat, which is the largest private port in India and one of the busiest.
 
