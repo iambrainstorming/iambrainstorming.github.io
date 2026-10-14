@@ -89,6 +89,9 @@ Once these pilots demonstrate tangible success and generate widespread public aw
 
 By coupling the empirical proof of our successful pilots with organized, nonviolent civic demand, we can reach this critical tipping point. When the public actively demands reform backed by a working alternative, the cost of maintaining the status quo becomes too high. At this stage, institutional contrarians will inevitably switch sides, recognizing that reform is no longer a threat to their power, but an unavoidable necessity.
 
+
+[Overcoming the Rebel’s Dilemma: Reframing the Free-Rider Problem in Civil Resistance](../non-violence/free-rider-in-non-violence.md)
+
 ## Conclusion
 
 The Indian Judiciary’s independence is non-negotiable, but independence must not be confused with isolation. The current Collegium system, with its susceptibility to nepotism and the "master of the roster" bottleneck, fails the modern needs of a complex democracy. 
