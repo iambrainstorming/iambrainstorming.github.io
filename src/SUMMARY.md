@@ -152,6 +152,7 @@
 - [The Teal Stack: Decoupling Off-Chain Coordination and On-Chain Execution for Adaptive DAOs](./chapters/organization/conviction-voting-and-teal.md)
 - [Which political party operates as a Teal organization?](./chapters/organization/teal-organization-party.md)
 - [Founders Role in a Decentralized or Teal Organization](./chapters/organization/founder-roles.md)
+- [The Roadmap Effect: Why We Solve Problems Faster with a Clear Path](./chapters/philosophy/clear-path.md)
 
 
 # India Employment and Economics
