@@ -90,6 +90,7 @@
   - [The Iron Cage: Why the Indian Bureaucracy is a Curse on Democracy (And How to Fix It)](./chapters/democracy/indian-bureaucracy-curse.md)
   - [Beyond the Old Boys’ Club: Reforming India’s Judicial Collegium through Sortition and Star Voting](./chapters/democracy/judiciary/reforming_judicial_collegium_system.md)
   - [Overcoming the Rebel’s Dilemma: Reframing the Free-Rider Problem in Civil Resistance](./chapters/democracy/non-violence/free-rider-in-non-violence.md)
+  - [The Unbreakable Network: How Teal Organizational Principles Build Resilient, Decentralized Nonviolent Movements](./chapters/democracy/non-violence/decentralized-non-violence-protest.md)
 
 # Health
 
