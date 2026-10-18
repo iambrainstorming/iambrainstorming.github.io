@@ -91,6 +91,7 @@
   - [Beyond the Old Boys’ Club: Reforming India’s Judicial Collegium through Sortition and Star Voting](./chapters/democracy/judiciary/reforming_judicial_collegium_system.md)
   - [Overcoming the Rebel’s Dilemma: Reframing the Free-Rider Problem in Civil Resistance](./chapters/democracy/non-violence/free-rider-in-non-violence.md)
   - [The Unbreakable Network: How Teal Organizational Principles Build Resilient, Decentralized Nonviolent Movements](./chapters/democracy/non-violence/decentralized-non-violence-protest.md)
+  - [The Ultimate Contaminant: Why Nonviolent Discipline is the Key to Resistance and How to Defeat Provocateurs](./chapters/democracy/non-violence/contaminant-nonviolent-movement.md)
 
 # Health
 
