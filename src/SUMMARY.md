@@ -35,6 +35,7 @@
   - [Decentralized Autonomous Organization (DAO) Fund Management: How to Allocate and Govern Funds](./chapters/blockchain/conviction-voting.md)
   - [Participatory Urban Planning (Blockchain + GIS + Reputation)](./chapters/blockchain/participatory-urban-planning.md)
   - [The Surveillance State by Design: Why Governments Must Confront Phone Manufacturers, Not Just Google](./chapters/capitalism/google_monopoly_and_phone_manufacturer.md)
+  - [Your Brain Isn’t Guilty: The Argument for Eliminating Jails](./chapters/democracy/judiciary/eliminating_jail.md)
   - [New Cockroach Janta Party (CJP) Manifesto](./chapters/democracy/new-cockroach-janta-party-manifesto.md)
 
 

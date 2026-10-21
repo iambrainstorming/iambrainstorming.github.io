@@ -1,5 +1,7 @@
 # The Ultimate Contaminant: Why Nonviolent Discipline is the Key to Resistance and How to Defeat Provocateurs
 
+Date: 18-10-2026
+
 In the study of civil resistance, a fundamental truth has emerged from decades of global data: **nonviolence is not merely a moral preference; it is a strategic imperative.** 
 
 As researchers and movement organizers have long warned, violence is the most serious contaminant to the success of a nonviolent struggle. One single act of violence—or sometimes even just the threat of it—committed by a participant can give an oppressive opponent the public justification it needs to commit atrocities, discredit the movement as a terrorist enterprise, and destroy months of confidence-building. 
