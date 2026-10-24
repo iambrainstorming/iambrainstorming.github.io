@@ -90,3 +90,18 @@ The term "leaderless" is often a misnomer that implies a lack of structure or di
 In a leader-full movement, leadership is not a position of authority; it is an act of service and initiative. Anyone can step up to lead a specific action, provided they follow the advice process, remain accountable to their peers, and align with the movement’s evolutionary purpose. 
 
 When a state arrests a traditional leader, it cuts off the head of the snake. But when a state attempts to repress a Teal-inspired, decentralized network, it is like trying to crush a hydra made of water. The structure is designed to absorb the shock, adapt instantly, and continue flowing toward its purpose. By building movements that reflect the equitable, self-managing world we wish to create, we not only increase our chances of tactical success but also prefigure the very future we are fighting for.
+
+
+## Does Nonviolent Action Still Work?
+
+[Does Nonviolent Action Still Work?](https://muse.jhu.edu/pub/1/article/1001894)
+
+### Meanwhile, Autocrats Have Been Learning
+
+One consequence of this expanded understanding of the dynamics of nonviolent struggle among authoritarians is that they now understand that their use of violent repression frequently backfires—that it strengthens opposition by generating public outrage and international sympathy, and elicits defections among security forces and government officials. Rather than relying primarily on mass repression, authoritarians increasingly employ what scholars describe as “smart repression”: selective arrests, legal harassment, financial pressure, digital surveillance, online disinformation, infiltration, and carefully calibrated violence designed to fragment movements without producing widespread backlash.
+
+### A New Generation of Nonviolent Strategy
+
+The answer is neither to treat Gene Sharp’s work as a finished doctrine nor to abandon the strategic logic of nonviolent struggle. It is to continue developing the field he helped to create. The core insight remains unchanged: Political power still depends on the cooperation of institutions and populations, and even highly repressive governments remain vulnerable when that cooperation is strategically withdrawn.
+
+Like any field of strategic practice, nonviolent action must evolve in response to changing political realities. That means understanding how authoritarian adaptation has reshaped the strategic environment, documenting successes and failures more systematically, sharing innovations across contexts, developing practical training tools, and making decades of accumulated knowledge more accessible than dense academic literature or isolated case studies currently allow. None of this requires waiting for a grand unified theory. It requires a short list of concrete investments that movement-support organizations, academic institutions, and funding bodies could begin making now.

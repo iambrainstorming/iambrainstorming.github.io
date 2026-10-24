@@ -71,3 +71,11 @@ This is genuinely reckless, especially for security-critical systems.
 *Example*: The NX malware injection happened because AI-generated code looked clean and functional but contained a command injection vulnerability. A human code review would have caught this.
 
 *Verdict*: The core message—"don't ship code you don't understand"—is absolutely correct.
+
+
+
+[Why AI hasn’t replaced software engineers, and won’t](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
+
+Writing code isn’t, and never was, the bottleneck. For example, a 2019 paper summarized existing studies with the conclusion that “developers spend surprisingly little time with coding, 9% to 61% depending on the study”. This finding was consistent with the paper’s own data from 6,000 developers at Microsoft. As coding agents began to be taken up, there was an explosion of blog posts in late 2025 pointing out that writing code isn’t the bottleneck, as developers realized that using agents to write most of the code led to little impact on overall productivity.
+
+If writing code isn’t the bottleneck, what is? The task-breakdown surveys point at things like meetings or debugging. This just leads to more questions: what are developers doing in those meetings and why can’t it be done by AI? Won’t debugging get automated as capabilities improve? To understand the real bottlenecks, we have to get qualitative, and dig into software engineers’ own understanding of what it is they do that resists automation.
