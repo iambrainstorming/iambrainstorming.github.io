@@ -38,7 +38,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-9ee3957f.js";
+            window.path_to_searchindex_js = "searchindex-b244ecbf.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-5690c031.js"></script>
@@ -11843,6 +11843,52 @@ One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Pr
 <p>Smart contracts can have upgrade mechanisms, but this can introduce another centralization risk. If developers, a multisig, or a small governance committee controls upgrades, they become gatekeepers with the ability to change the rules of the system. If upgrades are controlled through token-based governance, voting power can become concentrated among wealthy token holders, creating a form of plutocracy.</p>
 <p>In Nostr-based voting, voters, or all community members, have more power because they have a stake in both the selection of DID validators and the validity of the vote. In Nostr-based voting, you would have to compromise one-third or even half of the community members, whereas in blockchain-based voting, compromising just a few DID validators could be enough. Nostr is not immutable. If, in any case, the voter list is manipulated, it can be fixed through public pressure by resetting the voter list.</p>
 <p>Nostr can remain the coordination and reputation layer, enabling flexible governance structures that can <a href="https://iambrainstorming.github.io/coding_blog/blockchain/offchain-vs-onchain-goverance.html">evolve and adapt to community needs</a>, much like <a href="#the-teal-code-how-open-source-naturally-embodies-self-management-wholeness-and-evolutionary-purpose">a teal organization</a>.</p>
+<h2 id="the-pragmatic-case-for-open-voting-and-multi-winner-negative-score-voting"><a class="header" href="#the-pragmatic-case-for-open-voting-and-multi-winner-negative-score-voting">The Pragmatic Case for Open Voting and Multi-Winner Negative Score Voting</a></h2>
+<h3 id="1-we-design-systems-for-reality-not-for-gunpoint-scenarios"><a class="header" href="#1-we-design-systems-for-reality-not-for-gunpoint-scenarios">1. We Design Systems for Reality, Not for Gunpoint Scenarios</a></h3>
+<p>Every secure system in the world operates on a fundamental assumption: <strong>the user has basic agency over their credentials</strong>.</p>
+<p>You do not design a banking system under the assumption that a customer will be held at gunpoint and forced to hand over their PIN. If that happens, it is a physical crime, not a protocol failure. The same principle applies to digital voting. If a goon physically confiscates a phone and forces a parent to reveal their private key, that is a criminal act of coercion that no digital system — paper ballots included — can fully prevent.</p>
+<p>We must treat a voter’s private key with the same gravity as a bank account password. The protocol’s job is to make digital manipulation difficult, transparent, and auditable. It is not the protocol’s job to solve physical violence. By accepting this boundary, we free ourselves to build a system that is <strong>simple, transparent, and actually deployable</strong> — rather than one that collapses under the weight of trying to solve unsolvable sociological problems with cryptography.</p>
+<h3 id="2-open-voting-is-a-feature-not-a-bug"><a class="header" href="#2-open-voting-is-a-feature-not-a-bug">2. Open Voting Is a Feature, Not a Bug</a></h3>
+<p>The instinct to demand “secret ballots” in every context is a reflex imported from high-stakes national elections. But School Management Committees or any local governance like Unions, Municipality, local town governance are not national parliaments. They are local, ongoing, community-based governance bodies where the dynamics are fundamentally different.</p>
+<p>Open voting provides three critical advantages that secret ballots cannot:</p>
+<ul>
+<li><strong>Radical Transparency:</strong> Every vote, every score, and every decision is publicly auditable. There is no black-box counting where a corrupt official can quietly alter the tally. Any parent can independently verify the final result against the cryptographic record.</li>
+<li><strong>Social Accountability:</strong> In a close-knit school community, knowing that your vote is visible encourages thoughtful participation. It is the same principle that makes StackOverflow and Wikipedia work — when contributions are attributed and visible, quality rises. Parents are more likely to vote based on merit when they know their reasoning can be discussed openly.</li>
+<li><strong>Simplicity and Trust:</strong> Secret ballot systems require complex cryptographic machinery (ZK proofs, mix-nets, coordinators) that introduces new attack surfaces and confuses non-technical users. Open voting is intuitive. A parent can see their vote, understand how it was counted, and trust the process without needing to understand elliptic curve cryptography.</li>
+</ul>
+<h3 id="3-multi-winner-negative-score-voting-breaks-the-economics-of-vote-buying"><a class="header" href="#3-multi-winner-negative-score-voting-breaks-the-economics-of-vote-buying">3. Multi-Winner Negative Score Voting Breaks the Economics of Vote Buying</a></h3>
+<p>This is perhaps the most powerful, underappreciated feature of the proposed model. In traditional voting systems, vote buying is straightforward: a corrupt actor pays a voter to vote for Candidate A, and verifies compliance by looking at the screen.</p>
+<p><strong>Negative score voting makes this economically and practically absurd.</strong></p>
+<p>In a system where voters can <em>deduct</em> points from candidates they disapprove of, the dynamics of vote buying collapse:</p>
+<ul>
+<li><strong>Asymmetric Verification:</strong> A vote buyer wants to <em>add</em> value to their preferred candidate. But in a negative scoring system, the buyer would have to pay someone <em>not</em> to downvote their candidate, or to downvote an opponent. The voter can easily take the money and downvote the buyer’s own candidate instead.</li>
+<li><strong>The Sabotage Risk:</strong> If a goon pays a voter to downvote Opponent B, the voter can pocket the money and downvote the goon’s candidate instead. The goon cannot distinguish between a genuine vote and a sabotaged one without monitoring every voter’s screen in real time — which is logistically impossible at scale.</li>
+<li><strong>Mathematical Dilution:</strong> In a multi-winner system with a broad electorate, a few bought negative votes are mathematically drowned out by the community’s organic scoring. The return on investment for vote buying becomes terrible. The corrupt actor would have to buy hundreds of votes to shift the outcome, which is expensive, logistically complex, and highly visible.</li>
+</ul>
+<p>Vote buying is not just made harder — it is made <strong>irrational</strong>. The game theory simply does not favor the corrupt actor.</p>
+<h3 id="4-security-is-about-reducing-probability-not-achieving-perfection"><a class="header" href="#4-security-is-about-reducing-probability-not-achieving-perfection">4. Security Is About Reducing Probability, Not Achieving Perfection</a></h3>
+<p>No system in the world is perfectly secure. Every governance model — from paper ballots to blockchain voting to direct democracy — has vulnerabilities. The question is not “Can this system be cheated?” but <strong>“Is cheating harder, riskier, and less profitable than it was before?”</strong></p>
+<p>The proposed model dramatically shifts the cost-benefit analysis for corrupt actors:</p>
+<ul>
+<li><strong>Before:</strong> A corrupt headmaster or local leader could quietly manipulate paper records, intimidate voters verbally, or misappropriate funds with no audit trail. Cheating was easy, invisible, and low-risk.</li>
+<li><strong>After:</strong> Every transaction is cryptographically signed, publicly visible, and permanently recorded. To manipulate the outcome, a corrupt actor must either compromise a parent’s private key (a physical crime), coordinate a mass vote-buying campaign (economically irrational under multiwinner and negative score voting), or collude with a majority of the community’s trusted relays (socially explosive and easily detected).</li>
+</ul>
+<p>We are not claiming the system is invulnerable. We are claiming it raises the cost of corruption so high that <strong>honest governance becomes the path of least resistance</strong>. That is a massive, measurable improvement over the status quo.</p>
+<h3 id="5-trap-of-worst-case-scenario-thinking"><a class="header" href="#5-trap-of-worst-case-scenario-thinking">5. Trap of Worst-Case Scenario Thinking</a></h3>
+<p>When designing governance systems, there is a common trap: endlessly generating hypothetical attack vectors until the system becomes so complex that it is unusable. This is a particular risk when consulting AI, which tends to produce exhaustive lists of “what could go wrong” when asked about risks.</p>
+<p>But <strong>a system that is theoretically perfect but practically unusable is worse than a system that is 90% secure and actually deployed.</strong></p>
+<p>The goal of this pilot project is not to build an academic utopia that exists only in whitepapers. It is to build a working tool that real parents, in real government schools, with real constraints, can use to hold their SMCs accountable. That means making pragmatic trade-offs:</p>
+<ul>
+<li>Accepting open voting because transparency and simplicity matter more than theoretical coercion resistance.</li>
+<li>Accepting that gunpoint scenarios are out of scope because no system can solve physical violence.</li>
+<li>Accepting that negative score voting is a better deterrent to corruption than complex ZK privacy layers.</li>
+</ul>
+<p>These are not compromises born of ignorance. They are <strong>deliberate engineering decisions</strong> based on the reality of the deployment environment.</p>
+<hr>
+<h3 id="the-core-principle"><a class="header" href="#the-core-principle">The Core Principle</a></h3>
+<p><strong>We do not need a perfect system. We need a system that makes corruption visibly, audibly, and economically painful.</strong></p>
+<p>Open voting with multi-winner negative score scoring, backed by cryptographic signatures and decentralized relays, achieves exactly that. It turns the SMC from a rubber-stamp committee into a transparent, community-driven governance body where the cost of dishonesty is higher than the cost of honesty.</p>
+<p>That is the goal. And it is achievable.</p>
 <h2 id="zk-voting-combining-privacy-with-end-to-end-verifiability"><a class="header" href="#zk-voting-combining-privacy-with-end-to-end-verifiability">ZK Voting: Combining Privacy with End-to-End Verifiability</a></h2>
 <p><a href="https://iambrainstorming.github.io/coding_blog/blockchain/anonymous-voting-with-cairo.html">Anonymous Voting Code flow</a></p>
 <p>In the future, we can implement ZK proofs for anonymous voting, but the system needs to be carefully designed so that users can independently verify the entire voting process. ZK proofs can make an anonymous election publicly auditable without revealing individual votes. For example, if a voter’s mobile phone or device is compromised, they should still be able to later verify whether the vote recorded on their behalf is the same as the vote they intended to cast and whether it was included correctly in the final tally.</p>
