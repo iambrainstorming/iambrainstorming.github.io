@@ -2,17 +2,19 @@
 description: "Why are some schools very well maintained while others are in terrible condition in India? What's the reason, despite being under the same government with similar funding?"
 og_image:    "https://iambrainstorming.github.io/images/smc.jpg"
 og_type:     "article"
-og_title:    "Same Government, Similar Funding—Why Do Some Schools Thrive While Others Don't?"
+og_title:    "A Design and Algorithm for Direct Participatory Democracy: Open Voting, Negative Score Systems, and Decentralized Local Governance"
 twitter_card: "Why are some schools very well maintained while others are in terrible condition in India? What's the reason, despite being under the same government with similar funding?"
 ---
 
+# A Design and Algorithm for Direct Participatory Democracy: Open Voting, Negative Score Systems, and Decentralized Local Governance
 
-# Same Government, Similar Funding—Why Do Some Schools Thrive While Others Don't?
+
+Same Government, Similar Funding—Why Do Some Schools Thrive While Others Don't?
 
 Date : 21-08-2026
-Update: 10-09-2026 
+Update: 27-10-2026 
 
-![SMC](../../images/smc.jpg)
+![SMC](../../../images/smc.jpg)
 
 
 ## Video:
@@ -170,7 +172,7 @@ This creates three complementary layers of legitimacy:
 * **Locality** answers: *Is this person part of the affected community?*
 * **Expertise** answers: *Does this person have relevant knowledge in this domain?*
 
-Once identities are verified, communities could use [approval voting](https://electionscience.org/education/approval-voting), score voting, or other [reputation-based voting systems](../computer/algorithm/bayes-reputation.md)) to elect SMC leaders, prioritize projects, allocate budgets, and make collective decisions.
+Once identities are verified, communities could use [approval voting](https://electionscience.org/education/approval-voting), score voting, or other [reputation-based voting systems](../../computer/algorithm/bayes-reputation.md)) to elect SMC leaders, prioritize projects, allocate budgets, and make collective decisions.
 
 Initially, DID validators are selected by the leaders who will first execute the protocol among the people. Later, DID validators can be selected through voting among those who have applied to become DID validators.
 
@@ -282,7 +284,7 @@ Smart contracts can have upgrade mechanisms, but this can introduce another cent
 In Nostr-based voting, voters, or all community members, have more power because they have a stake in both the selection of DID validators and the validity of the vote. In Nostr-based voting, you would have to compromise one-third or even half of the community members, whereas in blockchain-based voting, compromising just a few DID validators could be enough. Nostr is not immutable. If, in any case, the voter list is manipulated, it can be fixed through public pressure by resetting the voter list.
 
 
-Nostr can remain the coordination and reputation layer, enabling flexible governance structures that can [evolve and adapt to community needs](https://iambrainstorming.github.io/coding_blog/blockchain/offchain-vs-onchain-goverance.html), much like [a teal organization](../philosophy/teal-foss.md).
+Nostr can remain the coordination and reputation layer, enabling flexible governance structures that can [evolve and adapt to community needs](https://iambrainstorming.github.io/coding_blog/blockchain/offchain-vs-onchain-goverance.html), much like [a teal organization](../../philosophy/teal-foss.md).
 
 
 ## The Pragmatic Case for Open Voting and Multi-Winner Negative Score Voting

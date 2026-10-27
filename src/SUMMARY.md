@@ -37,6 +37,7 @@
   - [The Surveillance State by Design: Why Governments Must Confront Phone Manufacturers, Not Just Google](./chapters/capitalism/google_monopoly_and_phone_manufacturer.md)
   - [Your Brain Isn’t Guilty: The Argument for Eliminating Jails](./chapters/democracy/judiciary/eliminating_jail.md)
   - [New Cockroach Janta Party (CJP) Manifesto](./chapters/democracy/new-cockroach-janta-party-manifesto.md)
+  - [A Design and Algorithm for Direct Participatory Democracy: Open Voting, Negative Score Systems, and Decentralized Local Governance](./chapters/democracy/direct-democracy/direct-participatory-democracy.md)
 
 
 
@@ -94,6 +95,7 @@
   - [The Unbreakable Network: How Teal Organizational Principles Build Resilient, Decentralized Nonviolent Movements](./chapters/democracy/non-violence/decentralized-non-violence-protest.md)
   - [The Ultimate Contaminant: Why Nonviolent Discipline is the Key to Resistance and How to Defeat Provocateurs](./chapters/democracy/non-violence/contaminant-nonviolent-movement.md)
 
+
 # Health
 
 - [Beyond Iron: Why India Needs a Holistic Approach to Tackle Anemia and Micronutrient Deficiencies](./chapters/health/nutrition.md)
@@ -119,7 +121,6 @@
 - [How to Slove Bloom's 2 sigma Problem with One to Six Tutoring](./chapters/education/2-sigma-problem.md)
 - [Beyond Rote Memorization: Why Explainer Videos Are the Future of Assessment](./chapters/education/explainer-vidoes.md)
 - [English Medium or Odia Medium: A False Choice](./chapters/education/english-or-odia-medium.md)
-- [Same Government, Similar Funding—Why Do Some Schools Thrive While Others Don't?](./chapters/education/why-some-schools-perform.md)
 - [Unlearning the Rote: Overcoming Millennial and Gen X Misconceptions in Education](./chapters/education/unlearning-the-rote.md)
 - [The Case of Private Medical Colleges: How Competition, Collaboration, and Modular Design Can Slash Costs from Crores to Lakhs](./chapters/education/medical-education/case-of-private-medical-colleges.md)
 
