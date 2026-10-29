@@ -37,7 +37,7 @@
             const path_to_root = "../../../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../../searchindex-c4715cfc.js";
+            window.path_to_searchindex_js = "../../../searchindex-ed79e285.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../../../toc-aad99e71.js"></script>
@@ -431,6 +431,70 @@ One don’t necessarily need heavy, complex cryptography (like Zero-Knowledge Pr
 <li>the published election data has not been altered.</li>
 </ul>
 <p>The goal should be to combine <strong>privacy with end-to-end verifiability</strong>, so anonymity does not come at the cost of losing the ability to detect attacks or verify that the election was conducted correctly.</p>
+<h2 id="using-madara-instead-of-nostr"><a class="header" href="#using-madara-instead-of-nostr">Using Madara instead of Nostr</a></h2>
+<p><a href="https://github.com/madara-alliance/madara/tree/main">Madara</a></p>
+<p>Nostr is a brilliant <em>messaging</em> protocol, but it is not a <em>state machine</em>. Voting requires strict, deterministic state transitions (tracking who voted, preventing double-voting, and executing the STAR scoring/runoff logic). Madara gives you a customizable, high-performance Starknet appchain where you control the rules, the costs, and the cryptography.</p>
+<hr>
+<p>Just deploy the Cairo contract on Madara, run the election, and shut it down after the election if you want.</p>
+<hr>
+<h3 id="-why-madara-beats-nostr-for-this-use-case"><a class="header" href="#-why-madara-beats-nostr-for-this-use-case">🏆 Why Madara Beats Nostr for This Use Case</a></h3>
+<h4 id="1-deterministic-state-vs-event-gossip"><a class="header" href="#1-deterministic-state-vs-event-gossip">1. Deterministic State vs. Event Gossip</a></h4>
+<p>Nostr relies on relays gossiping events. If a relay goes down or acts maliciously, reconciling the “true” state of a vote tally is messy (as we discussed with the sync window).
+Madara is a <strong>Starknet sequencer</strong>. It processes transactions in a strict, deterministic order. When a parent casts a STAR vote, it is a state transition enforced by Cairo smart contracts. There is no ambiguity about the final tally.</p>
+<h4 id="2-the-15-budget-is-actually-feasible-with-madara"><a class="header" href="#2-the-15-budget-is-actually-feasible-with-madara">2. The “$15 Budget” is Actually Feasible with Madara</a></h4>
+<p>How do you run a blockchain pilot for $15 per month?</p>
+<ul>
+<li><strong>Hosting</strong>: You can rent a basic Linux VPS (e.g., 4 vCPU, 16GB RAM) from Hetzner, DigitalOcean, Linode or runonflux for <strong>~$10 - $15 per month</strong>. Madara is written in Rust and is highly optimized; it can comfortably run a lightweight sequencer node for a low-traffic pilot on this hardware.</li>
+<li><strong>Gas Fees</strong>: Because it’s your own appchain, you control the gas token. You can set transaction fees to <strong>zero</strong> (gasless) for the pilot, or charge a fraction of a cent in a custom token. Parents pay nothing.</li>
+</ul>
+<h4 id="3-native-account-abstraction-the-bank-account-model"><a class="header" href="#3-native-account-abstraction-the-bank-account-model">3. Native Account Abstraction (The “Bank Account” Model)</a></h4>
+<p>Starknet (and by extension, Madara) has <strong>native Account Abstraction</strong>. Every account is a smart contract.</p>
+<ul>
+<li>You can build a simple frontend where a parent logs in with a passkey or phone number.</li>
+<li>The app generates a local session key.</li>
+<li>The parent clicks “Vote,” and the transaction is signed and sent. No complex seed phrases, no buying crypto. It feels like Web2, but has Web3 cryptographic guarantees.</li>
+</ul>
+<h4 id="4-cryptographic-guarantees-via-cairo"><a class="header" href="#4-cryptographic-guarantees-via-cairo">4. Cryptographic Guarantees via Cairo</a></h4>
+<p>Even if you don’t settle to Ethereum L1 immediately (to save money), the Madara sequencer generates STARK proofs of its state transitions.</p>
+<ul>
+<li>You can write the <strong>Multi-Winner STAR Voting logic</strong> (Score Then Automatic Runoff) directly in Cairo.</li>
+<li>Anyone can download the state and verify that the Cairo program correctly calculated the scores and runoffs without tampering. The math guarantees the integrity of the tally.</li>
+</ul>
+<hr>
+<h2 id="-caveat-to-keep-in-mind"><a class="header" href="#-caveat-to-keep-in-mind">⚠️ Caveat to Keep in Mind</a></h2>
+<ul>
+<li><em>The Critique</em>: “If you control the sequencer, can’t you just change the votes?”</li>
+<li><em>The Answer</em>: Not without breaking the cryptography. Because the state transitions are executed by the Cairo VM, any tampering would invalidate the STARK proof. For the pilot, you can publish the Cairo source code and the final state root. The trust shifts from “trusting the admin” to “trusting the open-source Cairo code and the math.”</li>
+</ul>
+<h3 id="-the-critical-distinction-censorship-vs-forgery"><a class="header" href="#-the-critical-distinction-censorship-vs-forgery">🔒 The Critical Distinction: Censorship vs. Forgery</a></h3>
+<p>In a Madara/Starknet architecture, every vote is a transaction cryptographically signed by the voter’s private key.</p>
+<ul>
+<li><strong>Can the node operator change a vote?</strong> No. If they change a single bit of the vote (e.g., changing a score from 5 to 0), the cryptographic signature becomes invalid, and the Cairo smart contract will reject it.</li>
+<li><strong>Can the node operator drop a vote?</strong> Yes. The sequencer can simply choose not to include a valid, signed transaction in the next block.</li>
+</ul>
+<p>Therefore, the threat is not <em>manipulation</em>; the threat is <em>omission</em>. Here is how you solve that.</p>
+<hr>
+<h3 id="-practical-defenses-against-node-censorship"><a class="header" href="#-practical-defenses-against-node-censorship">🛡️ Practical Defenses Against Node Censorship</a></h3>
+<h4 id="1-the-open-voting-superpower-public-absence-is-proof-of-censorship"><a class="header" href="#1-the-open-voting-superpower-public-absence-is-proof-of-censorship">1. The “Open Voting” Superpower: Public Absence is Proof of Censorship</a></h4>
+<p>Because you chose <strong>open voting</strong>, censorship is incredibly easy to detect.
+If a parent casts a vote, they receive a transaction hash. They can post this hash in the school’s WhatsApp group or on the app’s public feed: <em>“I voted for Candidate A at 10:05 AM, here is my tx hash.”</em>
+If the Madara node drops the vote, that hash will never appear on the block explorer. The community immediately knows the node is lying or broken. In a closed, secret system, a dropped vote is invisible. In an open system, a dropped vote is a public, verifiable scandal.</p>
+<h4 id="2-cryptographic-receipts-proof-of-submission"><a class="header" href="#2-cryptographic-receipts-proof-of-submission">2. Cryptographic Receipts (Proof of Submission)</a></h4>
+<p>When the user’s app sends the vote to the Madara node, the node should be programmed to immediately return a <strong>cryptographically signed receipt</strong> (e.g., “I, Node X, acknowledge receipt of Vote Y at Timestamp Z”).
+If the node later drops the vote from the final tally, the user can publish this signed receipt. The node is caught in a cryptographic lie. This enables <strong>social slashing</strong>: the community publicly exposes the node operator and revokes their authority.</p>
+<h3 id="chain-agnostic-attestations-for-proof-of-personhood"><a class="header" href="#chain-agnostic-attestations-for-proof-of-personhood">Chain Agnostic Attestations for Proof of Personhood</a></h3>
+<p><a href="https://iambrainstorming.github.io/coding_blog/blockchain/chain-agnostic-attestation.html">Code</a></p>
+<p>Adding or removing an attestor is centralized, so it needs to be multisig and should be managed by local trusted leaders.</p>
+<h3 id="offchain-tallying"><a class="header" href="#offchain-tallying">Offchain Tallying</a></h3>
+<p><a href="https://github.com/silicology1/multi-winner-starvoting-demo">Multiwinner Star Voting Contract</a></p>
+<p>Tallying votes using computationally expensive algorithms like multiwinner STAR voting is impractical on-chain.</p>
+<p>A potential solution is to use a <strong>bonded tally-verification mechanism</strong>:</p>
+<ul>
+<li><strong>Tally validity:</strong> A tally is accepted only if it receives a quorum of votes from participating voters, with turnout reaching at least 50% of eligible voters.</li>
+<li><strong>Claims by hash:</strong> Each tally submission is identified by its hash. Identical submissions are merged into a single claim, with the bond attached to that claim.</li>
+<li><strong>Economic incentives:</strong> If a claim is proven wrong, its submitter loses the full bond, which goes to the successful challenger.</li>
+</ul>
+<p>This makes submitting incorrect tallies economically costly, discouraging spam and incentivizing honest computation without executing the entire voting algorithm on-chain.</p>
 
                     </main>
 
