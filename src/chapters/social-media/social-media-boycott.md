@@ -32,8 +32,6 @@ Platforms like X, Facebook, and Instagram are no longer about connecting people;
 
 The CJP’s response to these attacks has been brave. When asked about the abuse she faces, one young CJP supporter stated, "I am inspired by Savitribai Phule. When she went to educate girls, cow dung, mud, and stones were thrown at her. If I am being abused on social media today, it doesn’t bother me much."
 
-
-
 [‘Feels like career over’: The online campaign to intimidate women part of CJP protest](https://www.newslaundry.com/2026/08/03/feels-like-career-over-the-online-campaign-to-intimidate-women-part-of-cjp-protest)
 
 This is a powerful sentiment, but it misses a critical point. Savitribai Phule faced real people. Today's movements are fighting algorithms, bot farms, and coordinated IT cell attack. These are not organic attacks from fellow citizens; they are manufactured assaults designed to demoralize and drown out dissent, often funded by governments and influential interests. As an investigation noted, "unlike open source decentralized platforms distribute ownership and control among users through federated open-source protocols... promoting transparency, inclusivity, and resistance to corporate capture" . The battle is different, and the solutions must be different too.
@@ -48,10 +46,6 @@ When a leader like **Sourav Das** of the CJP receives replies where 99% are part
 ![Sourav Das Tweet](./s_das.webp)
 ![Abuses](./abuses.webp)
 
-
-
-
-
 ## Billionaires, Governments, and the Narrative
 
 Big Tech social media platforms are owned by billionaires with a singular, dangerous goal: **narrative control**. These entities rely heavily on government revenue and political favor to survive, creating an inherent conflict of interest.
@@ -65,6 +59,18 @@ We see the financial stakes clearly in the 2024 election cycle. Political advert
 [BJP spent ₹1,737.68 cr for 2024 Lok Sabha polls: expenditure report to ECI ](https://www.thehindu.com/news/national/bjp-spent-173768-cr-for-2024-lok-sabha-polls-expenditure-report-to-eci/article69163589.ece)
 
 Governments possess both the power and the money to censor and manipulate the narrative on these platforms. Consequently, Big Tech social media is not a neutral ground; it is a state-corporate collaboration designed to silence dissent and amplify the status quo.
+
+## Echo Chamber Effect
+
+[The Impact of Social Media on Political Polarization: An Empirical Study of Youth Engagement in India](https://zenodo.org/records/19233102#1)
+
+Social media plays a dual role in shaping political participation and public opinion. As the study directly observes, "social media both encourages political participation, by allowing supporters of democratic change, as well as autocratic rule, to mobilize public support, it also divides the public along partisan lines." This highlights the contradictory nature of social media: while it provides a platform for democratic participation, political awareness, and collective mobilization, it can simultaneously deepen ideological divisions and reinforce partisan identities.
+
+The echo chamber effect further intensifies this contradiction by exposing users to information and opinions that largely align with their existing political beliefs. Algorithm-driven content recommendations, politically charged discussions, and the widespread circulation of political memes can reinforce ideological biases while reducing exposure to alternative perspectives. Consequently, social media can become less of a space for constructive democratic debate and more of an environment where opposing political groups compete for influence, often deepening mistrust, intolerance, and political polarization.
+
+Liberals often wonder why andhbhakts exist. One of the major reasons is the echo chamber effect. Try following a few right-wing or politically motivated religious groups, and soon your entire social media feed will be flooded with content reinforcing the same ideology. Algorithms continuously feed you material that validates your existing beliefs, creating a self-reinforcing cycle of confirmation bias and ideological conditioning.
+
+The solution is not to fight endless battles within these platforms or run more campaigns on them. It is to break away from the algorithmic ecosystem altogether. Boycott engagement-driven algorithmic platforms and move towards open-source, community-moderated platforms where people have greater control over what they see, where diverse opinions can coexist, and where meaningful discussions matter more than engagement metrics.
 
 ## The Paradox of CJP's Position
 
