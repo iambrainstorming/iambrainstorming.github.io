@@ -20,6 +20,7 @@
   - [Decentralized house building](./chapters/how-can-we-decentralize-the-construction-of-brick-and-mortar-houses.md)
   - [Car-free cities](./chapters/road-planning-of-cities.md)
   - [Why Grid-Powered Public Transit Matters Too](./chapters/public_transport/grid-powered-transit.md)
+  - [Grid-Powered Trolleybuses vs Metro Rail: A Cost Analysis for Indian Cities](./chapters/public_transport/grid-powered-trolleybuses.md)
   - [How Can We Make Public Transport More Comfortable for People?](./chapters/public_transport/comfortable_public_transport.md)
   - [City Planning: Rain Water Harvesting](./chapters/city-planning/rain_water_harvesting.md)
   - [Decentralizing Supermarkets Through Public Ownership and Control](./chapters/empowering-communities-decentralizing-supermarkets-through-public-ownership-and-control.md)

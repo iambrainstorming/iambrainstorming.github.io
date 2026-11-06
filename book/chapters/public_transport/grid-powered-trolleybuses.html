@@ -1,0 +1,564 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Grid-Powered Trolleybuses vs Metro Rail: A Cost Analysis for Indian Cities - Iambrainstorming</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="../../favicon-8114d1fc.png">
+        <link rel="stylesheet" href="../../css/variables-8adf115d.css">
+        <link rel="stylesheet" href="../../css/general-e96d0476.css">
+        <link rel="stylesheet" href="../../css/chrome-d279d366.css">
+        <link rel="stylesheet" href="../../css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="../../highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="../../tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../../ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../../searchindex-f8b2569f.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc-672ef3a6.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Iambrainstorming</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+                        <a href="https://github.com/iambrainstorming/iambrainstorming.github.io" title="Git repository" aria-label="Git repository">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <meta property="og:type" content="website" />
+<meta property="og:title" content="Grid-Powered Trolleybuses vs Metro Rail: A Cost Analysis for Indian Cities" />
+<meta property="og:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
+<meta name="description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
+<meta property="og:url" content="https://iambrainstorming.vercel.app/chapters/public_transport/grid-powered-trolleybuses.html" />
+<meta property="og:image" content="https://iambrainstorming.vercel.app/images/og_image.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Grid-Powered Trolleybuses vs Metro Rail: A Cost Analysis for Indian Cities" />
+<meta name="twitter:description" content="Brainstorming ideas, exploring possibilities, and connecting thoughts into something meaningful. A space for innovation, creativity, politics, discussion, and building new perspectives." />
+<meta name="twitter:image" content="https://iambrainstorming.vercel.app/images/og_image.jpg" />
+<h1 id="grid-powered-trolleybuses-vs-metro-rail-a-cost-analysis-for-indian-cities"><a class="header" href="#grid-powered-trolleybuses-vs-metro-rail-a-cost-analysis-for-indian-cities">Grid-Powered Trolleybuses vs Metro Rail: A Cost Analysis for Indian Cities</a></h1>
+<p>Date: 06-11-2026</p>
+<h2 id="1-introduction"><a class="header" href="#1-introduction">1. Introduction</a></h2>
+<p>India is investing heavily in metro rail systems to address growing urban transportation requirements. While metro rail offers high passenger capacity and rapid transportation, its construction requires enormous capital investment, including elevated viaducts, railway tracks, stations, land acquisition, signalling systems and specialised rolling stock.</p>
+<p>However, not every Indian city needs an expensive metro system to improve public transportation.</p>
+<p><strong>Grid-powered trolleybuses offer a potentially much cheaper alternative by combining the flexibility of conventional buses with the efficiency of electric traction.</strong></p>
+<p>Trolleybuses receive electricity directly from overhead wires while operating on ordinary roads. They do not require railway tracks, elevated structures or large traction batteries.</p>
+<p>For cities with existing road infrastructure, this presents an opportunity to develop an electrically powered public transport network at a fraction of the cost of metro construction.</p>
+<p>This article compares the infrastructure investment, vehicle costs, operational economics and scalability of the two systems, using indicative Indian cost assumptions.</p>
+<h2 id="2-understanding-the-two-technologies"><a class="header" href="#2-understanding-the-two-technologies">2. Understanding the Two Technologies</a></h2>
+<h3 id="metro-rail"><a class="header" href="#metro-rail">Metro rail</a></h3>
+<p>Metro systems generally require:</p>
+<ul>
+<li>Elevated or underground railway corridors.</li>
+<li>Railway tracks and supporting structures.</li>
+<li>Stations, platforms and passenger facilities.</li>
+<li>Signalling and train-control systems.</li>
+<li>Electrical traction infrastructure.</li>
+<li>Specialised trainsets and maintenance depots.</li>
+</ul>
+<p>Their major advantage is high passenger capacity, particularly in densely populated corridors.</p>
+<h3 id="grid-powered-trolleybuses"><a class="header" href="#grid-powered-trolleybuses">Grid-powered trolleybuses</a></h3>
+<p>Trolleybus systems require:</p>
+<ul>
+<li>Two overhead electrical contact wires.</li>
+<li>Supporting poles and suspension structures.</li>
+<li>Electrical substations and distribution equipment.</li>
+<li>Electric buses equipped with rooftop current collectors.</li>
+<li>Depots and maintenance facilities.</li>
+</ul>
+<p>They operate on existing roads without requiring railway tracks.</p>
+<p>Modern trolleybuses can also incorporate small batteries, allowing them to travel outside electrified sections and providing flexibility during traffic diversions.</p>
+<h2 id="3-infrastructure-cost-comparison"><a class="header" href="#3-infrastructure-cost-comparison">3. Infrastructure Cost Comparison</a></h2>
+<p>The largest difference between the two systems is the civil infrastructure requirement.</p>
+<h3 id="a-trolleybus-infrastructure"><a class="header" href="#a-trolleybus-infrastructure">A. Trolleybus infrastructure</a></h3>
+<p>For preliminary Indian planning, consider the following indicative costs:</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Component</th><th style="text-align: right">Cost per route-km</th></tr>
+</thead>
+<tbody>
+<tr><td>Two overhead copper wires</td><td style="text-align: right">₹18–25 lakh</td></tr>
+<tr><td>Precast concrete supporting poles</td><td style="text-align: right">₹10 lakh</td></tr>
+<tr><td>Foundations and installation</td><td style="text-align: right">₹5–10 lakh</td></tr>
+<tr><td>Brackets, insulators and suspension equipment</td><td style="text-align: right">₹5–10 lakh</td></tr>
+<tr><td>Junctions, switches and special fittings</td><td style="text-align: right">₹5–15 lakh</td></tr>
+<tr><td>Substations and power distribution</td><td style="text-align: right">₹50–100 lakh</td></tr>
+<tr><td>Design, surveys and contingency</td><td style="text-align: right">₹15–30 lakh</td></tr>
+<tr><td><strong>Total</strong></td><td style="text-align: right"><strong>₹1.08–2 crore</strong></td></tr>
+</tbody>
+</table>
+</div>
+<p>For preliminary financial modelling, ₹1.5 crore per route-kilometre is a reasonable low-cost scenario to investigate, not a verified Indian market rate.</p>
+<p>The actual cost will depend on the road layout, electrical load, substation requirements, utility shifting and availability of existing supporting structures.</p>
+<p>Internationally, the UITP’s 2023 trolleybus infrastructure study reports overhead contact system costs ranging from €100,000 to €1 million per linear kilometre, demonstrating how much costs vary with local conditions and system specifications.</p>
+<h3 id="b-metro-rail-infrastructure"><a class="header" href="#b-metro-rail-infrastructure">B. Metro rail infrastructure</a></h3>
+<p>Metro construction is significantly more expensive.</p>
+<p>For context, Indian elevated metro projects have reported costs in the following ranges:</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Project/reference</th><th style="text-align: right">Approximate cost per km</th></tr>
+</thead>
+<tbody>
+<tr><td>Historical Indian elevated metro planning benchmark</td><td style="text-align: right">₹225–300 crore</td></tr>
+<tr><td>Gurugram Metro, approved project</td><td style="text-align: right">₹191 crore</td></tr>
+<tr><td>Bengaluru Metro Phase 3</td><td style="text-align: right">₹350 crore</td></tr>
+<tr><td>Thane Integral Ring Metro</td><td style="text-align: right">₹421 crore</td></tr>
+</tbody>
+</table>
+</div>
+<p>These are project-level costs divided by corridor length, not directly comparable engineering rates. They include different combinations of stations, rolling stock, land, taxes and other project components.</p>
+<p>The Gurugram project, for example, was approved at ₹5,452.72 crore for 28.5 km. Bengaluru Metro Phase 3 was approved at ₹15,611 crore for 44.65 km. <a href="https://sansad.in/getFile/annex/270/AU4053_jTJUZd.pdf?source=pqars">Digital Sansad</a></p>
+<p>For preliminary comparison, an elevated metro corridor costing ₹200–350 crore per kilometre is a useful planning range.</p>
+<h2 id="4-capital-investment-a-20-kilometre-corridor"><a class="header" href="#4-capital-investment-a-20-kilometre-corridor">4. Capital Investment: A 20-Kilometre Corridor</a></h2>
+<p>Consider a city planning a 20-kilometre public transport corridor.</p>
+<h3 id="option-a-grid-powered-trolleybus"><a class="header" href="#option-a-grid-powered-trolleybus">Option A: Grid-powered trolleybus</a></h3>
+<p>Assumptions:</p>
+<ul>
+<li>20 km of two-way trolleybus infrastructure.</li>
+<li>Infrastructure cost: ₹1.5 crore/km.</li>
+<li>Existing roads are used.</li>
+<li>30 existing diesel buses are converted.</li>
+<li>Average conversion cost: ₹40 lakh/bus.</li>
+</ul>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Component</th><th style="text-align: right">Investment</th></tr>
+</thead>
+<tbody>
+<tr><td>Overhead electrical infrastructure</td><td style="text-align: right">Included below</td></tr>
+<tr><td>Substations and electrical distribution</td><td style="text-align: right">Included below</td></tr>
+<tr><td>Total corridor infrastructure (20 × ₹1.5 crore)</td><td style="text-align: right">₹30 crore</td></tr>
+<tr><td>Conversion of 30 buses</td><td style="text-align: right">₹12 crore</td></tr>
+<tr><td><strong>Total initial investment</strong></td><td style="text-align: right"><strong>₹42 crore</strong></td></tr>
+</tbody>
+</table>
+</div>
+<p>This excludes depot development, land acquisition, major road reconstruction and financing.</p>
+<h3 id="option-b-elevated-metro-rail"><a class="header" href="#option-b-elevated-metro-rail">Option B: Elevated metro rail</a></h3>
+<p>Assumptions:</p>
+<ul>
+<li>20 km elevated corridor.</li>
+<li>Construction cost: ₹200–350 crore/km.</li>
+</ul>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Component</th><th style="text-align: right">Investment</th></tr>
+</thead>
+<tbody>
+<tr><td>Metro construction and associated project infrastructure</td><td style="text-align: right">₹4,000–7,000 crore</td></tr>
+<tr><td><strong>Total indicative investment</strong></td><td style="text-align: right"><strong>₹4,000–7,000 crore</strong></td></tr>
+</tbody>
+</table>
+</div>
+<p>The project-level benchmark includes more than just the elevated track. Actual costs depend on stations, trains, land, depots and other facilities.</p>
+<h3 id="capital-investment-comparison"><a class="header" href="#capital-investment-comparison">Capital investment comparison</a></h3>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Parameter</th><th style="text-align: right">Trolleybus</th><th style="text-align: right">Elevated metro</th></tr>
+</thead>
+<tbody>
+<tr><td>Corridor length</td><td style="text-align: right">20 km</td><td style="text-align: right">20 km</td></tr>
+<tr><td>Infrastructure investment</td><td style="text-align: right">₹30 crore</td><td style="text-align: right">₹4,000–7,000 crore</td></tr>
+<tr><td>Vehicle investment</td><td style="text-align: right">₹12 crore</td><td style="text-align: right">Included in project estimate</td></tr>
+<tr><td>Total initial investment</td><td style="text-align: right">₹42 crore</td><td style="text-align: right">₹4,000–7,000 crore</td></tr>
+</tbody>
+</table>
+</div>
+<p>Under these assumptions, the trolleybus system requires approximately 99% less initial capital investment.</p>
+<p>This is an illustrative comparison, not an equivalent-capacity comparison. A metro train can carry substantially more passengers than an individual bus, and a trolleybus network may require additional vehicles, dedicated lanes and higher service frequency.</p>
+<h2 id="5-can-existing-diesel-buses-be-converted"><a class="header" href="#5-can-existing-diesel-buses-be-converted">5. Can Existing Diesel Buses Be Converted?</a></h2>
+<p>One of the biggest opportunities for reducing trolleybus investment is reusing existing diesel buses.</p>
+<p>Instead of purchasing an entirely new fleet, cities can retain structurally sound bus bodies and chassis while replacing the diesel drivetrain with an electric propulsion system.</p>
+<p>Conversion generally involves:</p>
+<ol>
+<li>Removing the diesel engine and fuel system.</li>
+<li>Installing an electric traction motor and inverter.</li>
+<li>Installing electrical controllers and protection systems.</li>
+<li>Installing rooftop current collectors.</li>
+<li>Modifying the drivetrain and auxiliary systems.</li>
+<li>Conducting electrical and mechanical safety testing.</li>
+</ol>
+<p>International examples demonstrate that diesel buses can be converted into trolleybuses.</p>
+<h3 id="estimated-conversion-cost"><a class="header" href="#estimated-conversion-cost">Estimated conversion cost</a></h3>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Component</th><th style="text-align: right">Estimated cost</th></tr>
+</thead>
+<tbody>
+<tr><td>Electric motor and inverter</td><td style="text-align: right">₹10–20 lakh</td></tr>
+<tr><td>Controllers and auxiliary equipment</td><td style="text-align: right">₹5–10 lakh</td></tr>
+<tr><td>Current collectors</td><td style="text-align: right">₹3–8 lakh</td></tr>
+<tr><td>Electrical wiring and protection</td><td style="text-align: right">₹3–7 lakh</td></tr>
+<tr><td>Mechanical modifications and labour</td><td style="text-align: right">₹5–10 lakh</td></tr>
+<tr><td>Testing and certification</td><td style="text-align: right">₹2–5 lakh</td></tr>
+<tr><td><strong>Total</strong></td><td style="text-align: right"><strong>₹28–60 lakh</strong></td></tr>
+</tbody>
+</table>
+</div>
+<p>These are preliminary engineering estimates, not confirmed Indian conversion-kit quotations.</p>
+<p>Trolleybuses do not need large batteries when operating continuously under overhead wires. Small batteries can provide additional flexibility.</p>
+<p>This could make converting existing buses particularly attractive for cities with relatively young diesel fleets.</p>
+<h2 id="6-operating-cost-comparison"><a class="header" href="#6-operating-cost-comparison">6. Operating Cost Comparison</a></h2>
+<p>Capital investment is only one part of the equation. Long-term operating expenses are equally important.</p>
+<h3 id="trolleybus-operating-expenses"><a class="header" href="#trolleybus-operating-expenses">Trolleybus operating expenses</a></h3>
+<ul>
+<li>Electricity consumption.</li>
+<li>Driver salaries.</li>
+<li>Vehicle maintenance.</li>
+<li>Overhead wire maintenance.</li>
+<li>Substation maintenance.</li>
+<li>Depot operations.</li>
+</ul>
+<p>Electric motors have fewer moving parts than diesel engines. They eliminate diesel purchases, engine oil changes and several conventional engine-maintenance requirements.</p>
+<p>Regenerative braking can also return electricity to the electrical system where supported.</p>
+<p>The UITP study provides an indicative annual overhead-system maintenance range of €2,000–6,000 per linear kilometre, excluding other operating expenses. Actual Indian costs would require local assessment. <a href="https://www.uitp.org/wp-content/uploads/sites/7/2025/08/20231201_IMC-Trolleybus-wires-as-infrastructure_WEB.pdf">UITP</a></p>
+<h3 id="metro-operating-expenses"><a class="header" href="#metro-operating-expenses">Metro operating expenses</a></h3>
+<p>Metro systems require:</p>
+<ul>
+<li>Electricity for trains, stations, escalators and ventilation.</li>
+<li>Train and track maintenance.</li>
+<li>Signalling and communication maintenance.</li>
+<li>Station personnel and security.</li>
+<li>Depots and specialised engineering teams.</li>
+<li>Infrastructure inspections and periodic renewal.</li>
+</ul>
+<p>Metro systems also have substantial fixed operating costs, which makes passenger utilisation particularly important.</p>
+<p>A metro operating below its designed passenger capacity can become financially difficult to sustain.</p>
+<h2 id="7-passenger-capacity-where-metro-has-an-advantage"><a class="header" href="#7-passenger-capacity-where-metro-has-an-advantage">7. Passenger Capacity: Where Metro Has an Advantage</a></h2>
+<p>It would be incorrect to suggest that trolleybuses can replace metro rail in every situation.</p>
+<p>Metro has a significant advantage in passenger capacity.</p>
+<p>A typical urban bus might carry approximately 70–100 passengers, depending on its size and permitted loading.</p>
+<p>An articulated trolleybus can carry more passengers, while operating multiple buses at short intervals can further increase corridor capacity.</p>
+<p>For illustration:</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>Transport system</th><th style="text-align: right">Illustrative passenger capacity</th></tr>
+</thead>
+<tbody>
+<tr><td>Standard trolleybus</td><td style="text-align: right">70–100</td></tr>
+<tr><td>Articulated trolleybus</td><td style="text-align: right">120–160</td></tr>
+<tr><td>Metro train (6 coaches)</td><td style="text-align: right">1,000–1,800</td></tr>
+</tbody>
+</table>
+</div>
+<p>Actual capacity depends on vehicle design, passenger density, service frequency and operating conditions.</p>
+<p>A trolleybus corridor operating 30 buses per hour in each direction, each carrying 100 passengers, could theoretically transport 3,000 passengers per hour per direction.</p>
+<p>Increasing frequency, introducing articulated buses and providing dedicated lanes could increase capacity further.</p>
+<p>However, road intersections, congestion, boarding times and bus bunching impose practical limitations.</p>
+<p>Metro becomes increasingly attractive when passenger demand exceeds what a road-based system can reliably handle.</p>
+<h2 id="8-the-importance-of-dedicated-bus-lanes"><a class="header" href="#8-the-importance-of-dedicated-bus-lanes">8. The Importance of Dedicated Bus Lanes</a></h2>
+<p>A major limitation of trolleybuses is that electrification alone does not solve traffic congestion.</p>
+<p>If trolleybuses operate in the same congested lanes as private vehicles, they cannot deliver reliable journey times.</p>
+<p>Therefore, cities should consider:</p>
+<ul>
+<li>Dedicated bus lanes.</li>
+<li>Signal priority at intersections.</li>
+<li>Bus stops with convenient boarding.</li>
+<li>Frequent services.</li>
+<li>Integrated ticketing.</li>
+<li>Real-time passenger information.</li>
+</ul>
+<p>Dedicated bus lanes are particularly important because they allow trolleybuses to deliver more predictable travel times without requiring elevated infrastructure.</p>
+<p>A well-designed trolleybus corridor can provide a high-quality public transport experience at considerably lower infrastructure cost than metro rail.</p>
+<h2 id="9-a-practical-strategy-for-indian-cities"><a class="header" href="#9-a-practical-strategy-for-indian-cities">9. A Practical Strategy for Indian Cities</a></h2>
+<p>Rather than immediately investing thousands of crores in metro construction, cities should evaluate a combination of trolleybuses and conventional electric buses.</p>
+<p>A possible implementation strategy:</p>
+<p><strong>Phase 1: Pilot project</strong></p>
+<p>Develop a 5–10 km trolleybus corridor with existing roads and convert a small number of diesel buses.</p>
+<p><strong>Phase 2: Expand the network</strong></p>
+<p>Extend overhead wiring along high-demand routes and increase the fleet.</p>
+<p><strong>Phase 3: Integrate the transport network</strong></p>
+<p>Connect trolleybus corridors with railway stations, commercial centres, residential areas and conventional bus routes.</p>
+<p><strong>Phase 4: Increase capacity</strong></p>
+<p>Introduce articulated trolleybuses, higher service frequency and dedicated bus lanes as passenger demand grows.</p>
+<p><strong>Phase 5: Renewable electricity</strong></p>
+<p>Integrate solar generation and renewable electricity procurement where economically viable.</p>
+<p>This approach allows cities to expand public transport incrementally without committing enormous amounts of capital at the beginning.</p>
+<h2 id="10-cargo-trolleybuses-electrifying-urban-freight-transportation"><a class="header" href="#10-cargo-trolleybuses-electrifying-urban-freight-transportation">10. Cargo Trolleybuses: Electrifying Urban Freight Transportation</a></h2>
+<p>The potential of grid-powered trolleybus infrastructure extends beyond passenger transportation. The same overhead electrical network could also support specially designed electric cargo buses.</p>
+<p>Cities depend heavily on diesel-powered trucks and delivery vehicles for transporting goods between warehouses, wholesale markets, distribution centres and commercial areas. This creates air pollution, noise, fuel dependency and additional road congestion.</p>
+<p>Cargo trolleybuses could provide an alternative for a significant portion of urban freight transportation.</p>
+<h3 id="how-would-cargo-trolleybuses-work"><a class="header" href="#how-would-cargo-trolleybuses-work">How would cargo trolleybuses work?</a></h3>
+<p>The concept is straightforward: instead of carrying passengers, specially designed trolleybuses would carry goods.</p>
+<p>Potential applications include:</p>
+<ul>
+<li>Transporting agricultural produce from wholesale markets.</li>
+<li>Moving goods between warehouses and distribution centres.</li>
+<li>Delivering groceries and essential supplies to commercial areas.</li>
+<li>Transporting medicines and healthcare supplies.</li>
+<li>Moving parcels and e-commerce shipments.</li>
+<li>Connecting industrial areas with urban distribution hubs.</li>
+</ul>
+<p>Cargo trolleybuses could operate on the same electrified road corridors as passenger trolleybuses, using compatible overhead electrical infrastructure.</p>
+<p>They could also incorporate small batteries to travel short distances beyond electrified routes, allowing deliveries to reach nearby warehouses and commercial establishments.</p>
+<h3 id="reducing-dependence-on-diesel-trucks"><a class="header" href="#reducing-dependence-on-diesel-trucks">Reducing dependence on diesel trucks</a></h3>
+<p>Urban freight transportation is heavily dependent on diesel-powered vehicles. Replacing suitable urban delivery trucks with grid-powered cargo vehicles could reduce diesel consumption, emissions and exposure to fluctuating petroleum prices.</p>
+<p>Rather than operating hundreds of independent diesel delivery vehicles, cities could develop shared electric freight corridors connecting major distribution centres.</p>
+<p>For example, a city could establish cargo trolleybus services between:</p>
+<ul>
+<li>Agricultural wholesale markets.</li>
+<li>Railway freight terminals.</li>
+<li>Warehouses.</li>
+<li>Industrial estates.</li>
+<li>Commercial districts.</li>
+<li>Local distribution centres.</li>
+</ul>
+<p>Smaller electric delivery vehicles could handle the final delivery to individual shops and households.</p>
+<h3 id="shared-infrastructure-multiple-benefits"><a class="header" href="#shared-infrastructure-multiple-benefits">Shared infrastructure, multiple benefits</a></h3>
+<p>One of the strongest economic arguments is that passenger and cargo trolleybuses could share the same overhead electrical infrastructure.</p>
+<p>The city would not need to construct a completely separate electrified road network for freight transportation, although additional electrical capacity, junction arrangements and scheduling would need to be considered.</p>
+<p>Freight services could operate during periods of lower passenger demand, improving utilisation of the infrastructure.</p>
+<p>This creates a broader transportation model in which the same public investment supports both passenger mobility and urban logistics.</p>
+<h2 id="11-towards-reduced-dependence-on-cars-and-trucks"><a class="header" href="#11-towards-reduced-dependence-on-cars-and-trucks">11. Towards Reduced Dependence on Cars and Trucks</a></h2>
+<p>The long-term objective should be to reduce the dependence of cities on privately owned cars and diesel-powered trucks.</p>
+<p>A comprehensive grid-powered transport network could combine:</p>
+<ol>
+<li><strong>Passenger trolleybuses:</strong> High-frequency public transportation along major urban corridors.</li>
+<li><strong>Cargo trolleybuses:</strong> Electrified transportation of goods between warehouses, markets and distribution centres.</li>
+<li><strong>Electric last-mile vehicles:</strong> Smaller vehicles for local deliveries.</li>
+<li><strong>Walking and cycling infrastructure:</strong> Convenient access to public transport and local destinations.</li>
+<li><strong>Rail and metro:</strong> High-capacity transportation where passenger demand justifies the investment.</li>
+</ol>
+<p>Such an integrated network could reduce the need for individual car ownership and diesel truck operations for a substantial share of urban journeys.</p>
+<p>It would also make urban transportation less dependent on imported petroleum and more compatible with renewable electricity generation.</p>
+<p>The objective is not necessarily to eliminate every car or truck. Emergency services, specialised freight, rural transportation and journeys outside electrified corridors will continue to require other vehicles.</p>
+<p>However, cities should aim to make public electric transportation and shared freight services the default rather than making private cars and diesel trucks the foundation of urban mobility.</p>
+<h2 id="12-conclusion-does-every-city-need-a-metro"><a class="header" href="#12-conclusion-does-every-city-need-a-metro">12. Conclusion: Does Every City Need a Metro?</a></h2>
+<p>Metro rail is an excellent transportation technology, particularly for densely populated cities with extremely high passenger demand.</p>
+<p>However, its enormous construction cost makes it unsuitable as the default solution for every Indian city.</p>
+<p>Grid-powered trolleybuses offer an alternative worth serious consideration.</p>
+<p>They use existing roads, require no railway tracks and can operate directly from the electricity grid. They also avoid the need for large traction batteries and potentially allow cities to reuse existing diesel buses.</p>
+<p>Under the illustrative assumptions in this analysis, a 20 km trolleybus corridor could be established for approximately ₹42 crore, compared with several thousand crores for an elevated metro corridor.</p>
+<p>The two systems do not offer equivalent passenger capacity, but the difference in capital requirements is substantial enough to justify detailed feasibility studies.</p>
+<p><strong>India should stop treating metro rail as the only symbol of modern urban transportation.</strong></p>
+<p>A combination of trolleybuses, dedicated bus lanes, conventional electric buses and metro rail where genuinely necessary could provide a more financially sustainable public transport strategy.</p>
+<p>Instead of spending ₹4,000–7,000 crore on a 20 km elevated metro corridor, a city could investigate building a much larger electrically powered bus network, improving connectivity across several neighbourhoods.</p>
+<p>The objective should not be to build the most expensive transport infrastructure. It should be to provide the maximum reliable passenger transport capacity with the available public money.</p>
+<hr>
+<p><em>Note: All trolleybus cost estimates in this article are preliminary planning assumptions, not a detailed project report or contractor quotations. A proper comparison must account for passenger capacity, fleet size, dedicated road space, lifecycle costs and ridership.</em></p>
+<p><strong>References</strong></p>
+<ol>
+<li><a href="https://www.uitp.org/wp-content/uploads/sites/7/2025/08/20231201_IMC-Trolleybus-wires-as-infrastructure_WEB.pdf">UITP – In-Motion Charging Trolleybus Infrastructure Cost Analysis</a></li>
+<li><a href="https://sansad.in/getFile/annex/270/AU4053_jTJUZd.pdf?source=pqar">Government of India – Metro Rail Project Approval Details, 2026</a></li>
+<li><a href="https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&amp;NoteId=152155&amp;lang=2&amp;reg=3">Press Information Bureau – Bengaluru Metro Phase 3 Approval</a></li>
+<li><a href="https://www.orfonline.org/research/assessing-co-benefits-from-metro-rail-in-india-industrialisation-and-land-value-capture-financing">ORF – Assessing Co-benefits from Metro Rail in India</a></li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../chapters/public_transport/grid-powered-transit.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+                            <a rel="next prefetch" href="../../chapters/public_transport/comfortable_public_transport.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../chapters/public_transport/grid-powered-transit.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+                    <a rel="next prefetch" href="../../chapters/public_transport/comfortable_public_transport.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                    </a>
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr-ef4e11c1.min.js"></script>
+        <script src="../../mark-09e88c2c.min.js"></script>
+        <script src="../../searcher-09f2665d.js"></script>
+
+        <script src="../../clipboard-1626706a.min.js"></script>
+        <script src="../../highlight-abc7f01d.js"></script>
+        <script src="../../book-609e4cb8.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="../../theme/gtag-a5404925.js"></script>
+
+
+
+    </div>
+    </body>
+</html>
