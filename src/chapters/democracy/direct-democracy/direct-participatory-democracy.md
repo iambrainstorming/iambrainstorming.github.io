@@ -372,6 +372,13 @@ A well-designed ZK voting system should publicly and cryptographically verify th
 
 The goal should be to combine **privacy with end-to-end verifiability**, so anonymity does not come at the cost of losing the ability to detect attacks or verify that the election was conducted correctly.
 
+____
+
+## Using PolkadotSDK Proof of Authority Blockchain over Nostr
+
+[A Blockchain-Based Tamper-Resistant Open Voting System for Local Elections](https://iambrainstorming.github.io/coding_blog/blockchain/proof_of_authority_voting.html)
+
+____
 
 
 ## Using Madara instead of Nostr 
