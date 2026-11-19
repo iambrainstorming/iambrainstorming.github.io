@@ -61,6 +61,29 @@ If this is such a better way to test understanding, why are we still relying on 
 
 **The Solution:** Innovation in the classroom isn't enough; it must overcome political hurdles to scale. This requires the active involvement of civil societies, educational NGOs, and public interest lobbies. These groups play a crucial role in building grassroots political pressure, advocating for policy reform, and holding education boards accountable. By shifting the public narrative and demanding systemic change, civil society can force the bureaucratic machinery to actually implement and execute these modern assessment methods.
 
+
+### 6. The Threat of AI and Cheating
+
+**The Hurdle:** With the rise of Large Language Models (LLMs) that excel at synthesizing, summarizing, and explaining concepts simply, what stops a student from just having AI write the script for their explainer video?
+
+**The Solution:** If students present a concept in their own voice, using their own explanations, visuals, diagrams, or demonstrations, they become actively involved in the learning process. They are more likely to understand what they are presenting because they must communicate it to others. This is fundamentally different from submitting a written assignment—even in their own handwriting—which students can often complete by copying text without actually reading or understanding it.
+
+This approach becomes even more effective when presentations are conducted in the presence of teachers, parents, or fellow students. The audience can ask spontaneous questions, challenge explanations, and encourage students to elaborate on what they have presented. This makes it much harder to hide behind an AI-generated script without understanding the subject.
+
+Most importantly, these assessments should be low-stakes or entirely free of grades, functioning as formative assessments rather than competitive examinations. When students are not under pressure to secure marks, the incentive to cheat diminishes. Instead, the focus shifts towards curiosity, participation, feedback, and improving understanding.
+
+We should encourage elaboration and questioning, allowing students and teachers to engage in meaningful discussions about the subject. AI can help students prepare, organize their ideas, and simplify complex concepts, but the ability to explain, respond to questions, and demonstrate understanding remains with the student.
+
+The ultimate goal is to create recorded evidence of learning rather than numerical grades. A collection of explainer videos, presentations, demonstrations, and discussions could serve as a learning portfolio, documenting a student's progress over time. Such evidence of actual understanding could eventually replace standardized grades, providing a much more meaningful picture of what a student knows and is capable of doing.
+
+
+### 7. The Evolutionary Arms Race Between Truth and Deception
+
+**The Hurdle:** Truth and deception have been locked in an evolutionary struggle for centuries. As our ability to discover, communicate, and verify truth evolves, our ability to manipulate, deceive, and exploit information evolves alongside it. Unfortunately, our education system is not evolving at the same pace as research, technology, and society. It remains trapped in bureaucratic hurdles, rigid hierarchies, and institutional structures that resist change.
+
+**The Solution:** To break this cycle, we must adopt an open-source AI philosophy and transform the education system into an open, peer-to-peer (P2P) platform. By operating as a "Teal organization"—a model characterized by self-management, wholeness, and evolutionary purpose—we can dismantle top-down hierarchies. This empowers local communities, teachers, and students to co-create, share, and validate learning transparently. Open, decentralized systems adapt faster than closed bureaucracies, bringing about the cultural and structural change needed to make genuine learning the default, not the exception.
+
+
 ### The Middle Ground: A Hybrid Approach
 The future of education shouldn't necessarily throw away all exams, but it should drastically reduce their weight. A balanced, modernized approach would look like this:
 
