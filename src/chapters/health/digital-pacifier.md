@@ -41,6 +41,8 @@ The European Union has proposed the **EU Kids Act**, a groundbreaking framework 
 
 This framework should be implemented globally. Big tech platforms must be held legally and financially accountable for the developmental harm caused by their addictive design features.
 
+[EU announces plan to restrict social media access for under-15s](https://www.bbc.com/news/articles/c3j4jz8vpz1xo)
+
 ### If Not Reels, Then What? Healthy Screen Alternatives for Your Child
 
 If we remove the hollow, algorithmic dopamine hits of short-form video, what should replace it? For a child's **emotional and psychological well-being**, content must focus on **moral narratives** and **nature-based themes that teach resilience, empathy, and self-acceptance**. Persistent effort in exposing children to these grounded concepts leads to profound psychological changes at the right developmental time.
