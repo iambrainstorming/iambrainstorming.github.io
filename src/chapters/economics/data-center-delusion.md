@@ -159,6 +159,24 @@ We should demand:
 
 ---
 
+## The Challenges
+
+AI models can run distributed on home computers, and they do not strictly require traditional data centers. These networks are highly effective for "embarrassingly parallel" tasks, such as AI inference (running a model to generate text or images), 3D rendering, or video transcoding, where tasks can be split up without the nodes needing to constantly communicate with each other.  
+
+While the idea of a global, distributed home-computer supercomputer is compelling, the physics and logistics of modern AI present major hurdles in case of AI training:
+- Network Bandwidth and Latency: AI training requires massive, ultra-low-latency communication between GPUs. Data centers use specialized interconnects like NVLink or InfiniBand to achieve this 
+- Home internet connections, even fiber, cannot match the symmetric, high-throughput, low-latency backend required for synchronized distributed training 
+
+Inference accounts for the vast majority of AI energy consumption over a model's lifetime, estimated at 80% to 90% of total compute energy, while training represents only 10% to 20%, and inference can be fully distributed. 
+
+There is also research going on for distributed training without quality losses.
+
+[A recurrent model trained decentralized, with no blocking and almost no quality loss](https://chutes.ai/news/non-blocking-recurrent-training)
+
+[burn-collective](https://lib.rs/crates/burn-collective) is a crate in the [Burn deep learning framework](https://burn.dev/) that provides collective tensor operations for multi-GPU / multi-node distributed training in Rust.
+
+
+
 ## The Public Good
 
 Artificial intelligence will be the most consequential technology in human history. The question is not whether it will transform civilization. The question is whose civilization it will transform, and who will own the transformation.

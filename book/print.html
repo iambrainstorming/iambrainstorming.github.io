@@ -38,7 +38,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-44809792.js";
+            window.path_to_searchindex_js = "searchindex-c648d4fa.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-c27c59bf.js"></script>
@@ -7681,6 +7681,17 @@ This is where RISC-V completely destroys the proprietary model.</p>
 <li><strong>Water and grid protections</strong> that categorically prohibit industrial water consumption and baseload power hoarding for compute cooling in resource-stressed regions.</li>
 </ul>
 <hr>
+<h2 id="the-challenges"><a class="header" href="#the-challenges">The Challenges</a></h2>
+<p>AI models can run distributed on home computers, and they do not strictly require traditional data centers. These networks are highly effective for “embarrassingly parallel” tasks, such as AI inference (running a model to generate text or images), 3D rendering, or video transcoding, where tasks can be split up without the nodes needing to constantly communicate with each other.</p>
+<p>While the idea of a global, distributed home-computer supercomputer is compelling, the physics and logistics of modern AI present major hurdles in case of AI training:</p>
+<ul>
+<li>Network Bandwidth and Latency: AI training requires massive, ultra-low-latency communication between GPUs. Data centers use specialized interconnects like NVLink or InfiniBand to achieve this</li>
+<li>Home internet connections, even fiber, cannot match the symmetric, high-throughput, low-latency backend required for synchronized distributed training</li>
+</ul>
+<p>Inference accounts for the vast majority of AI energy consumption over a model’s lifetime, estimated at 80% to 90% of total compute energy, while training represents only 10% to 20%, and inference can be fully distributed.</p>
+<p>There is also research going on for distributed training without quality losses.</p>
+<p><a href="https://chutes.ai/news/non-blocking-recurrent-training">A recurrent model trained decentralized, with no blocking and almost no quality loss</a></p>
+<p><a href="https://lib.rs/crates/burn-collective">burn-collective</a> is a crate in the <a href="https://burn.dev/">Burn deep learning framework</a> that provides collective tensor operations for multi-GPU / multi-node distributed training in Rust.</p>
 <h2 id="the-public-good"><a class="header" href="#the-public-good">The Public Good</a></h2>
 <p>Artificial intelligence will be the most consequential technology in human history. The question is not whether it will transform civilization. The question is whose civilization it will transform, and who will own the transformation.</p>
 <p>If AI runs in data centers owned by corporations, it will be a tool of corporate control — profitable, efficient, and fundamentally antidemocratic. If AI runs on a peer-to-peer network powered by millions of individuals, it can be what it should have been from the beginning: <strong>a public good, a shared resource, a commons.</strong></p>
