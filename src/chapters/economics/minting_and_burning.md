@@ -7,7 +7,7 @@ Date: 26-11-2026
 
 **Quantity Theory of Money**: if the amount of goods stays the same, changing the amount of money changes the price of those goods, which in turn changes everyone's purchasing power.
 
-Let’s build on your excellent foundation. We will formalize your burning examples into clear tables, gently correct a tiny math detail in the proportional burn, and then mirror the exact same logic for **minting** so the contrast is perfectly clear.
+Let's build on the excellent foundation. We'll formalize the burning and minting examples into clear tables and explain them in detail.
 
 ---
 
