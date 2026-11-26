@@ -33,18 +33,18 @@ When money is burned, the total supply shrinks. Because there are still 100 kg o
 
 ### Scenario A: Targeted Burn (Wealth Transfer)
 
-As noted, $250 is burned *only* from Person 4's wallet.
+As noted, $200 is burned *only* from Person 4's wallet.
 
-*   **New Money Supply:** $1,000 − $250 = **$750**
-*   **New Price:** $750 / 100 kg = **$7.50/kg**
+*   **New Money Supply:** $1,000 − $200 = **$800**
+*   **New Price:** $800 / 100 kg = **$8.00/kg**
 
 | Person | Money After Burn | New Purchasing Power (kg) | Change in Purchasing Power |
 | :--- | :--- | :--- | :--- |
-| Person 1 | $200 | $200 / $7.50 = **26.67 kg** | **+6.67 kg** (Gains) |
-| Person 2 | $300 | $300 / $7.50 = **40.00 kg** | **+10.00 kg** (Gains) |
-| Person 3 | $100 | $100 / $7.50 = **13.33 kg** | **+3.33 kg** (Gains) |
-| Person 4 | $150 | $150 / $7.50 = **20.00 kg** | **−20.00 kg** (Loses) |
-| **Total** | **$750** | **100 kg** | **Net Zero** |
+| Person 1 | $200 | $200 / $8.00 = **25.00 kg** | **+5.00 kg** (Gains) |
+| Person 2 | $300 | $300 / $8.00 = **37.50 kg** | **+7.50 kg** (Gains) |
+| Person 3 | $100 | $100 / $8.00 = **12.50 kg** | **+2.50 kg** (Gains) |
+| Person 4 | $200 | $200 / $8.00 = **25.00 kg** | **−15.00 kg** (Loses) |
+| **Total** | **$800** | **100 kg** | **Net Zero** |
 
 *Takeaway:* Targeted burning acts as a **wealth transfer**. Person 4 lost money, but Persons 1, 2, and 3 gained purchasing power *without doing anything*, simply because the price of apples fell.
 
@@ -92,18 +92,19 @@ Minting is the exact opposite. When new money is created, the total supply grows
 
 ### Scenario A: Targeted Minting (The "Cantillon Effect")
 
-Imagine the central bank (or a protocol) mints $250 and gives it *only* to Person 4.
 
-*   **New Money Supply:** $1,000 + $250 = **$1,250**
-*   **New Price:** $1,250 / 100 kg = **$12.50/kg**
+Imagine the central bank (or a protocol) mints $200 and gives it *only* to Person 4.
+
+*   **New Money Supply:** $1,000 + $200 = **$1,200**
+*   **New Price:** $1,200 / 100 kg = **$12.00/kg**
 
 | Person | Money After Mint | New Purchasing Power (kg) | Change in Purchasing Power |
 | :--- | :--- | :--- | :--- |
-| Person 1 | $200 | $200 / $12.50 = **16.00 kg** | **−4.00 kg** (Loses) |
-| Person 2 | $300 | $300 / $12.50 = **24.00 kg** | **−6.00 kg** (Loses) |
-| Person 3 | $100 | $100 / $12.50 = **8.00 kg** | **−2.00 kg** (Loses) |
-| Person 4 | $650 | $650 / $12.50 = **52.00 kg** | **+12.00 kg** (Gains) |
-| **Total** | **$1,250** | **100 kg** | **Net Zero** |
+| Person 1 | $200 | $200 / $12.00 = **16.67 kg** | **−3.33 kg** (Loses) |
+| Person 2 | $300 | $300 / $12.00 = **25.00 kg** | **−5.00 kg** (Loses) |
+| Person 3 | $100 | $100 / $12.00 = **8.33 kg** | **−1.67 kg** (Loses) |
+| Person 4 | $600 | $600 / $12.00 = **50.00 kg** | **+10.00 kg** (Gains) |
+| **Total** | **$1,200** | **100 kg** | **Net Zero** |
 
 *Takeaway:* This demonstrates the **Cantillon Effect**. The person who gets the newly minted money first (Person 4) gets to spend it before prices rise. Everyone else suffers inflation (their $200 now buys fewer apples), effectively acting as a hidden tax that subsidizes Person 4.
 
