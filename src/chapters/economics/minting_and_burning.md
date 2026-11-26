@@ -1,5 +1,7 @@
 # The Simple Math of Printing and Burning Money
 
+Date: 26-11-2026
+
 *Money is a Measuring Stick: The Illusion of Printing Wealth*
 
 
@@ -46,7 +48,7 @@ As you noted, $250 is burned *only* from Person 4’s wallet.
 *Takeaway:* Targeted burning acts as a **wealth transfer**. Person 4 lost money, but Persons 1, 2, and 3 gained purchasing power *without doing anything*, simply because the price of apples fell.
 
 #### Scenario B: Proportional Burn (Neutral)
-*(Note: If $50 is burned from all 4 people, the total burned is $200, not $250. We will use $200 total to keep the math clean).*
+*If $50 is burned from all 4 people, the total burned is $200*. We will use $200 total to keep the math clean).*
 *   **New Money Supply:** $1,000 - $200 = **$800**
 *   **New Price:** $800 / 100 kg = **$8.00/kg**
 
