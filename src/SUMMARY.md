@@ -71,6 +71,7 @@
 - [The Mirage of Infinite Money: A Comprehensive Critique of Modern Monetary Theory and the Case for Sound Money](./chapters/economics/mmt/problem-of-mmt.md)
 - [The UBI Leakage Problem: Will Guaranteed Income Make Us More Dependent on Imports?](./chapters/economics/ubi/ubi-leakage-problem.md)
 - [The Closed-Loop Circular Economy: Turning Transaction Taxes into Community Payrolls](./chapters/economics/stakeholder-economy/closed-loop-circular-economy.md)
+- [The Simple Math of Printing and Burning Money](./chapters/economics/minting_and_burning.md)
 
 
 # Democracy
