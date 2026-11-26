@@ -76,6 +76,7 @@ MMT's promise that the government will "manage" inflation through taxation is a 
 The failure of MMT-style monetary expansion is not limited to sovereign fiat currencies. The crypto space has provided a laboratory for testing inflationary monetary models, and the results have been equally damning.
 
 ### The Graveyard of Inflationary Crypto
+
 The crypto ecosystem is littered with the corpses of algorithmic stablecoins, high-emission "yield farming" tokens, and rebasing currencies. Terra/Luna, various "elastic supply" tokens, and countless DeFi protocols attempted to engineer demand through artificial, inflationary yields. The pattern was always the same:
 
 1. Mint tokens endlessly to reward stakers and liquidity providers.
@@ -84,6 +85,10 @@ The crypto ecosystem is littered with the corpses of algorithmic stablecoins, hi
 4. Death spiral.
 
 The lesson is clear: **monetary policy cannot be faked**. Sound tokenomics require scarcity, real utility, or sustainable yield derived from actual economic activity — not printed tokens disconnected from real goods and services.
+
+### The "Useful Work" Fallacy: Utility Does Not Equal Token Demand
+
+Its a myth that paying for useful or productive work through inflation will not lead to trouble. When a blockchain relies on perpetual inflation (often called "tail emission") to pay for security or other useful works, it effectively imposes a hidden inflation tax on all existing token holders. To cover their operational costs, miners or validators are forced to continuously sell the newly minted tokens on the open market. This creates constant sell pressure, which drives the token's price down. As the price falls, the protocol must inflate the supply even more to attract the same amount of computational or staking power, triggering a "long-term death spiral"
 
 ### The Parallel to Fiat
 The failure of inflationary crypto mirrors the failure of fiat MMT. Both systems attempt to create demand through monetary expansion rather than genuine value creation. Both distort price signals. Both enrich early participants at the expense of latecomers. The only difference is scale — fiat systems operate on a global scale, while crypto experiments operate on a network scale.
@@ -97,7 +102,7 @@ The alternative to MMT and inflationary crypto is not a return to the gold stand
 ### Fixed Supply and Predictable Inflation
 Friedrich Hayek's 1976 book *The Denationalization of Money* proposed a radical idea: allow private, competing currencies to exist. While I reject currencies under private control — whose centralized operators can freeze accounts or inflate supply at will — sovereign, decentralized, and immutable currencies grounded in sound economic principles that protect human freedom are the way forward. The market would choose the most sound, stable currencies, and governments would lose their monopoly on money creation.
 
-The core insight is that **predictability is the foundation of economic coordination**. When money has a predictable supply — whether it's  1 billion cap or a transparent, rule-based 5-10% inflation rate tied to real utility — entrepreneurs and individuals can make long-term contracts, savings, and investment plans without fearing arbitrary debasement.
+The core insight is that **predictability is the foundation of economic coordination**. When money has a predictable supply — whether it's  1 billion cap or a transparent, rule-based 5% inflation rate tied to real utility — entrepreneurs and individuals can make long-term contracts, savings, and investment plans without fearing arbitrary debasement.
 
 Predictability removes the "hidden tax" of inflation, allowing capital to flow to its most productive uses rather than being hoarded in inflation-hedged assets like real estate or stocks just to preserve value.
 
@@ -186,7 +191,7 @@ The burn-and-mint model with predictable, low inflation (5-10%) solves both:
 The most revolutionary application of the burn-and-mint model is not just monetary stability — it is **Universal Basic Income (UBI) delivered directly to citizens**, bypassing the corrupting machinery of the state entirely.
 
 ### The Burn-and-Mint UBI Solution
-Imagine a protocol that mints new tokens at a predictable rate (5-10% annually) and distributes them **directly to every citizen's digital wallet** — no much government intermediaries, no means testing, no bureaucracy.
+Imagine a protocol that mints new tokens at a predictable rate (5-10% annually) and distributes them **directly to every citizen's digital wallet** — no much government intermediaries, no means testing, no bureaucracy. Also, 5-10% is burned from every wallet to keep the total currency supply constant.
 
 **How it works:**
 1. The protocol mints new tokens to fund real utility (service providers, infrastructure). 
