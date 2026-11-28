@@ -33,7 +33,7 @@ When money is burned, the total supply shrinks. Because there are still 100 kg o
 
 ### Scenario A: Targeted Burn (Wealth Transfer)
 
-As noted, $200 is burned *only* from Person 4's wallet.
+$200 is burned *only* from Person 4's wallet.
 
 *   **New Money Supply:** $1,000 − $200 = **$800**
 *   **New Price:** $800 / 100 kg = **$8.00/kg**

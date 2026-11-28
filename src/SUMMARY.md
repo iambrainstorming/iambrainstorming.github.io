@@ -89,6 +89,7 @@
   - [Upholding the Justice](./chapters/democracy/upholding-justice.md)
   - [Election Science](./chapters/election-science/election-science.md)
   - [Country Will Remain Safe When Women Lead the Nation](./chapters/democracy/women_in_parliament.md)
+  - [The Delimitation Dilemma: Why Expanding Parliament Won’t Fix Representation Without Voting Reform](./chapters/election/delimitation-dillema.md)
   - [The Roar of Gen Z: From Protest to Complete Structural Reform](./chapters/democracy/roar-of-gen-z.md)
   - [Why CJP Needs to Call for a Boycott of Big Tech Social Media](./chapters/social-media/social-media-boycott.md)
   - [The Iron Cage: Why the Indian Bureaucracy is a Curse on Democracy (And How to Fix It)](./chapters/democracy/indian-bureaucracy-curse.md)
